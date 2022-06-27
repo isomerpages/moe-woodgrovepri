@@ -4,9 +4,6 @@ permalink: /about-us/principals-message
 description: ""
 ---
 # **Principal's Message**
-
-<center> 
-	
 	
 _Joyful laughter from lively discussions;_
 
@@ -21,7 +18,18 @@ _Interesting interactions during recesses;_
 _Blossoming friendships with kindness aplenty_
 
 _\--- Such are the common sights and sounds at Woodgrove Primary_
-</center>
+
+
+<h1><b>Principal's Message</b></h1>
+
+<center><b>Joyful laughter from lively discussions;</b></center>
+<center><b>Eager raised hands excited to share;</b></center>
+<center><b>Encouraging cheers spurring friends on;</b></center>
+<center><b>Polite greetings along the corridors;</b></center>
+<center><b>Interesting interactions during recesses;</b></center>
+<center><b>Blossoming friendships with kindness aplenty</b></center>
+<center><b>Such are the common sights and sounds at Woodgrove Primary</b></center>
+
 
 At Woodgrove Primary, we strongly believe that every child is unique and can shine. Our children are engaged in a plethora of specially designed programmes and immersed in a myriad of holistic experiences, focusing on their needs, building their character, nurturing their hearts and enriching their minds. Balanced with the talent development opportunities, we seek to develop our children’s potential to bring out the best in them and help them shine.
 
