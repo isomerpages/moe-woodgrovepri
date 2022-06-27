@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Song.md
       - Staff (not completed)/.keep
       - Principal's Message.md
       - Our History.md
       - School Vision and Mission.md
       - School Philosophy, Motto, Values & Strategic Thrusts.md
       - School Crest.md
+      - School Song.md
