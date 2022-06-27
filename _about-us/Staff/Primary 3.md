@@ -4,6 +4,10 @@ permalink: /about-us/staff/primary-3-teachers
 description: ""
 third_nav_title: Staff
 ---
+# **Primary 3 Teachers**
+
+<center><b> Primary 3 Form Teachers (2022)</b></center>
+
 | Class 	|  Name of Teacher 	|  Email Address 	|
 | ---	| ---	| ---	|
 | 3A 	| Miss   Lai Wai Ling 	| lai_wai_ling@schools.gov.sg 	|
