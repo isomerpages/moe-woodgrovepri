@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Staff/Key Personnel.md
+      - Staff/School Admin Team.md
       - Staff/.keep
       - Principal's Message.md
       - Our History.md
