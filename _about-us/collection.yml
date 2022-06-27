@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff/Allied Educators & School Counsellors.md
       - Staff/School Admin Team.md
       - Staff/.keep
       - Principal's Message.md
