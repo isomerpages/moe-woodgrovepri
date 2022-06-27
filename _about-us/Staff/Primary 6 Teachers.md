@@ -6,7 +6,7 @@ third_nav_title: Staff
 ---
 # **Primary 6 Teachers**
 
-**Primary 6 Form Teachers (2022)**
+<center><b>Primary 6 Form Teachers (2022)</b></center>
 
 | Class 	|  Name of Teacher 	|  Email Address 	|
 | ---	| --- 	| ---	|
@@ -22,4 +22,3 @@ third_nav_title: Staff
 |  	| Miss Toh Jia Yi 	| toh_jia_yi@schools.gov.sg 	|
 | 6F 	| Mdm Lim Sok Hwee 	| lim_sok_hwee@schools.gov.sg 	|
 |  	| Mr Lin Ya Tian Zechariah 	| lin_ya_tian_zechariah@schools.gov.sg 	|
-
