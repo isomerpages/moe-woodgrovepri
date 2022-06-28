@@ -46,13 +46,4 @@ third_nav_title: Achievements
 |---	|---	|---	|
 | Feb 2019 	| Bicentennial Scout Trek 2019 	| Senior Division Boys: Runner-up<br>Senior Division Girls: Runner-up 	|
 | Aug 2019 	| National Schools Games Rope Skipping Championships | Junior Division Boys:<br>**Individual creative**<br><br> **3rd**: Ye Junhao, P4F<br><br>**Pair Creative**<br><br>**4th**: <br>Liew Kang Yu, Anson, P4D<br>Ye Junhao, P4F<br>Saravanan Sriharish, P5D<br><br>**Team Creative**<br><br>**3rd:**<br>Low Kang Sheng, P3B<br>Wong Zen Jun, Zen, P4A<br>Lee Wai Cheng, Jovan, P4D<br>Tng En Ee, Joel, P4E<br>Ye Zongheng, P4F<br><br>**Individual Speed**<br><br>**2nd:**<br>Ye Zongheng, P4F<br><br>**Double Under**<br><br>**1st:**<br>Wong Zen Jun, Zen, P4A<br><br>**3rd:**<br>Ye Junhao, P4F<br><br>**Double Dutch**<br><br>**1st:**<br>Mi Xuan Chen, P4D<br>Aaden Soh Rui Heng, P4E<br>Tng En Ee, Joel, P4E<br>Saravanan Sriharish, P5D<br><br>**Speed Relay**<br><br>**5th:**<br>Wong Zen Jun, Zen, P4A<br>Mi Xuan Chen, P4D<br>Aaden Soh Rui Heng, P4E<br>Ye Zongheng, P4F<br>Ye Junhao, P4F<br> |  	|  	|  	|
-|  	|  	|  	|
-|  	|  	|  	|
-|  	|  	|  	|
-|  	|  	|  	|
-|  	|  	|  	|
-|  	|  	|  	|
-|  	|  	|  	|
-|  	|  	|  	|
-|  	|  	|  	|
-|  	|  	|  	|
+| May 2019 	| National Schools Games Rope Skipping Championships 2019	| Senior Division Boys: Runner-up<br><br>Senior Division Girls: Runner-up 	|
