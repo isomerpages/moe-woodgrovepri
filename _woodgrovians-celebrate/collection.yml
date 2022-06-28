@@ -2,4 +2,5 @@ collections:
   woodgrovians-celebrate:
     output: true
     order:
+      - Publication.md
       - Experiencing WGPS.md
