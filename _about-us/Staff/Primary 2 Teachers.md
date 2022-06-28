@@ -14,11 +14,11 @@ third_nav_title: Staff
 |  	| Mr Muhammad Ashari Bin Saifee 	| [muhammad_ashari_saifee@schools.gov.sg](mailto:muhammad_ashari_saifee@schools.gov.sg) 	|
 | 2B 	| Mdm Yuniza Bte Mohd Eusope 	| [yuniza_mohamad_eusope@schools.gov.sg](mailto:yuniza_mohamad_eusope@schools.gov.sg) 	|
 |  	| Mdm Michelle Lee Siok Kwan 	| [lee_siok_kwan@schools.gov.sg](mailto:lee_siok_kwan@schools.gov.sg) 	|
-| 2C 	| Miss Nurul Hudah Binte Saharudin 	| Nurul_hudah_saharudin@schools.gov.sg 	|
-|  	| Mrs Ng-Tan Yan Ling Jennifer  	| tan_yan_ling_jennifer@schools.gov.sg 	|
-| 2D 	| Miss Lim Fang Ping  	| lim_fang_ping@schools.gov.sg 	|
-|  	| Mr Taufiq Bin Abdullah 	| taufiq_abdullah@schools.gov.sg 	|
-| 2E 	| Miss Noor Izzatie Binte Abdul Manaf 	| noor_izzatie_abdul_manaf@schools.gov.sg 	|
-|  	| Miss Cheng Mei Xian 	| cheng_mei_xian@schools.gov.sg 	|
-| 2F 	| Mdm Mawar Binte Haron 	| mawar_haron@schools.gov.sg    	|
-|  	| Miss Chng Que Joo  	| chng_que_joo@schools.gov.sg 	|
+| 2C 	| Miss Nurul Hudah Binte Saharudin 	| [Nurul_hudah_saharudin@schools.gov.sg](mailto:Nurul_hudah_saharudin@schools.gov.sg) 	|
+|  	| Mrs Ng-Tan Yan Ling Jennifer  	| [tan_yan_ling_jennifer@schools.gov.sg](mailto:tan_yan_ling_jennifer@schools.gov.sg) 	|
+| 2D 	| Miss Lim Fang Ping  	| [lim_fang_ping@schools.gov.sg](mailto:lim_fang_ping@schools.gov.sg) 	|
+|  	| Mr Taufiq Bin Abdullah 	| [taufiq_abdullah@schools.gov.sg](mailto:taufiq_abdullah@schools.gov.sg) 	|
+| 2E 	| Miss Noor Izzatie Binte Abdul Manaf 	| [noor_izzatie_abdul_manaf@schools.gov.sg](mailto:noor_izzatie_abdul_manaf@schools.gov.sg) 	|
+|  	| Miss Cheng Mei Xian 	| [cheng_mei_xian@schools.gov.sg](mailto:cheng_mei_xian@schools.gov.sg) 	|
+| 2F 	| Mdm Mawar Binte Haron 	| [mawar_haron@schools.gov.sg](mailto:mawar_haron@schools.gov.sg)    	|
+|  	| Miss Chng Que Joo  	| [chng_que_joo@schools.gov.sg](mailto:chng_que_joo@schools.gov.sg) 	|
