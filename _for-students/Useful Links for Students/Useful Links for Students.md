@@ -15,23 +15,21 @@ third_nav_title: Useful Links for Students
 
 ### Student Learning Space
 
-<img src="/images/principal.jpg" 
-     style="width:25%">
-![](/images/SLS.jpg)
+<img src="/images/SLS.jpg" 
+     style="width:70%">
 Link to [Student Learning Space](/for-students/useful-links-for-students/student-learning-space-sls)
 
 
 ### Student iCON
 
-<img src="/images/principal.jpg" 
-     style="width:25%">
-![](/images/STudent%20ICON.jpg)
+<img src="/images/STudent%20ICON.jpg" 
+     style="width:70%">
 Link to [Student iCON](/for-students/useful-links-for-students/student-icon)
 
 ### WGPS GSuite
 
-<img src="/images/principal.jpg" 
-     style="width:25%">
+<img src="/images/Google.jpg" 
+     style="width:70%">
 ![](/images/Google.jpg) (link not found)
 
 Domain: @wgps.edu.sg
@@ -40,29 +38,23 @@ Please note that the school-based google account with domain wgps.edu.sg will no
 
 ### School Library & School eResource Repository
 
-<img src="/images/principal.jpg" 
-     style="width:25%">
 ![](/images/Sch%20eResource%20Repository.jpg)
 Link to [School Library & School eResource Repository](https://schoolibrary.moe.edu.sg/woodgrovepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
 ### Our school subscriptions
   
-<img src="/images/principal.jpg" 
-     style="width:25%">
-![](/images/Scholistic%20Lg%20Zone.jpg)
+<img src="/images/Scholistic%20Lg%20Zone.jpg" 
+     style="width:50%">
 Link to [Scholastic Learning Zone](https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/student/SGPFW7K)
 
-<img src="/images/principal.jpg" 
-     style="width:25%">
-![](/images/Koobits.jpg)
+<img src="/images/Koobits.jpg" 
+     style="width:50%">
 Link to [Koobits](https://member.koobits.com/)
 
-<img src="/images/principal.jpg" 
-     style="width:25%">
-![](/images/eZhishi.jpg)
+<img src="/images/eZhishi.jpg" 
+     style="width:50%">
 Link to [e知识网](https://www.ezhishi.net/Contents/)
 
-<img src="/images/principal.jpg" 
-     style="width:25%">
-![](/images/Zhaobao.jpg)
+<img src="/images/Zhaobao.jpg" 
+     style="width:50%">
 Link to [ZB Schools](https://www.zbschools.sg/)
