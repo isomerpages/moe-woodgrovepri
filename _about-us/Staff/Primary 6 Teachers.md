@@ -10,15 +10,15 @@ third_nav_title: Staff
 
 | Class 	|  Name of Teacher 	|  Email Address 	|
 | ---	| --- 	| ---	|
-| 6A 	| Mr Chong Chieh Min 	| chong_chieh_min@schools.gov.sg 	|
-|  	| Mr Rozario Christopher 	| rozario_christopher@schools.gov.sg 	|
-| 6B 	| Miss Low Shiang Ee Renee  	| low_shiang_ee_renee@schools.gov.sg 	|
-|  	| Mdm Durgadevi (Mrs Kumar) 	| durgadevi_paramanantha@schools.gov.sg 	|
-| 6C  	| Mrs Nicole Lim-Teo 	| nicole_teo_huey_huey@schools.gov.sg 	|
-|  	| Miss Tan Siok Buay Susan 	| tan_siok_buay@schools.gov.sg 	|
-| 6D 	| Mr Dheelip Kumar s/o Mohana Dass 	| dheelip_kumar_mohana_dass@schools.gov.sg 	|
-|  	| Mdm Chong Siew Yin 	| chong_siew_yin@schools.gov.sg 	|
-| 6E 	| Miss Fatin Suhaila 	| fatin_suhaila_omar@schools.gov.sg 	|
-|  	| Miss Toh Jia Yi 	| toh_jia_yi@schools.gov.sg 	|
-| 6F 	| Mdm Lim Sok Hwee 	| lim_sok_hwee@schools.gov.sg 	|
-|  	| Mr Lin Ya Tian Zechariah 	| lin_ya_tian_zechariah@schools.gov.sg 	|
+| 6A 	| Mr Chong Chieh Min 	| [chong_chieh_min@schools.gov.sg](mailto:chong_chieh_min@schools.gov.sg) 	|
+|  	| Mr Rozario Christopher 	| [rozario_christopher@schools.gov.sg](mailto:rozario_christopher@schools.gov.sg) 	|
+| 6B 	| Miss Low Shiang Ee Renee  	| [low_shiang_ee_renee@schools.gov.sg](mailto:low_shiang_ee_renee@schools.gov.sg) 	|
+|  	| Mdm Durgadevi (Mrs Kumar) 	| [durgadevi_paramanantha@schools.gov.sg](mailto:durgadevi_paramanantha@schools.gov.sg) 	|
+| 6C  	| Mrs Nicole Lim-Teo 	| [nicole_teo_huey_huey@schools.gov.sg](mailto:nicole_teo_huey_huey@schools.gov.sg) 	|
+|  	| Miss Tan Siok Buay Susan 	| [tan_siok_buay@schools.gov.sg](mailto:tan_siok_buay@schools.gov.sg) 	|
+| 6D 	| Mr Dheelip Kumar s/o Mohana Dass 	| [dheelip_kumar_mohana_dass@schools.gov.sg](mailto:dheelip_kumar_mohana_dass@schools.gov.sg) 	|
+|  	| Mdm Chong Siew Yin 	| [chong_siew_yin@schools.gov.sg](mailto:chong_siew_yin@schools.gov.sg) 	|
+| 6E 	| Miss Fatin Suhaila 	| [fatin_suhaila_omar@schools.gov.sg](mailto:fatin_suhaila_omar@schools.gov.sg) 	|
+|  	| Miss Toh Jia Yi 	| [toh_jia_yi@schools.gov.sg](mailto:toh_jia_yi@schools.gov.sg) 	|
+| 6F 	| Mdm Lim Sok Hwee 	| [lim_sok_hwee@schools.gov.sg](mailto:lim_sok_hwee@schools.gov.sg) 	|
+|  	| Mr Lin Ya Tian Zechariah 	| [lin_ya_tian_zechariah@schools.gov.sg](mailto:lin_ya_tian_zechariah@schools.gov.sg) 	|
