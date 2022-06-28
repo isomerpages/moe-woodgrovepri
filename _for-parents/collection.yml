@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Forms/.keep
       - MOE Sexuality Education.md
       - Homework Policy.md
       - Parents Partnership/.keep
