@@ -13,4 +13,16 @@ Domain: @students.edu.sg
 Password = School Windows Login Password  
 Password Reset: Inform your teachers  
 
-### Introducing Student iCON 
+### Introducing Student iCON
+
+![](/images/Student%20iCON%20-%20Student%20EDM%20Onboarding%20%20Introducing%20Student%20iCON.jpg)
+
+### Student iCON IAMS Password Requirement
+
+![](/images/Student%20iCON%20-%20Student%20EDM%20IAMS%20Password%20Requirements.jpg)
+
+### Student iCON Onboarding Guide
+
+[Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf)
+
+
