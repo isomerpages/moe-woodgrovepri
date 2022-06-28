@@ -25,39 +25,23 @@ What you should do:
 
 5\. The duration of each examination paper includes the time for reading the questions, writing and/or shading your answers on the OAS, etc. No extra time will be given.
 
-  
-
 6\. Write your answers legibly in blue/black ink or ball pens. If you need to change your answers, cross them out and re-write the answers.
-
-  
 
 7\. Use a soft-lead pencil (i.e. 2B) to shade your answers for the multiple choice questions (MCQs) on the OAS provided. Answers that are written on the question booklets will not be marked.
 
-  
-
 8\. Do not fold the OAS or make any other marks on it.
 
-  
-
 9\. Use a soft eraser if you wish to change your answers on the OAS. Erase the shaded oval completely before shading the new oval.
-
-  
 
 10\. Read all questions carefully. No marks will be awarded for information that is not asked for in the questions.
 
 11\. Good time management is important. Do not spend too much time on a few questions, leaving no time for the others.
 
-  
-
 12\. If you are not feeling well or if you need to go to the washroom urgently, remain seated and raise your hand to inform the invigilator.
-
-  
 
 **At the end of the Examination**
 
 13\. Stop writing immediately when told to do so by the invigilator.
-
-  
 
 14\. Remain seated until the question booklets / answer booklets I OAS have been collected. You will be instructed by the invigilator to leave the examination room when all the question booklets / answer booklets / OAS are collected.
 
@@ -100,29 +84,17 @@ iv. Electronic dictionaries must be silent and battery operated. The ear-pieces 
 
 v. Only approved dictionaries that are listed on page 10 and 11 may be used. For candidates offering Non-Tamil Indian languages (NTIL), they can bring in any dictionary as long as it is monolingual with no annotations on any of the pages. No list of dictionaries will be provided.
 
-  
-
 21\. You are not allowed to borrow any dictionary from other candidates during the examination.
-
-  
 
 22\. You are advised to bring along a spare set of batteries for your electronic dictionary as no extra time or allowance will be given if your dictionary fails to function during the examination.
 
-  
-
 23\. If you have brought along a dictionary that has not been stamped by your school on the day of examination, inform your teacher or the invigilator before the start of the examination.
 
-  
-
 24\. Any unauthorised dictionary found in your possession during the examination will be confiscated.
-
-  
 
 **USE OF SCIENTIFIC CALCULATORS IN THE EXAMINATION**
 
 25\. You are allowed to use a scientific calculator for Mathematics/Foundation Mathematics Paper 2.
-
-  
 
 26\. The scientific calculators used should have the following features:
 
@@ -133,8 +105,6 @@ b) fractional function which retains the fraction in the form ‘a/b’ and ‘a
 c) square root ( √ ) and cube root ( 3√ ) functions; and
 
 d) value of Pi ( π )
-
-  
 
 27\. The following guidelines are to be adhered to in the use of scientific calculators in national examinations. The calculator must be silent, with a visual display only.
 
@@ -156,8 +126,6 @@ g) No calculators with special communication features are allowed, e.g. calculat
 
 h) No calculators with capabilities for storing and displaying visual and verbal information are allowed.
 
-  
-
 28\. The use of any calculator with unacceptable features or for retrieval of information/programs during the examinations is an infringement of the regulations.
 
-[Click here for the list of approved calculators.](https://woodgrovepri.moe.edu.sg/qql/slot/u550/For%20Parents/School%20Exam%20Policy/GuidelinesCalculators.pdf)
+[Click here for the list of approved calculators](/files/GuidelinesCalculators.pdf)
