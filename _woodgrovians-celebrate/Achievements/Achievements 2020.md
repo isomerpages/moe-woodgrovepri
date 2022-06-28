@@ -13,11 +13,17 @@ third_nav_title: Achievements
 | Oct 2020 	| National Level (Primary School)<br>Malay Essay Writing Contest<br>“Karya Minda Kreatif 2020” 	| **3rd Best Team (School)**<br><br>**Top 20 best essay award**<br>1. Afzal Bin Khairulddin, P5B<br>2. Emir Rayyan Bin Nurul Fairiz, P5B<br>3. Afraz Bin Khairulddin, P5D 	|
 | Nov 2020 	| 21st International Chinese Language Competition 2020 	| 1.       HUANG CHENG-HAO, P5E<br>GOLD Award - Singapore & International competition<br><br>2.       LIU ZHISHAN, P6E<br>GOLD Award - Singapore & International competition<br><br>3.       SHU ZIYI, P6E<br>BRONZE Award -  Singapore competition 	|
 
+
+
+
 ### SOCIAL
+
+
+
 | DATE 	| EVENT/COMPETITION 	| ACHIEVEMENT 	|
 |---	|---	|---	|
 | Jan 2020 	| North West Outstanding All Rounder Student (OARS) Award 2020 	| Noor Harith Irfan Bin Noor Sallahuddin, P6B/2019 	|
-| Feb 2020 	| Puan Noor Aishah Award 2019 - Brownies 	| **Silver Award** 	|
+| Feb 2020 	| Puan Noor Aishah Award 2019 - Brownies 	| **Silver Award** 	| 
 | Feb 2020 	| North West Outstanding School Partner Award (SPA) 2020 	| **Silver Award** 	|
 | May 2020 	| Frank Cooper Sands Award 2019 - Scouts 	| **GOLD Award** 	|
 | Sep 2020 	| Singapore Scouts Association<br>North Area Akela Award 2020 	| **AKELA Award**<br><br>1.       MD 'AQIIL ROZIIQ BIN MD AZHARI, P6C<br>2.       ADAM BIN ANUAR, P5B<br>3.       AFZAL BIN KHAIRULDDIN, P5B<br>4.       MIFZAL RAZIN BIN MUHD, P5C<br>5.       AFRAZ BIN KHAIRULDDIN, P5D<br>6.       LEE YU TANG, P5F<br>7.       KHAIRUL IMAN BIN MOHD SOPHIAN, P5F 	|
