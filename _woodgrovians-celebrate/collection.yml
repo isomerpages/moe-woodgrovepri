@@ -2,5 +2,6 @@ collections:
   woodgrovians-celebrate:
     output: true
     order:
+      - Achievements/.keep
       - Publications.md
       - Experiencing WGPS.md
