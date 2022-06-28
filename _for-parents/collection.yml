@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Support Group.md
       - Parents Partnership/Resources.md
       - Parents Partnership/Crime Advisory for Jun 2021 Holidays.md
       - Parents Partnership/.keep
