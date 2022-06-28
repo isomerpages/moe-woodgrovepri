@@ -33,3 +33,10 @@ third_nav_title: Achievements
 |---	|---	|
 | National School Games 2022 	| **GYMNASTICS (RHYTHMIC)**<br> <br>**BRONZE (Senior Division Developmental)**<br>Yin Catherine, P6A<br> <br>**BRONZE (Senior Division Elit)**<br>Teoh Kar Yee, P5F 	|
 | National School Games Rope Skipping Competition 2022 	| **DIVISIONAL CHAMPIONSHIP - SENIOR BOYS**<br>**3rd position**<br><br>**Double Under**<br><br>**2nd:**<br>LOW KANG SHENG, P6A<br><br>**Individual Speed**<br><br>**3rd:**<br>LOW KANG SHENG, P6A<br><br>**Double Dutch**<br><br>**3rd:**<br>KAYDEN TIEW KAI DE, P6A<br>ZADEN SOH RUI YAN, P6C<br>LIN ZIDONG, P6E<br>CHEN JIAQI, P6F<br>LIN DINGXUAN, P6F<BR><br>**Speed Relay**<br><br>**5th:**<br>LOW KANG SHENG, P6A<br>KAYDEN TIEW KAI DE, P6A<br>LUCAS HUANG YULE, P6A<br>ZADEN SOH RUI YAN, P6C<br>LIN ZIDONG, P6E<br>TJHIN DYLAN, P6F<br><br><br>**DIVISIONAL CHAMPIONSHIP- SENIOR GIRLS**<br><br>**Double Under**<br><br>**3rd:**<br>CHEE XUAN EN, P6F<br><br>**Individual Speed**<br><br>**3rd:**<br>CHEE XUAN EN, P6F<br><br>**Double Dutch**<br><br>**5th:**<br>HO JIA XUAN, P6A<br>YONG YING XUAN, P6A<br>JAIRA JOY AQUIATAN, P6E<br>CHEE XUAN EN, P6F
+
+
+### SOCIAL
+
+| EVENT/COMPETITION 	| ACHIEVEMENT 	|
+|---	|---	|
+| Singapore Scouts Association<br>North Area Akela Award 2022 	| **AKELA AWARD**<br><br>Muhammad Nur Hazwan Fiqri Bin Hashim, 6C 	|
