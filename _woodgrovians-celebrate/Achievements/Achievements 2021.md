@@ -30,6 +30,8 @@ third_nav_title: Achievements
 | National Malay Essay Writing Competition (Karya Minda Kreatif) 2021 	| **GOLD Award**<br><br>Siti Aishah Binte Mohamed Alam Shah, 4A<br>Rayyan Qaisar Bin Rizaidi, 4D<br>Auni Danisyah Binte Mohammad Nur, 4D<br>Malikah Darwisyah Binte Khairul Haryzad, 4D<br>Ayra Ashyqa Binte Mohammad Ferrie Fedly, 4D<br>Ernie Syifa Fitriyah Binte Jamil, 4E<br>Nur Ariyanna Qistina Binte Hairi, 5B<br>Fazri Mirza Bin Zamri, 5C<br>Rifqi Bin Juraimi, 5F<br>Wafirah Binte Zulkifli, 5F<br>Sabirah Banu Binte Mohamed Fariq, 6A<br>Maia Nur Alyssa Binti Rahamat, 6B<br>Nur Sofea Binte Azhar, 6E<br>Nayli Ezra Binte Muszahari, 6E<br>Aina Zulaikha Binte Emmy Reza, 6E<br>Arissa Sofia Binte Khairudin, 6F<br>Marissa Qaireen Binte Jefreydin, 6F<br><br> <br>**SILVER Award**<br><br>Fatin Marsha Binte Mahamad Mohari, 4C    <br>Muhammad 'Irfan Syahmi Bin Zairi, 4A                  <br>Hannani Marha Binte Mohamad Hiedayyat, 4A<br>Nur Kasih Binte Abdullah, 4E                      <br>Hana Amani Binte Mohamed Sophian, 4D   <br>Hud Fatrisz Bin Zulkifli, 4D             <br>Muhammad Nur Hazwan Fiqri bin Hashim, 5C       <br>Muhammad Aariz bin Muhammad Izad, 5E<br>Qaid Abqary Bin Atif, 5A1<br>Raffan Qaisar Bin Rizaidi, 5F<br>Nur Irdinah Binte Muhd Taufik, 5E  <br>Nur Aaryana Alysha Bte Mohd Farizal, 5D<br>Emir Rayyan Bin Nurul Fairiz, 6B 	|
 
 
+### AESTHETICS
+
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
 |---	|---	|
 | Muthamizh Vizha<br>Organised by Association of Singapore Tamil Writers<br>  	| **1st PRIZE -  Fancy Dress Competition P1 & P2**<br><br>**Encouragement Prize - Story Telling competition**<br><br>VIBHA NAIR, P3E (2021) 	|
