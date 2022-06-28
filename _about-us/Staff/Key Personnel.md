@@ -10,10 +10,10 @@ third_nav_title: Staff
 | Designation 	| Name 	| Email Address 	|
 |---	|---	|---	|
 | Principal 	| Mrs Adeline Ng 	| [adeline_tan@schools.gov.sg](mailto:adeline_tan@schools.gov.sg) |
-| Vice-Principal (Acad) 	| Mr Nigel Phang 	| phang_teck_how@schools.gov.sg 	|
-| HOD (English) 	| Mr Nur Haqam  	| nur_haqam_abdul_latiff@schools.gov.sg 	|
-| HOD (Maths) 	| Mr Brandon Tay 	| tay_lian_hoon@schools.gov.sg 	|
-| HOD (Science) 	| Mr Lee Kah Wing 	| lee_kah_wing@schools.gov.sg 	|
+| Vice-Principal (Acad) 	| Mr Nigel Phang 	| [phang_teck_how@schools.gov.sg](mailto:phang_teck_how@schools.gov.sg) 	|
+| HOD (English) 	| Mr Nur Haqam  	| [nur_haqam_abdul_latiff@schools.gov.sg](mailto:nur_haqam_abdul_latiff@schools.gov.sg) 	|
+| HOD (Maths) 	| Mr Brandon Tay 	| [tay_lian_hoon@schools.gov.sg](mailto:tay_lian_hoon@schools.gov.sg) 	|
+| HOD (Science) 	| Mr Lee Kah Wing 	| [lee_kah_wing@schools.gov.sg](mailto:lee_kah_wing@schools.gov.sg) 	|
 | HOD (Mother Tongue) 	| Mr Chew Chee Hong 	| chew_chee_hong@schools.gov.sg 	|
 | HOD (PE/CCA/Aesthetics) 	| Mr Teo Yeow Hwee 	| teo_yeow_hwee@schools.gov.sg 	|
 | HOD (CCE) 	| Miss Kathy Lau 	| lau_pui_lye_kathy@schools.gov.sg 	|
