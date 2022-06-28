@@ -41,3 +41,18 @@ third_nav_title: Achievements
 | Oct 2019 	| SEC-StarHub School Green Awards (SGA) 2019 	| Vanda Miss Joaquim Award 	|
 
 ### PHYSICAL
+
+| DATE 	| EVENT/COMPETITION 	| GOLD Award 	|
+|---	|---	|---	|
+| Feb 2019 	| Bicentennial Scout Trek 2019 	| Senior Division Boys: Runner-up<br>Senior Division Girls: Runner-up 	|
+| Aug 2019 	| National Schools Games Rope Skipping Championships | Junior Division Boys:<br>Individual creative<br><br> **3rd**: Ye Junhao, P4F<br><br>Pair Creative<br><br>**4th**: <br>Liew Kang Yu, Anson, P4D<br>Ye Junhao, P4F<br>Saravanan Sriharish, P5D |  	|  	|  	|
+|  	|  	|  	|
+|  	|  	|  	|
+|  	|  	|  	|
+|  	|  	|  	|
+|  	|  	|  	|
+|  	|  	|  	|
+|  	|  	|  	|
+|  	|  	|  	|
+|  	|  	|  	|
+|  	|  	|  	|
