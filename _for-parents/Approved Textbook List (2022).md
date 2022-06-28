@@ -40,22 +40,21 @@ description: ""
   
 [WPS P5 2S FMA FMT.pdf](/files/WPS%20P5%202S%20FMA%20FMT.pdf)
   
-[WPS P5 2S FMA FSC.pdf](https://woodgrovepri.moe.edu.sg/qql/slot/u550/For%20Parents/Approved%20Text%20Book%20List/2022%20Booklist/WPS%20P5%202S%20FMA%20FSC.pdf)  
+[WPS P5 2S FMA FSC.pdf](/files/WPS%20P5%202S%20FMA%20FSC.pdf)
   
   
 
-P6 Booklist
------------
+### P6 Booklist
+  
+[WPS P6.pdf](/files/WPS%20P6.pdf)
+  
+[WPS P6 3S1F MA.pdf](/files/WPS%20P6%203S1F%20MA.pdf)  
+  
+[WPS P6 3S1F MT.pdf](/files/WPS%20P6%203S1F%20MT.pdf) 
+  
+[WPS P6 FDN.pdf](/files/WPS%20P6%20FDN.pdf)  
 
+[WPS P6 2S FMA FSC.pdf](/files/WPS%20P6%202S%20FMA%20FSC.pdf)
   
- [WPS P6.pdf](https://woodgrovepri.moe.edu.sg/qql/slot/u550/For%20Parents/Approved%20Text%20Book%20List/2022%20Booklist/WPS%20P6.pdf)  
+[WPS P6 2S FMA FMT.pdf](/files/WPS%20P6%202S%20FMA%20FMT.pdf)
   
-[WPS P6 3S1F MA.pdf](https://woodgrovepri.moe.edu.sg/qql/slot/u550/For%20Parents/Approved%20Text%20Book%20List/2022%20Booklist/WPS%20P6%203S1F%20MA.pdf)  
-  
-[WPS P6 3S1F MT.pdf](https://woodgrovepri.moe.edu.sg/qql/slot/u550/For%20Parents/Approved%20Text%20Book%20List/2022%20Booklist/WPS%20P6%203S1F%20MT.pdf)  
-  
-[WPS P6 FDN.pdf](https://woodgrovepri.moe.edu.sg/qql/slot/u550/For%20Parents/Approved%20Text%20Book%20List/2022%20Booklist/WPS%20P6%20FDN.pdf)  
-  
-[WPS P6 2S FMA FSC.pdf](https://woodgrovepri.moe.edu.sg/qql/slot/u550/For%20Parents/Approved%20Text%20Book%20List/2022%20Booklist/WPS%20P6%202S%20FMA%20FSC.pdf)  
-  
-[WPS P6 2S FMA FMT.pdf](https://woodgrovepri.moe.edu.sg/qql/slot/u550/For%20Parents/Approved%20Text%20Book%20List/2022%20Booklist/WPS%20P6%202S%20FMA%20FMT.pdf)
