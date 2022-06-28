@@ -21,7 +21,7 @@ third_nav_title: Achievements
 
 
 | DATE 	| EVENT/COMPETITION 	| ACHIEVEMENT 	|
-|---	|---	|---	|
+| ---	| ---	| ---	|
 | Jan 2020 	| North West Outstanding All Rounder Student (OARS) Award 2020 	| Noor Harith Irfan Bin Noor Sallahuddin, P6B/2019 	|
 | Feb 2020 	| Puan Noor Aishah Award 2019 - Brownies 	| **Silver Award** 	| 
 | Feb 2020 	| North West Outstanding School Partner Award (SPA) 2020 	| **Silver Award** 	|
