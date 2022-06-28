@@ -27,6 +27,9 @@ For the teachers, judicious use of homework allows teachers to: 
 * review effectiveness of their lessons.
 
 **Appropriate homework load for the different levels of students**
+
+
+
 | Levels 	| Term Time 	| Holidays 	| Remarks 	|
 |---	|---	|---	|---	|
 | P 1-2 	| 1 hour daily 	| NIL 	| ·         No excessive homework.  	|
