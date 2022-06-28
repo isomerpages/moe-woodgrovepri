@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Assessment&Examination matters/.keep
       - Forms/.keep
       - MOE Sexuality Education.md
       - Homework Policy.md
