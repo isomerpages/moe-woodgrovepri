@@ -50,3 +50,13 @@ third_nav_title: Achievements
 | National Schools Games Rope Skipping Competition 2021	| Divisional Championship - Senior Boys<br><br>**Double Under**<br><br>**1st:**<br>Wong Zen Jun, Zen, P6D<br><br>**Individual Speed**<br><br>**2nd:**<br>Ye Zongheng, P6E<br><br>**4th:**<br>Wong Zen Jun, Zen, P6D<br><br>**Double Dutch**<br><br>**2nd:**<br>Mi Xuan Chen, P6B<br>Aaden Soh Rui Heng, P6C<br>Liew Kang Yu, Aston, P6D<br>Tng En Ee, Joel, P6E<br><br>**Speed Relay**<br><br>**3rd:**<br>Mi Xuan Chen, P6B<br>Lee Wai Cheng, Jovan, P6D<br>Wong Zen Jun, Zen, P6D<br>Ye Zongheng, P6E<br>Ye Junhao, P6F<br><br>**Individual creative**<br><br> **1st:**<br>Ye Junhao, P6F<br><br>**Pair Creative**<br><br>**3rd**: <br>Liew Kang Yu, Aston, P6D<br>Benson Lim Zheng Feng, P6D<br>Ye Junhao, P4F<br><br>**Team Creative**<br><br>**2nd:**<br>Aaden Soh Rui Heng, P6C<br>Lee Wai Cheng, Jovan, P6D<br>Wong Zen Jun, Zen, P6D<br>Tng En Ee, Joel, P6E<br>Ye Zongheng, P6E
 | National School Games<br>Sportsmanship Award 2021 	| **GYMNASTICS (RHYTHMIC)**<br>Yin Catherine, P5A<br> <br>**ROPE SKIPPING**<br>Ye Jun Hao, P6F<br>Aina Zulaikha Binte Emmy Reza, P6E 	|
 | National School Games<br>Taekwondo Championships 2021 	| **Senior Division Boys**<br>**Poomsae Individual White 9**<br>**5th**<br>Nevan Ho, P6B 	|
+
+
+### SOCIAL
+
+| EVENT/COMPETITION 	| ACHIEVEMENT 	|
+|---	|---	|
+| Singapore Scouts Association<br>North Area Akela Award 2021 	| **AKELA AWARD**<br>Torres Tey Kaiyuan, P5B<br>Pek Jun Wei Garrett, P5C<br>Aqeel Rashaad Khan, P6A<br>Muhammad Amirul Hakimi Bin Muhd Isa, P6E<br>  	|
+| Junior Civil Defence Lionhearter E-Challenge 2021 	| **BEST READY BAG DESIGN**<br>RICHARD ONGKOWIDJOJO , P5B<br>GOH XIN ZE , P5E<br>ARAVIND DANIEL JENCY RAJKUMARI , P6B<br>LOW CHENG JUN , P6C<br>WONG JIA XUAN , P6D<br>  	|
+| BCA Green Mark Award 2021 	| **GOLD PLUS** 	|
+| School Green Awards 2021 	| **Vanda Miss Joaquim Sustained Award** 	|
