@@ -21,11 +21,11 @@ Link to [Student Learning Space](/for-students/useful-links-for-students/student
 ### Student iCON
 
 ![](/images/STudent%20ICON.jpg)
+Link to [Student iCON](/for-students/useful-links-for-students/student-icon)
 
-WGPS GSuite
------------
+### WGPS GSuite
 
-![Google.jpg](https://woodgrovepri.moe.edu.sg/qql/slot/u550/Students/Useful%20Links/2021/Google.jpg)
+![](/images/Google.jpg)
 
 Domain: @wgps.edu.sg
 
