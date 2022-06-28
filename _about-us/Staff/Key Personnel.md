@@ -9,7 +9,7 @@ third_nav_title: Staff
 
 | Designation 	| Name 	| Email Address 	|
 |---	|---	|---	|
-| Principal 	| Mrs Adeline Ng 	| adeline_tan@schools.gov.sg 	|
+| Principal 	| Mrs Adeline Ng 	| [adeline_tan@schools.gov.sg](mailto:adeline_tan@schools.gov.sg) |
 | Vice-Principal (Acad) 	| Mr Nigel Phang 	| phang_teck_how@schools.gov.sg 	|
 | HOD (English) 	| Mr Nur Haqam  	| nur_haqam_abdul_latiff@schools.gov.sg 	|
 | HOD (Maths) 	| Mr Brandon Tay 	| tay_lian_hoon@schools.gov.sg 	|
