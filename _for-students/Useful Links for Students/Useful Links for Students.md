@@ -38,7 +38,8 @@ Link to [School Library & School eResource Repository](https://schoolibrary.moe.
 
 ### Our school subscriptions
   
-![Scholistic Lg Zone.jpg](https://woodgrovepri.moe.edu.sg/qql/slot/u550/Students/Useful%20Links/2021/Scholistic%20Lg%20Zone.jpg)
+![](/images/Scholistic%20Lg%20Zone.jpg)
+Link to [Scholastic Learning Zone](https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/student/SGPFW7K)
 
 ![Koobits.jpg](https://woodgrovepri.moe.edu.sg/qql/slot/u550/Students/Useful%20Links/2021/Koobits.jpg)
 
