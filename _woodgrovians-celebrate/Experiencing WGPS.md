@@ -13,11 +13,11 @@ description: ""
   
 [Annex A_2022 Term 1 Experiencing WGPS P3.pdf](/files/Annex%20A_2022%20Term%201%20Experiencing%20WGPS%20P3.pdf)
   
-[Annex A\_2022 Term 1 Experiencing WGPS P4.pdf](https://woodgrovepri.moe.edu.sg/qql/slot/u550/Wgrovians%20Celebrate/Termly%20Highlight/2022/T1/Annex%20A_2022%20Term%201%20Experiencing%20WGPS%20P4.pdf)  
+[Annex A_2022 Term 1 Experiencing WGPS P4.pdf](/files/Annex%20A_2022%20Term%201%20Experiencing%20WGPS%20P4.pdf)  
   
-[Annex A\_2022 Term 1 Experiencing WGPS P5.pdf](https://woodgrovepri.moe.edu.sg/qql/slot/u550/Wgrovians%20Celebrate/Termly%20Highlight/2022/T1/Annex%20A_2022%20Term%201%20Experiencing%20WGPS%20P5.pdf)  
+[Annex A_2022 Term 1 Experiencing WGPS P5.pdf](/files/Annex%20A_2022%20Term%201%20Experiencing%20WGPS%20P5.pdf)  
   
-[Annex A\_2022 Term 1 Experiencing WGPS P6.pdf](https://woodgrovepri.moe.edu.sg/qql/slot/u550/Wgrovians%20Celebrate/Termly%20Highlight/2022/T1/Annex%20A_2022%20Term%201%20Experiencing%20WGPS%20P6.pdf)  
+[Annex A_2022 Term 1 Experiencing WGPS P6.pdf](/files/Annex%20A_2022%20Term%201%20Experiencing%20WGPS%20P6.pdf) 
 
 ### Term 2 (2022)
 
