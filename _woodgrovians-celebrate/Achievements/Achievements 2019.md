@@ -27,3 +27,16 @@ third_nav_title: Achievements
 |---	|---	|---	|
 | May 2019 	| Gambas Tamil Language Festival 2019 by Gambas Community Club 	| 1st Prize – Fancy Dress Competition<br>Harshavardhan Moorthy, P2D<br> <br>2nd Prize – Fancy Dress Competition<br>Vibha Nair, P1F<br><br>3rd Prize – Singing Competition<br>Aswath Nair, P3F 	|
 | Sep 2019 	| MOE Innergy (Schools) Awards 2019 Winners - Teaching & Learning Category -  Introducing Electronic Portfolio Keeping In 21st Century Visual Arts Classrooms 	| COMMENDATION<br>(Art) 	|
+
+### SOCIAL
+
+| DATE 	| EVENT/COMPETITION 	| Green Award in Primary School category 	|
+|---	|---	|---	|
+| Jan 2019 	| Sembcorp Go Green Fund 2018 	| GOLD Award 	|
+| Feb 2018 	| North West Outstanding School Partner (SPA) Award 2019 	| CHAMPION<br>1. Putri Indriana Misha, P5A1<br>2. Jenelle Chan, P5C<br>3. Philene Chong, P5D<br>4. Lee Jia Jun, P5E 	|
+| Feb 2019 	|  Junior Civil Defence Lionhearter Challenge 2019 	| GOLD Award 	|
+| Mar 2019 	| Frank Cooper Sands Award 2018 - Scouts 	| 2nd Place -  Heads-Up Improvisational Category (Middle Level)<br> <br>1.       Siti Noor Azirah Binte Shahril, P5C<br>2.       Vahees Kandeepan, P5E<br>3.       Cherilyn Keh, P5E<br>4.       Nonidh, P5F<br>5.       Noor Harith Irfan B Noor Sallahuddin, P6B<br>Jasper Phua Chun Leong, P6C 	|
+| Apr 2019 	| Destination Imagination Tournament 	| 2nd Place -  Heads-Up Improvisational Category (Middle Level)<br> <br>6.       Siti Noor Azirah Binte Shahril, P5C<br>7.       Vahees Kandeepan, P5E<br>8.       Cherilyn Keh, P5E<br>9.       Nonidh, P5F<br>10.   Noor Harith Irfan B Noor Sallahuddin, P6B<br>11.   Jasper Phua Chun Leong, P6C 	|
+| May 2019 	| Singapore Scouts Association – Cub Scout as Akela Awardee 	| AKELA Award<br>1.       Chan Yu Tsuen, P6B<br>2.       Noor Harith Irfan Bin Noor Sallahuddin, P6B<br>3.       Jayden Xie Zengyi, P6C<br>4.       Teh Eyue Han, Leonard, P5D<br>5.       Lee Jia Jun, P5E<br>6.       Teo Hon Jun, Wilton, P5E 	|
+| Oct 2019 	| SEC-StarHub School Green Awards (SGA) 2019 	| Vanda Miss Joaquim Award 	|
+
