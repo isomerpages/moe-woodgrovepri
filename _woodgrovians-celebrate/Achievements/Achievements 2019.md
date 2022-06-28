@@ -40,3 +40,4 @@ third_nav_title: Achievements
 | May 2019 	| Singapore Scouts Association – Cub Scout as Akela Awardee 	| AKELA Award<br>1.       Chan Yu Tsuen, P6B<br>2.       Noor Harith Irfan Bin Noor Sallahuddin, P6B<br>3.       Jayden Xie Zengyi, P6C<br>4.       Teh Eyue Han, Leonard, P5D<br>5.       Lee Jia Jun, P5E<br>6.       Teo Hon Jun, Wilton, P5E 	|
 | Oct 2019 	| SEC-StarHub School Green Awards (SGA) 2019 	| Vanda Miss Joaquim Award 	|
 
+### PHYSICAL
