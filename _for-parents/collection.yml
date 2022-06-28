@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Partnership/Crime Advisory for Jun 2021 Holidays.md
       - Parents Partnership/.keep
       - Approved Textbook List (2022).md
