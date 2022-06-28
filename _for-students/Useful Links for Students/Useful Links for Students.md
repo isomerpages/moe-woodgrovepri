@@ -4,7 +4,6 @@ permalink: /for-students/useful-links-for-students
 description: ""
 third_nav_title: Useful Links for Students
 ---
-
 Useful Links for Students
 
 ### Student Icon Onboarding Guide
@@ -15,12 +14,13 @@ Useful Links for Students
 
 ### Student Learning Space
 
-![SLS.jpg](https://woodgrovepri.moe.edu.sg/qql/slot/u550/Students/Useful%20Links/2021/SLS.jpg)
+![](/images/SLS.jpg)
+Link to [Student Learning Space](/for-students/useful-links-for-students/student-learning-space-sls)
 
-Student iCON
-------------
 
-![STudent ICON.jpg](https://woodgrovepri.moe.edu.sg/qql/slot/u550/Students/Useful%20Links/2021/STudent%20ICON.jpg)  
+### Student iCON
+
+![](/images/STudent%20ICON.jpg)
 
 WGPS GSuite
 -----------
