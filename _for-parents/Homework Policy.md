@@ -26,6 +26,9 @@ For the teachers, judicious use of homework allows teachers to: 
 * check for students’ understanding and progress, so as to provide timely feedback, intervention and support; and
 * review effectiveness of their lessons.
 
+
+
+
 **Appropriate homework load for the different levels of students**
 
 
