@@ -10,10 +10,10 @@ third_nav_title: Staff
 
 | Class 	|  Name of Teacher 	|  Email Address 	|
 |---	|---	|---	|
-| 2A 	| Miss Ho Ting En 	| ho_ting_en@schools.gov.sg 	|
-|  	| Mr Muhammad Ashari Bin Saifee 	| muhammad_ashari_saifee@schools.gov.sg 	|
-| 2B 	| Mdm Yuniza Bte Mohd Eusope 	| yuniza_mohamad_eusope@schools.gov.sg 	|
-|  	| Mdm Michelle Lee Siok Kwan 	| lee_siok_kwan@schools.gov.sg 	|
+| 2A 	| Miss Ho Ting En 	| [ho_ting_en@schools.gov.sg](mailto:ho_ting_en@schools.gov.sg) 	|
+|  	| Mr Muhammad Ashari Bin Saifee 	| [muhammad_ashari_saifee@schools.gov.sg](mailto:muhammad_ashari_saifee@schools.gov.sg) 	|
+| 2B 	| Mdm Yuniza Bte Mohd Eusope 	| [yuniza_mohamad_eusope@schools.gov.sg](mailto:yuniza_mohamad_eusope@schools.gov.sg) 	|
+|  	| Mdm Michelle Lee Siok Kwan 	| [lee_siok_kwan@schools.gov.sg](mailto:lee_siok_kwan@schools.gov.sg) 	|
 | 2C 	| Miss Nurul Hudah Binte Saharudin 	| Nurul_hudah_saharudin@schools.gov.sg 	|
 |  	| Mrs Ng-Tan Yan Ling Jennifer  	| tan_yan_ling_jennifer@schools.gov.sg 	|
 | 2D 	| Miss Lim Fang Ping  	| lim_fang_ping@schools.gov.sg 	|
