@@ -56,7 +56,7 @@ third_nav_title: Achievements
 
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
 |---	|---	|
-| Singapore Scouts Association<br>North Area Akela Award 2021 	| **AKELA AWARD**<br>Torres Tey Kaiyuan, P5B<br>Pek Jun Wei Garrett, P5C<br>Aqeel Rashaad Khan, P6A<br>Muhammad Amirul Hakimi Bin Muhd Isa, P6E<br>  	|
-| Junior Civil Defence Lionhearter E-Challenge 2021 	| **BEST READY BAG DESIGN**<br>RICHARD ONGKOWIDJOJO , P5B<br>GOH XIN ZE , P5E<br>ARAVIND DANIEL JENCY RAJKUMARI , P6B<br>LOW CHENG JUN , P6C<br>WONG JIA XUAN , P6D<br>  	|
+| Singapore Scouts Association<br>North Area Akela Award 2021 	| **AKELA AWARD**<br><br>Torres Tey Kaiyuan, P5B<br>Pek Jun Wei Garrett, P5C<br>Aqeel Rashaad Khan, P6A<br>Muhammad Amirul Hakimi Bin Muhd Isa, P6E<br>  	|
+| Junior Civil Defence Lionhearter E-Challenge 2021 	| **BEST READY BAG DESIGN**<br><br>RICHARD ONGKOWIDJOJO , P5B<br>GOH XIN ZE , P5E<br>ARAVIND DANIEL JENCY RAJKUMARI , P6B<br>LOW CHENG JUN , P6C<br>WONG JIA XUAN , P6D<br>  	|
 | BCA Green Mark Award 2021 	| **GOLD PLUS** 	|
 | School Green Awards 2021 	| **Vanda Miss Joaquim Sustained Award** 	|
