@@ -1,4 +1,5 @@
 collections:
   woodgrovians-celebrate:
     output: true
-    order: []
+    order:
+      - Experiencing WGPS.md
