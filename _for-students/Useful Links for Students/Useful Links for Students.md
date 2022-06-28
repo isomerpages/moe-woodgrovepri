@@ -25,7 +25,7 @@ Link to [Student iCON](/for-students/useful-links-for-students/student-icon)
 
 ### WGPS GSuite
 
-![](/images/Google.jpg)
+![](/images/Google.jpg) (link not found)
 
 Domain: @wgps.edu.sg
 
