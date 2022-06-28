@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
+  - title: Woodgrovians Celebrate
+    collection: woodgrovians-celebrate
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
