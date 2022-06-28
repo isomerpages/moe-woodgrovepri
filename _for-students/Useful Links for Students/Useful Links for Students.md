@@ -47,4 +47,5 @@ Link to [Koobits](https://member.koobits.com/)
 ![](/images/eZhishi.jpg)
 Link to [e知识网](https://www.ezhishi.net/Contents/)
 
-![Zhaobao.jpg](https://woodgrovepri.moe.edu.sg/qql/slot/u550/Students/Useful%20Links/2021/Zhaobao.jpg)
+![](/images/Zhaobao.jpg)
+Link to [ZB Schools](https://www.zbschools.sg/)
