@@ -31,14 +31,12 @@ Domain: @wgps.edu.sg
 
 Please note that the school-based google account with domain wgps.edu.sg will no longer be in used.
 
-School Library & School eResource Repository
---------------------------------------------
+### School Library & School eResource Repository
 
-![Sch eResource Repository.jpg](https://woodgrovepri.moe.edu.sg/qql/slot/u550/Students/Useful%20Links/2021/Sch%20eResource%20Repository.jpg)
+![](/images/Sch%20eResource%20Repository.jpg)
+Link to [School Library & School eResource Repository](https://schoolibrary.moe.edu.sg/woodgrovepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
-Our school subscriptions
-------------------------
-
+### Our school subscriptions
   
 ![Scholistic Lg Zone.jpg](https://woodgrovepri.moe.edu.sg/qql/slot/u550/Students/Useful%20Links/2021/Scholistic%20Lg%20Zone.jpg)
 
