@@ -40,3 +40,7 @@ Below shows an overview of the span of Real World Learning projects across the l
 | P5 	| eComic Strips – “Dollar and Sense” 	| This product will be shared with National Library Board (NLB) as part of their public awareness effort on financial literacy. 	|
 
 ![](/images/9%20Curriculum%20Innovation_Photos.jpg)
+
+### Students' Spotlight
+
+To develop confident and effective speakers, the school has provided a platform for Woodgrovians to showcase their public speaking skills through news magazine video production such as WGPS NewsWatch. This platform aims to amplify student voice while honing skills such as scriptwriting, storyboarding and presentation. These episodes are also broadcasted to the rest of the student population as they are being used as teaching resources for discussions.
