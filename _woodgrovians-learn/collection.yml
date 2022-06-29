@@ -2,5 +2,6 @@ collections:
   woodgrovians-learn:
     output: true
     order:
+      - CCE Development Programmes/Student Leadership.md
       - CCE Development Programmes/Growth Mindset.md
       - CCE Development Programmes/.keep
