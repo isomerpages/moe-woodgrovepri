@@ -2,18 +2,18 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Aesthetics/.keep
+      - English/.keep
       - English/English.md
       - English/Useful Information for Parents.md
-      - English/.keep
+      - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/Framework and Overview of Core Programmes.md
       - Mathematics/Useful Information for Parents.md
       - Mathematics/Learning Journeys, Competitions and School Events.md
-      - Mathematics/.keep
+      - Science/.keep
       - Science/Science.md
       - Science/Overview of Core Programmes.md
       - Science/Go Green @WGPS.md
-      - Science/.keep
       - Mother Tongue Languages.md
+      - Aesthetics/.keep
       - Social Studies.md
