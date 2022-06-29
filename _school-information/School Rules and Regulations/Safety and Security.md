@@ -16,7 +16,8 @@ We value the safety of our students. No parents or visitors are allo
 
 *   They have valid reasons to fetch their children home before dismissal. Parents/guardians must report to the General Office first before fetching their children home
 *   They have an appointment with the Principal, Vice-Principals or teachers
-*   To make enquiries, please call 6894 3371 or email the school at [woodgrove_ps@moe.edu.sg](mailto:woodgrove_ps@moe.edu.sg)
+*   To make enquiries, please call 6894 3371 or email the school at 
+[woodgrove_ps@moe.edu.sg](mailto:woodgrove_ps@moe.edu.sg)
 
 4.    Students  are  allowed  to  leave  the  school  during  school  hours  only  if  their parents/guardians are in the school to fetch them home.
 
