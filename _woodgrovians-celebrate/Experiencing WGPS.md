@@ -31,6 +31,8 @@ description: ""
 
 [P5 Term 2 Experiencing WGPS_vetted version.pdf](/files/P5%20Term%202%20Experiencing%20WGPS_vetted%20version.pdf)
 
+[P6 Term 2 Experiencing WGPS_vetted version.pdf](/files/P6%20Term%202%20Experiencing%20WGPS_vetted%20version.pdf)
+
 ### Term 3 (2022)
  
 ### Term 4 (2022)
