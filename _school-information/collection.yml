@@ -2,4 +2,5 @@ collections:
   school-information:
     output: true
     order:
+      - School Dental.md
       - Student Care Centre.md
