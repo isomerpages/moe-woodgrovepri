@@ -2,7 +2,6 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - PE.md
       - English/.keep
       - English/English.md
       - English/Useful Information for Parents.md
@@ -16,5 +15,6 @@ collections:
       - Science/Overview of Core Programmes.md
       - Science/Go Green @WGPS.md
       - Mother Tongue Languages.md
+      - PE.md
       - Aesthetics/.keep
       - Social Studies.md
