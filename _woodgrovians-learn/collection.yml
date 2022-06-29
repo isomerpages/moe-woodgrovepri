@@ -2,6 +2,7 @@ collections:
   woodgrovians-learn:
     output: true
     order:
+      - Signature Programmes/Green @WGPS.md
       - Signature Programmes/.keep
       - CCE Development Programmes/CCA.md
       - CCE Development Programmes/National Education.md
