@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Music/Overview of Core Programmes.md
       - Music/.keep
       - English/.keep
       - English/English.md
