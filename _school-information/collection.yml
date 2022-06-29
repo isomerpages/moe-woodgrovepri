@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Rules and Regulations/Safety and Security.md
       - School Rules and Regulations/Student's Well Being.md
       - School Rules and Regulations/National Anthem.md
       - School Rules and Regulations/School Attire.md
