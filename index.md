@@ -4,18 +4,15 @@ title: Woodgrove Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Woodgrove Primary School
-      subtitle: Hero subtitle
       background: /images/woodgrove pri.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: NParks CIN School Awards 2022
+          description: ""
+          url: https://www.nparks.gov.sg/-/media/cinsa-2022-ebooklet-4mb.ashx
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
