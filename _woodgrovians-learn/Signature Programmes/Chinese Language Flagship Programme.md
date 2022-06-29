@@ -25,3 +25,12 @@ The department adopts a three tier approach in the design of the Chinese Languag
 
 Tier 1 features within P1 to P6 curriculum activities that extend learning beyond the boundaries of the curriculum, and out-of-curriculum Chinese Language and cultural appreciation activities
 ![](/images/2%20CL%20Falgship%20PHOTOS.jpg)
+![](/images/3%20CL%20Falgship%20PHOTOS.jpg)
+
+Tier 2 features a range of enrichment activities for P1 to P6 students to choose from. These activities such as calligraphy, poetry recitation and speech & drama allow Woodgrovians to learn varied language skills and deepen their interest in the Chinese culture.
+![](/images/4%20CL%20Falgship%20PHOTOS.jpg)
+![](/images/5%20CL%20Falgship%20PHOTOS.jpg)
+
+Tier 3 features a range of planned internal and external competitions that P1 to P6 Woodgrovians would take part in, as a way to ignite the passion of Chinese Language learning, and stretch the learning of selected students who display talent and deep knowledge of the language and culture. Lessons and training are provided to prepare Woodgrovians for these competitions.
+
+![](/images/6%20CL%20Falgship%20PHOTOS.jpg)
