@@ -12,4 +12,4 @@ Students are to wear the prescribed school uniform and modification to the unifo
 
 ### Facial Appearance
 
-Male students must be neat in appearance and clean-shaven. No facial hair, beard and moustache is allowed.
+Male students must be neat in appearance and clean-shaven. No facial hair, beard and moustache is allowed.
