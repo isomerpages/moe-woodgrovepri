@@ -23,3 +23,9 @@ Through these citizenship dispositions, we hope to cultivate in our Woodgrovians
 ![](/images/1%20NE%20Photos.jpg)
 ![](/images/2%20NE%20Photos.jpg)
 ![](/images/3%20NE%20Photos.jpg)
+
+#### International Friendship Day
+
+![](/images/4%20NE%20Photos.jpg)
+![](/images/6%20NE%20Photos.jpg)
+![](/images/7%20NE%20Photos.jpg)
