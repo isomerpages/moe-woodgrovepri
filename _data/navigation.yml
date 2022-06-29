@@ -8,6 +8,8 @@ links:
     collection: for-parents
   - title: For Students
     collection: for-students
+  - title: School Information
+    collection: school-information
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
