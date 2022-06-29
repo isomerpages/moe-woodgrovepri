@@ -26,3 +26,9 @@ Our aims in ALP are to:
     
 
 During ALP lessons, students are encouraged to be creative by experimenting with dialogue, space, and sound in drama lessons. Such activities help students gain confidence, and develop different means of expression. Students also learn skills of portraying a character through different techniques vocally and gain experience with how to critique practical work, and how to use feedback positively to improve the quality of their thinking.  Students showcase their talents during the English Language Fiesta (ELF).
+
+| Desired Outcomes 	|  	|
+|---	|---	|
+| 1.   MAKE 	| <br>• Shape ideas into drama<br><br>• Explore conventions, resources & techniques of drama<br><br>• Realise ideas and interpret texts<br><br><br>  	|
+| 2.    RESPOND<br>  	| <br>• Reflect on drama experiences<br><br>• Express understanding through dramatic conventions & techniques<br><br>• Respond to content, form, character, symbolism or impact with analytical insight<br><br><br>  	|
+| 3.    PERFORM 	| <br>• Explore, prepare and share ideas through enactment<br><br>• Key aspects of performances:-<br><br>    ◦ performance styles<br>    ◦ coherent interpretation of role<br>    ◦ communicating with audience 	|
