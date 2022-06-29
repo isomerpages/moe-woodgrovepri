@@ -40,3 +40,33 @@ The objectives of the curriculum are achieved through the framework EXPOSE, EXPE
 | XPOSE<br>  	| EXPERIENCE 	| EXCELLENCE 	|
 |---	|---	|---	|
 | <br>In Expose, each student will be given the opportunity to observe and respond to what he sees. He will also develop visual enquiry skills and acquire necessary art techniques.<br><br>This heightens their sensory awareness, arouses curiosity and encourages imagination and generation of ideas. 	| <br>In Experience, each student will generate ideas from the expose stage and explore ways to communicate his thoughts, ideas, emotions and experiences. Students will communicate them through the acquired art techniques.<br> 	| <br>In Excellence, selected students under the school’s Talent Development programme (Art Club), will have the opportunity to celebrate their creative expressions through in-depth study of the area identified and share their artwork.<br><br>Students will be able to create original artworks to express personal responses (individuality as an artist creating artworks for a targeted audience and the world (reason behind the artwork) and personality in their artwork, materials or techniques of choice. 	|
+
+
+### LEARNING OUTCOMES
+
+Pupils will
+
+*   be able to identify and distinguish visual qualities in what they see  
+*   be able to ask questions and make meaning about what they see  
+*   be able to explore and experiment with a variety of materials and tools   
+*   be able to share their imagination, thoughts and feelings through artmaking    
+*   be able to present their artworks and discuss intentions    
+*   be able to discuss and relate Singapore and international artworks and artists   
+    
+### ASSESSMENT (based on students’ Evidence of Learning)
+
+Students are assessed for learning based on their portfolios of evidence of learning. The portfolio will comprise:
+
+*   documentation of process (written/sketches/photographs/participation)  
+*   final artworks  
+*   presentation/show-and-tell/exhibition  
+*   reflection  
+    
+### VISUAL THINKING STRATEGIES (VTS)
+
+*   See-Think-Wonder  
+*   Compare & Contrast  
+*   Circle Viewpoint  
+*   Beginning-Middle-End  
+*   ‘What makes you say that?’  
+*   Feldman’s Approach
