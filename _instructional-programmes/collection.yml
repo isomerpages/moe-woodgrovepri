@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Mathematics/Useful Information for Parents.md
       - Mathematics/Learning Journeys, Competitions and School Events.md
       - Mathematics/.keep
       - Science/Science.md
