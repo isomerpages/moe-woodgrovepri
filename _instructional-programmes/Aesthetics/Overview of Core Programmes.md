@@ -71,7 +71,7 @@ Students are assessed for learning based on their portfolios of evidence of lear
 *   ‘What makes you say that?’  
 *   Feldman’s Approach
 
-|   	| Description 	| Formal Analysis 	| Interpretation 	| Judgement 	|
+|  	| Description 	| Formal Analysis 	| Interpretation 	| Judgement 	|
 |---	|---	|---	|---	|---	|
 | Primary 1 and 2 	|   	| Optional 	| X 	| X 	|
 | Primary 3 and 4 	|   	|   	| Optional 	| X 	|
