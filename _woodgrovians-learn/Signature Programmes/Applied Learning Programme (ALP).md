@@ -32,3 +32,7 @@ During ALP lessons, students are encouraged to be creative by experimenting with
 | 1.   MAKE 	| <br>• Shape ideas into drama<br><br>• Explore conventions, resources & techniques of drama<br><br>• Realise ideas and interpret texts<br><br><br>  	|
 | 2.    RESPOND<br>  	| <br>• Reflect on drama experiences<br><br>• Express understanding through dramatic conventions & techniques<br><br>• Respond to content, form, character, symbolism or impact with analytical insight<br><br><br>  	|
 | 3.    PERFORM 	| <br>• Explore, prepare and share ideas through enactment<br><br>• Key aspects of performances:-<br><br>    ◦ performance styles<br>    ◦ coherent interpretation of role<br>    ◦ communicating with audience 	|
+
+![](/images/Slide1%20(1).jpg)
+![](/images/Slide2.jpg)
+![](/images/Slide3%20(1).jpg)
