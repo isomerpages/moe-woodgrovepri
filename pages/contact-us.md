@@ -12,27 +12,22 @@ locations:
       - days: Mon - Fri
         time: 8.00am - 5.00pm
         description: Closed on Saturdays, Sundays & Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: https://goo.gl/maps/a8qin1Vj66vksEP26
     title: School Location
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6894 3371
+      - email: ""
+      - other: ""
+    title: Contact
+  - content:
+      - phone: +65 6894 3372
+      - email: ""
+      - other: ""
+    title: Fax
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: woodgrove_ps@moe.edu.sg
       - other: ""
-    title: Careers
+    title: Email
 ---
