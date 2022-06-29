@@ -28,3 +28,16 @@ Since its inception in 2020, our Woodgrovians  have been taught   the Growth 
 ![](/images/3%20Growth%20Mindset%20Photos.jpg)
 ![](/images/4%20Growth%20Mindset%20Photos.jpg)
 
+Useful Information for Parents
+------------------------------
+
+Parents can complement school’s efforts in instilling Growth Mindset in your children by carrying out recommended strategies from these websites.
+
+[https://www.mindsetkit.org/growth-mindset-parents](https://www.mindsetkit.org/growth-mindset-parents)
+
+[https://www.mindsetworks.com/parents/growth-mindset-parenting](https://www.mindsetworks.com/parents/growth-mindset-parenting)
+
+[https://www.kiddiematters.com/6-tips-for-creating-a-growth-mindset-home-environment/](https://www.kiddiematters.com/6-tips-for-creating-a-growth-mindset-home-environment/)
+
+[https://www.heysigmund.com/positioning-kids-teens-thrive-11-practical-powerful-ways-build-growth-mindset/](https://www.heysigmund.com/positioning-kids-teens-thrive-11-practical-powerful-ways-build-growth-mindset/)
+
