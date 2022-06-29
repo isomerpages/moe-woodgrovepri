@@ -33,3 +33,9 @@ The department plans a 2 week long programme comprising varied MTL activities an
 
 ![](/images/4%20MT%20Photos.jpg)
 ![](/images/5%20MT%20Photos.jpg)
+
+### Language Fiesta
+
+Language Fiesta is a programme specially designed for Primary 1 and Primary students, to instil joy of learning in Mother Tongue Language.  Woodgrovians go through a variety of language related activities during the programme, such as text recital, language games and quizzes. Through the Language Fiesta, our Woodgrovians not only find greater joy in the learning of the Mother Tongue Languages but also learn more vocabularies along the way.
+
+![](/images/6%20MT%20Photos.jpg)
