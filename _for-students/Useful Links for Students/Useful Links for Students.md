@@ -30,7 +30,7 @@ Link to [Student iCON](/for-students/useful-links-for-students/student-icon)
 
 <img src="/images/Google.jpg" 
      style="width:70%">
-![](/images/Google.jpg) (link not found)
+ (link not found)
 
 Domain: @wgps.edu.sg
 
