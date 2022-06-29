@@ -29,3 +29,14 @@ The SEP is a collaboration with SportsSG to promote sports and physical activiti
 ![](/images/Slide2%20(3).jpg)
 
 ![](/images/Slide3%20(4).jpg)
+
+
+### Swimsafer:
+
+SwimSafer 2.0 is a national water safety programme in Singapore introduced in July 2010 by the National Water safety Council (NWSC). Swimming has also been included in the Physical Education Syllabus from 2012.
+
+The SwimSafer 2.0 Programme consists of six progressive stages, each comprising 12 hours of lesson time.  Woodgrovians will be placed in one of the six stages according to his/her proficiency level. Survival and activity skills are taught in each stage of the programme, with an instructor to student ratio of 1:5. At the end the programme, each Woodgrovian  will receive a stage completion certificate indicating his/her individual skill achievements.
+
+![](/images/PHOTOS_PECCA%202021.jpg)
+![](/images/Slide4%20(2).jpg)
+
