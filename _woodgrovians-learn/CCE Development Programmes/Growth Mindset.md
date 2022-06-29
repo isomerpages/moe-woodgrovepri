@@ -20,3 +20,11 @@ Since its inception in 2020, our Woodgrovians  have been taught   the Growth 
 | **Primary 4** 	| The Power of Yet and using Positive Language 	|
 | **Primary 5** 	| My Growth Mindset Journey 1 – Application in everyday situations 	|
 | **Primary 6** 	| My Growth Mindset Journey 2 – Application in everyday situations 	|
+
+### Key Programmes
+
+![](/images/1%20Growth%20Mindset%20Photos.jpg)
+![](/images/2%20Growth%20Mindset%20Photos.jpg)
+![](/images/3%20Growth%20Mindset%20Photos.jpg)
+![](/images/4%20Growth%20Mindset%20Photos.jpg)
+
