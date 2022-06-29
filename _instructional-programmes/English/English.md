@@ -20,3 +20,7 @@ These are aimed at providing opportunities for Woodgrovians to use English creat
 
 To promote student voice and the love for English language, the department organises exciting and engaging learning events such as English Language Fiesta (ELF) and WGPS Book Club. Through activities such as podcasting and ‘open mike’, Woodgrovians  are encouraged to share their views and spread the joy of learning the English Language with their peers.
 
+![](/images/Slide1%20(3).jpg)
+
+![](/images/Slide2%20(2).jpg)
+![](/images/Slide3%20(3).jpg)
