@@ -17,6 +17,11 @@ Through our 6-year Chinese Language Flagship programme, Woodgrovians who takes C
 *   expand their vocabulary repertoire
 *   improve their comprehension skills
 *   apply language skills in different contexts
-*   spark joy and meaning of learning Chinese Language and culture 
+*   spark joy and meaning of learning Chinese Language and culture   
 
 The department adopts a three tier approach in the design of the Chinese Language Flagship Programme:
+
+![](/images/1%20CL%20Falgship%20PHOTOS.jpg)
+
+Tier 1 features within P1 to P6 curriculum activities that extend learning beyond the boundaries of the curriculum, and out-of-curriculum Chinese Language and cultural appreciation activities
+![](/images/2%20CL%20Falgship%20PHOTOS.jpg)
