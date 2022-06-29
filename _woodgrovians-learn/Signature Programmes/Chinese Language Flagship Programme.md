@@ -4,3 +4,19 @@ permalink: /woodgrovians-learn/signature-programmes/chinese-language-flagship-pr
 description: ""
 third_nav_title: Signature Programmes
 ---
+# **Chinese Language Flagship Programme**
+
+In Woodgrove Primary, we believe in the importance of providing a **holistic and immersive learning experience** to strengthen our Woodgrovians’’ mastery of the Chinese Language and nurture deep interest in the language and culture right from P1.
+
+This belief of Chinese Language learning guides the department in the conceptualisation of our 6-year Chinese Language Flagship programme. The flagship programme, which will be fully implemented in 2022, is a coherent culmination and latest iteration of the Chinese Language department’s experience in designing learning activities for different cohorts of students over the years.
+
+One of key design considerations of the flagship programme is to enable early identification of lower primary students who show aptitude and passion in learning Chinese Language through additional exposure that stretches their learning. These students may then be offered to take up Higher Chinese Language at P3 to further develop their talent and interest.
+
+Through our 6-year Chinese Language Flagship programme, Woodgrovians who takes Chinese Language as a subject will experience a plethora of Chinese Language learning activities in spiral progression, both within and beyond curriculum. These activities are intentionally designed to provide opportunities for them to:
+
+*   expand their vocabulary repertoire
+*   improve their comprehension skills
+*   apply language skills in different contexts
+*   spark joy and meaning of learning Chinese Language and culture 
+
+The department adopts a three tier approach in the design of the Chinese Language Flagship Programme:
