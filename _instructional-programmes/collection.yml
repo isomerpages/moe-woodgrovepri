@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Mathematics/.keep
       - Science/Science.md
       - Science/Overview of Core Programmes.md
       - Science/Go Green @WGPS.md
