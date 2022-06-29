@@ -43,16 +43,16 @@ The Science Ecogarden trails are designed to provide student-centric learning ex
 
 Pupils will present interesting Science experiments or facts to their peers or lower primary pupils.  Through such activities, pupils develop a curiosity and interest for Science and improve their creativity, communication skills and confidence.
 
-**Changemakers**
+<b>Changemakers</b>
 
 Changemakers programme builds servant leadership as pupils explore ways to solve authentic real-life problems using their scientific knowledge and skills.
 
-**Talent Development Programme**
+<b>Talent Development Programme</b>
 
-**Science Olympiad workshops**
+<b>Science Olympiad workshops</b>
 
 The Science Olympiad workshops aim to ignite pupils’ passion in Science Learning beyond the Primary School syllabus.
 
-**Excellence 2000 (E2K) Science Programme**
+<b>Excellence 2000 (E2K) Science Programme</b>
 
 The E2K Science Programme is a science enrichment programme developed by the Israel Centre for Excellence through Education (ICEE) and endorsed by the Singapore Gifted Education Branch. Through a selection process, pupils who demonstrate high interest and ability in science will be selected to participate in E2K programmes.
