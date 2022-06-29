@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - English/.keep
       - Mathematics/Mathematics.md
       - Mathematics/Framework and Overview of Core Programmes.md
       - Mathematics/Useful Information for Parents.md
