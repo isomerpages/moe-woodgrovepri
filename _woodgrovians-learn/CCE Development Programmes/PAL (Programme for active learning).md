@@ -4,3 +4,8 @@ permalink: /woodgrovians-learn/CCE-Development-Programmes/pal-programme-for-acti
 description: ""
 third_nav_title: CCE Development Programmes
 ---
+# **PAL (Programme for Active Learning)**
+
+### PAL@Woodgrove Primary
+
+![](/images/Slide1.jpg)
