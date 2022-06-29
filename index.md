@@ -7,9 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
+      title: Woodgrove Primary School
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/woodgrove pri.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -29,5 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
