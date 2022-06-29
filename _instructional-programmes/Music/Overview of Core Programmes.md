@@ -76,3 +76,16 @@ Music Busking provides a platform for our students to showcase their musical per
 1. Solfege names are music names given to different high and low sounds, such as _doh, ray, me, fah, soh, lah, ti_
 2. Canon (in music) is where the 2nd (or subsequent) voice imitates the leader after a specific duration
 3. Examples of Body Percussion sounds: Stomping, Patsching, Clapping, Snapping
+
+Performing Arts Groups
+----------------------
+
+Pupils learn to play instruments and various forms of dances during the CCA sessions. These performing arts groups showcase their talents in the school and community.
+
+* Choir
+* Chinese Dance
+* Malay Dance
+* Indian Dance
+* Hip Hop Dance
+* Chinese Orchestra
+* Dikir Barat
