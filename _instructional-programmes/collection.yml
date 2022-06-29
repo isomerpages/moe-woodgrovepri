@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Science/Overview of Core Programmes.md
       - Science/Go Green @WGPS.md
       - Science/.keep
       - Mother Tongue Languages.md
