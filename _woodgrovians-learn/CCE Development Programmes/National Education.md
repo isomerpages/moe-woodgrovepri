@@ -29,3 +29,7 @@ Through these citizenship dispositions, we hope to cultivate in our Woodgrovians
 ![](/images/4%20NE%20Photos.jpg)
 ![](/images/6%20NE%20Photos.jpg)
 ![](/images/7%20NE%20Photos.jpg)
+
+#### Racial Harmony Day
+
+![](/images/8%20NE%20Photos.jpg)
