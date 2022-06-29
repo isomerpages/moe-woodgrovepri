@@ -44,12 +44,12 @@ The **three strategies** at the lower-primary level:
 *   Show cover and read the title, author and illustrator.
 *   Ask questions / ask for predictions about the story.
 
-5.  First reading:
+4.  First reading:
 
 *   Read the book aloud, pointing to the words fluidly as you read.
 *   Ask for predictions or ask questions to focus on illustrations.
 
-7.  Second reading:
+5.  Second reading:
 
 *   Reread the book straight through without stopping.
 *   Have pupils respond to the story in some way (book-based).
@@ -82,8 +82,6 @@ MLEA 2: Group Writing
 
 MLEA 3: Individual Writing
 
-  
-
 ### From SBA to MLEA
 
 *   During SBA, children learn about speech & print, language structures, high frequency words and interesting vocabulary. The Big Books provide models of stories, poems & other forms of text.
@@ -94,8 +92,6 @@ MLEA 3: Individual Writing
 *   The MLEA experience should be linked to target language.
 *   Use children’s own contributions to promote language skills.
 *   Make links between what is said to what is written.
-
-  
 
 ### MLEA Experience & Class Writing
 
@@ -140,8 +136,6 @@ MLEA 3: Individual Writing
     c) Publishing & IIlustrating
 7.  Reading the Group Story
 
-  
-
 ### MLEA 3: What’s the focus?
 
 *   Recreate or recall an experience for pupils who need it. (e.g. LP pupils)
@@ -176,9 +170,7 @@ In the Mid to Upper Primary curriculum, pupils will be able to consolidate and e
 
 ### **STELLAR at Upper Primary**
 
-![stellar.png](https://woodgrovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u550/Departments/English/STELLAR/stellar.png)
-
-  
+![](/images/stellar.png)
 
 ### What are the Upper Primary strategies?
 
