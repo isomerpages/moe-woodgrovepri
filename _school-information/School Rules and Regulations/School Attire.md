@@ -8,7 +8,7 @@ third_nav_title: School Rules and Regulations
 
 ### School Uniform
 
-Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 
 ### Facial Appearance
 
