@@ -70,3 +70,9 @@ Music Busking provides a platform for our students to showcase their musical per
 | Primary 4 	| (1) Intermediate Ukulele<br><br>New strumming method<br><br>New chords<br><br><br><br>(2) Community songs<br><br>Rasa Sayang Eh<br><br>Di Tanjong Katong<br><br>Singapore Town<br><br> 	| (1) Malaysian Music<br><br>Joget dance<br><br>Zapin dance<br><br>(2)Philippines Music<br><br>Major and minor tonalities<br><br><br> 	| (1) Music Band<br><br>Perform roles as drummer, guitarist, keyboardist using software<br><br>Perform a song as a band using software<br><br><br> 	| (1) Orchestral Instrument Families<br><br>String<br><br>Percussion<br><br>Woodwind<br><br>Brass<br><br><br> 	|
 | Primary 5 	| (1) Basic Guitar<br><br>Basic chords<br><br>Basic strumming method<br><br><br>Perform National Day songs<br><br>(2) Community songs<br><br>Home<br><br>Reach out for the Skies<br><br>Stand up for Singapore<br><br><br> 	|  	| (1) Body Percussion*<br><br>Body percussion* performance in group<br><br> 	|  	|
 | Primary 6 	| (1) Local Composers<br><br>Jeremy Monteiro<br><br>Kelly Tang<br><br><br><br>(2) Western Popular Music Genres<br><br>Blues<br><br>Jazz<br><br>Rock and Roll<br><br>Contemporary Folk song<br><br><br> 	|  	| (1) Music Composition<br><br>Exposure to lyrics writing<br><br>Create music track using loops 	|  	|
+
+*Explanatory Note:
+
+1. Solfege names are music names given to different high and low sounds, such as _doh, ray, me, fah, soh, lah, ti_
+2. Canon (in music) is where the 2nd (or subsequent) voice imitates the leader after a specific duration
+3. Examples of Body Percussion sounds: Stomping, Patsching, Clapping, Snapping
