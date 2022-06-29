@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Science/Go Green @WGPS.md
       - Science/.keep
       - Mother Tongue Languages.md
       - PE & Aesthetics/Aesthetics.md
