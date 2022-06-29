@@ -13,12 +13,12 @@ sections:
         - title: NParks CIN School Awards 2022
           description: ""
           url: https://www.nparks.gov.sg/-/media/cinsa-2022-ebooklet-4mb.ashx
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Virtual Open House
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/wgpsvirtualopenhouse2022/home
+        - title: Learn about WPS from WRL Community Wall
+          description: ""
+          url: https://padlet.com/woodlandsplsg/KnowYourNeighbourhood
   - infobar:
       title: Infobar title
       subtitle: Subtitle
