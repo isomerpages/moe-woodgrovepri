@@ -2,4 +2,5 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - PE & Aesthetics/.keep
       - Social Studies.md
