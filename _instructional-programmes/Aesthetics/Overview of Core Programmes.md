@@ -76,3 +76,13 @@ Students are assessed for learning based on their portfolios of evidence of lear
 | Primary 1 and 2 	|   	| Optional 	| X 	| X 	|
 | Primary 3 and 4 	|   	|   	| Optional 	| X 	|
 | Primary 5 and 6 	|   	|   	|   	| Optional 	|
+
+
+### ITEMS TO BRING FOR ART LESSONS
+
+*   A3 Art  Portfolio  
+*   A3 Art Drawing Block  
+*   A4 Sketchbook  
+*   2B Wooden Pencil  
+*   Eraser  
+*   Ruler
