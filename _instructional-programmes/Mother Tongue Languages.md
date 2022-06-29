@@ -30,3 +30,6 @@ We arrange Cultural camps for our Primary 4 Woodgrovians to provide them with a
 ### Mother Tongue Language (MTL) Fortnight
 
 The department plans a 2 week long programme comprising varied MTL activities and level competitions to bring about Joy of Learning in MTL Languages. These activities provide authentic learning experiences for Woodgrovians to use their Mother Tongue language and be exposed to the culture.
+
+![](/images/4%20MT%20Photos.jpg)
+![](/images/5%20MT%20Photos.jpg)
