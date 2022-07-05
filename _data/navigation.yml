@@ -19,3 +19,10 @@ links:
     collection: for-students
   - title: School Information
     collection: school-information
+  - title: For Parents and Students
+    url: /for-parents/assessment-n-examination-matters/examination-policy
+    sublinks:
+      - title: For Parents
+        url: /for-parents/assessment-n-examination-matters/examination-policy
+      - title: For Students
+        url: /for-students/useful-links-for-students
