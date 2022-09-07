@@ -1,6 +1,6 @@
 ---
 title: Useful Links for Students
-permalink: /for-students/useful-links-for-students
+permalink: /for-students/useful-links-for-students/
 description: ""
 third_nav_title: Useful Links for Students
 ---
@@ -26,15 +26,12 @@ Link to [Student Learning Space](/for-students/useful-links-for-students/student
      style="width:70%">
 Link to [Student iCON](/for-students/useful-links-for-students/student-icon)
 
-### WGPS GSuite
+### MySkillsFuture 
 
-<img src="/images/Google.jpg" 
+<img src="/images/Myskillsfuture.png" 
      style="width:70%">
- (link not found)
+Link to [MySkillsFuture](https://go.gov.sg/exploreschools)
 
-Domain: @wgps.edu.sg
-
-Please note that the school-based google account with domain wgps.edu.sg will no longer be in used.
 
 ### School Library & School eResource Repository
 
