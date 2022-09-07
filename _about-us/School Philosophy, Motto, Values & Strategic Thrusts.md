@@ -1,6 +1,6 @@
 ---
 title: School Philosophy, Motto, Values & Strategic Thrusts
-permalink: /about-us/school-philosophy-motto-values-n-strategic-thrusts
+permalink: /about-us/school-philosophy-motto-values-n-strategic-thrusts/
 description: ""
 ---
 # **School Philosophy, Motto, Values & Strategic Thrusts**
@@ -15,7 +15,7 @@ Seizing Opportunities, Aspirations Realised
 
 ### **SCHOOL VALUES**
 
-**iGR3ACE**  
+<b>iGR<sup>3</sup>ACE</b>  
 
 Integrity
 
