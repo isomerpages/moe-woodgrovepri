@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Woodgrove Primary School
       background: /images/woodgrove pri (1).gif
       key_highlights:
         - title: NParks CIN School Awards 2022
