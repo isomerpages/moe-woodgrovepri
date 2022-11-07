@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/woodgrove pri (1).gif
+      background: /images/Hero Gif.gif
       key_highlights:
         - title: NParks CIN School Awards 2022
           description: ""
