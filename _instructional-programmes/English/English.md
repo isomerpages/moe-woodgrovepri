@@ -1,10 +1,10 @@
 ---
 title: English
-permalink: /woodgrovians-learn/instructional-programmes/english
+permalink: /woodgrovians-learn/instructional-programmes/english/
 description: ""
 third_nav_title: English
 ---
-# **English**
+**English**
 
 At Woodgrove Primary, we believe that every Woodgrovian has the potential to be developed into effective and confident communicator.
 
@@ -25,6 +25,6 @@ To promote student voice and the love for English language, the department organ
 ![](/images/Slide2%20(2).jpg)
 ![](/images/Slide3%20(3).jpg)
 
-(Video needs to be uploaded onto yt)
+[Morning Buzz](https://youtu.be/TojvIPJ8qGI)
 
-(Video needs to be uploaded onto yt)
+[WGPS Book Club](https://youtu.be/FpGTehQNxOg)
