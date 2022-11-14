@@ -28,4 +28,5 @@ To promote student voice and the love for English language, the department organ
 [Morning Buzz]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TojvIPJ8qGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[WGPS Book Club](https://youtu.be/FpGTehQNxOg)
+[WGPS Book Club]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FpGTehQNxOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
