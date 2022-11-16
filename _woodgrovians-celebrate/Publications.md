@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /woodgrovians-celebrate/publications
+permalink: /woodgrovians-celebrate/publications/
 description: ""
 ---
 # **Publications**
@@ -9,9 +9,9 @@ description: ""
 
 file exceeds 5MB
 
-### Nov 2022
+### Nov 2021
 
-newletter uploaded on diff website
+[](/files/2021_WGPS_Newsletter_2%20Issue%20Nov.pdf)
 
 ### May 2021
 
@@ -32,4 +32,3 @@ newsletter uploaded on diff website
 ### May 2019
 
 newsletter uploaded on diff website
-
