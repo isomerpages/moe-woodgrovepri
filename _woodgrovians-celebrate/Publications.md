@@ -10,8 +10,9 @@ description: ""
 file exceeds 5MB
 
 ### Nov 2021
+![](/images/Nov%2021.png
 
-[](/files/2021_WGPS_Newsletter_2%20Issue%20Nov.pdf)
+(/files/2021_WGPS_Newsletter_2%20Issue%20Nov.pdf)
 
 ### May 2021
 
