@@ -1,6 +1,6 @@
 ---
 title: Our History
-permalink: /about-us/our-history
+permalink: /about-us/our-history/
 description: ""
 ---
 # **Our History**

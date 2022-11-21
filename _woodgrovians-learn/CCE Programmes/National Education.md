@@ -1,6 +1,6 @@
 ---
 title: National Education
-permalink: /woodgrovians-learn/CCE-Programmes/national-education
+permalink: /woodgrovians-learn/CCE-Programmes/national-education/
 description: ""
 third_nav_title: CCE Programmes
 ---

@@ -1,6 +1,6 @@
 ---
 title: School Vision and Mission
-permalink: /about-us/school-vision-and-mission
+permalink: /about-us/school-vision-and-mission/
 description: ""
 ---
 # **School Vision and Mission**

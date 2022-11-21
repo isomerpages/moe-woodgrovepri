@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /for-parents/parent-partnership/resources
+permalink: /for-parents/parent-partnership/resources/
 description: ""
 third_nav_title: Parents Partnership
 ---

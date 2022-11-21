@@ -1,6 +1,6 @@
 ---
 title: Learning Journeys, Programmes & School Events
-permalink: /woodgrovians-learn/instructional-programmes/aesthetics/lj-programmes-n-school-events
+permalink: /woodgrovians-learn/instructional-programmes/aesthetics/lj-programmes-n-school-events/
 description: ""
 third_nav_title: Aesthetics
 ---

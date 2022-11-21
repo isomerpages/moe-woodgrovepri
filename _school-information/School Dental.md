@@ -1,6 +1,6 @@
 ---
 title: School Dental
-permalink: /school-information/school-dental
+permalink: /school-information/school-dental/
 description: ""
 ---
 # **School Dental**

@@ -1,6 +1,6 @@
 ---
 title: School Bus
-permalink: /school-information/school-bus
+permalink: /school-information/school-bus/
 description: ""
 ---
 # **School Bus**
