@@ -1,6 +1,6 @@
 ---
 title: CCA
-permalink: /woodgrovians-learn/CCE-Programmes/cca
+permalink: /woodgrovians-learn/CCE-Programmes/cca/
 description: ""
 third_nav_title: CCE Programmes
 ---

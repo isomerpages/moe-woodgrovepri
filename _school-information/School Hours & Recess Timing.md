@@ -1,6 +1,6 @@
 ---
 title: School Hours & Recess Timing
-permalink: /school-information/school-hours-n-recess-timing
+permalink: /school-information/school-hours-n-recess-timing/
 description: ""
 ---
 # **School Hours & recess timing**

@@ -1,6 +1,6 @@
 ---
 title: Homework Policy
-permalink: /for-parents/homework-policy
+permalink: /for-parents/homework-policy/
 description: ""
 ---
 # **Homework Policy**

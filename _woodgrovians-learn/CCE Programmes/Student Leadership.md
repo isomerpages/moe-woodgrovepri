@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /woodgrovians-learn/CCE-Programmes/student-leadership
+permalink: /woodgrovians-learn/CCE-Programmes/student-leadership/
 description: ""
 third_nav_title: CCE Programmes
 ---

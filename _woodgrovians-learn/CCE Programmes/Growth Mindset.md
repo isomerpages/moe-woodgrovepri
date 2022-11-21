@@ -1,6 +1,6 @@
 ---
 title: Growth Mindset
-permalink: /woodgrovians-learn/CCE-Programmes/growth-mindset
+permalink: /woodgrovians-learn/CCE-Programmes/growth-mindset/
 description: ""
 third_nav_title: CCE Programmes
 ---

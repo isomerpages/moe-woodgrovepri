@@ -1,6 +1,6 @@
 ---
 title: PE
-permalink: /woodgrovians-learn/instructional-programmes/pe
+permalink: /woodgrovians-learn/instructional-programmes/pe/
 description: ""
 ---
 <h1><b>PE</b></h1>
