@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Gif With Logobar.gif
+      background: /images/Hero Gif with WGPS flower.gif
       key_highlights:
         - title: NParks CIN School Awards 2022
           description: ""
