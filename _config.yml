@@ -49,5 +49,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-woodgrovepri-staging.netlify.app
-prod: https://moe-woodgrovepri-prod.netlify.app
+staging: https://staging.d2aa2jwrrxgl47.amplifyapp.com
+prod: https://master.d2aa2jwrrxgl47.amplifyapp.com
