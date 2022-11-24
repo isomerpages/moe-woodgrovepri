@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NEW Hero Gif slides with Wgps crest.gif
+      background: /images/NEW Hero Gif slides with Wgps crest Med reso.gif
       key_highlights:
         - title: "Highlights: NParks CIN School Awards 2022"
           description: ""
