@@ -3,14 +3,16 @@ title: Approved Textbook List (2022)
 permalink: /for-parents/approved-text-book-list-2022/
 description: ""
 ---
-# **Approved Text Book List (2022)**
+# **Approved Text Book List (2023)**
 
 ### Information from Pacific Bookstores
 
 [PACIFIC BOOKSTORES PURCHASE GUIDE.pdf](/files/PACIFIC%20BOOKSTORES%20PURCHASE%20GUIDE.pdf)
 
 ### P1 Booklist  
-[WPS P1.pdf](/files/WPS%20P1.pdf)
+
+[WGPS P1](/files/Approved%20Text%20Book%20List%20(2023)/P1.pdf)
+
   
 
 ### P2 Booklist
@@ -57,4 +59,3 @@ description: ""
 [WPS P6 2S FMA FSC.pdf](/files/WPS%20P6%202S%20FMA%20FSC.pdf)
   
 [WPS P6 2S FMA FMT.pdf](/files/WPS%20P6%202S%20FMA%20FMT.pdf)
-  
