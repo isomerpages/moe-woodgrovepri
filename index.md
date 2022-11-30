@@ -18,5 +18,5 @@ sections:
           description: ""
           url: https://padlet.com/woodlandsplsg/KnowYourNeighbourhood
       url: /contact-us/
-      background: /images/Hero Gif.gif
+      background: /images/NEW Hero Gif slides with Wgps crest 2.gif
 ---
