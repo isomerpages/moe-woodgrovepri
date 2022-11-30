@@ -20,9 +20,7 @@ Our aims in ALP are to:
     
 2.  create opportunities for students to develop social and personal leadership through a learner-centric approach; and  
     
-3.  develop students’ understanding of social issues as they learn how other  
-    
-4.  dramatists have communicated their understanding  
+3.  develop students’ understanding of social issues as they learn how other dramatists have communicated their understanding 
     
 
 During ALP lessons, students are encouraged to be creative by experimenting with dialogue, space, and sound in drama lessons. Such activities help students gain confidence, and develop different means of expression. Students also learn skills of portraying a character through different techniques vocally and gain experience with how to critique practical work, and how to use feedback positively to improve the quality of their thinking.  Students showcase their talents during the English Language Fiesta (ELF).
