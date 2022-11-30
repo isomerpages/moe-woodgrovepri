@@ -17,7 +17,6 @@ sections:
         - title: "News: Learn about WPS from WRL Community Wall"
           description: ""
           url: https://padlet.com/woodlandsplsg/KnowYourNeighbourhood
-      button: Contact us
       url: /contact-us/
       background: /images/Hero Gif.gif
 ---
