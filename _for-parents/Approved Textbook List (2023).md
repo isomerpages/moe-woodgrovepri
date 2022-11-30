@@ -3,7 +3,6 @@ title: Approved Textbook List (2023)
 permalink: /for-parents/approved-text-book-list-2023/
 description: ""
 ---
-
 # **Approved Text Book List (2023)**
 
 ### Information from Pacific Bookstores
