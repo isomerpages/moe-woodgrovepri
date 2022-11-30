@@ -37,6 +37,14 @@ description: ""
 
 [P1_Annex A_2022 Term 3 Experiencing WGPS.pdf](/files/Experiencing%20WGPS/P1_ADM3702022_Annex%20A_2022%20Term%203%20Experiencing%20WGPS_15%20Sept_P1.pdf)
 
+[P2_Annex A_2022 Term 3 Experiencing WGPS.pdf](/files/Experiencing%20WGPS/P2_ADM3702022_Annex%20A_2022%20Term%203%20Experiencing%20WGPS_15%20Sept_P2.pdf)
 
+[P3_Annex A_2022 Term 3 Experiencing WGPS.pdf](/files/Experiencing%20WGPS/P3_ADM3702022_Annex%20A_2022%20Term%203%20Experiencing%20WGPS_15%20Sept_P3.pdf)
+
+[P4_Annex A_2022 Term 3 Experiencing WGPS.pdf](/files/Experiencing%20WGPS/P4_ADM3702022_Annex%20A_2022%20Term%203%20Experiencing%20WGPS_15%20Sept_P4.pdf)
+
+[P5_Annex A_2022 Term 3 Experiencing WGPS.pdf](/files/Experiencing%20WGPS/P5_ADM3702022_Annex%20A_2022%20Term%203%20Experiencing%20WGPS_15%20Sept_P5.pdf)
+
+[P6_Annex A_2022 Term 3 Experiencing WGPS.pdf](/files/Experiencing%20WGPS/P6_ADM3702022_Annex%20A_2022%20Term%203%20Experiencing%20WGPS_15%20Sept_P6.pdf)
 
 ### Term 4 (2022)
