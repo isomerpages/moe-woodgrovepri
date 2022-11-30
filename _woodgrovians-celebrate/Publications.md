@@ -5,31 +5,18 @@ description: ""
 ---
 # **Publications**
 
-### May 2022
+### Year 2022
 
-file exceeds 5MB
+[Nov 2022](https://drive.google.com/file/d/1zFwYjjWcPmUAkXp3Z2bttmrDbLQoc67n/view?usp=sharing)
 
-### Nov 2021
-![](/images/Nov%2021.png
+[May 2022]( https://drive.google.com/file/d/1IqEoaWNmku5azPbPm6nmilH-QCHSaG5A/view?usp=sharing)
 
-(/files/2021_WGPS_Newsletter_2%20Issue%20Nov.pdf)
+### Year 2021
+[Nov 2021](https://drive.google.com/file/d/1NbRTZDVfxBgBS3xKAIPoYkKgYyKrA03S/view?usp=sharing)
 
-### May 2021
+[May 2021](https://drive.google.com/file/d/1IqEoaWNmku5azPbPm6nmilH-QCHSaG5A/view?usp=sharing)
 
-newsletter uploaded on diff website
+### Year 2020
 
-### Nov 2020
+[March 2020](https://drive.google.com/file/d/1BBRdXIO7pioo90htPMfXuI-Iz7z4YWSQ/view?usp=sharing)
 
-newsletter uploaded on diff website
-
-### March 2020
-
-newsletter uploaded on diff website
-
-### September 2019
-
-newsletter uploaded on diff website
-
-### May 2019
-
-newsletter uploaded on diff website
