@@ -7,6 +7,12 @@ description: ""
 
 ### Year 2022
 
+```
+<a href\="https://drive.google.com/file/d/1zFwYjjWcPmUAkXp3Z2bttmrDbLQoc67n/view?usp=sharing"\>  
+  <img src\="Nov%202022.png" alt\="HTML tutorial" style\="width:42px;height:42px;"\>  
+</a\>
+```
+
 ![Nov 2022](/images/Newsletter/Nov%202022.png)[Nov 2022](https://drive.google.com/file/d/1zFwYjjWcPmUAkXp3Z2bttmrDbLQoc67n/view?usp=sharing)
 
 ![May 2022](/images/Newsletter/May%202022.png)
