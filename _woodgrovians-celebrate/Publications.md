@@ -9,8 +9,8 @@ description: ""
 
 
 
-<a href="https://drive.google.com/file/d/1zFwYjjWcPmUAkXp3Z2bttmrDbLQoc67n/view?usp=sharing">
-<img src="/images/Newsletter/Nov%202022.png" alt="Nov 2022" style="width:42px;height:42px;">
+<a href="https://drive.google.com/file/d/1zFwYjjWcPmUAkXp3Z2bttmrDbLQoc67n/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<img src="/images/Newsletter/Nov%202022.png" alt="Nov 2022" style="width:84px;height:84px;">
 </a>
 
 ![Nov 2022](/images/Newsletter/Nov%202022.png)[Nov 2022](https://drive.google.com/file/d/1zFwYjjWcPmUAkXp3Z2bttmrDbLQoc67n/view?usp=sharing)
