@@ -20,6 +20,9 @@ description: ""
 
 ### Year 2021
 
+
+
+##### Nov 2021
 <a href="https://drive.google.com/file/d/1NbRTZDVfxBgBS3xKAIPoYkKgYyKrA03S/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 <img src="/images/Newsletter/Nov%202021.png" alt="Nov 2021" style="width:210px;height:px;">
 </a>
