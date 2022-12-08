@@ -10,7 +10,7 @@ description: ""
 
 ##### Nov 2022
 <a href="https://drive.google.com/file/d/1zFwYjjWcPmUAkXp3Z2bttmrDbLQoc67n/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-<img src="/images/Newsletter/Nov%202022.png" alt="Nov 2022" style="width:210px;height:px;">
+<img src="/images/Newsletter/Nov%202022.png" alt="Nov 2022" style="width:480px;height:px;">
 </a>
 
 ##### May 2022
