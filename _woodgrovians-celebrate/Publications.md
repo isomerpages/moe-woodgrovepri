@@ -47,5 +47,12 @@ description: ""
 
 ### Year 2020
 
+
+##### March 2020
+<a href="https://drive.google.com/file/d/1BBRdXIO7pioo90htPMfXuI-Iz7z4YWSQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<img src="/images/Newsletter/Mar%202020.png" alt="March 2020" style="width:210px;height:px;">
+</a>
+
+
 ![March 2020](/images/Newsletter/Mar%202020.png)
 [March 2020](https://drive.google.com/file/d/1BBRdXIO7pioo90htPMfXuI-Iz7z4YWSQ/view?usp=sharing)
