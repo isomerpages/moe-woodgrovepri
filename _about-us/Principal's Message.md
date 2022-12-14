@@ -5,7 +5,7 @@ description: ""
 ---
 # **Principal's Message**
 	
-_<center> Joyful laughter from lively discussions; </center>_
+_<center> Joyful laughter from lively discussions; </center>
 
 _Eager raised hands excited to share;_
 
@@ -17,7 +17,7 @@ _Interesting interactions during recesses;_
 
 _Blossoming friendships with kindness aplenty_
 
-_\--- Such are the common sights and sounds at Woodgrove Primary_
+_\--- Such are the common sights and sounds at Woodgrove Primary </center>_
 
 
 At Woodgrove Primary, we strongly believe that every child is unique and can shine. Our children are engaged in a plethora of specially designed programmes and immersed in a myriad of holistic experiences, focusing on their needs, building their character, nurturing their hearts and enriching their minds. Balanced with the talent development opportunities, we seek to develop our children’s potential to bring out the best in them and help them shine.
