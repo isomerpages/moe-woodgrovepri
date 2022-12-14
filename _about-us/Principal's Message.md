@@ -15,9 +15,9 @@ _<center>Polite greetings along the corridors;</center>_
 
 _<center>Interesting interactions during recesses;</center>_
 
-_<center>Blossoming friendships with kindness aplenty_</center>
+_<center>Blossoming friendships with kindness aplenty_
 
-_<center>Such are the common sights and sounds at Woodgrove Primary </center>_
+_Such are the common sights and sounds at Woodgrove Primary </center>_
 
 
 At Woodgrove Primary, we strongly believe that every child is unique and can shine. Our children are engaged in a plethora of specially designed programmes and immersed in a myriad of holistic experiences, focusing on their needs, building their character, nurturing their hearts and enriching their minds. Balanced with the talent development opportunities, we seek to develop our children’s potential to bring out the best in them and help them shine.
