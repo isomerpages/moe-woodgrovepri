@@ -7,17 +7,17 @@ description: ""
 	
 _<center> Joyful laughter from lively discussions; </center>
 
-_Eager raised hands excited to share;_
+_<center>Eager raised hands excited to share;</center>_
 
-_Encouraging cheers spurring friends on;_
+_<center>Encouraging cheers spurring friends on;</center>_
 
-_Polite greetings along the corridors;_
+_<center>Polite greetings along the corridors;</center>_
 
-_Interesting interactions during recesses;_
+_<center>Interesting interactions during recesses;</center>_
 
-_Blossoming friendships with kindness aplenty_
+_<center>Blossoming friendships with kindness aplenty_</center>
 
-_\--- Such are the common sights and sounds at Woodgrove Primary </center>_
+_<center>--- Such are the common sights and sounds at Woodgrove Primary </center>_
 
 
 At Woodgrove Primary, we strongly believe that every child is unique and can shine. Our children are engaged in a plethora of specially designed programmes and immersed in a myriad of holistic experiences, focusing on their needs, building their character, nurturing their hearts and enriching their minds. Balanced with the talent development opportunities, we seek to develop our children’s potential to bring out the best in them and help them shine.
