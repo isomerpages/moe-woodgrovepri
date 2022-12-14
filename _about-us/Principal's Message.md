@@ -13,7 +13,7 @@ _<center>Encouraging cheers spurring friends on;</center>_
 
 _<center>Polite greetings along the corridors;</center>_
 
-_<center>Interesting interactions during recesses;</center>_
+_<center>Interesting interactions during recesses;</center>
 
 _<center>Blossoming friendships with kindness aplenty</center>
 
