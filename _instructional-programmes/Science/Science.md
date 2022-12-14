@@ -8,7 +8,7 @@ third_nav_title: Science
 
 ### Vision
 
-**A community of scientists**
+A community of scientists
 
 ### Mission
 
