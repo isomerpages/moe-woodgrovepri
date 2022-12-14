@@ -5,7 +5,7 @@ description: ""
 ---
 # **Principal's Message**
 	
-_Joyful laughter from lively discussions;_
+_                            Joyful laughter from lively discussions;_
 
 _Eager raised hands excited to share;_
 
