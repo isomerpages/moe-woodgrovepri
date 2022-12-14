@@ -45,4 +45,6 @@ Below shows an overview of the span of Real World Learning projects across the l
 
 To develop confident and effective speakers, the school has provided a platform for Woodgrovians to showcase their public speaking skills through news magazine video production such as WGPS NewsWatch. This platform aims to amplify student voice while honing skills such as scriptwriting, storyboarding and presentation. These episodes are also broadcasted to the rest of the student population as they are being used as teaching resources for discussions.
 
+[aa](https://youtu.be/AUpvBn6TdEg)
+
 (video needs to be uploaded on yt)
