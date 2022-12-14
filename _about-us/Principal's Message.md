@@ -15,7 +15,7 @@ _<center>Polite greetings along the corridors;</center>_
 
 _<center>Interesting interactions during recesses;</center>_
 
-_<center>Blossoming friendships with kindness aplenty_
+_<center>Blossoming friendships with kindness aplenty_</center>
 
 _Such are the common sights and sounds at Woodgrove Primary </center>_
 
