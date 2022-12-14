@@ -4,7 +4,7 @@ permalink: /woodgrovians-learn/signature-programmes/llp-shine-through-dance/
 description: ""
 third_nav_title: Signature Programmes
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kd-0000MsyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9rbDe9X7d1g/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [LLP](https://youtu.be/9rbDe9X7d1g)
 
