@@ -4,6 +4,7 @@ permalink: /woodgrovians-learn/signature-programmes/llp-shine-through-dance/
 description: ""
 third_nav_title: Signature Programmes
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9rbDe9X7d1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Our Life-Long Learning Programme in Dance started in 2011. The programme exposes students (Primary 1-6) to the unique benefits of dance.  The 3E approach to Dance in Woodgrove – Expose, Experience, Express, allows our pupils to gain knowledge and appreciation of the many dance genres over the six years.
