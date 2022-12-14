@@ -25,4 +25,8 @@ Fax         :+65 68943372
 
 Website : [www.woodgrovepri.moe.edu.sg](https://woodgrovepri.moe.edu.sg/school-information/school-information-and-map)
 
-Email     : [woodgrove\_ps@moe.edu.sg](mailto:woodgrove_ps@moe.edu.sg)
+Email     : [woodgrove\_ps@moe.edu.sg]
+
+![](/images/WGPS%20MAP.jpg)
+
+(mailto:woodgrove_ps@moe.edu.sg)
