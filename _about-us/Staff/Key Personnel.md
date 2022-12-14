@@ -11,6 +11,7 @@ third_nav_title: Staff
 |---	|---	|---	|
 | Principal 	| Mrs Adeline Ng 	| [adeline_tan@schools.gov.sg](mailto:adeline_tan@schools.gov.sg) |
 | Vice-Principal (Acad) 	| Mr Nigel Phang 	| [phang_teck_how@schools.gov.sg](mailto:phang_teck_how@schools.gov.sg) 	|
+| Vice-Principal (Acad) 	| Mr Sim Yong Ming 	| [sim\_yong\_ming@schools.gov.sg](mailto:phang_teck_how@schools.gov.sg) 	|
 | HOD (English) 	| Mr Nur Haqam  	| [nur_haqam_abdul_latiff@schools.gov.sg](mailto:nur_haqam_abdul_latiff@schools.gov.sg) 	|
 | HOD (Maths) 	| Mr Brandon Tay 	| [tay_lian_hoon@schools.gov.sg](mailto:tay_lian_hoon@schools.gov.sg) 	|
 | HOD (Science) 	| Mr Lee Kah Wing 	| [lee_kah_wing@schools.gov.sg](mailto:lee_kah_wing@schools.gov.sg) 	|
