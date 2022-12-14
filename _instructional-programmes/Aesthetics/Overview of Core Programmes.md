@@ -73,8 +73,8 @@ Students are assessed for learning based on their portfolios of evidence of lear
 
 |  	| Description 	| Formal Analysis 	| Interpretation 	| Judgement 	|
 |---	|---	|---	|---	|---	|
-| Primary 1 and 2 	|   	| Optional    	|           X 	          | X 	|
-| Primary 3 and 4 	|   	|   	| Optional 	| X 	|
+| Primary 1 and 2 	|     | Optional  |         X          |      X 	     |
+| Primary 3 and 4 	|   	|   	|      Optional 	|    X 	|
 | Primary 5 and 6 	|   	|   	|   	| Optional 	|
 
 
