@@ -28,8 +28,8 @@ The **three strategies** at the lower-primary level:
 ### SBA 1: What’s the focus?
 
 *   When preparing questions for SBA1, the focus of the questions should be on
-*   stimulating thought and understanding
-*   providing opportunities for the pupils to talk
+	*   stimulating thought and understanding
+	*   providing opportunities for the pupils to talk
 *   When conducting the lesson, open questions are asked in getting pupils to predict or recall the story plot
 
 ### SBA 1 Procedures (Global Understanding & Enjoyment)
@@ -40,7 +40,7 @@ The **three strategies** at the lower-primary level:
 2.  Reread a familiar favourite Big Book.
 3.  Introduce the new Big Book.
 
-*   Relate the cover content to prior knowledge.
+*	Relate the cover content to prior knowledge.
 *   Show cover and read the title, author and illustrator.
 *   Ask questions / ask for predictions about the story.
 
@@ -70,7 +70,7 @@ The **three strategies** at the lower-primary level:
 *   Reread the book straight through without stopping
 *   Have pupils relate their personal experience to the book.
 
-5.  Follow-up activities.
+4.  Follow-up activities.
 
 ### What are the 3 stages for MLEA?
 
@@ -113,10 +113,9 @@ MLEA 3: Individual Writing
 *   Post (& remind pupils about) rules for working in groups.
 *   Encourage every group member to contribute ideas.
 *   Circulate and guide the groups.
-
-*   Encourage use of new words and creativity.
-*   When appropriate, show briefly use of word identification skills in writing.
-*   Encourage groups to edit and revise drafts on their own. (once pupils are familiar with the routine)
+	*   Encourage use of new words and creativity.
+	*   When appropriate, show briefly use of word identification skills in writing.
+	*   Encourage groups to edit and revise drafts on their own. (once pupils are familiar with the routine)
 
 *   Have the groups read their writing to you once they have finished. Find time for them to read their final copy to the class.
 *   Collect the writing pieces for ‘publication’ in a folder or booklet or post them on display.
