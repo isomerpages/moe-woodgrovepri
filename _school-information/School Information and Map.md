@@ -27,4 +27,3 @@ Email     : [woodgrove\_ps@moe.edu.sg]
 
 ![](/images/WGPS%20MAP.jpg)
 
-(mailto:woodgrove_ps@moe.edu.sg)
