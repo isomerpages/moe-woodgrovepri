@@ -5,13 +5,11 @@ description: ""
 ---
 ### General Office Opening Hours
 
-##
 
 Mon - Fri : 8.00 am – 5.00 pm
 
 Closed on Saturdays, Sundays & Public Holidays
 
-##   
 
 ## School Location
 
