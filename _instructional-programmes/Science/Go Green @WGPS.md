@@ -6,7 +6,8 @@ third_nav_title: Science
 ---
 # **Go Green @WGPS**
 
-![](/images/go%20green.jpg)
+![](/images/new%20go%20green%20copy.jpg)
+
 
 ### Vision
 
