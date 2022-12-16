@@ -35,4 +35,4 @@ During ALP lessons, students are encouraged to be creative by experimenting with
 
 ![](/images/a%20Slide2%20(1)%20copy.jpg)
 
-![](/images/Slide3%20(1).jpg)
+![](/images/a%20Slide3%20(1)%20copy.jpg)
