@@ -4,8 +4,6 @@ permalink: /woodgrovians-learn/CCE-Programmes/growth-mindset/
 description: ""
 third_nav_title: CCE Programmes
 ---
-
-
 # **Growth Mindset**
 
 In line with our school’s philosophy ‘Every Child can Shine’, the school embarks on Growth Mindset curriculum that aims to develop our Woodgrovians to become confident persons, self-directed learners, active contributors and concerned citizens.
@@ -27,8 +25,9 @@ Since its inception in 2020, our Woodgrovians  have been taught   the Growth 
 
 ![](/images/1%20Growth%20Mindset%20Photos.jpg)
 ![](/images/2%20Growth%20Mindset%20Photos.jpg)
-![](/images/3%20Growth%20Mindset%20Photos.jpg)
-![](/images/4%20Growth%20Mindset%20Photos.jpg)
+![](/images/3a%20Growth%20Mindset%20Photos%20copy.jpg)
+![](/images/4a%20Growth%20Mindset%20Photos%20copy.jpg)
+
 
 Useful Information for Parents
 ------------------------------
@@ -42,4 +41,3 @@ Parents can complement school’s efforts in instilling Growth Mindset in your c
 [https://www.kiddiematters.com/6-tips-for-creating-a-growth-mindset-home-environment/](https://www.kiddiematters.com/6-tips-for-creating-a-growth-mindset-home-environment/)
 
 [https://www.heysigmund.com/positioning-kids-teens-thrive-11-practical-powerful-ways-build-growth-mindset/](https://www.heysigmund.com/positioning-kids-teens-thrive-11-practical-powerful-ways-build-growth-mindset/)
-
