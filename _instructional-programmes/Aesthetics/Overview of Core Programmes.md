@@ -37,7 +37,7 @@ Strategies:
 
 The objectives of the curriculum are achieved through the framework EXPOSE, EXPERIENCE and EXCELLENCE. We will expose students to various art forms, through special programmes and learning journeys; create experiences to develop students’ knowledge and skills in the arts through curriculum and enrichment programmes; as well as to provide them opportunities to demonstrate excellence through school-based and external performances and competitions.
 
-| XPOSE<br>  	| EXPERIENCE 	| EXCELLENCE 	|
+| EXPOSE<br>  	| EXPERIENCE 	| EXCELLENCE 	|
 |---	|---	|---	|
 | <br>In Expose, each student will be given the opportunity to observe and respond to what he sees. He will also develop visual enquiry skills and acquire necessary art techniques.<br><br>This heightens their sensory awareness, arouses curiosity and encourages imagination and generation of ideas. 	| <br>In Experience, each student will generate ideas from the expose stage and explore ways to communicate his thoughts, ideas, emotions and experiences. Students will communicate them through the acquired art techniques.<br> 	| <br>In Excellence, selected students under the school’s Talent Development programme (Art Club), will have the opportunity to celebrate their creative expressions through in-depth study of the area identified and share their artwork.<br><br>Students will be able to create original artworks to express personal responses (individuality as an artist creating artworks for a targeted audience and the world (reason behind the artwork) and personality in their artwork, materials or techniques of choice. 	|
 
