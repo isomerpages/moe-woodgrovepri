@@ -13,7 +13,7 @@ Closed on Saturdays, Sundays & Public Holidays
 
 ## School Location
 
-Address :     2 Woodlands Drive 14 
+Address :     2 Woodlands Drive 14 Singapore 738079
 
                      Singapore 738079
 
