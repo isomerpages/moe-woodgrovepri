@@ -42,3 +42,10 @@ The inter-class music competitions provide opportunities for students to 
 (ii) work together on  class ensemble performance and 
 
 (iii) appreciate community songs and folk songs from both local and global cultures.
+
+![](/images/P2%20Music2.jpg)
+
+**Music Busking (P3-P6)**
+
+
+Music Busking provides a platform for our students to showcase their musical performance in school. The performance items include singing, dancing and instrument playing. Busking cultivates self-confidence as students present their musical talents.
