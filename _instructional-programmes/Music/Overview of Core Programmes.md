@@ -29,3 +29,16 @@ Challenging opportunities such as music competitions and music busking enable th
 Students are assessed on the different domains of music learning (Knowledge, Skills, Performance, Creativity and Critical skills) to ensure a fair assessment on their progress.
 
 Assessment modes include Performance, Composition, Project Work, and Pen and Paper Quiz. Regular and constructive feedback is given to students to help them improve their work
+
+**Co-curricular Programmes**
+
+###### Inter-class Music Competition (P1-P6)
+
+
+The inter-class music competitions provide opportunities for students to 
+
+(i) showcase the learning products of their respective Music Programmes, 
+
+(ii) work together on  class ensemble performance and 
+
+(iii) appreciate community songs and folk songs from both local and global cultures.
