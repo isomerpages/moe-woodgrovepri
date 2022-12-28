@@ -13,3 +13,19 @@ The department offers a variety of music programmes to develop the students’ u
 ![](/images/Slide1%20(6).jpg)
 
 ![](/images/Music%20Programme%20Table.jpg)
+
+**E3 Framework**
+### 
+The music programme uses the E3 Framework (EXPOSE, EXPERIENCE and EXCELLENCE):
+
+Students are exposed to different types, genres and cultures of music through curriculum and music assembly program
+
+Various learning experiences are planned to develop their skills and knowledge
+
+Challenging opportunities such as music competitions and music busking enable them to excel as they compete against others or as they lead in musical programmes
+
+**Assessment**
+
+Students are assessed on the different domains of music learning (Knowledge, Skills, Performance, Creativity and Critical skills) to ensure a fair assessment on their progress.
+
+Assessment modes include Performance, Composition, Project Work, and Pen and Paper Quiz. Regular and constructive feedback is given to students to help them improve their work
