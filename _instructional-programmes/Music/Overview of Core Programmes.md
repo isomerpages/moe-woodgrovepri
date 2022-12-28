@@ -12,3 +12,4 @@ The department offers a variety of music programmes to develop the students’ u
 
 ![](/images/Slide1%20(6).jpg)
 
+![](/images/Music%20Programme%20Table.jpg)
