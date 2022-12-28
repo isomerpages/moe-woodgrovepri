@@ -15,7 +15,7 @@ The department offers a variety of music programmes to develop the students’ u
 ![](/images/Music%20Programme%20Table.jpg)
 
 **E3 Framework**
-### 
+
 The music programme uses the E3 Framework (EXPOSE, EXPERIENCE and EXCELLENCE):
 
 Students are exposed to different types, genres and cultures of music through curriculum and music assembly program
