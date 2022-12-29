@@ -57,3 +57,4 @@ Music Busking provides a platform for our students to showcase their musical per
 ##### P1-P6 Music SOW Overview
 
 ![](/images/P1%20to%20P2%20new.jpg)
+![](/images/P3%20to%20P4.jpg)
