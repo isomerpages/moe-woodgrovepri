@@ -3,14 +3,6 @@ title: School Information and Map
 permalink: /school-information/permalink/
 description: ""
 ---
-### General Office Opening Hours
-
-
-Mon - Fri : 8.00 am – 5.00 pm
-
-Closed on Saturdays, Sundays & Public Holidays
-
-
 ## School Location
 
 Address :     2 Woodlands Drive 14 Singapore 738079
