@@ -57,6 +57,8 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 ![](/images/P5%20.jpg)
 ![](/images/P5a.jpg)
 
+![](/images/P6.jpg)
+
 ##### Primary 5
 
 | UNIT 	| LESSONS / DURATION 	| Lesson Objectives<br>At the end of the lesson, pupils will be able to: 	| TIME PERIOD<br>(e.g. Term 1 Wk 2) 	|
