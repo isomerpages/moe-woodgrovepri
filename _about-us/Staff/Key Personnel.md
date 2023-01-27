@@ -20,8 +20,9 @@ third_nav_title: Staff
 | HOD (CCE) 	| Miss Kathy Lau 	|[lau_pui_lye_kathy@schools.gov.sg](lau_pui_lye_kathy@schools.gov.sg) 	|
 | HOD ICT (Covering) 	| Mdm Koh Shini 	| [koh_shini@schools.gov.sg](mailto:koh_shini@schools.gov.sg) 	|
 | School Staff Developer 	| Mrs Lim-Seow Joo Hwang 	| [lim-seow_joo_hwang@schools.gov.sg](mailto:lim-seow_joo_hwang@schools.gov.sg) 	|
+| YH (UP) & HOD Stu Mgt (Covering)	| Mr Daniel Chong 	| [daniel_chong_chung_koon@schools.gov.sg](mailto:daniel_chong_chung_koon@schools.gov.sg) 	|
 | Year Head (Lower Primary) 	| Mdm Yuniza 	| [yuniza_mohamad_eusope@schools.gov.sg](mailto:yuniza_mohamad_eusope@schools.gov.sg) 	|
-| Year Head (Upper Primary)  	| Mr Daniel Chong 	| [daniel_chong_chung_koon@schools.gov.sg](mailto:daniel_chong_chung_koon@schools.gov.sg) 	|
+| Assistant Year Head 	| Mr Kavin Chong 	| [kavin_chong_shi_jie@schools.gov.sg](mailto:kavin_chong_shi_jie@schools.gov.sg) 	|
 | LH (Maths)  	| Mr Jacky Chong 	| [chong_chieh_min@schools.gov.sg](mailto:chong_chieh_min@schools.gov.sg) 	|
 | LH (Science) 	| Miss Fatin Suhaila 	| [chong_chieh_min@schools.gov.sg](mailto:fatin_suhaila_omar@schools.gov.sg) 	|
 | LH (Chinese Language) 	| Mdm Chong Siew Yin 	| [chong_chieh_min@schools.gov.sg](mailto:chong_siew_yin@schools.gov.sg) 	|
@@ -30,7 +31,7 @@ third_nav_title: Staff
 | SH (Aesthetics) 	| Mdm Phang Sze Mein 	| [phang_sze_mein@schools.gov.sg](mailto:phang_sze_mein@schools.gov.sg) 	|
 
 |SH (Student Well-Being) 	| Mdm Nur Idayu Binte Yusi 	| [nur_idayu_yusi@schools.gov.sg](mailto:nur_idayu_yusi@schools.gov.sg) 	|
-| AYH (P5) 	| Mr Kavin Chong 	| [kavin_chong_shi_jie@schools.gov.sg](mailto:kavin_chong_shi_jie@schools.gov.sg) 	|
+
 | Lead Teacher (TL) 	| Mdm Jegajothy Sivapatham 	| [ravindran_jegajothy@schools.gov.sg](mailto:ravindran_jegajothy@schools.gov.sg) 	|
 | ST (Educational Support) 	| Mdm Ang Soh Kim 	| [ang_soh_kim@schools.gov.sg](mailto:ang_soh_kim@schools.gov.sg) 	|
 | ST (Maths) 	| Miss Kala Devi 	| [kala_devi_ramasamy@schools.gov.sg](mailto:kala_devi_ramasamy@schools.gov.sg) 	|
