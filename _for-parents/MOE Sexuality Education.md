@@ -33,7 +33,7 @@ description: ""
 You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.&nbsp;
  
 
-**Overview of WOOGROVE&nbsp;Primary&nbsp;School’s&nbsp;Sexuality Education Programme for 2022**
+**Overview of WOOGROVE&nbsp;Primary&nbsp;School’s&nbsp;Sexuality Education Programme for 2023**
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. 
 
