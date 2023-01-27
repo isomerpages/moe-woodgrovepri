@@ -58,3 +58,4 @@ Music Busking provides a platform for our students to showcase their musical per
 
 ![](/images/P1%20to%20P2%20new.jpg)
 ![](/images/P3%20to%20P4.jpg)
+![](/images/Music%205%20and%206.jpg)
