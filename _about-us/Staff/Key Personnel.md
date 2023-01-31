@@ -30,9 +30,6 @@ third_nav_title: Staff
 | LH (Chinese Language) 	| Mdm Xu Qiao Fen 	| [xu_qiaofen@schools.gov.sg](mailto:xu_qiaofen@schools.gov.sg) 	|
 | SH (Malay Language) 	| Mdm Tuty Erahayu 	| [tuty_erahayu_abdul_hakim@schools.gov.sg](mailto:tuty_erahayu_abdul_hakim@schools.gov.sg) 	|
 | SH (Aesthetics) 	| Mdm Phang Sze Mein 	| [phang_sze_mein@schools.gov.sg](mailto:phang_sze_mein@schools.gov.sg) 	|
-
-
-
 | Lead Teacher (TL) 	| Mdm Jegajothy Sivapatham 	| [ravindran_jegajothy@schools.gov.sg](mailto:ravindran_jegajothy@schools.gov.sg) 	|
 | ST (Educational Support) 	| Mdm Ang Soh Kim 	| [ang_soh_kim@schools.gov.sg](mailto:ang_soh_kim@schools.gov.sg) 	|
 | ST (Maths) 	| Miss Kala Devi 	| [kala_devi_ramasamy@schools.gov.sg](mailto:kala_devi_ramasamy@schools.gov.sg) 	|
