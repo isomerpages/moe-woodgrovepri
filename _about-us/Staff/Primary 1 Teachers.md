@@ -6,15 +6,14 @@ third_nav_title: Staff
 ---
 # **Primary 1 Teachers**
 
-<center><b>Primary 1 Form Teachers (2022)</b></center>
+<center><b>Primary 1 Form Teachers (2023)</b></center>
 
 | Class 	|  Name of Teacher 	|  Email Address 	|
 | ---	| ---	| ---	|
 | 1A 	|Miss Ho Ting En 	| [ho_ting_en@schools.gov.sg](mailto:ho_ting_en@schools.gov.sg) 	|
 |  	| Miss Nur Syafizah Binte Rohayat 	| [nursyafizah_rohayat@schools.gov.sg](mailto:nursyafizah_rohayat@schools.gov.sg) 	|
-|  	| Mrs Selva-Saratha 	| [saratha_raman_sariyan@schools.gov.sg](mailto:saratha_raman_sariyan@schools.gov.sg)  	|
 | 1B 	| Mdm Ritawillis Binte Selamat 	| [ritawillis_selamat@schools.gov.sg](mailto:ritawillis_selamat@schools.gov.sg) 	|
-|  	| Mdm Wong Lilian 	| [ritawillis_selamat@schools.gov.sg](mailto:wong_lilian@schools.gov.sg) 	|
+|  	| Miss Lim Fang Ping 	| [lim_fang_ping@schools.gov.sg](mailto:lim_fang_ping@schools.gov.sg) 	|
 | 1C 	| Mrs Natalie Dheelip 	| [kang_natalie@schools.gov.sg](mailto:kang_natalie@schools.gov.sg) 	|
 |  	| Miss Nur Syafizah Binte Rohayat  	| [nursyafizah_rohayat@schools.gov.sg](mailto:nursyafizah_rohayat@schools.gov.sg) 	|
 | 1D 	| Mdm Sharmala d/o Rajandran 	| [sharmala_rajandran@schools.gov.sg](mailto:sharmala_rajandran@schools.gov.sg) 	|
