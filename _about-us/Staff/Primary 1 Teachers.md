@@ -10,7 +10,7 @@ third_nav_title: Staff
 
 | Class 	|  Name of Teacher 	|  Email Address 	|
 | ---	| ---	| ---	|
-| 1A 	| Miss Chong Jia Wen (Audrey) 	| [chong_jia_wen@schools.gov.sg](mailto:chong_jia_wen@schools.gov.sg) 	|
+| 1A 	|Miss Ho Ting En 	| [ho_ting_en@schools.gov.sg](mailto:ho_ting_en@schools.gov.sg) 	|
 |  	| Miss Siti Aisyah Binte Ahmad 	| [siti_aisyah_ahmad@schools.gov.sg](mailto:siti_aisyah_ahmad@schools.gov.sg) 	|
 |  	| Mrs Selva-Saratha 	| [saratha_raman_sariyan@schools.gov.sg](mailto:saratha_raman_sariyan@schools.gov.sg)  	|
 | 1B 	| Mdm Ritawillis Binte Selamat 	| [ritawillis_selamat@schools.gov.sg](mailto:ritawillis_selamat@schools.gov.sg) 	|
