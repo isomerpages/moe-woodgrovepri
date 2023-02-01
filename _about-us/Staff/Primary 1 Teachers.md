@@ -11,7 +11,7 @@ third_nav_title: Staff
 | Class 	|  Name of Teacher 	|  Email Address 	|
 | ---	| ---	| ---	|
 | 1A 	|Miss Ho Ting En 	| [ho_ting_en@schools.gov.sg](mailto:ho_ting_en@schools.gov.sg) 	|
-|  	| Miss Siti Aisyah Binte Ahmad 	| [siti_aisyah_ahmad@schools.gov.sg](mailto:siti_aisyah_ahmad@schools.gov.sg) 	|
+|  	| Miss Nur Syafizah Binte Rohayat 	| [nursyafizah_rohayat@schools.gov.sg](mailto:nursyafizah_rohayat@schools.gov.sg) 	|
 |  	| Mrs Selva-Saratha 	| [saratha_raman_sariyan@schools.gov.sg](mailto:saratha_raman_sariyan@schools.gov.sg)  	|
 | 1B 	| Mdm Ritawillis Binte Selamat 	| [ritawillis_selamat@schools.gov.sg](mailto:ritawillis_selamat@schools.gov.sg) 	|
 |  	| Mdm Wong Lilian 	| [ritawillis_selamat@schools.gov.sg](mailto:wong_lilian@schools.gov.sg) 	|
