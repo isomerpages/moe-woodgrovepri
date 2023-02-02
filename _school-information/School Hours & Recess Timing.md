@@ -5,7 +5,7 @@ description: ""
 ---
 # **School Hours & recess timing**
 
-### School Hours (2022)
+### School Hours (2023)
 
 | Description of Activity 	| Time 	|
 |---	|---	|
@@ -13,7 +13,7 @@ description: ""
 | Start time of lessons 	| 7.45 am 	|
 | End of school day (lessons) * <br>                                                   <br>* Exceptions<br><br>•  P3 - P6 Students taking HMT will stay  back for 2 additional periods<br><br>•  P5 & P6 Students with SBB Combinations 	| 1.30 pm daily 	|
 
-### Recess Timing (2022)
+### Recess Timing (2023)
 
 | Level 	| Daily Recess 	|
 |---	|---	|
