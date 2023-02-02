@@ -19,7 +19,3 @@ The next registration will be in early May 2023 (for new parents whose child is 
 
 Please find the link [here](https://go.gov.sg/wgps-pv).
 
-### Parents Support Group
-		 
-<img src="/images/Parent%20Support%20Group%202019.jpeg" 
-     style="width:60%">
