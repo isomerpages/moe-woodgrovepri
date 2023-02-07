@@ -41,17 +41,17 @@ The Science Ecogarden trails are designed to provide student-centric learning ex
 
 <b>Science Buskers</b>
 
-Pupils will present interesting Science experiments or facts to their peers or lower primary pupils.  Through such activities, pupils develop a curiosity and interest for Science and improve their creativity, communication skills and confidence.
+Students will present interesting Science experiments or facts to their peers or lower primary pupils.  Through such activities, pupils develop a curiosity and interest for Science and improve their creativity, communication skills and confidence.
 
 <b>Changemakers</b>
 
-Changemakers programme builds servant leadership as pupils explore ways to solve authentic real-life problems using their scientific knowledge and skills.
+Changemakers programme builds servant leadership as students explore ways to solve authentic real-life problems using their scientific knowledge and skills.
 
 <b>Talent Development Programme</b>
 
 <b>Science Olympiad workshops</b>
 
-The Science Olympiad workshops aim to ignite pupils’ passion in Science Learning beyond the Primary School syllabus.
+The Science Olympiad workshops aim to ignite student’ passion in Science Learning beyond the Primary School syllabus.
 
 <b>Excellence 2000 (E2K) Science Programme</b>
 
