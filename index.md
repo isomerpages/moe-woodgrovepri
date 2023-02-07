@@ -14,9 +14,9 @@ sections:
         - title: "Highlights: Virtual Open House"
           description: ""
           url: https://sites.google.com/moe.edu.sg/wgpsvirtualopenhouse2022/home
-        - title: "News: Learn about WPS from WRL Community Wall"
+        - title: ""
           description: ""
-          url: https://padlet.com/woodlandsplsg/KnowYourNeighbourhood
+          url: ""
       url: /contact-us/
       background: /images/NEW 6 Hero Gif slides with Wgps crest 4 .gif
 ---
