@@ -17,25 +17,25 @@ At Woodgrove Primary School, we recognise that each child is unique and has diff
 
 <h3>Core Department Programmes</h3>
 
-<b>5E/7E Model for Inquiry Based Science Learning</b>
+<b>Modified 6E Model for Inquiry Based Science Learning</b>
 
-Inquiry-based Science learning is a learner-centred approach where pupils are encouraged to discover or construct scientific knowledge and concepts by themselves instead of having teachers directly revealing the learning content. The approach is also effective in developing scientific process skills in pupils.
+Inquiry-based Science learning is a learner-centred approach where students are encouraged to discover or construct scientific knowledge and concepts by themselves or with peers instead of having teachers directly revealing the learning content. The approach is also effective in developing Scientific process skills in students.
 
 <b>Flipped Learning</b>
 
-To encourage self-directed learning, pupils will learn key science concepts and process skills through self-paced online lessons in student learning space (SLS).
+To encourage self-directed learning, students will learn key Science concepts and process skills through self-paced online lessons in student learning space (SLS).
 
 **Project Work**
 
-Designed to allow pupils to apply their learning across subjects, Project Work is part of the whole school approach towards the development of 21st century skills. It provides the opportunity for pupils to work in groups and learn cooperative and collaborative skills.
+Designed to allow students to apply their learning across subjects, Project Work is part of the whole school approach towards the development of 21st century skills. It provides the opportunity for students to work in groups and learn cooperative and collaborative skills.
 
 **Learning Journeys**
 
-Learning journeys are organised to enrich pupils’ learning beyond the classrooms. The experiential learning provides opportunities for pupils to explore, discover and experience science in everyday life, and develop positive attitude such as care and concern for the environment, and develop a sense of global responsibility.
+Learning journeys are organised to enrich student’ learning beyond the classrooms. The experiential learning provides opportunities for students to explore, discover and experience Science in everyday life, and develop positive attitude such as care and concern for the environment, and develop a sense of global responsibility.
 
 <b>Ecogarden Learning Trails</b>
 
-The Science Ecogarden trails are designed to provide student-centric learning experiences which build on pupils’ interest in and stimulate their curiosity about their environment. They serve to provide a rich diversity of learning experiences that cater not only to the cognitive aspects, but also the physical, aesthetic, moral and socio-emotional domains.
+The Science Ecogarden trails are designed to provide student-centric learning experiences which build on student’ interest in and stimulate their curiosity about their environment. They serve to provide a rich diversity of learning experiences that cater not only to the cognitive aspects, but also the physical, aesthetic, moral and socio-emotional domains.
 
 <b>Joy In Science</b>
 
