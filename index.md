@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: "Highlights: NParks CIN School Awards 2022"
+        - title: Highlights
           description: ""
           url: https://www.nparks.gov.sg/-/media/cinsa-2022-ebooklet-4mb.ashx
-        - title: "Highlights: Virtual Open House"
+        - title: Links
           description: ""
           url: https://sites.google.com/moe.edu.sg/wgpsvirtualopenhouse2022/home
         - title: ""
