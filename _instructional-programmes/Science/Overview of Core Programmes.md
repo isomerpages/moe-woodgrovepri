@@ -55,4 +55,4 @@ The Science Olympiad workshops aim to ignite student’ passion in Science Learn
 
 <b>Excellence 2000 (E2K) Science Programme</b>
 
-The E2K Science Programme is a science enrichment programme developed by the Israel Centre for Excellence through Education (ICEE) and endorsed by the Singapore Gifted Education Branch. Through a selection process, pupils who demonstrate high interest and ability in science will be selected to participate in E2K programmes.
+The E2K Science Programme is a science enrichment programme developed by the Israel Centre for Excellence through Education (ICEE) and endorsed by the Singapore Gifted Education Branch. Through a selection process, students who demonstrate high interest and ability in science will be selected to participate in E2K programmes.
