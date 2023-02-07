@@ -7,9 +7,9 @@ description: ""
 
 In Woodgrove Primary, we strive to develop our Woodgrovians into confident individuals who are active and proficient in the use of their respective Mother Tongue Languages.
 
-We strongly believe in the importance of reading and seek to build a reading culture in Woodgrove and inculcate in our Woodgrovians good reading habits.   Through the Extensive and Intensive Reading Programmes, our Woodgrovians develop an   interest and love in reading Mother Tongue  books and develop strong reading comprehension skills. 
+We strongly believe in the importance of reading and seek to build a reading culture in Woodgrove and inculcate in our Woodgrovians good reading habits.   Through the Extensive and Intensive Reading Programmes, our Woodgrovians develop an interest and love in reading Mother Tongue  books and develop strong reading comprehension skills. 
 
-Rooted in our belief in creating a conducive learning environment that promotes the learning of the languages and respective cultures and values, the department designs programmes such as the MT Fortnight and P4 Cultural Camp to introduce the Chinese, Malay and Tamil Heritage and culture to the respective Woodgrovians, helping them to not only appreciate their culture, ignite their passion in Mother Tongue and inspiring them to excel in their Mother Tongue Languages.
+Rooted in our belief in creating a conducive learning environment that promotes the learning of the languages and respective cultures and values, the team designs programmes such as the MT Fortnight and P4 Cultural Camp to introduce the Chinese, Malay and Tamil Heritage and culture to the respective Woodgrovians, helping them to not only appreciate their culture, ignite their passion in Mother Tongue and inspiring them to excel in their Mother Tongue Languages.
 
 ### Core Programmes
 
