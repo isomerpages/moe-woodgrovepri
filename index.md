@@ -18,5 +18,5 @@ sections:
           description: ""
           url: ""
       url: /contact-us/
-      background: /images/NEW 6 Hero Gif slides with Wgps crest 4 .gif
+      background: /images/Website front final version.gif
 ---
