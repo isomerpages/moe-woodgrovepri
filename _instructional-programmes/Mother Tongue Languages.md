@@ -29,20 +29,20 @@ We arrange Cultural camps for our Primary 4 Woodgrovians to provide them with a
 
 ### Mother Tongue Language (MTL) Fortnight
 
-The department plans a 2 week long programme comprising varied MTL activities and level competitions to bring about Joy of Learning in MTL Languages. These activities provide authentic learning experiences for Woodgrovians to use their Mother Tongue language and be exposed to the culture.
+The team plans a 2 week long programme comprising varied MTL activities and level competitions to bring about Joy of Learning in MTL Languages. These activities provide authentic learning experiences for Woodgrovians to use their Mother Tongue language and be exposed to the culture.
 
 ![](/images/4%20MT%20Photos.jpg)
 ![](/images/5%20MT%20Photos.jpg)
 
 ### Language Fiesta
 
-Language Fiesta is a programme specially designed for Primary 1 and Primary students, to instil joy of learning in Mother Tongue Language.  Woodgrovians go through a variety of language related activities during the programme, such as text recital, language games and quizzes. Through the Language Fiesta, our Woodgrovians not only find greater joy in the learning of the Mother Tongue Languages but also learn more vocabularies along the way.
+Language Fiesta is a programme specially designed for Primary 1 and Primary 2 students, to instil joy of learning in Mother Tongue Language.  Woodgrovians go through a variety of language related activities during the programme, such as text recital, language games and quizzes. Through the Language Fiesta, our Woodgrovians not only find greater joy in the learning of the Mother Tongue Languages but also learn more vocabularies along the way.
 
 ![](/images/6%20MT%20Photos.jpg)
 
 ### Useful Information for Parents
 
-**List of Approved Dictionaries for Use in 2021 PSLE**   
+**List of Approved Dictionaries for Use in 2022 PSLE**   
 **[Approved Dictionaries_PSLE 2021.pdf](/files/Approved%20Dictionaries_PSLE%202021.pdf)**
 
 ****Parents' Guide to Primary School MTL Curriculum**  
