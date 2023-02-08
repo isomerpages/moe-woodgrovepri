@@ -4,7 +4,9 @@ permalink: /woodgrovians-learn/instructional-programmes/science/go-green-at-wgps
 description: ""
 third_nav_title: Science
 ---
-# **Go Green @WGPS**
+# **Bloom @WGPS**
+
+
 ![](/images/new%202%20go%20green%20copy%202.jpg)
 
 
