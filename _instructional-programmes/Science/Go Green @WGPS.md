@@ -5,14 +5,12 @@ description: ""
 third_nav_title: Science
 ---
 # **Bloom @WGPS**
+![](/images/Picture1.jpg)
 
-
-![](/images/new%202%20go%20green%20copy%202.jpg)
 
 
 ### Vision
-
-We aspire to educate, inspire, and involve our students, staff and stakeholders to build a greener future.
+Every Woodgrovian Shines as an Eco-steward – Advocates, Beacons and Change-makers.
 
 | Education 	| Experience 	| Empowerment 	|
 |---	|---	|---	|
