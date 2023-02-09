@@ -53,7 +53,7 @@ The key objective is to help students acquire and understand the core thinking s
 
 **Excellence 2000 (E2K) Mathematics Programme**
 
-The E2K Mathematics Programme Singapore is a Mathematics enrichment programme developed by the Israel Centre for Excellence through Education (ICEE). The programme, which is rolled out for selected P4 and P5 pupils, uses game-based learning to expand students’ horizons and reinforces their confidence in their ability to cope with scholastic changes.
+The E2K Mathematics Programme Singapore is a Mathematics enrichment programme developed by the Israel Centre for Excellence through Education (ICEE). The programme, which is rolled out for selected P4, P5 and P6 students, uses game-based learning to expand students’ horizons and reinforces their confidence in their ability to cope with scholastic changes.
 
 **Improving Confidence and Achievement in Numeracy (ICAN)**
 
@@ -67,4 +67,4 @@ The main objective of the project is to raise the confidence and achievement of 
 
 **Learning Support for Math (LSM)**
 
-Learning Support for Mathematics (LSM) is an early intervention effort aimed at providing additional support to students who do not have foundational numeracy skills and knowledge to access the Primary 1 Math curriculum. Students are identified for the intervention through a screening process carried out at the beginning of Primary 1. They are supported by a LSM Teacher for 4–8 periods a week. The programme is extended to students at P2 who require the extra support.
+Learning Support for Mathematics (LSM) is an early intervention effort aimed at providing additional support to students who do not have foundational numeracy skills and knowledge to access the Primary 1 Math curriculum. Students are identified for the intervention through a screening process carried out at the beginning of Primary 1. They are supported by a LSM Teacher for 4–8 periods a week. The programme is extended to students at P2 and P3 who require the extra support.
