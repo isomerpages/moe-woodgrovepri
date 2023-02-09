@@ -14,9 +14,6 @@ sections:
         - title: Links
           description: ""
           url: https://sites.google.com/moe.edu.sg/wgpsvirtualopenhouse2022/home
-        - title: ""
-          description: ""
-          url: ""
       url: /contact-us/
       background: /images/Website front final version.gif
 ---
