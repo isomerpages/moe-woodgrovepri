@@ -10,8 +10,8 @@ third_nav_title: Mathematics
 
 #### Department Vision
 
-Pupils attaining problem solving ability and applying Mathematics in practical tasks and real life problems effectively.
+Students attaining problem solving ability and applying Mathematics in practical tasks and real life problems effectively.
 
 #### Department Mission
 
-The Mathematics Department aims to help pupils acquire mathematical concepts and skills and develop their ability to make logical deduction and induction
+The Mathematics Department aims to help students acquire mathematical concepts and skills and develop their ability to make logical deduction and induction
