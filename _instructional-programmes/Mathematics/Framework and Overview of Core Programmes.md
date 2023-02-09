@@ -33,7 +33,7 @@ Key features  of rich tasks include a focus on collaborative learning and the ap
 They make learning mathematics accessible to all students  due to their low threshold  (simple enough to encourage everyone to start) and high ceiling (open-ended to allow for extension in learning- critical thinking and higher-order problem solving) nature.
 
 
-ematics problem solving requires students to analyse, compare and contrast strategies. When they are communicating mathematical ideas and solutions to the problems, they have to describe, use and explicate their thinking processes to make the necessary and relevant connections to mathematical ideas and concepts. The SAIL approach lends itself very well to providing opportunities for students to explore different problem solving strategies and to justify the formulae or rules used to solve the problem. The approach enables students to extend and explain the mathematically relevant observation made or pattern identified which goes beyond solving the problem, and to relate mathematics to real life situations.
+
 
 **High Ability Programme**
 
