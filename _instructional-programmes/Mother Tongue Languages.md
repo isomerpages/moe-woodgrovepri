@@ -42,7 +42,7 @@ Language Fiesta is a programme specially designed for Primary 1 and Primary 2 st
 
 ### Useful Information for Parents
 
-**List of Approved Dictionaries for Use in 2022 PSLE**   
+**List of Approved Dictionaries for Use in 2023 PSLE**   
 **[Approved Dictionaries_PSLE 2021.pdf](/files/Approved%20Dictionaries_PSLE%202021.pdf)**
 
 ****Parents' Guide to Primary School MTL Curriculum**  
