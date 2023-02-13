@@ -12,6 +12,10 @@ At Woodgrove Primary School, we recognise that each child is unique and has diff
 
 <h3>Science Core Programmes</h3>
 
+![](/images/Science%20Core%20Programmes1.jpg)
+
+![](/images/Science%20Core%20Programmes2.jpg)
+
 
 
 
