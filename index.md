@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Highlights
           description: ""
-          url: https://www.nparks.gov.sg/-/media/cinsa-2022-ebooklet-4mb.ashx
+          url: https://www.youtube.com/watch?v=iY176eVvBWk&feature=youtu.be
         - title: Links
           description: ""
           url: https://sites.google.com/moe.edu.sg/wgpsvirtualopenhouse2022/home
