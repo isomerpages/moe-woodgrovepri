@@ -15,5 +15,5 @@ sections:
           description: ""
           url: /for-students/useful-links-for-students/
       url: /contact-us/
-      background: /images/resized frontpage website 2b.gif
+      background: /images/slidesoar.jpg
 ---
