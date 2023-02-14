@@ -34,7 +34,7 @@ third_nav_title: CCE Programmes
 
 **Attendance**
 
-*   Students' attendance will be monitored closely. Students’ attendance will be monitored closely. Students are encouraged to attain at least 80% of their CCA attendance.
+*   Students' attendance will be monitored closely.  Students are encouraged to attain at least 80% of their CCA attendance.
 *   Students who are on medical leave must inform their teachers in charge.
 
 **Reward and Recognition**
