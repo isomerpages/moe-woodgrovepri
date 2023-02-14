@@ -15,7 +15,7 @@ third_nav_title: CCE Programmes
 ### Range of CCAs
 
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal" colspan="3">PERFORMING ARTS</th></tr></thead><tbody><tr><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">Sports and Games</span><br><br>Badminton<br><br>Basketball<br><br>Football<br><br>Netball<br><br>Skipping<br><br>Table Tennis<br><br>Modular Martial Arts<br><br><br><br><br></td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">Dance</span><br><br>Chinese Dance<br><br>Indian Dance<br><br>International Dance<br><br>Malay Dance<br> <br><br><span style="font-weight:bold;text-decoration:underline">Music</span><br><br>Chinese Orchestra<br><br>Dikir Barat<br><br>Choir</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">Clubs</span><br><br>Art Club<br><br>Chinese Cultural Club<br><br>English Drama and Literacy Club<br><br>Green Club Science Club<br><br>Math Club<br><br>Media Discovery Club<br><br>Robotics<br> <br> <br><span style="font-weight:bold;text-decoration:underline">Uniformed Groups</span><br><br>Brownies<br><br>Scouts</td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal" colspan="3">PERFORMING ARTS</th></tr></thead><tbody><tr><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">Sports and Games</span><br><br>Badminton<br><br>Basketball<br><br>Football<br><br>Netball<br><br>Skipping<br><br>Table Tennis<br><br>Modular Martial Arts<br><br><br><br><br></td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">Dance</span><br><br>Chinese Dance<br><br>Indian Dance<br><br>Modern Dance<br><br>Malay Dance<br> <br><br><span style="font-weight:bold;text-decoration:underline">Music</span><br><br>Chinese Orchestra<br><br><br>Show Choir</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">Clubs</span><br><br>Art Club<br><br>Chinese Cultural Club<br><br>Woodgrove Playhouse<br><br>Green Club <br><br><br>Digital Media Club<br><br>Robotics<br> <br> <br><span style="font-weight:bold;text-decoration:underline">Uniformed Groups</span><br><br>Brownies<br><br>Scouts</td></tr></tbody></table>
 
 
 
@@ -29,13 +29,12 @@ third_nav_title: CCE Programmes
 
 *   All students from P2 to P6 are highly encouraged to participate in at least one CCA
 *   Talent Identification will be conducted for P2 students in the area of Sports and Performing Arts in the beginning of the year.
-*   Students who are talented in more than one area can participate in up to TWO CCAs subject to school's approval.
-*   All CCAs will be conducted based on a 30 - week programme.
+*   All CCAs will be conducted based on a 25 - week programme.
 *   Students are to return home immediately after CCA sessions.
 
 **Attendance**
 
-*   Students' attendance will be monitored closely. Students’ attendance will be monitored closely. Letters of recommendation and commendations are given to students who have attained at least 80% of their CCA attendance.
+*   Students' attendance will be monitored closely. Students’ attendance will be monitored closely. Students are encouraged to attain at least 80% of their CCA attendance.
 *   Students who are on medical leave must inform their teachers in charge.
 
 **Reward and Recognition**
