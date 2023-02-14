@@ -15,5 +15,5 @@ sections:
           description: ""
           url: /for-students/useful-links-for-students/
       url: /contact-us/
-      background: /images/HERO V2.gif
+      background: /images/HERO V3.gif
 ---
