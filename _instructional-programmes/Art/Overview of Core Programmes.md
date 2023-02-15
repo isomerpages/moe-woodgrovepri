@@ -4,7 +4,6 @@ permalink: /woodgrovians-learn/instructional-programmes/Aesthetics/overview-of-c
 description: ""
 third_nav_title: Art
 ---
-
 # **Overview of Core Programmes**
 
 ### PHILOSOPHY
@@ -27,8 +26,7 @@ Nurturing Young Artists: Achievements & Development in Arts
 
 Strategies:
 
-*   Niche area for development (CERAMICS)
-*   Sustain talent development programme to develop an early interest in the Arts and talent development (P2-6 Art Club)
+*   Sustain talent development programme to develop an early interest in the Arts and talent development (P3-6 Art Club)
 *   Enhancement of co-curriculum programmes for participation based on interest
 *   4Cs (Competency-Connection-Choice-Care)
 
