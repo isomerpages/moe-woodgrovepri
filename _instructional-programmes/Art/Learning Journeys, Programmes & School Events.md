@@ -4,13 +4,8 @@ permalink: /woodgrovians-learn/instructional-programmes/aesthetics/lj-programmes
 description: ""
 third_nav_title: Art
 ---
-
-
-
 # **Learning Journeys, Programmes & School Events**
 
-
-![](/images/Slide1%20(5).jpg)
 
 ![](/images/Slide2%20(4).jpg)
 
