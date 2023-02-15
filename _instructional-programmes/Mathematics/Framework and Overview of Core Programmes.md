@@ -8,7 +8,7 @@ third_nav_title: Mathematics
 
 ### Framework
 
-![](/images/Math%20Framework%202016%20for%20website_14Jan16.jpg)
+![](/images/Math%20Framework%202016%20for%20website%202023.jpg)
 
 ### Overview of Core Programmes
 
