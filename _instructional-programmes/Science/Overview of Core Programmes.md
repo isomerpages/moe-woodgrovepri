@@ -38,7 +38,7 @@ Learning journeys are organised to enrich students’ learning beyond the classr
 
 <b>Ecogarden Learning Trails</b>
 
-The Science Ecogarden trails are designed to provide student-centric learning experiences which build on student’ interest in and stimulate their curiosity about their environment. They serve to provide a rich diversity of learning experiences that cater not only to the cognitive aspects, but also the physical, aesthetic, moral and socio-emotional domains.
+The Science Ecogarden trails are designed to provide student-centric learning experiences which build on students’ interest in and stimulate their curiosity about their environment. They serve to provide a rich diversity of learning experiences that cater not only to the cognitive aspects, but also the physical, aesthetic, moral and socio-emotional domains.
 
 <b>Joy In Science</b>
 
