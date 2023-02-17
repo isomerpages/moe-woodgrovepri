@@ -40,7 +40,7 @@ The SwimSafer 2.0 Programme consists of six progressive stages, each comprising 
 ![](/images/PHOTOS_PECCA%202021.jpg)
 ![](/images/Slide4%20(2).jpg)
 
-### P5 Camp ACE:
+### P5 Camp A.C.E.
 
 This 3 day 2 night camp aims to emphasize the importance of teamwork and provide opportunities for Woodgrovians to experience outdoor activities through orienteering, challenge rope courses, low elements teambuilding and celebrating round a campfire. It is also a platform for character building through cooperation, teamwork and leadership.
 
