@@ -1,0 +1,16 @@
+collections:
+  woodgrovians-learn:
+    output: true
+    order:
+      - Signature Programmes/Applied Learning Programme (ALP).md
+      - "Signature Programmes/LLP: Shine Through Dance.md"
+      - Signature Programmes/Curriculum Innovation.md
+      - Signature Programmes/Chinese Language Flagship Programme.md
+      - Signature Programmes/Green @WGPS.md
+      - Signature Programmes/.keep
+      - CCE Programmes/CCA.md
+      - CCE Programmes/National Education.md
+      - CCE Programmes/PAL (Programme for active learning).md
+      - CCE Programmes/Student Leadership.md
+      - CCE Programmes/Growth Mindset.md
+      - CCE Programmes/.keep

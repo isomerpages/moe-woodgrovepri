@@ -1,0 +1,8 @@
+collections:
+  for-students:
+    output: true
+    order:
+      - Useful Links for Students/.keep
+      - Useful Links for Students/Useful Links for Students.md
+      - Useful Links for Students/Student Learning Space (SLS).md
+      - Useful Links for Students/Student iCON.md

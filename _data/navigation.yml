@@ -1,13 +1,24 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Woodgrovians Learn
+    url: /woodgrovians-learn/instructional-programmes/english
+    sublinks:
+      - title: Instructional Programmes
+        url: /woodgrovians-learn/instructional-programmes/english
+      - title: Signature Programmes
+        url: /woodgrovians-learn/signature-programmes/applied-learning-programme-alp
+      - title: CCE Programmes
+        url: /woodgrovians-learn/cce-programmes/cca
+  - title: Woodgrovians Celebrate
+    collection: woodgrovians-celebrate
+  - title: Useful Information
+    url: /for-parents/assessment-n-examination-matters/examination-policy
+    sublinks:
+      - title: For Parents
+        url: /for-parents/assessment-n-examination-matters/examination-policy
+      - title: For Students
+        url: /for-students/useful-links-for-students
+  - title: School Information
+    collection: school-information
