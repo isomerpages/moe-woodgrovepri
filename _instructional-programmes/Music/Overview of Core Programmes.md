@@ -16,7 +16,7 @@ The department offers a variety of music programmes to develop the students’ u
 
 ![](/images/musicoverview2.png)
 
-
+![](/images/musicoverview3.png)
 
 **E3 Framework**
 
