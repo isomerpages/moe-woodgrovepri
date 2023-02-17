@@ -4,7 +4,7 @@ permalink: /woodgrovians-learn/instructional-programmes/music/overview-of-core-p
 description: ""
 third_nav_title: Music
 ---
-![](/images/musicoverview2.png)# **Overview of Core Programmes**
+# **Overview of Core Programmes**
 
 **Programmes offered by the Music Department**
 
@@ -47,7 +47,7 @@ The inter-class music competitions provide opportunities for students to 
 
 (iii) appreciate community songs and folk songs from both local and global cultures.
 
-![](/images/P2%20Music2.jpg)
+
 
 **Music Busking (P3-P6)**
 
