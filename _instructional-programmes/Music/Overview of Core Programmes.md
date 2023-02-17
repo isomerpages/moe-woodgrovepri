@@ -4,7 +4,7 @@ permalink: /woodgrovians-learn/instructional-programmes/music/overview-of-core-p
 description: ""
 third_nav_title: Music
 ---
-# **Overview of Core Programmes**
+![](/images/musicoverview2.png)# **Overview of Core Programmes**
 
 **Programmes offered by the Music Department**
 
@@ -12,7 +12,11 @@ The department offers a variety of music programmes to develop the students’ u
 
 ![](/images/Slide1%20(6).jpg)
 
-![](/images/Music%20Programme%20Table.jpg)
+![](/images/musicoverview1.png)
+
+![](/images/musicoverview2.png)
+
+
 
 **E3 Framework**
 
