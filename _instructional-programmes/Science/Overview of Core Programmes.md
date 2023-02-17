@@ -54,7 +54,7 @@ Changemakers programme builds servant leadership as students explore ways to sol
 
 <b>Science Olympiad workshops</b>
 
-The Science Olympiad workshops aim to ignite student’ passion in Science Learning beyond the Primary School syllabus.
+The Science Olympiad workshops aim to ignite students’ passion in Science Learning beyond the Primary School syllabus.
 
 <b>Excellence 2000 (E2K) Science Programme</b>
 
