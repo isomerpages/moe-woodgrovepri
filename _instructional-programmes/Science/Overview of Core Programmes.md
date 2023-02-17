@@ -34,7 +34,7 @@ Designed to allow students to apply their learning across subjects, Project Work
 
 **Learning Journeys**
 
-Learning journeys are organised to enrich student’ learning beyond the classrooms. The experiential learning provides opportunities for students to explore, discover and experience Science in everyday life, and develop positive attitude such as care and concern for the environment, and develop a sense of global responsibility.
+Learning journeys are organised to enrich students’ learning beyond the classrooms. The experiential learning provides opportunities for students to explore, discover and experience Science in everyday life, and develop positive attitude such as care and concern for the environment, and develop a sense of global responsibility.
 
 <b>Ecogarden Learning Trails</b>
 
