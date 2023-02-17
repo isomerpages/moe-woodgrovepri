@@ -18,8 +18,7 @@ Below is a table that summarizes what the Social Studies Syllabus covers to equi
 
 Field-based learning activities are a core component of the Social Studies learning experience. It allows Woodgrovians opportunities to develop critical thinking, communication and collaborative skills as they work with others to gather and process information while exploring. Information skills are also developed through the process of documenting of  learning using multiple modes of presenting and communicating to others.
 
-Here are some examples of our Woodgrovians engaging in Field-based Learning Activities:
+:
 
-![](/images/1%20SS%20PHOTOS.jpg)
 
-![](/images/2%20SS%20PHOTOS.jpg)
+
