@@ -4,7 +4,6 @@ permalink: /for-students/useful-links-for-students/
 description: ""
 third_nav_title: Useful Links for Students
 ---
-
 # **Useful Links for Students**
 
 ### Student Icon Onboarding Guide
@@ -43,7 +42,7 @@ Link to [School Library & School eResource Repository](https://schoolibrary.moe.
   
 <img src="/images/Scholistic%20Lg%20Zone.jpg" 
      style="width:50%">
-Link to [Scholastic Learning Zone](https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/student/SGPFW7K)
+Link to [Scholastic Learning Zone](https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGP2V8W)
 
 <img src="/images/Koobits.jpg" 
      style="width:50%">
