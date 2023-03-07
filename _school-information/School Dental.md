@@ -7,4 +7,4 @@ description: ""
 
 Parents who need to arrange for a dental appointment for their children should call the dental clinic directly. 
 
-Tel: 6367 8720
+Tel: 8764 2293

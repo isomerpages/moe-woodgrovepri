@@ -30,7 +30,7 @@ description: ""
 
 (iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.&nbsp;
+You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.&nbsp;
  
 
 **Overview of WOOGROVE&nbsp;Primary&nbsp;School’s&nbsp;Sexuality Education Programme for 2023**
