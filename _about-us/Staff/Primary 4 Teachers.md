@@ -14,6 +14,7 @@ third_nav_title: Staff
 |  	| Miss Toh Jia Yi 	| [toh_jia_yi@schools.gov.sg](mailto:toh_jia_yi@schools.gov.sg) 	|
 | 4B 	| Mdm Lee Siew Choo Jane 	| [lee_siew_choo_jane@schools.gov.sg](mailto:lee_siew_choo_jane@schools.gov.sg) 	|
 |  	| Mdm Kamaliza Bte Abu Kassim  	| [kamaliza_abu_kassim@schools.gov.sg](mailto:kamaliza_abu_kassim@schools.gov.sg) 	|
+|  	| Mdm Nurshahidah Bte Mansoor  	| [Nurshahidah_MANSOOR@schools.gov.sg](mailto:Nurshahidah_MANSOOR@schools.gov.sg) 	|
 | 4C 	| Miss Kala Devi d/o Ramasamy 	| [kala_devi_ramasamy@schools.gov.sg](mailto:kala_devi_ramasamy@schools.gov.sg) 	|
 |  	| Miss Lee Ying Hui Daphanie 	| [lee_ying_hui_daphanie@schools.gov.sg](mailto:lee_ying_hui_daphanie@schools.gov.sg) 	|
 | 4D 	| Mr Tan Shing Lee  	|[tan_shing_lee_gad@schools.gov.sg](mailto:tan_shing_lee_gad@schools.gov.sg) 	|
