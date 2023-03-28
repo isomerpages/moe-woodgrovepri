@@ -15,7 +15,7 @@ third_nav_title: Staff
 | 2B 	| Miss Farina Binte Mohamed Ali 	| [farina_mohd_ali@schools.gov.sg](mailto:farina_mohd_ali@schools.gov.sg) 	|
 |  	| Miss Hee Chung Yen 	| [hee_chung_yen@schools.gov.sg](mailto:hee_chung_yen@schools.gov.sg) 	|
 | 2C 	| Mr Muhammad Ashari Bin Saifee 	| [muhammad_ashari_saifee@schools.gov.sg](mailto:muhammad_ashari_saifee@schools.gov.sg) 	|
-|  	| Miss Reina Tay  	| [reina_tay_si_ru@moe.edu.sg](mailto:reina_tay_si_ru@moe.edu.sg) 	|
+|  	| Ms Noor Izzatie Binte Abdul Manaf  	| [noor_izzatie_abdul_manaf@schools.gov.sg](mailto:noor_izzatie_abdul_manaf@schools.gov.sg) 	|
 | 2D 	| Mdm Sharmala d/o Rajandran  	| [sharmala_rajandran@schools.gov.sg](mailto:sharmala_rajandran@schools.gov.sg) 	|
 |  	| Mrs Ng-Tan Yan Ling Jennifer 	| [tan_yan_ling_jennifer@schools.gov.sg](mailto:tan_yan_ling_jennifer@schools.gov.sg) 	|
 | 2E 	| Miss Siti Zubaidah Bte M Ibrahim 	| [siti_zubaidah_m_ibrahim@schools.gov.sg](mailto:siti_zubaidah_m_ibrahim@schools.gov.sg) 	|

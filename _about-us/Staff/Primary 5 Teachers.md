@@ -19,6 +19,6 @@ third_nav_title: Staff
 | 5D 	| Miss Hannah Tjoa Xin Ying 	|[hannah_tjoa_xin_ying@schools.gov.sg](mailto:hannah_tjoa_xin_ying@schools.gov.sg) 	|
 |  	| Mdm Tan Choon Miau  	| [tan_choon_miau@schools.gov.sg](mailto:tan_choon_miau@schools.gov.sg) 	|
 | 5E 	| Miss Choo Yu Ying Louise 	| [choo_yu_ying@schools.gov.sg](mailto:choo_yu_ying@schools.gov.sg) 	|
-|  	| Miss Cheng Mei Xian 	| [cheng_mei_xian@schools.gov.sg](mailto:cheng_mei_xian@schools.gov.sg) 	|
+|  	| Mdm Kamaliza Bte Abu Kassim	| [kamaliza_abu_kassim@schools.gov.sg](mailto:kamaliza_abu_kassim@schools.gov.sg) 	|
 | 5F 	| Miss Low Shiang Ee Renee  	| [low_shiang_ee_renee@schools.gov.sg](mailto:low_shiang_ee_renee@schools.gov.sg)   	|
 |  	| Mdm Jegajothy Sivapatham 	| [ravindran_jegajothy@schools.gov.sg](mailto:ravindran_jegajothy@schools.gov.sg) 	|
