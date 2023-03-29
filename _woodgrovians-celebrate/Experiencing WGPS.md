@@ -4,6 +4,7 @@ permalink: /woodgrovians-celebrate/experiencing-wgps/
 description: ""
 ---
 # **Experiencing WGPS**
+### Term 1 (2023)
 
 ### Term 1 (2022)
 
