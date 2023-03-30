@@ -4,7 +4,18 @@ permalink: /woodgrovians-celebrate/experiencing-wgps/
 description: ""
 ---
 # **Experiencing WGPS**
+### Term 1 (2023)
+[P1 Term 1 Experiencing WGPS](/files/P1%20Term%201%20Experiencing%20WGPS.pdf)
 
+[P2 Term 1 Experiencing WGPS](/files/P2%20Term%201%20Experiencing%20WGPS.pdf)
+
+[P3 Term 1 Experiencing WGPS](/files/P3%20Term%201%20Experiencing%20WGPS.pdf)
+
+[P4 Term 1 Experiencing WGPS](/files/P4%20Term%201%20Experiencing%20WGPS.pdf)
+
+[P5 Term 1 Experiencing WGPS](/files/P5%20Term%201%20Experiencing%20WGPS.pdf)
+
+[P6 Term 1 Experiencing WGPS](/files/P6%20Term%201%20Experiencing%20WGPS.pdf)
 ### Term 1 (2022)
 
 [Annex A_2022 Term 1 Experiencing WGPS P1.pdf](/files/Annex%20A_2022%20Term%201%20Experiencing%20WGPS%20P1.pdf) 
