@@ -21,7 +21,7 @@ North Division Day 2023 <br> Let Your Voices Be Heard! <br> (Poetry) Competition
 
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
 |---	|---	|
-| 6th National Primary School “Picture Book Creation” Competition<br>年第六届全国小学生绘本创作比赛 	| **MERIT AWARD**<br><br>CLAIRE KIK ZHI YU, P6C(2021)<br>WONG JIA XUAN, P6D(2021)<br>KOW REN XI , P6D(2021)<br>    YONG ZI XIAN LORRAINE, P6F(2021)<br> <br>**BRONZE AWARD**<br><br>MI XUAN CHEN, P6B(2021)<br>LOW CHENG JUN, P6C(2021)<br>HUANG CHENG-HAO, P6E(2021)<br>TAN YOU REN,  P6F(2021)<br>YE JUNHAO, P6F(2021) 	|
+| 	|
 
 
 
