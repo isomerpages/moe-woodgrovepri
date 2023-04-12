@@ -18,5 +18,6 @@ third_nav_title: Achievements
 North Division Day 2023 <br> Let Your Voices Be Heard! <br> (Poetry) Competition) | **3rd Place (Brownies Category)**<br>Fatin Safiyyah, 5F<br>Tan An Qi, 3C<br> Denise Oh, 3C<br>
 
 ### Social
-
+| EVENT/COMPETITION 	| ACHIEVEMENT 	|
+|---	|---	|
 | Junior Civil Defence Lionhearter Challenge 2023<br>           | **Top 10 Winners 'Let's Prepare A Ready Bag!'**<br>Chia Zhe Cheng Lewis, 5C<br>Charis Ong, 5F<br> Gayathri Ajay, 6B<br> Ji Hao, 6C<br> Teoh Kar Yee, 6F <br>
