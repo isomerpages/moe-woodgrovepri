@@ -9,26 +9,6 @@ third_nav_title: Achievements
 ### Cognitive
 
 
-### COGNITIVE
-
-| EVENT/COMPETITION 	| ACHIEVEMENT 	|
-|---	|---	|
-| 6th National Primary School “Picture Book Creation” Competition<br>年第六届全国小学生绘本创作比赛 	| **MERIT AWARD**<br><br>CLAIRE KIK ZHI YU, P6C(2021)<br>WONG JIA XUAN, P6D(2021)<br>KOW REN XI , P6D(2021)<br>    YONG ZI XIAN LORRAINE, P6F(2021)<br> <br>**BRONZE AWARD**<br><br>MI XUAN CHEN, P6B(2021)<br>LOW CHENG JUN, P6C(2021)<br>HUANG CHENG-HAO, P6E(2021)<br>TAN YOU REN,  P6F(2021)<br>YE JUNHAO, P6F(2021) 	|
-| 21st International Chinese Language Competition for Primary Schools<br>年第21届国际小学生电脑创意写作比赛 	| **GOLD AWARD**<br><br>HUANG CHENG-HAO, P6E(2021) 	|
-| N Cube National Chinese Calligraphy Competition 2021<br> <br>2021年N立方全国书法大赛 	| **THIRD POSITION 三等奖**<br><br>KONG XINYI, P5D<br> <br>**CONSOLATION PRIZE**<br><br>LIM YOU JUN, P3F<br>DONG JUNZHE, P4A<br>CHONG WING NING, P4B<br>SAVIAN TAN YI ZHE, P4D<br>ASTRID LOOI LE MIN, P4F<br>JACQUELYN TOH MIN XUAN, P4E<br>ELISE TIONG XIN YI, P4F<br>LEONG KE YAO CHLOE, P5A<br>ZHANG YUWEI, P5A<br>RACHAEL NAH ZHUO YAN, P5C<br>ASHLYN TAN YUN RU, P5F<br>TANG GEN TAI, AARON, P5F<br>DILIZ LIU YUXUAN, P6B<br>  	|
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
 |---	|---	|
