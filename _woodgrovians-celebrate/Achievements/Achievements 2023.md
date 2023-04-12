@@ -8,6 +8,28 @@ third_nav_title: Achievements
 
 ### Cognitive
 
+
+### COGNITIVE
+
+| EVENT/COMPETITION 	| ACHIEVEMENT 	|
+|---	|---	|
+| 6th National Primary School “Picture Book Creation” Competition<br>年第六届全国小学生绘本创作比赛 	| **MERIT AWARD**<br><br>CLAIRE KIK ZHI YU, P6C(2021)<br>WONG JIA XUAN, P6D(2021)<br>KOW REN XI , P6D(2021)<br>    YONG ZI XIAN LORRAINE, P6F(2021)<br> <br>**BRONZE AWARD**<br><br>MI XUAN CHEN, P6B(2021)<br>LOW CHENG JUN, P6C(2021)<br>HUANG CHENG-HAO, P6E(2021)<br>TAN YOU REN,  P6F(2021)<br>YE JUNHAO, P6F(2021) 	|
+| 21st International Chinese Language Competition for Primary Schools<br>年第21届国际小学生电脑创意写作比赛 	| **GOLD AWARD**<br><br>HUANG CHENG-HAO, P6E(2021) 	|
+| N Cube National Chinese Calligraphy Competition 2021<br> <br>2021年N立方全国书法大赛 	| **THIRD POSITION 三等奖**<br><br>KONG XINYI, P5D<br> <br>**CONSOLATION PRIZE**<br><br>LIM YOU JUN, P3F<br>DONG JUNZHE, P4A<br>CHONG WING NING, P4B<br>SAVIAN TAN YI ZHE, P4D<br>ASTRID LOOI LE MIN, P4F<br>JACQUELYN TOH MIN XUAN, P4E<br>ELISE TIONG XIN YI, P4F<br>LEONG KE YAO CHLOE, P5A<br>ZHANG YUWEI, P5A<br>RACHAEL NAH ZHUO YAN, P5C<br>ASHLYN TAN YUN RU, P5F<br>TANG GEN TAI, AARON, P5F<br>DILIZ LIU YUXUAN, P6B<br>  	|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
 |---	|---	|
 |          <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> National Chinese Calligraphy Competition 2023	| **Merit**<br>         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> Sun Sixu 孙思许 P5F<br>  <br>  	|
