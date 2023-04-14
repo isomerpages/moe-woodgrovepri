@@ -21,11 +21,4 @@ North Division Day 2023 <br> Let Your Voices Be Heard! <br> (Poetry) Competition
 
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
 |---	|---	|
-| 	|
-
-
-
-
-| EVENT/COMPETITION 	| ACHIEVEMENT 	|
-|---	|---	|
 | Junior Civil Defence Lionhearter Challenge 2023<br>           | **Top 10 Winners 'Let's Prepare A Ready Bag!'**<br>Chia Zhe Cheng Lewis, 5C<br>Charis Ong, 5F<br> Gayathri Ajay, 6B<br> Ji Hao, 6C<br> Teoh Kar Yee, 6F <br>
