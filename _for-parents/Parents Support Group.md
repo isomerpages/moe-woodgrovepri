@@ -13,8 +13,7 @@ For parents of current students who are keen to volunteer your services and pla
 
 For new parents who seek to register as  Parent Volunteers, to qualify for priority under P1 Registration Exercise Phase 2B.  
  
-2022 Application as Parent Volunteers (for child starting Primary 1 in year 2024) is closed. 
 
-The next registration will be in early May 2023 (for new parents whose child is starting Primary 1 in year 2025).
+
 
 Please find the link [here](https://go.gov.sg/wgps-pv).
