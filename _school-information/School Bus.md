@@ -3,7 +3,7 @@ title: School Bus
 permalink: /school-information/school-bus/
 description: ""
 ---
-# **School Bus**
+# **School Bus Service**
 
 Parents who need to arrange for transport for their children should liaise directly with the school bus operator.
 
