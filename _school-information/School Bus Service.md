@@ -18,3 +18,6 @@ Contact Person: Mrs Irene Yeo, Hp: 96409551
 Contact Person: Mr Yeo Kah Hua, Hp: 96327095
 
 [School Bus Registration Form 2022_fillable.pdf](/files/School%20Bus%20Registration%20Form%202022_fillable.pdf)
+
+### Bus Fare
+
