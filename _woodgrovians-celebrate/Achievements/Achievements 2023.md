@@ -17,7 +17,7 @@ third_nav_title: Achievements
 |   North West Outstansding All-Rounder Student Award 2023  | **OARS Award 2023**<br>Richard Ongkowidjojo, 6B (2022)<br>Teoh Kar Yee, 6F (2023)
 North Division Day 2023 <br> Let Your Voices Be Heard! <br> (Poetry) Competition) | **3rd Place (Brownies Category)**<br>Fatin Safiyyah, 5F<br>Tan An Qi, 3C<br> Denise Oh, 3C <br>
 Raffles Institution Primary <br> Mathematics World Contest <br> (RIPMWC) 2023 |   **DISTINCTION** <br> Choudhary Vivaan, 2F <br> Lim Yi Zhe Tyler, 6B <br> Seng Cho Ion, 6C <br> **MERIT** <br> Sie Yu En, 3E <br>Faith Ang Yi, 5C <br>Kesshna Nair, 5C <br> Chloe Seet Ee Ning, 6C<br> Ji Hao, 6C<br>Nagarajan Sharveen, 6C<br>Chong Wing Ning, 6D <br>
-The 14th Goodtalk International Bilingual Speech Conference 2022 - 2023 (Prelim)
+The 14th Goodtalk International Bilingual Speech Conference 2022 - 2023 (Prelim)| **FIRST,Upper Primary** <br> Wang Haoyu Lucas     王浩宇 5C
 
 
 
