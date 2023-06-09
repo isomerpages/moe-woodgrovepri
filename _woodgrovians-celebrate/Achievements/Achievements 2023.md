@@ -10,3 +10,6 @@ third_nav_title: Achievements
 ![](/images/Achievements%202023/capture%201a.JPG)
 ![](/images/Achievements%202023/capture%201b.JPG)
 ![](/images/Achievements%202023/aesthetics.PNG)
+![](/images/Achievements%202023/physical%201.PNG)
+![](/images/Achievements%202023/physical%202.PNG)
+![](/images/Achievements%202023/social.PNG)
