@@ -54,11 +54,11 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 
 #### **At Woodgrove Primary School, the following Sexuality Education lessons will be taught in&nbsp;2023:**
 
-![](/images/P5%20.jpg)
-![](/images/P5a.jpg)
+![](/images/p5%204%20jul%2023%20-%201.JPG)
+![](/images/p5%204%20jul%2023%20-2.JPG)
 
-![](/images/P6.jpg)
-![](/images/P6a.jpg)
+![](/images/p6%204%20jul%2023%20-1%20.JPG)
+![](/images/p6%204%20jul%2023%20-2.JPG)
 
 
 **Information for Parents**
