@@ -65,6 +65,6 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Please click this [link](https://staging.form.gov.sg/63bfa78f056cb9001225a543) to submit online or download the form [LINK](https://tinyurl.com/WGPS2023GYform) The downloaded opt-out form is to be submitted to your child’s form teachers by Friday, 3rd February 2023.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is accessible in [Form SG](https://staging.form.gov.sg/63bfa78f056cb9001225a543)Please click this [link](https://staging.form.gov.sg/63bfa78f056cb9001225a543) to submit online or download the form [LINK](https://tinyurl.com/WGPS2023GYform) The downloaded opt-out form is to be submitted to your child’s form teachers by Friday, 3rd February 2023.
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Parents can contact the school at [woodgrove\_ps.moe.edu.sg](https://woodgrovepri.moe.edu.sg/school-information/school-information-and-map)   or call +65 68943371 for discussion or to seek clarification about the school’s Sexuality Education programme.
