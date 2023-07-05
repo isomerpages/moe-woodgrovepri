@@ -18,7 +18,7 @@ description: ""
 [P6 Term 1 Experiencing WGPS](/files/P6%20Term%201%20Experiencing%20WGPS.pdf)
 
 ### Term 2 (2023)
-
+[[P1 Term 2 Experiencing WGPS]](/files/Experiencing%20WGPS/2023%20term%202%20p1%20experiencing%20wgps_final.pdf)
 
 ### Term 1 (2022)
 
