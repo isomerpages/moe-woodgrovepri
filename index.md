@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Highlights
+        - title: News and Events
           description: ""
           url: moe-woodgrovepri/editPage/News%20and%20Events.md
         - title: Links
