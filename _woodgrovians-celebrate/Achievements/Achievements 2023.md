@@ -9,7 +9,6 @@ third_nav_title: Achievements
 ![](/images/Achievements%202023/cognitive%202.JPG)
 ![](/images/Achievements%202023/cognitive%203.JPG)
 
-![](/images/Achievements%202023/aesthetics%204a.JPG)
 
 ![](/images/Achievements%202023/physical%205.JPG)
 ![](/images/Achievements%202023/physical%206.JPG)
