@@ -3,7 +3,8 @@ title: School Bus Service
 permalink: /school-information/school-bus/
 description: ""
 ---
-[School Bus Operator and Bus Fare](/files/school%20bus%20operator%20awarded%20and%20bus%20fare.pdf)
+# **School Bus Service**
+
 
 Parents who need to arrange for transport for their children should liaise directly with the school bus operator.
 
