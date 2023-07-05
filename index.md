@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Highlights
           description: ""
-          url: https://www.youtube.com/watch?v=iY176eVvBWk&feature=youtu.be
+          url: moe-woodgrovepri/editPage/News%20and%20Events.md
         - title: Links
           description: ""
           url: /for-students/useful-links-for-students/
