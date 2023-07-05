@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: News and Events
           description: ""
-          url: /News%20and%20Events.md
+          url: moe-woodgrovepri/News%20and%20Events.md
         - title: Links
           description: ""
           url: /for-students/useful-links-for-students/
