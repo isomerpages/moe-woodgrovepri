@@ -5,11 +5,12 @@ description: ""
 third_nav_title: Achievements
 ---
 # **Achievements 2023**
+![](/images/Achievements%202023/cognitive%201.JPG)
+![](/images/Achievements%202023/cognitive%202.JPG)
+![](/images/Achievements%202023/cognitive%203.JPG)
 
-![](/images/Achievements%202023/capture%201.JPG)
-![](/images/Achievements%202023/capture%201a.JPG)
-![](/images/Achievements%202023/capture%201b.JPG)
-![](/images/Achievements%202023/aesthetics.PNG)
-![](/images/Achievements%202023/physical%201.PNG)
-![](/images/Achievements%202023/physical%202.PNG)
-![](/images/Achievements%202023/social.PNG)
+
+![](/images/Achievements%202023/physical%205.JPG)
+![](/images/Achievements%202023/physical%206.JPG)
+
+![](/images/Achievements%202023/social%207.JPG)

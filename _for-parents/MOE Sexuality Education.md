@@ -3,8 +3,6 @@ title: MOE Sexuality Education
 permalink: /for-parents/moe-sexuality-education/
 description: ""
 ---
-# **MOE Sexuality Education**
-
 ## **WOODGROVE PRIMARY SCHOOL**
 
 ### MOE Sexuality Education in Schools
@@ -68,3 +66,5 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is accessible in [Form SG](https://staging.form.gov.sg/63bfa78f056cb9001225a543) . The completed opt-out form is to be submitted by Friday, 3rd February 2023.
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Parents can contact the school at [woodgrove\_ps.moe.edu.sg](https://woodgrovepri.moe.edu.sg/school-information/school-information-and-map)   or call +65 68943371 for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+                     Official (Open)/ Non-Sensitive

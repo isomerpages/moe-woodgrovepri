@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Highlights
+        - title: News and Events
           description: ""
-          url: https://www.youtube.com/watch?v=iY176eVvBWk&feature=youtu.be
+          url: /permalink/
         - title: Links
           description: ""
           url: /for-students/useful-links-for-students/
