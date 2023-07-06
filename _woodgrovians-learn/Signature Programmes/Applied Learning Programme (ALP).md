@@ -12,9 +12,6 @@ third_nav_title: Signature Programmes
 
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Bv5T7McXJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 Applied Learning Programme (ALP) was implemented in Woodgrove Primary School in 2017&nbsp;to enhance the development of literacy skills, foster a strong spoken culture and develop students’ talent in the spoken language.&nbsp;
 
 To develop the students’ imagination and creative powers as producers, performers and evaluators, the students will be involved in&nbsp;role play, improvisation,&nbsp;Readers' Theatre, script writing and play production. Through drama, language comes&nbsp;to life, and students will experience meaningful, fluent interaction in the English language; and assimilate a whole range of pronunciation, new vocabulary and structures.
