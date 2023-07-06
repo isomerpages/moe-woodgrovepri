@@ -10,7 +10,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Service Requirements**
 1.	[Call for Proposals](/files/School%20Bus/call%20for%20proposals%20by%20school_woodgrove%20primary.pdf)
  
-2.	Agreement for Appointment of School Bus Operator
+2.	[Agreement for Appointment of School Bus Operator](/files/School%20Bus/agreement%20for%20appointment%20of%20school%20bus%20operator_wgps%20sample.pdf)
 
 **Application Procedure**
 
