@@ -3,7 +3,6 @@ title: MOE Sexuality Education
 permalink: /for-parents/moe-sexuality-education/
 description: ""
 ---
-# **MOE Sexuality Education**
 
 ## **WOODGROVE PRIMARY SCHOOL**
 
