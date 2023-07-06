@@ -14,7 +14,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Application Procedure**
 
-1. Complete the Call for Proposal - Annex A
+1. Complete the [Call for Proposal - Annex A](/files/School%20Bus/call%20for%20proposal%20-%20annex%20a_woodgrove%20primary.pdf)
 
 2. Submit the completed Call for Proposal – Annex A by closing date, 14 July 2023 to the School’s General Office.
 
