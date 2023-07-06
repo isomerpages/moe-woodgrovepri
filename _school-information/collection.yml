@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Bus Advertisement.md
       - School Information and Map.md
       - School Hours & Recess Timing.md
       - School Rules and Regulations/Code of Conduct.md
