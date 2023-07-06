@@ -8,7 +8,7 @@ third_nav_title: Signature Programmes
 
 **ALP@WGPS ~ Effective Communication Through Drama Pedagogies**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="WGPS ALP Effective Communication Through Drama Pedagogies 2022" src="https://www.youtube.com/embed/UdYv3e7Zy5o" height="480" width="853"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="WGPS ALP Effective Communication Through Drama Pedagogies 2022" src="https://www.youtube.com/embed/UdYv3e7Zy5o" height="315" width="560"></iframe>
 
 
 
