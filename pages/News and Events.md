@@ -3,7 +3,7 @@ title: News and Events
 permalink: /permalink/
 description: ""
 ---
-### News and Events 
+### Latest News and Events 
 
 
 #### 2023 P1 Orientation @ Woodgrove Primary School
@@ -17,4 +17,4 @@ description: ""
 
 [Experiencing WGPS](https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/experiencing-wgps/)
 
-[Publication](https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/publications/)
+### Latest Publication (https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/publications/)
