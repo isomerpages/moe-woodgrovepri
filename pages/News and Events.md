@@ -23,4 +23,3 @@ description: ""
 <img src="/images/may%202023.PNG" alt="Nov 2022" style="width:210px;height:px;">
 </a>
 
-(https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/publications/)
