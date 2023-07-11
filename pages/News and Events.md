@@ -17,4 +17,5 @@ description: ""
 
 [Experiencing WGPS](https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/experiencing-wgps/)
 
-### Latest Publication (https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/publications/)
+### Latest Publication 
+![](/images/may%202023.PNG)(https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/publications/)
