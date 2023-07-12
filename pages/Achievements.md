@@ -20,3 +20,9 @@ description: ""
 ![Design a Safety Tote Bag Contest 2023](/images/Banner%202023/banner_safety%20tote%20bag%202023.jpg)
 
 ![Singapore Scouts Association Akela Award 2023](/images/Banner%202023/banner_scouts%20akela%20award%202023.jpg)
+
+![Skipping Junior Boys_Girls 2023](/images/Banner%202023/banner_skipping%20junior%20boys_girls%202023.jpg)
+
+![Skipping Senior Boys 2023](/images/Banner%202023/banner_skipping%20senior%20boys%202023.jpg)
+
+![SMOPS_Math Olympiad 2023](/images/Banner%202023/banner_smops_math%20olympiad%202023.jpg)
