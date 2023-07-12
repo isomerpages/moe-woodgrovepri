@@ -14,6 +14,9 @@ sections:
         - title: Links
           description: ""
           url: /for-students/useful-links-for-students/
+        - title: Awards
+          description: Key Highlight description
+          url: ""
       url: /contact-us/
       background: /images/HERO V3.gif
 ---
