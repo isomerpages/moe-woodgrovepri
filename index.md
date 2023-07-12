@@ -14,7 +14,7 @@ sections:
         - title: Links
           description: ""
           url: /for-students/useful-links-for-students/
-        - title: Awards
+        - title: Achievements
           description: Key Highlight description
           url: /permalink/
       url: /contact-us/
