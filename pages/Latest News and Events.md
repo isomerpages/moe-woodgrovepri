@@ -15,7 +15,7 @@ description: ""
 [Achievements](https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/achievements/permalink/)
 
 
-[Experiencing WGPS](https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/experiencing-wgps/)
+[Experiencing WGPS](https://www.woodgrovepri.moe.edu.sg/permalink/)
 
 ### Latest Publication 
 
