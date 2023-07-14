@@ -8,7 +8,7 @@ description: ""
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
-1.	[Call for Proposals](/files/School%20Bus/call%20for%20proposals%20by%20school_woodgrove%20primary.pdf)
+1.	[Call for Proposals](/files/School%20Bus/call%20for%20proposals%20by%20school_woodgrove%20primary_revised.pdf)
  
 2.	[Agreement for Appointment of School Bus Operator](/files/School%20Bus/agreement%20for%20appointment%20of%20school%20bus%20operator_wgps%20sample.pdf)
 
@@ -16,7 +16,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1. Complete the [Call for Proposal - Annex A](/files/School%20Bus/call%20for%20proposal%20-%20annex%20a_woodgrove%20primary.pdf)
 
-2. Submit the completed Call for Proposal – Annex A by closing date, 14 July 2023 to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, 21 July 2023 to the School’s General Office.
 
 * Address: 2 Woodlands Drive 14 Singapore 738079
 * Contact No: 68943371

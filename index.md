@@ -14,6 +14,9 @@ sections:
         - title: Links
           description: ""
           url: /for-students/useful-links-for-students/
+        - title: Achievements
+          description: ""
+          url: /permalink/achievements
       url: /contact-us/
       background: /images/HERO V3.gif
 ---
