@@ -12,7 +12,7 @@ third_nav_title: Staff
 | ---	| ---	| ---	|
 | 5A 	| Mdm Surianingsih Bte Sulaiman  	| [surianingsih_sulaiman@schools.gov.sg](mailto:surianingsih_sulaiman@schools.gov.sg) 	|
 |  	| Mr Kavin Chong Shi Jie  	| [kavin_chong_shi_jie@schools.gov.sg](mailto:kavin_chong_shi_jie@schools.gov.sg) 	|
-| 5B 	| Mrs Nicole Lim-Teo 	| [nicole_teo_huey_huey@schools.gov.sg](mailto:nicole_teo_huey_huey@schools.gov.sg) 	|
+| 5B 	| Miss Liu Pai 	| [Liu_Pai@schools.gov.sg](mailto:Liu_Pai@schools.gov.sg)]	|
 |  	| Mr Chan Seong Fuey 	| [chan_seong_fuey@schools.gov.sg](mailto:chan_seong_fuey@schools.gov.sg) 	|
 | 5C 	| Mr Chong Chieh Min   	| [chong_chieh_min@schools.gov.sg](mailto:chong_chieh_min@schools.gov.sg) 	|
 |  	| Miss Siti Aisyah Binte Ahmad 	| [siti_aisyah_ahmad@schools.gov.sg](mailto:siti_aisyah_ahmad@schools.gov.sg) 	|
