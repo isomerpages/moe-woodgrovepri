@@ -2,7 +2,7 @@
 layout: homepage
 title: Woodgrove Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Badge.jpg
 permalink: /
 notification: ""
 sections:

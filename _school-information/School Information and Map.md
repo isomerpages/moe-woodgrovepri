@@ -1,6 +1,6 @@
 ---
 title: School Information and Map
-permalink: /school-information/permalink/
+permalink: /school-information/school-information-and-map/
 description: ""
 ---
 ## School Location

@@ -1,6 +1,6 @@
 title: Woodgrove Primary School
-url: ""
-favicon: /images/favicon-isomer.ico
+url: https://www.woodgrovepri.moe.edu.sg
+favicon: /images/Badge.jpg
 colors:
   primary-color: "#3c7536"
   secondary-color: "#6088b6"
@@ -51,3 +51,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2aa2jwrrxgl47.amplifyapp.com
 prod: https://master.d2aa2jwrrxgl47.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/Badge.jpg
+is_government: false
+google_analytics: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
