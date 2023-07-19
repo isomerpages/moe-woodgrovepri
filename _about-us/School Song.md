@@ -5,7 +5,7 @@ description: ""
 ---
 # **School Song**
 
-<iframe width="700" height="380" src="https://www.youtube.com/embed/Uz2aXmXXmpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="380" src="https://www.youtube.com/embed/6S-7ACLsxYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Lyrics
 
@@ -13,39 +13,39 @@ We sing our School Song with pride…
 
 <br>
 
-**W** oodgrove is where we excel
+**W**&nbsp;oodgrove is where we excel
 
-**O** ur teachers' mission
+**O**&nbsp;ur teachers' mission
 
-**O** ur students' vision
+**O**&nbsp;ur students' vision
 
-**D** etermined to be the best
+**D**&nbsp;etermined to be the best
 
-**G** rooming ourselves for life's test
+**G**&nbsp;rooming ourselves for life's test
 
-**R** eady to serve society
+**R**&nbsp;eady to serve society
 
-**O** vercoming odds confidently
+**O**&nbsp;vercoming odds confidently
 
-**V** alue our family, be caring and faithful
+**V**&nbsp;alue our family, be caring and faithful
 
-**E** ver staunch, stable, steadfast and successful
+**E**&nbsp;ver staunch, stable, steadfast and successful
 
 <br>
 
-**P** rogress with pride, do good deeds
+**P**&nbsp;rogress with pride, do good deeds
 
-**R** eady to lead
+**R**&nbsp;eady to lead
 
-**I** nspire and learn
+**I**&nbsp;nspire and learn
 
-**M** ake a big difference
+**M**&nbsp;ake a big difference
 
-**A** im to achieve life's goals
+**A**&nbsp;im to achieve life's goals
 
-**R** ealise our dreams as we grow
+**R**&nbsp;ealise our dreams as we grow
 
-**Y** ouths of today, adults of tomorrow
+**Y**&nbsp;ouths of today, adults of tomorrow
 
 <br> 
 
@@ -57,4 +57,4 @@ Ever staunch, stable, steadfast and successful
 
 _Lyrics: Mrs Tan Chin Cheoh_
 
-_Music: Mr Lim Chin Kai & Mr Leong Wei Shin_
+_Music: Mr Lim Chin Kai &amp; Mr Leong Wei Shin_
