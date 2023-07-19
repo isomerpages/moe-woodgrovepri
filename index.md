@@ -18,5 +18,5 @@ sections:
           description: ""
           url: /permalink/achievements
       url: /contact-us/
-      background: /images/img_2302.jpg
+      background: /images/resized frontpage website 2.gif
 ---
