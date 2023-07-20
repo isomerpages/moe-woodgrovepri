@@ -21,4 +21,12 @@ sections:
       background: /images/website homepage gif.gif
   - resources:
       subtitle: Announcement & News
+  - infopic:
+      title: 2023 Term 2
+      subtitle: Experiencing WGPS
+      description: Showcasing our Woodgrovian Stories through their Experiences
+      button: Click Here
+      url: https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/experiencing-wgps/
+      image: /images/experiencing wgps 2023 term 2.jpg
+      alt: Image alt text
 ---
