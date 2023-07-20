@@ -20,8 +20,9 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Virtual Open House
+      subtitle: Come join us
+      description: Find out more about us!
+      button: Click here
+      url: https://sites.google.com/moe.edu.sg/wgpsvirtualopenhouse/home
 ---
