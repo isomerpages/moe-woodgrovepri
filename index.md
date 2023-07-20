@@ -19,4 +19,9 @@ sections:
           url: /permalink/achievements
       url: /contact-us/
       background: /images/website homepage gif.gif
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
