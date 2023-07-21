@@ -21,34 +21,6 @@ Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br
 
 
 
-### Aesthetics
-
-| EVENT/COMPETITION 	| ACHIEVEMENT 	|
-|---	|---	|
-| Creative Fusion Dance<br>(North Division Day 2022) 	| **2nd PLACE** (Brownies category)<br><br>Gerlene Lai Yu Qi, 3B<br>Vemulamada Tanishi, 3D<br>Fatin Safiyyah Binte Mazri, 4B<br>Razanah Khairina Binte Zulkifli, 4C<br>Isabelle Keola Permana, 4D<br>Lew Yuk Qi, 4D<br>Hakimah Qaidah Binte Rahmat, 4D<br>Toh En Hui, Carina, 4E<br>Zenya Kayleigh Lee, 4E 	|
-
-
-
-
-### PHYSICAL
-
-| EVENT/COMPETITION 	| ACHIEVEMENT 	|
-|---	|---	|
-| National School Games 2022 	| **GYMNASTICS (RHYTHMIC)**<br> <br>**BRONZE (Senior Division Developmental)**<br>Yin Catherine, P6A<br> <br>**BRONZE (Senior Division Elit)**<br>Teoh Kar Yee, P5F 	|
-| National School Games Rope Skipping Competition 2022 	| **DIVISIONAL CHAMPIONSHIP - SENIOR BOYS**<br>**3rd position**<br><br>**Double Under**<br><br>**2nd:**<br>LOW KANG SHENG, P6A<br><br>**Individual Speed**<br><br>**3rd:**<br>LOW KANG SHENG, P6A<br><br>**Double Dutch**<br><br>**3rd:**<br>KAYDEN TIEW KAI DE, P6A<br>ZADEN SOH RUI YAN, P6C<br>LIN ZIDONG, P6E<br>CHEN JIAQI, P6F<br>LIN DINGXUAN, P6F<br><br>**Speed Relay**<br><br>**5th:**<br>LOW KANG SHENG, P6A<br>KAYDEN TIEW KAI DE, P6A<br>LUCAS HUANG YULE, P6A<br>ZADEN SOH RUI YAN, P6C<br>LIN ZIDONG, P6E<br>TJHIN DYLAN, P6F<br><br><br>**DIVISIONAL CHAMPIONSHIP- SENIOR GIRLS**<br><br>**Double Under**<br><br>**3rd:**<br>CHEE XUAN EN, P6F<br><br>**Individual Speed**<br><br>**3rd:**<br>CHEE XUAN EN, P6F<br><br>**Double Dutch**<br><br>**5th:**<br>HO JIA XUAN, P6A<br>YONG YING XUAN, P6A<br>JAIRA JOY AQUIATAN, P6E<br>CHEE XUAN EN, P6F
-
-
-### SOCIAL
-
-| EVENT/COMPETITION 	| ACHIEVEMENT 	|
-|---	|---	|
-| Singapore Scouts Association<br>North Area Akela Award 2022 	| **AKELA AWARD**<br><br>Muhammad Nur Hazwan Fiqri Bin Hashim, 6C 	|
-
-
-# **Achievements 2023**
-![](/images/Achievements%202023/cognitive%201.JPG)
-![](/images/Achievements%202023/cognitive%202.JPG)
-![](/images/Achievements%202023/cognitive%203.JPG)
 
 
 ![](/images/Achievements%202023/physical%205.JPG)
