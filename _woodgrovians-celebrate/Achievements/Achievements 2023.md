@@ -27,6 +27,8 @@ Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
 |---	|---	|
 | National Schools Games Rope Skipping Competition 2023	| **SENIOR DIVISION BOYS** <br>Individual Speed, 2nd<br> Individual Speed Double Under, 4th<br> Team Pair Freestyle, 2nd<br> Team Speed Relay, 3rd<br><br>Bai ZiCheng  6E<br> Ee Qi Yan  6E<br> Chiam Jia Ding  6F <br>William Cha Yu Fan  6F
+| National Schools Games Rope Skipping Competition 2023	| **JUNIOR DIVISION BOYS** <br>Team Double Dutch, 1st<br> Team Speed Relay, 4th <br><br>Eaden Soh Rui Xing  4B<br>Muhammad Izz Rayqal  4C<br> Tan Yi Heng   4E <br>Wallace  Lim  5A<br>Cayden Seet  5F  
+
 
 |National School Games <br>North Zone Badminton 2023 |**SENIOR DIVISION BOYS**<br>**Top 8** <br>Nunna Akul Sai  6B,<br>Tan Yun Zhe  6C,<br>Timothy Foo Yong Xing  6C,<br>Anand Kumaararooban 6D,<br>Oscar Lee 6E,<br>Yu Wei Zhe  6E,<br> Yu Wei Xian&nbsp;5B,<br>Yap Kien Hui 5C,<br>Jarom Xie Zhenjie  5D,<br>Zhong Liquan Lucas &nbsp;5D,<br>Sun Sixu  5F,<br> 	|
 | North West Outstanding All-Rounder Student Award 2023<br>  	| **OARS Award 2023**<br>Richard Ongkowidjojo  6B(2022),<br>  Teoh Kar Yee   6F(2023)	|
