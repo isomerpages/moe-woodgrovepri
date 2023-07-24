@@ -36,7 +36,6 @@ Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br
 
 
 
-![](/images/Achievements%202023/physical%205.JPG)
-![](/images/Achievements%202023/physical%206.JPG)
+
 
 ![](/images/Achievements%202023/social%207.JPG)
