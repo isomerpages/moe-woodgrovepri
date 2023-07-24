@@ -36,8 +36,9 @@ Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br
 
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
 |---	|---	|
-| Junior Civil Defence Lionhearter  Challenge 2023 	| **Top 10 Winners** <br>**‘Let’s Prepare A Ready Bag!’**<br><br>Charis Ong Pui Wun  5F<br><br>**Third Place (Junior Category)**   <br> Chong Xin Tong  4E<br> 	|
-
+| Junior Civil Defence Lionhearter  Challenge 2023 	| **Top 10 Winners** <br>**‘Let’s Prepare A Ready Bag!’**<br><br>Chia Zhe Cheng Lewis  5C<br>Charis Ong  5F<br>Gayathri Ajay  6B<br>Ji Hao  6C<br> Teoh Kar Yee &nbsp;6F 	|
+| Frank Cooper Sands Award 2022 - Scouts 	| **GOLD**	|
+| Singapore Scouts Association <br>North Area Akela Award 2023	| **AKELA AWARD**<br><br>Chia Zhe Cheng Lewis  5C<br>Charis Ong  5F<br>Gayathri Ajay  6B<br>Ji Hao  6C<br> Teoh Kar Yee &nbsp;6F 	|
 
 
 
