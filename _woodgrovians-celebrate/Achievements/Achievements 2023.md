@@ -21,7 +21,8 @@ Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br
 
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
 |---	|---	|
-| Design A Tote Bag (Safety) Contest 2023 	| **First Place (Junior Category)** <br>Charis Ong Pui Wun  5F<br><br>**Third Place (Junior Category)**   <br> Chong Xin Tong  4E<br> 	|
+| Design A Tote Bag (Safety) Contest 2023 	| **First Place (Junior Category)** <br>Charis Ong Pui Wun  5F<br><br>**Third Place (Junior Category)**   <br> Chong Xin Tong  4E<br>	|
+
 ### Physical
 
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
