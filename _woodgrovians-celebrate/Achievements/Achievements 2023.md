@@ -32,6 +32,11 @@ Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br
 |National School Games <br>Gymnastics (Rhythmic) 2023 |**SENIOR GIRLS **<br>**Individual Hoop 8th**  <br><br>Teoh Kar Yee  6F	|
 |National Schools Games <br>Swimming Competition 2023<br>  	| **JUNIOR GIRLS 2**<br>**50m Free 50m Fly 6th** <br>**50m Back 50m Free 3rd**<br>**100m Free 3rd** <br>**200m Individual Medley 4th** <br><br>Lee Zi Xuan  5F	|
 
+### Social
+
+| EVENT/COMPETITION 	| ACHIEVEMENT 	|
+|---	|---	|
+| Junior Civil Defence Lionhearter  Challenge 2023 	| **Top 10 Winners** <br>**‘Let’s Prepare A Ready Bag!’**<br><br>Charis Ong Pui Wun  5F<br><br>**Third Place (Junior Category)**   <br> Chong Xin Tong  4E<br> 	|
 
 
 
