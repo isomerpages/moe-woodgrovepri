@@ -17,7 +17,19 @@ Raffles Institution Primary Mathematics World Contest (RIPMWC) 2023  	| **DISTIN
 The 14th Goodtalk International Bilingual Speech Conference 2022-2023 (Prelim)  	| **FIRST, Upper Primary**<br>Wang Haoyu Lucas  5C<br><br>**SECOND, Lower Primary**  <br>Zhang Enqi  2A <br><br>**SECOND, Upper Primary**<br>Lucia Huang Yue Yi  4B​,<br> Qiu Wenni   4E,<br>Zhou Siqi   4E,<br>Faith Ang Yi Xin  5C​,<br>Xing Wenxin Cherie  5F<br><br>**THIRD, Upper Primary**<br>Teoh Kar Yee  6F|
 Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br>Ji Hao, 6C <br> <br>**BRONZE**<br>Shi Haoran, 6D,<br>Xu Ruixing, 6F
 
+### Aesthetics
 
+| EVENT/COMPETITION 	| ACHIEVEMENT 	|
+|---	|---	|
+| Design A Tote Bag (Safety) Contest 2023 	| **First Place (Junior Category)** <br>Charis Ong Pui Wun  5F<br><br>**Third Place (Junior Category)**   <br> Chong Xin Tong  4E<br> 	|
+### Physical
+
+| EVENT/COMPETITION 	| ACHIEVEMENT 	|
+|---	|---	|
+| National Schools Games Rope Skipping Competition 2023	| **SENIOR DIVISION BOYS** <br>Individual Speed, 2nd<br> Individual Speed Double Under, 4th<br> Team Pair Freestyle, 2nd<br> Team Speed Relay, 3rd<br><br>Bai ZiCheng  6E<br> Ee Qi Yan  6E<br> Chiam Jia Ding  6F <br>William Cha Yu Fan  6F
+
+|National School Games <br>North Zone Badminton 2023 |**SENIOR DIVISION BOYS**<br>**Top 8** <br>Nunna Akul Sai  6B,<br>Tan Yun Zhe  6C,<br>Timothy Foo Yong Xing  6C,<br>Anand Kumaararooban 6D,<br>Oscar Lee 6E,<br>Yu Wei Zhe  6E,<br> Yu Wei Xian&nbsp;5B,<br>Yap Kien Hui 5C,<br>Jarom Xie Zhenjie  5D,<br>Zhong Liquan Lucas &nbsp;5D,<br>Sun Sixu  5F,<br> 	|
+| North West Outstanding All-Rounder Student Award 2023<br>  	| **OARS Award 2023**<br>Richard Ongkowidjojo  6B(2022),<br>  Teoh Kar Yee   6F(2023)	|
 
 
 
