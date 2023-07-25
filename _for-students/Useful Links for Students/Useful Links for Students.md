@@ -11,7 +11,7 @@ third_nav_title: Useful Links for Students
 | Student Icon Onboarding Guide | Student Learning Space | Student iCON |MySkills Future | School Library &amp; School eResource Repository | Our school subscriptions
 | -------- | -------- | -------- |-------- | -------- | -------- |
 | <img src="/images/Student%20Zoom.jpg" style="width:70%">
-[Student_Zoom_<br>Onboarding_Guide](/files/Student_Zoom_Onboarding_Guide.pdf) |<img src="/images/SLS.jpg" style="width:70%"> [Student Learning Space](/for-students/useful-links-for-students/student-learning-space-sls)     | <img src="/images/STudent%20ICON.jpg" style="width:70%">[Student iCON](/for-students/useful-links-for-students/student-icon)     |Text     | Text     | Text     |
+[Student_Zoom_<br>Onboarding_Guide](/files/Student_Zoom_Onboarding_Guide.pdf) |<img src="/images/SLS.jpg" style="width:70%"> [Student Learning Space](/for-students/useful-links-for-students/student-learning-space-sls)     | <img src="/images/STudent%20ICON.jpg" style="width:70%">[Student iCON](/for-students/useful-links-for-students/student-icon)     |<img src="/images/Myskillsfuture.png" style="width:70%">[MySkillsFuture](https://go.gov.sg/exploreschools)     | ![](/images/school%20library%20logo.JPG)[School Library &amp; School eResource Repository](https://schoolibrary.moe.edu.sg/woodgrovepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)     | Text     |
 
 
 
@@ -44,8 +44,6 @@ Link to [MySkillsFuture](https://go.gov.sg/exploreschools)
 ### School Library &amp; School eResource Repository
 
 ![](/images/school%20library%20logo.JPG)
-
-
 Link to [School Library &amp; School eResource Repository](https://schoolibrary.moe.edu.sg/woodgrovepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
 ### Our school subscriptions
