@@ -30,7 +30,7 @@ Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br
 | National Schools Games<br> Rope Skipping Competition 2023	| **SENIOR DIVISION BOYS** <br>**Individual Speed, 2nd**<br>** Individual Speed Double Under, 4th**<br> **Team Pair Freestyle, 2nd**<br> **Team Speed Relay, 3rd**<br><br>Bai ZiCheng  6E<br> Ee Qi Yan  6E<br> Chiam Jia Ding  6F <br>William Cha Yu Fan  6F
 | National Schools Games<br> Rope Skipping Competition 2023	| **JUNIOR DIVISION BOYS** <br>**Team Double Dutch, 1st**<br> **Team Speed Relay, 4th** <br><br>Eaden Soh Rui Xing  4B<br>Muhammad Izz Rayqal  4C<br> Tan Yi Heng   4E <br>Wallace  Lim  5A<br>Cayden Seet  5F  
 | National Schools Games<br> Rope Skipping Competition 2023	| **JUNIOR DIVISION GIRLS** <br>**Team Double Dutch, 6th**  <br><br>Shereen Koh Jia Xuan	 4D<br>Shim Hwee Yee, Chloe   4D<br> Dhia Auni  5A <br>Lee Jing Na  5B  
-|National School Games <br>Gymnastics (Rhythmic) 2023 |**SENIOR GIRLS **<br>**Individual Hoop 8th**  <br><br>Teoh Kar Yee  6F	|
+|National School Games <br>Gymnastics (Rhythmic) 2023 |**SENIOR GIRLS** <br>**Individual Hoop 8th**  <br><br>Teoh Kar Yee  6F	|
 |National Schools Games <br>Swimming Competition 2023<br>  	| **JUNIOR GIRLS 2**<br>**50m Free 50m Fly 6th** <br>**50m Back 50m Free 3rd**<br>**100m Free 3rd** <br>**200m Individual Medley 4th** <br><br>Lee Zi Xuan  5F	|
 
 ### Social
