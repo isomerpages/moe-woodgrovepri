@@ -10,7 +10,8 @@ third_nav_title: Useful Links for Students
 
 | Student Icon Onboarding Guide | Student Learning Space | Student iCON |MySkills Future | School Library &amp; School eResource Repository | Our school subscriptions
 | -------- | -------- | -------- |-------- | -------- | -------- |
-| Text     | Text     | Text     |Text     | Text     | Text     |
+| <img src="/images/Student%20Zoom.jpg" style="width:70%">
+[Student_Zoom_<br>Onboarding_Guide](/files/Student_Zoom_Onboarding_Guide.pdf) |<img src="/images/SLS.jpg" style="width:70%"> [Student Learning Space](/for-students/useful-links-for-students/student-learning-space-sls)     | <img src="/images/STudent%20ICON.jpg" style="width:70%">[Student iCON](/for-students/useful-links-for-students/student-icon)     |Text     | Text     | Text     |
 
 
 
