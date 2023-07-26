@@ -26,6 +26,11 @@ National Digital Explorer (NDE) Competition National Round 2023  	| **SILVER**<b
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
 |---	|---	|
 | Design A Tote Bag (Safety) Contest 2023 	| **First Place (Junior Category)** <br>Charis Ong Pui Wun  5F<br><br>**Third Place (Junior Category)**   <br> Chong Xin Tong  4E<br>	|
+10th Asia Arts Festival 2023 	| **GOLD**<br>**Guzheng (Solo)** <br>Gabrielle Wang Xin Tong (5E)	|
+10th Asia Arts Festival 2023 	| **GOLD**<br>**Piano/Strings (Solo)** <br>Catherine Ma Wenxin (5C)	|
+10th Asia Arts Festival 2023 	| **GOLD**<br>**Indian Dance (Group)** 	|
+
+
 
 ### Physical
 
