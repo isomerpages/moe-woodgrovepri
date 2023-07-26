@@ -52,3 +52,12 @@ National Digital Explorer (NDE) Competition National Round 2023  	| **SILVER**<b
 | North Division Day 2023 <br>Let Your Voices Be Heard!(Poetry Competition)| **3rd Place (Brownies Category)**<br><br>Fatin Safiyyah  5F <br>Tan An Qi  3C<br>Denise Oh  3C 	|
 Girl Guides Singapore| **Chief Commissioner’s Award Badge**<br><br>Nara Ho Zi Shin  6F 	|
 Girl Guides Singapore| **Puan Noor Aishah Award (Brownie)**<br>  **SILVER AWARD**     	|
+
+
+
+**LEGEND**
+
+Cognitive: Academic, Critical and Creative Thinking, Innovation <br>
+Aestheics: Performance and visual arts
+Moral: 
+Physical: sports
