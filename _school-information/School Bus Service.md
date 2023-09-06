@@ -25,4 +25,3 @@ Contact Person: Mr Yeo Kah Hua, Hp: 96327095
 ### Bus Fare
 
 [School Bus Operator and  Bus Fare 2024](/files/School%20Bus/school%20bus%20operator%20awarded%20and%20bus%20fare%202024-2025.pdf)
-
