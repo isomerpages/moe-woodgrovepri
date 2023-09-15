@@ -3,8 +3,6 @@ title: School Bus Service
 permalink: /school-information/school-bus/
 description: ""
 ---
-
-
 ### School Bus Service
 
 
