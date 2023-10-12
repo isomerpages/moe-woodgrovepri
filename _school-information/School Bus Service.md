@@ -12,7 +12,7 @@ Parents who need to arrange for transport for their children should liaise direc
 
 Tel: 62694708
 
-Email: [aikshen1@singnet.com.sg](mailto:aikshen1@singnet.com.sg)
+Email: [woodgrove@aikshenbus.com.sg](mailto:woodgrove@aikshenbus.com.sg)
 
 Contact Person: Mrs Irene Yeo, Hp: 96409551
 
