@@ -20,9 +20,9 @@ Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br
 North Zone Schools (Primary/Secondary) Chinese Speech Competition 2023  	| **2ND PRIZE**<br>Wang Haoyu Lucas  5C <br> <br>**MERIT**<br>Xing Wenxin Cherie  5F|
 National Digital Explorer (NDE) Competition National Round 2023  	| **SILVER**<br>Chia Zhe Cheng Lewis  5C<br>Wang Haoyu Lucas  5C<br><br>**BRONZE**<br>Charis Ong Pui Wun 5F|
 
-24th International Chinese Language Competition 2023 	| **BRONZE**<br>**(International &amp; Singapore)**<br> Faith Ang Yi Xin 5C
+24th International Chinese Language Competition 2023 	| **BRONZE**<br>**(International &amp; Singapore)**<br> Faith Ang Yi Xin 5C|
 
-National Robotics Competition 2023 	| **FIRST**<br>**Regular Category Best Research Award Upper Primary**<br> Aden Soh Tian Tsao,  5C
+National Robotics Competition 2023 	| **FIRST**<br>**Regular Category Best Research Award Upper Primary**<br> Aden Soh Tian Tsao,  5C<br>Xing Wenxin Cherie,  5F<br>Chia Zhe Cheng Lewis,  5C|
 
 ### Aesthetics
 
