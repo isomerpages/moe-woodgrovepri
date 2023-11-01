@@ -22,7 +22,7 @@ National Digital Explorer (NDE) Competition National Round 2023  	| **SILVER**<b
 
 24th International Chinese Language Competition 2023 	| **BRONZE**<br>**(International &amp; Singapore)**<br> Faith Ang Yi Xin 5C|
 
-National Robotics Competition 2023 	| **FIRST**<br>**Regular Category Best Research Award Upper Primary**<br> Aden Soh Tian Tsao,  5C<br>Xing Wenxin Cherie,  5F<br>Chia Zhe Cheng Lewis,  5C|
+National Robotics Competition 2023 	| **FIRST**<br>**Regular Category Best Research Award<br> Upper Primary**<br> Aden Soh Tian Tsao,  5C<br>Xing Wenxin Cherie,  5F<br>Chia Zhe Cheng Lewis,  5C|
 
 ### Aesthetics
 
