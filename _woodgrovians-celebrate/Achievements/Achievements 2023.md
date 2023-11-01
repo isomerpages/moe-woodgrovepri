@@ -18,8 +18,7 @@ The 14th Goodtalk International Bilingual Speech Conference 2022-2023 (Prelim)  
 The 14th Goodtalk International Bilingual Speech Conference 2022-2023 (Finals)  	| **GOLD PRIZE**<br>**Primary School Category**<br><br>Wang Haoyu Lucas  5C <br>|
 Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br>Ji Hao, 6C <br> <br>**BRONZE**<br>Shi Haoran, 6D,<br>Xu Ruixing, 6F|
 North Zone Schools (Primary/Secondary) Chinese Speech Competition 2023  	| **2ND PRIZE**<br>Wang Haoyu Lucas  5C <br> <br>**MERIT**<br>Xing Wenxin Cherie  5F|
-National Digital Explorer (NDE) Competition National Round 2023  	| **SILVER**<br>Chia Zhe Cheng Lewis  5C<br>Wang Haoyu Lucas  5C<br><br>**BRONZE**<br>Charis Ong Pui Wun 5F
-
+National Digital Explorer (NDE) Competition National Round 2023  	| **SILVER**<br>Chia Zhe Cheng Lewis  5C<br>Wang Haoyu Lucas  5C<br><br>**BRONZE**<br>Charis Ong Pui Wun 5F|
 24th International Chinese Language Competition 2023 	| **BRONZE**<br>**(International &amp; Singapore)**<br> Faith Ang Yi Xin 5C
 
 
