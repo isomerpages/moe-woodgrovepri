@@ -21,6 +21,7 @@ North Zone Schools (Primary/Secondary) Chinese Speech Competition 2023  	| **2ND
 National Digital Explorer (NDE) Competition National Round 2023  	| **SILVER**<br>Chia Zhe Cheng Lewis  5C<br>Wang Haoyu Lucas  5C<br><br>**BRONZE**<br>Charis Ong Pui Wun 5F|
 24th International Chinese Language Competition 2023 	| **BRONZE**<br>**(International &amp; Singapore)**<br> Faith Ang Yi Xin 5C|
 National Robotics Competition 2023 	| **FIRST**<br>**Regular Category Best Research Award<br> Upper Primary**<br> Aden Soh Tian Tsao,  5C<br>Xing Wenxin Cherie,  5F<br>Chia Zhe Cheng Lewis,  5C|
+6th National Text Recital Competition 2023| **BRONZE**<br>**(Lower Primary - Individual)**<br> Michelle Boon  3E<br>**BRONZE**<br>**(Lower Primary - Group)**<br>Fan Hong En 3D<br>Chew Wei Zheng  3E<br>Li Changle  3E|
 
 ### Aesthetics
 
