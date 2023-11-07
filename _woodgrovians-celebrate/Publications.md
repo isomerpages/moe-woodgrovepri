@@ -10,6 +10,8 @@ variant: markdown
 
 ##### Jun 2023
 
+![](/images/Newsletter/jun%202023.png)
+
 
 
 ##### May 2023
