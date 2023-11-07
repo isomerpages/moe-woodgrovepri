@@ -12,7 +12,7 @@ variant: markdown
 
 
 <a href="https://drive.google.com/file/d/1aSK7iWQsULOFMit_syKGCiZKf0hgknC1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-<img src="/images/nov%202023.png" alt="Nov 2022" style="width:210px;height:px;">
+<img src="/images/Newsletter/nov%202023.png" alt="Nov 2022" style="width:210px;height:px;">
 </a>
 
 
