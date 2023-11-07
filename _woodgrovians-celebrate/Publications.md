@@ -2,10 +2,14 @@
 title: Publications
 permalink: /woodgrovians-celebrate/publications/
 description: ""
+variant: markdown
 ---
 # **Publications**
 
 ### Year 2023
+
+##### Jun 2023
+
 
 
 ##### May 2023
