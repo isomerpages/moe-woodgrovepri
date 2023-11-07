@@ -19,7 +19,10 @@ The 14th Goodtalk International Bilingual Speech Conference 2022-2023 (Finals)  
 Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br>Ji Hao, 6C <br> <br>**BRONZE**<br>Shi Haoran, 6D,<br>Xu Ruixing, 6F|
 North Zone Schools (Primary/Secondary) Chinese Speech Competition 2023  	| **2ND PRIZE**<br>Wang Haoyu Lucas  5C <br> <br>**MERIT**<br>Xing Wenxin Cherie  5F|
 National Digital Explorer (NDE) Competition National Round 2023  	| **SILVER**<br>Chia Zhe Cheng Lewis  5C<br>Wang Haoyu Lucas  5C<br><br>**BRONZE**<br>Charis Ong Pui Wun 5F|
-
+24th International Chinese Language Competition 2023 	| **BRONZE**<br>**(International &amp; Singapore)**<br> Faith Ang Yi Xin 5C|
+National Robotics Competition 2023 	| **FIRST**<br>**Regular Category Best Research Award<br> Upper Primary**<br> Aden Soh Tian Tsao,  5C<br>Xing Wenxin Cherie,  5F<br>Chia Zhe Cheng Lewis,  5C|
+6th National Text Recital Competition 2023| **BRONZE**<br>**(Lower Primary - Individual)**<br> Michelle Boon  3E<br>**BRONZE**<br>**(Lower Primary - Group)**<br>Fan Hong En 3D<br>Chew Wei Zheng  3E<br>Li Changle  3E|
+EDN National Essay Writing Competition 2023| **GOLD**<br> Nur Anisa  4A<br>Rina Zia Ahmed  4B<br>Muhd Nufaiel Zharfan  4E<br>Maia Nur Andreana	5B<br>Muhammad Haziq	5C<br>Qushayyi Adyan 5C<br>Hurul Ayn 5D<br>Muhammad Wafiy  5D<br>Syahzrin Idaman  5D<br>Aaqil Qushayyi  5E<br>Fatin Safiyyah  5F<br>Nur Kasih  6A<br>Hud Fatrisz Bin Zulkifli  6B<br>Malikah Darwisyah  6B<br>Muhd Nurdarnish Anaqi 6B<br>Ayra Ashyqa  6C<br>Auni Danisyah  6D<br>Ernie Syifa Fitriyah  6D<br>Ummu Tia Umairah 6D<br>Rayyan Qaisar  6E<br>Mohamad Niq Adil  6F<br>**SILVER**<br>Syaura Qaisara 4A<br>Mawaddah  4E<br>Nur Ameera Qayla  5A<br>Ammar Khan  5D<br>Nur Ayra Alysha  6D<br>Eshan Wildan  6E<br>Hana Amani  6E<br>Muhammad Ikram  6E<br>Siti Aishah  6E
 
 ### Aesthetics
 
@@ -28,7 +31,7 @@ National Digital Explorer (NDE) Competition National Round 2023  	| **SILVER**<b
 | Design A Tote Bag (Safety) Contest 2023 	| **First Place (Junior Category)** <br>Charis Ong Pui Wun  5F<br><br>**Third Place (Junior Category)**   <br> Chong Xin Tong  4E<br>	|
 10th Asia Arts Festival 2023 	| **GOLD**<br>**Guzheng (Solo)** <br>Gabrielle Wang Xin Tong (5E)	|
 10th Asia Arts Festival 2023 	| **GOLD**<br>**Piano/Strings (Solo)** <br>Catherine Ma Wenxin (5C)	|
-10th Asia Arts Festival 2023 	| **GOLD**<br>**Indian Dance (Group)** 	|
+10th Asia Arts Festival 2023 	| **GOLD**<br>**Indian Dance (Group)** <br>Ranya Sivanathan 3B<br>Rachel Mariya Anoop 3C<br>Aksharaa Ramayee  3D<br>Reshna Chandran 3D<br>Pakkirisamy Inbasri  4D<br>Vibha Nair 5C<br>Vasudevan Suresh Nehaa  5D|
 
 
 
