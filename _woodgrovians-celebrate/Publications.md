@@ -10,13 +10,18 @@ variant: markdown
 
 ##### Jun 2023
 
-![](/images/Newsletter/jun%202023.png)
+<a href="https://drive.google.com/file/d/1vDE2v4Ya1CsVXStqQi88t5u7fA4t9xYL/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<img src="/images/jun%202023.png" alt="Nov 2022" style="width:210px;height:px;">
+</a>
+
+
+
 
 
 
 ##### May 2023
 
-<a href="https://drive.google.com/file/d/1vDE2v4Ya1CsVXStqQi88t5u7fA4t9xYL/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<a href="https://drive.google.com/file/d/1gL4aWskcr-Y-rB3Jz9Z7SK1MzQuanbRl/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 <img src="/images/may%202023.PNG" alt="Nov 2022" style="width:210px;height:px;">
 </a>
 
