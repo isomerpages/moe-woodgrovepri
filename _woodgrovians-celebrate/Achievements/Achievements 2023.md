@@ -33,7 +33,9 @@ EDN National Essay Writing Competition 2023| **GOLD**<br> Nur Anisa  4A<br>Rina 
 10th Asia Arts Festival 2023 	| **GOLD**<br>**Guzheng (Solo)** <br>Gabrielle Wang Xin Tong (5E)	|
 10th Asia Arts Festival 2023 	| **GOLD**<br>**Piano/Strings (Solo)** <br>Catherine Ma Wenxin (5C)	|
 10th Asia Arts Festival 2023 	| **GOLD**<br>**Indian Dance (Group)** <br>Ranya Sivanathan 3B<br>Rachel Mariya Anoop 3C<br>Aksharaa Ramayee  3D<br>Reshna Chandran 3D<br>Pakkirisamy Inbasri  4D<br>Vibha Nair 5C<br>Vasudevan Suresh Nehaa  5D|
+
 Character Portrayal<br> Competition by Woodgrove-Fuchun CC IAEC 	| **2nd prize**<br>Kelvin Anthony 2A |
+
 Singing competition<br> by Makkal Kavignar Mandram
  	| **2nd prize**<br>Bilal Mohamed Suhana  1D |
 
