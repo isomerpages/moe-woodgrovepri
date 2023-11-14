@@ -3,6 +3,7 @@ title: Achievements 2023
 permalink: /woodgrovians-celebrate/achievements/permalink/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
 # **Achievements 2023**
 
@@ -15,7 +16,7 @@ third_nav_title: Achievements
 | North West Outstanding All-Rounder Student Award 2023<br>  	| **OARS Award 2023**<br>Richard Ongkowidjojo  6B(2022),<br>  Teoh Kar Yee   6F(2023)	|
 Raffles Institution Primary Mathematics World Contest (RIPMWC) 2023  	| **DISTINCTION**<br>Choudhary Vivaan  2F,<br>Lim Yi Zhe Tyler  6B,<br>Seng Cho Ion  6C<br> <br>**MERIT**<br>Sie Yu En  3E,<br>Kesshna Nair  5C,<br>Chloe Seet Ee Ning  6C, <br>Ji Hao  6C,<br>Nagarajan Sharveen  6C,<br>Chong Wing Ning  6D	|
 The 14th Goodtalk International Bilingual Speech Conference 2022-2023 (Prelim)  	| **FIRST, Upper Primary**<br>Wang Haoyu Lucas  5C<br><br>**SECOND, Lower Primary**  <br>Zhang Enqi  2A <br><br>**SECOND, Upper Primary**<br>Lucia Huang Yue Yi  4B​,<br> Qiu Wenni   4E,<br>Zhou Siqi   4E,<br>Faith Ang Yi Xin  5C​,<br>Xing Wenxin Cherie  5F<br><br>**THIRD, Upper Primary**<br>Teoh Kar Yee  6F|
-The 14th Goodtalk International Bilingual Speech Conference 2022-2023 (Finals)  	| **GOLD PRIZE**<br>**Primary School Category**<br><br>Wang Haoyu Lucas  5C <br>|
+The 14th Goodtalk International Bilingual Speech Conference 2022-2023 (Finals)  	| **Second**<br>**Primary School Category**<br><br>Wang Haoyu Lucas  5C <br>|
 Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2023  	| **GOLD**<br>Ji Hao, 6C <br> <br>**BRONZE**<br>Shi Haoran, 6D,<br>Xu Ruixing, 6F|
 North Zone Schools (Primary/Secondary) Chinese Speech Competition 2023  	| **2ND PRIZE**<br>Wang Haoyu Lucas  5C <br> <br>**MERIT**<br>Xing Wenxin Cherie  5F|
 National Digital Explorer (NDE) Competition National Round 2023  	| **SILVER**<br>Chia Zhe Cheng Lewis  5C<br>Wang Haoyu Lucas  5C<br><br>**BRONZE**<br>Charis Ong Pui Wun 5F|
