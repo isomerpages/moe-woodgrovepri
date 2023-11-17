@@ -8,7 +8,9 @@ variant: markdown
 
 ### Information from Pacific Bookstores
 
-[PACIFIC BOOKSTORES PURCHASE GUIDE.pdf](/files/PACIFIC%20BOOKSTORES%20PURCHASE%20GUIDE.pdf)
+[Pacific BookStores Purchase Guide 2024](/files/Book%20List%202024/PACIFIC_BOOKSTORES_PURCHASE_GUIDE_2024.pdf)
+
+
 
 ### P1 Booklist  
 [WGPS P1](/files/Book%20List%202024/P1.pdf)
