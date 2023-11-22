@@ -3,6 +3,7 @@ title: School Admin Team
 permalink: /about-us/staff/school-admin-team/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # **School Admin Team**
 
@@ -17,4 +18,4 @@ third_nav_title: Staff
 | Management Support Officer 	| Mrs Ervinna Ngew 	| [pee_guan_hoon@schools.gov.sg](mailto:pee_guan_hoon@schools.gov.sg) 	|
 | Management Support Officer 	| Mdm Nurliza 	| [Nurliza_ABU_HUSSIN@schools.gov.sg](mailto:Nurliza_ABU_HUSSIN@schools.gov.sg) 	|
 | Management Support Officer 	| Mdm Khairin Nadira 	| [Khairin_Nadira_Khamaruldin@schools.gov.sg](mailto:Khairin_Nadira_Khamaruldin@schools.gov.sg) 	|
-| Management Support Officer 	| Mdm Barakkath Nazeera 	| [barakkath_nazeera_mohamed_asana_labai@schools.gov.sg](mailto:barakkath_nazeera_mohamed_asana_labai@schools.gov.sg) 	|
+| Management Support Officer 	| Mdm Barakkath Nazeera 	| [barakkath_nazeera_mohamed_asana@schools.gov.sg](mailto:barakkath_nazeera_mohamed_asana@schools.gov.sg) 	|
