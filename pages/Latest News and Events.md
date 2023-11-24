@@ -19,6 +19,10 @@ variant: markdown
 
 ### Latest Publication 
 
-<a href="https://drive.google.com/file/d/1vDE2v4Ya1CsVXStqQi88t5u7fA4t9xYL/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-<img src="/images/may%202023.PNG" alt="Nov 2022" style="width:210px;height:px;">
+<a href="https://drive.google.com/file/d/1aSK7iWQsULOFMit_syKGCiZKf0hgknC1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<img src="/images/Newsletter/nov%202023.png" alt="Nov 2022" style="width:210px;height:px;">
 </a>
+
+
+
+
