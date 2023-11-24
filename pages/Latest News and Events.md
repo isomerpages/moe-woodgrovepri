@@ -2,8 +2,11 @@
 title: Latest News and Events
 permalink: /permalink/
 description: ""
+variant: markdown
 ---
 ### Latest News and Events 
+
+#### Art Competition for WGPS Alumni [Click Here](/files/Art_Competition_for_WGPS_Alumni.pdf)
 
 ### Achievements [2023](https://www.woodgrovepri.moe.edu.sg/permalink/achievements/)
 
