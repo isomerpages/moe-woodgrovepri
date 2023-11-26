@@ -2,10 +2,18 @@
 title: School Song
 permalink: /about-us/school-song/
 description: ""
+variant: markdown
 ---
 # **School Song**
 
-<iframe width="700" height="380" src="https://www.youtube.com/embed/6S-7ACLsxYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<iframe width="700" height="380" src="https://www.youtube.com/embed/aVZsT9e-Sec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+
+
+
+
 
 ### Lyrics
 
