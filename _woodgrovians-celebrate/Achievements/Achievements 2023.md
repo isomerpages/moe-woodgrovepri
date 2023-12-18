@@ -56,7 +56,7 @@ Singing competition<br> by Makkal Kavignar Mandram | **2nd prize**<br>Bilal Moha
 
 | National Schools Games <br>Badminton Competition 2023<br> | **Tier 1 Boys Singles**<br>**CHAMPION**Zhang Anshi  4A <br>**2nd PLACE**  Zhang Anjia  3D <br>**Tier 1 Boys Doubles** <br>**2nd PLACE**<br>Sun Shengfeng  4C<br>Zhu Bowen  5E	|<br>**Tier 2 Boys Doubles** <br>**2nd PLACE**<br>Chong Shin En  4C<br>Zhang Yuhan  4E	|<br>**Tier 2 Girls Singles** <br>**2nd PLACE**<br>Lee Yu Tong  5F<br>Chong Jing En  4D	|<br>**Tier 3 Girls Doubles** <br>**CHAMPION **<br>Tan Jing En  5C<br>Jaslyn Kock Si Kei   5F	|
 
-| Scouts North Area Paper Plane Derby 2023<br> | **CHAMPION **<br>Tong Jun Hee  4A <br>Rayqal Ashriq Bin Mohd Arabi  4C<br>Perh Rui De, Darius  4E <br>  	|
+| Scouts North Area Paper Plane Derby 2023<br> | **GOLD **<br>Tong Jun Hee  4A <br>Rayqal Ashriq Bin Mohd Arabi  4C<br>Perh Rui De, Darius  4E <br> |
 
 ### Social
 
