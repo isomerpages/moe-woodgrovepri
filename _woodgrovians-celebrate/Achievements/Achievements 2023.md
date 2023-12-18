@@ -54,11 +54,7 @@ Singing competition<br> by Makkal Kavignar Mandram | **2nd prize**<br>Bilal Moha
 **BRONZE**<br>(Kyorugi) Senior Boys Poom Belt Under 46kg<br>Lim Ting Xuan 6F |
 **8th PLACE**<br>(Poomsae) Junior Division Boys Blue 3<br>Yow Chek Ning Cayden   5B  |
 
-|National Schools Games <br>Badminton Competition 2023<br>| **Tier 1 Boys Singles**<br>**CHAMPION**Zhang Anshi  4A <br>**2nd PLACE**  Zhang Anjia  3D <br><br>
-**Tier 1 Boys Doubles** <br>**2nd PLACE**<br>Sun Shengfeng  4C<br>Zhu Bowen  5E	|<br><br>
-**Tier 2 Boys Doubles** <br>**2nd PLACE**<br>Chong Shin En  4C<br>Zhang Yuhan  4E	|<br><br>
-**Tier 2 Girls Singles** <br>**2nd PLACE**<br>Lee Yu Tong  5F<br>Chong Jing En  4D 	|<br><br>
-**Tier 3 Girls Doubles** <br>**CHAMPION **<br>Tan Jing En  5C<br>Jaslyn Kock Si Kei   5F	|
+| National Schools Games <br>Badminton Competition 2023 | **Tier 1 Boys Singles**<br>**CHAMPION**Zhang Anshi  4A <br>**2nd PLACE**  Zhang Anjia  3D <br>**Tier 1 Boys Doubles** <br>**2nd PLACE**<br>Sun Shengfeng  4C<br>Zhu Bowen  5E	|<br>**Tier 2 Boys Doubles** <br>**2nd PLACE**<br>Chong Shin En  4C<br>Zhang Yuhan  4E	|<br>**Tier 2 Girls Singles** <br>**2nd PLACE**<br>Lee Yu Tong  5F<br>Chong Jing En  4D 	|<br>**Tier 3 Girls Doubles** <br>**CHAMPION **<br>Tan Jing En  5C<br>Jaslyn Kock Si Kei   5F	|
 
 |Scouts North Area Paper Plane Derby 2023<br>| **CHAMPION **<br>Tong Jun Hee  4A <br>Rayqal Ashriq Bin Mohd Arabi  4C<br>Perh Rui De, Darius  4E <br>  	|
 
