@@ -25,6 +25,9 @@ National Robotics Competition 2023 	| **FIRST**<br>**Regular Category Best Resea
 6th National Text Recital Competition 2023| **BRONZE**<br>**(Lower Primary - Individual)**<br> Michelle Boon  3E<br>**BRONZE**<br>**(Lower Primary - Group)**<br>Fan Hong En 3D<br>Chew Wei Zheng  3E<br>Li Changle  3E|
 EDN National Essay Writing Competition 2023| **GOLD**<br> Nur Anisa  4A<br>Rina Zia Ahmed  4B<br>Muhd Nufaiel Zharfan  4E<br>Maia Nur Andreana	5B<br>Muhammad Haziq	5C<br>Qushayyi Adyan 5C<br>Hurul Ayn 5D<br>Muhammad Wafiy  5D<br>Syahzrin Idaman  5D<br>Aaqil Qushayyi  5E<br>Fatin Safiyyah  5F<br>Nur Kasih  6A<br>Hud Fatrisz Bin Zulkifli  6B<br>Malikah Darwisyah  6B<br>Muhd Nurdarnish Anaqi 6B<br>Ayra Ashyqa  6C<br>Auni Danisyah  6D<br>Ernie Syifa Fitriyah  6D<br>Ummu Tia Umairah 6D<br>Rayyan Qaisar  6E<br>Mohamad Niq Adil  6F<br>**SILVER**<br>Syaura Qaisara 4A<br>Mawaddah  4E<br>Nur Ameera Qayla  5A<br>Ammar Khan  5D<br>Nur Ayra Alysha  6D<br>Eshan Wildan  6E<br>Hana Amani  6E<br>Muhammad Ikram  6E<br>Siti Aishah  6E
 
+National Mathematical Olympiad of Singapore (NMOS) Competition 2023| **SILVER**<br> Yu Xinlan  5F<br>**BRONZE**<br>Cayden Seet  5F<br>Chua Zi Heng, Jayden  5F<br>Jayden Sing Zhi Yu  5F<br>Jenson Lim Jun Zhe  5F<br>Lim You Jun 5F|
+
+
 ### Aesthetics
 
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
