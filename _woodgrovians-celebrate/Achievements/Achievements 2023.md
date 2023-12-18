@@ -50,7 +50,7 @@ Singing competition<br> by Makkal Kavignar Mandram | **2nd prize**<br>Bilal Moha
 | National Schools Games<br> Rope Skipping Competition 2023	| **JUNIOR DIVISION GIRLS** <br>**Team Double Dutch, 6th**  <br><br>Shereen Koh Jia Xuan	 4D<br>Shim Hwee Yee, Chloe   4D<br> Dhia Auni  5A <br>Lee Jing Na  5B  
 |National School Games <br>Gymnastics (Rhythmic) 2023 |**SENIOR GIRLS** <br>**Individual Hoop 8th**  <br><br>Teoh Kar Yee  6F	|
 |National Schools Games <br>Swimming Competition 2023<br>  	| **JUNIOR GIRLS 2**<br>**50m Free 50m Fly 6th** <br>**50m Back 50m Free 3rd**<br>**100m Free 3rd** <br>**200m Individual Medley 4th** <br><br>Lee Zi Xuan  5F	|
-|National School Games <br>Taekwondo Championships 2023<br>  	| **SILVER**<br>(Kyorugi) Senior Boys Poom Belt Under 46kg<br>Jayden Peh  6C    |
+|National School Games <br>Taekwondo Championships 2023<br>  	| **SILVER**<br>(Kyorugi) Senior Boys Poom Belt Under 46kg<br>Jayden Peh  6C    |**BRONZE**<br>(Kyorugi) Senior Boys Poom Belt Under 46kg<br>Lim Ting Xuan 6F |**8th PLACE**<br>(Poomsae) Junior Division Boys Blue 3<br>Yow Chek Ning Cayden   5B  |
 
 
 ### Social
