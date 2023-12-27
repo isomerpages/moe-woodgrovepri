@@ -14,10 +14,8 @@ links:
   - title: Woodgrovians Celebrate
     collection: woodgrovians-celebrate
   - title: WOW! – What’s On @ Woodgrove
-    url: /permalink
-    sublinks:
-      - title: Latest Events
-        url: /permalink
+    url: /wow/permalink/
+    sublinks: []
   - title: Useful Information
     url: /for-parents/assessment-n-examination-matters/examination-policy
     sublinks:
