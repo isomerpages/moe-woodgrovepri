@@ -1,0 +1,4 @@
+collections:
+  wow:
+    output: true
+    order: []
