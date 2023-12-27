@@ -1,4 +1,5 @@
 collections:
   wow:
     output: true
-    order: []
+    order:
+      - What's On @ Woodgrove.md
