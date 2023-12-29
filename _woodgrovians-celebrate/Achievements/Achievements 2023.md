@@ -25,6 +25,9 @@ National Robotics Competition 2023 	| **FIRST**<br>**Regular Category Best Resea
 6th National Text Recital Competition 2023| **BRONZE**<br>**(Lower Primary - Individual)**<br> Michelle Boon  3E<br>**BRONZE**<br>**(Lower Primary - Group)**<br>Fan Hong En 3D<br>Chew Wei Zheng  3E<br>Li Changle  3E|
 EDN National Essay Writing Competition 2023| **GOLD**<br> Nur Anisa  4A<br>Rina Zia Ahmed  4B<br>Muhd Nufaiel Zharfan  4E<br>Maia Nur Andreana	5B<br>Muhammad Haziq	5C<br>Qushayyi Adyan 5C<br>Hurul Ayn 5D<br>Muhammad Wafiy  5D<br>Syahzrin Idaman  5D<br>Aaqil Qushayyi  5E<br>Fatin Safiyyah  5F<br>Nur Kasih  6A<br>Hud Fatrisz Bin Zulkifli  6B<br>Malikah Darwisyah  6B<br>Muhd Nurdarnish Anaqi 6B<br>Ayra Ashyqa  6C<br>Auni Danisyah  6D<br>Ernie Syifa Fitriyah  6D<br>Ummu Tia Umairah 6D<br>Rayyan Qaisar  6E<br>Mohamad Niq Adil  6F<br>**SILVER**<br>Syaura Qaisara 4A<br>Mawaddah  4E<br>Nur Ameera Qayla  5A<br>Ammar Khan  5D<br>Nur Ayra Alysha  6D<br>Eshan Wildan  6E<br>Hana Amani  6E<br>Muhammad Ikram  6E<br>Siti Aishah  6E
 
+National Mathematical Olympiad of Singapore (NMOS) Competition 2023| **SILVER**<br> Yu Xinlan  5F<br>**BRONZE**<br>Cayden Seet  5F<br>Chua Zi Heng, Jayden  5F<br>Jayden Sing Zhi Yu  5F<br>Jenson Lim Jun Zhe  5F<br>Lim You Jun 5F|
+
+
 ### Aesthetics
 
 | EVENT/COMPETITION 	| ACHIEVEMENT 	|
@@ -47,6 +50,10 @@ Singing competition<br> by Makkal Kavignar Mandram | **2nd prize**<br>Bilal Moha
 | National Schools Games<br> Rope Skipping Competition 2023	| **JUNIOR DIVISION GIRLS** <br>**Team Double Dutch, 6th**  <br><br>Shereen Koh Jia Xuan	 4D<br>Shim Hwee Yee, Chloe   4D<br> Dhia Auni  5A <br>Lee Jing Na  5B  
 |National School Games <br>Gymnastics (Rhythmic) 2023 |**SENIOR GIRLS** <br>**Individual Hoop 8th**  <br><br>Teoh Kar Yee  6F	|
 |National Schools Games <br>Swimming Competition 2023<br>  	| **JUNIOR GIRLS 2**<br>**50m Free 50m Fly 6th** <br>**50m Back 50m Free 3rd**<br>**100m Free 3rd** <br>**200m Individual Medley 4th** <br><br>Lee Zi Xuan  5F	|
+|National School Games <br>Taekwondo Championships 2023<br>  	| **SILVER**<br>(Kyorugi) Senior Boys Poom Belt Under 46kg<br>Jayden Peh  6C    |**BRONZE**<br>(Kyorugi) Senior Boys Poom Belt Under 46kg<br>Lim Ting Xuan 6F |**8th PLACE**<br>(Poomsae) Junior Division Boys Blue 3<br>Yow Chek Ning Cayden   5B  |
+| National Schools Games <br>Badminton Competition 2023<br> | **Tier 1 Boys Singles**<br>**CHAMPION**Zhang Anshi  4A <br>**2nd PLACE**  Zhang Anjia  3D <br>**Tier 1 Boys Doubles** <br>**2nd PLACE**<br>Sun Shengfeng  4C<br>Zhu Bowen  5E	|<br>**Tier 2 Boys Doubles** <br>**2nd PLACE**<br>Chong Shin En  4C<br>Zhang Yuhan  4E	|<br>**Tier 2 Girls Singles** <br>**2nd PLACE**<br>Lee Yu Tong  5F<br>Chong Jing En  4D	|<br>**Tier 3 Girls Doubles** <br>**CHAMPION **<br>Tan Jing En  5C<br>Jaslyn Kock Si Kei   5F	 |
+
+| Scouts North Area Paper Plane Derby 2023<br> | **GOLD **<br>Tong Jun Hee  4A <br>Rayqal Ashriq Bin Mohd Arabi  4C<br>Perh Rui De, Darius  4E <br> |
 
 ### Social
 
