@@ -33,6 +33,7 @@ variant: markdown
 | SH (Aesthetics) 	| Mdm Phang Sze Mein 	| [phang_sze_mein@schools.gov.sg](mailto:phang_sze_mein@schools.gov.sg) 	|
 | Lead Teacher (TL) 	| Mdm Jegajothy Sivapatham 	| [ravindran_jegajothy@schools.gov.sg](mailto:ravindran_jegajothy@schools.gov.sg) 	|
 | ST (Educational Support) 	| Mdm Ang Soh Kim 	| [ang_soh_kim@schools.gov.sg](mailto:ang_soh_kim@schools.gov.sg) 	|
+| ST (English) 	| Mdm Mawar Haron	| [mawar_haron@schools.gov.sg](mailto:mawar_haron@schools.gov.sg) 	|
 | ST (Maths) 	| Miss Kala Devi 	| [kala_devi_ramasamy@schools.gov.sg](mailto:kala_devi_ramasamy@schools.gov.sg) 	|
 | ST (Maths) 	| Mdm Teh Yee Yan 	| [teh_yee_yan@schools.gov.sg](mailto:teh_yee_yan@schools.gov.sg) 	|
 | ST (Chinese Language) 	| Ms Tan Siok Buay Susan 	| [tan_siok_buay@schools.gov.sg](mailto:tan_siok_buay@schools.gov.sg) 	|
