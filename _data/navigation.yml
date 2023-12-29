@@ -14,10 +14,10 @@ links:
   - title: Woodgrovians Celebrate
     collection: woodgrovians-celebrate
   - title: WOW!
-    url: https://www.woodgrovepri.moe.edu.sg/wow/permalink/
+    url: /wow/permalink/
     sublinks:
       - title: What's On @ Woodgrove
-        url: https://www.woodgrovepri.moe.edu.sg/wow/permalink/
+        url: /wow/permalink/
   - title: Useful Information
     url: /for-parents/assessment-n-examination-matters/examination-policy
     sublinks:
