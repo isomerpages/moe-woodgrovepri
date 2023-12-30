@@ -9,7 +9,7 @@ variant: markdown
 
 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="WGPS School Song 2023" src="https://www.youtube.com/embed/hrqNzJuDgd0&amp;rel=0" height="380" width="700"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="WGPS School Song 2023" src="https://www.youtube.com/embed/hrqNzJuDgd0" height="380" width="700"></iframe>
 
 
 
