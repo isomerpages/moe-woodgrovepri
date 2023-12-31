@@ -27,7 +27,7 @@ variant: markdown
 | Assistant Year Head 	| Mr Kavin Chong 	| [kavin_chong_shi_jie@schools.gov.sg](mailto:kavin_chong_shi_jie@schools.gov.sg) 	|
 | LH (Maths)  	| Mr Jacky Chong 	| [chong_chieh_min@schools.gov.sg](mailto:chong_chieh_min@schools.gov.sg) 	|
 | LH (Science) 	| Miss Fatin Suhaila 	| [fatin_suhaila_omar@schools.gov.sg](mailto:fatin_suhaila_omar@schools.gov.sg) 	|
-| LH (Chinese Language) 	| Mdm Chong Siew Yin 	| [chong_siew_yin@schools.gov.sg](mailto:chong_siew_yin@schools.gov.sg) 	|
+| SH (Chinese Language) 	| Mdm Chong Siew Yin 	| [chong_siew_yin@schools.gov.sg](mailto:chong_siew_yin@schools.gov.sg) 	|
 | LH (Chinese Language) 	| Mdm Xu Qiao Fen 	| [xu_qiaofen@schools.gov.sg](mailto:xu_qiaofen@schools.gov.sg) 	|
 | SH (Malay Language) 	| Mdm Tuty Erahayu 	| [tuty_erahayu_abdul_hakim@schools.gov.sg](mailto:tuty_erahayu_abdul_hakim@schools.gov.sg) 	|
 | SH (Aesthetics) 	| Mdm Phang Sze Mein 	| [phang_sze_mein@schools.gov.sg](mailto:phang_sze_mein@schools.gov.sg) 	|
