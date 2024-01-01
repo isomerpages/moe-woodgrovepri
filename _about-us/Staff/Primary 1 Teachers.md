@@ -3,22 +3,24 @@ title: Primary 1 Teachers
 permalink: /about-us/staff/primary-1-teachers/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # **Primary 1 Teachers**
 
-<center><b>Primary 1 Form Teachers (2023)</b></center>
+
+<center><b>Primary 1 Form Teachers (2024)</b></center>
 
 | Class 	|  Name of Teacher 	|  Email Address 	|
 | ---	| ---	| ---	|
-| 1A 	|Miss Ho Ting En 	| [ho_ting_en@schools.gov.sg](mailto:ho_ting_en@schools.gov.sg) 	|
-|  	| Miss Nur Syafizah Binte Rohayat 	| [nursyafizah_rohayat@schools.gov.sg](mailto:nursyafizah_rohayat@schools.gov.sg) 	|
-| 1B 	| Mdm Ritawillis Binte Selamat 	| [ritawillis_selamat@schools.gov.sg](mailto:ritawillis_selamat@schools.gov.sg) 	|
-|  	| Miss Lim Fang Ping 	| [lim_fang_ping@schools.gov.sg](mailto:lim_fang_ping@schools.gov.sg) 	|
-| 1C 	| Miss Nurul Hudah Binte Saharudin 	| [Nurul_hudah_saharudin@schools.gov.sg](mailto:Nurul_hudah_saharudin@schools.gov.sg) 	|
-|  	| Mdm Wong Lilian  	| [wong_lilian@schools.gov.sg](mailto:wong_lilian@schools.gov.sg) 	|
-| 1D 	| Miss Wong Huang Leng 	| [wong_huang_leng@schools.gov.sg](mailto:wong_huang_leng@schools.gov.sg) 	|
-|  	| Miss Nurashirin (Mrs Rose)	| [nurashirin_abdul_rahman@schools.gov.sg](mailto:nurashirin_abdul_rahman@schools.gov.sg) 	|
-| 1E 	| Mrs Natalie Dheelip 	| [kang_natalie@schools.gov.sg](mailto:kang_natalie@schools.gov.sg) 	|
-|  	| Mdm Michelle Lee Siok Kwan  	| [lee_siok_kwan@schools.gov.sg](mailto:lee_siok_kwan@schools.gov.sg) 	|
+| 1A 	|Miss Chong Jia Wen (Audrey) 	| [chong_jia_wen@schools.gov.sg](mailto:chong_jia_wen@schools.gov.sg) 	|
+|  	| Mr Muhammad Ashari Bin Saifee 	| [muhammad_ashari_saifee@schools.gov.sg](mailto:muhammad_ashari_saifee@schools.gov.sg) 	|
+| 1B 	| Miss Farina Binte Mohamed Ali	| [farina_mohd_ali@schools.gov.sg](mailto:farina_mohd_ali@schools.gov.sg) 	|
+|  	| Mdm Chong Siew Yin 	| [chong_siew_yin@schools.gov.sg](mailto:chong_siew_yin@schools.gov.sg) 	|
+| 1C 	| Mr Chan Seong Fuey 	| [chan_seong_fuey@schools.gov.sg](mailto:chan_seong_fuey@schools.gov.sg) 	|
+|  	| Ms Noor Izzatie Binte Abdul Manaf  	| [noor_izzatie_abdul_manaf@schools.gov.sg](mailto:noor_izzatie_abdul_manaf@schools.gov.sg) 	|
+| 1D 	| Mdm Sharmala d/o Rajandran 	| [sharmala_rajandran@schools.gov.sg](mailto:sharmala_rajandran@schools.gov.sg) 	|
+|  	| Mr Tan Chun Hian Francis	| [tan_chun_hian_francis@schools.gov.sg](mailto:tan_chun_hian_francis@schools.gov.sg) 	|
+| 1E 	| Ms Kala Devi d/o Ramasamy 	| [kala_devi_ramasamy@schools.gov.sg](mailto:kala_devi_ramasamy@schools.gov.sg) 	|
+|  	| Miss Hee Chung Yen  	| [hee_chung_yen@schools.gov.sg](mailto:hee_chung_yen@schools.gov.sg) 	|
 | 1F 	| Mdm Ang Soh Kim 	| [ang_soh_kim@schools.gov.sg](mailto:ang_soh_kim@schools.gov.sg) 	|
-|  	| Miss Nur Shabrina Bte Mohamed Nazeer  	| [nur_shabrina_mohamed_nazeer@schools.gov.sg](mailto:nur_shabrina_mohamed_nazeer@schools.gov.sg) 	|
+|  	| Mdm Saratha d/o Raman Sariyan  	| [saratha_raman_sariyan@schools.gov.sg](mailto:saratha_raman_sariyan@schools.gov.sg) 	|
