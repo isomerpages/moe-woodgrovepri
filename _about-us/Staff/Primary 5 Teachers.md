@@ -19,5 +19,5 @@ variant: markdown
 |  	| Mdm Nur Idayu Bte Yusi 	| [nur_idayu_yusi@schools.gov.sg](mailto:nur_idayu_yusi@schools.gov.sg) 	|
 | 5D 	| Mdm Lee Wen Yen Wendy 	|[lee_wen_yen@schools.gov.sg](mailto:lee_wen_yen@schools.gov.sg) 	|
 |  	| Mdm Tuty Erahayu Bte A H  	| [tuty_erahayu_abdul_hakim@schools.gov.sg](mailto:tuty_erahayu_abdul_hakim@schools.gov.sg) 	|
-| 5E 	| Mdm Lee Sok Hwee 	| [lee_sok_hwee@schools.gov.sg](mailto:lee_sok_hwee@schools.gov.sg) 	|
+| 5E 	| Mdm Lim Sok Hwee 	| [lim_sok_hwee@schools.gov.sg](mailto:lim_sok_hwee@schools.gov.sg) 	|
 |  	| Mr Kavin Chong Shi Jie	| [kavin_chong_shi_jie@schools.gov.sg](mailto:kavin_chong_shi_jie@schools.gov.sg) 	|
