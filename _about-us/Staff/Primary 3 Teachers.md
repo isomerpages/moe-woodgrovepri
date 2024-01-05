@@ -11,7 +11,7 @@ variant: markdown
 
 | Class 	|  Name of Teacher 	|  Email Address 	|
 | ---	| ---	| ---	|
-| 3A 	| Mdm Lee Siew Choo Jane 	| [lee_siew_choo_jane@schools.gov.sg](mailto:lee_siew_choo_jane@schools.gov.sg) 	|
+| 3A 	| Mdm Lee Siew Choo Jane (Mrs Chang) 	| [lee_siew_choo_jane@schools.gov.sg](mailto:lee_siew_choo_jane@schools.gov.sg) 	|
 |  	| Ms Nurul Hannah Bte Mohammad Amran 	| [nurul_hannah_mohammad_amran@schools.gov.sg](mailto:nurul_hannah_mohammad_amran@schools.gov.sg) 	|
 | 3B 	| Miss Lee Ying Hui Daphanie 	| [lee_ying_hui_daphanie@schools.gov.sg](mailto:lee_ying_hui_daphanie@schools.gov.sg) 	|
 |  	| Mdm Nurshahidah Bte Mansoor 	| [nurshahidah_mansoor@schools.gov.sg](mailto:nurshahidah_mansoor@schools.gov.sg) 	|
