@@ -2,5 +2,4 @@ collections:
   wow:
     output: true
     order:
-      - 25th Anniversary Celebrations.md
       - What's On @ Woodgrove.md
