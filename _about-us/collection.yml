@@ -1,0 +1,20 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our History.md
+      - School Vision and Mission.md
+      - School Philosophy, Motto, Values & Strategic Thrusts.md
+      - School Crest.md
+      - Staff/Key Personnel.md
+      - Staff/Primary 1 Teachers.md
+      - Staff/Primary 2 Teachers.md
+      - Staff/Primary 3 Teachers.md
+      - Staff/Primary 4 Teachers.md
+      - Staff/Primary 5 Teachers.md
+      - Staff/Primary 6 Teachers.md
+      - Staff/.keep
+      - Staff/Allied Educators & School Counsellors.md
+      - Staff/School Admin Team.md
+      - School Song.md

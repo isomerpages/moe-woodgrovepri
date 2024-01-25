@@ -1,0 +1,29 @@
+logo: /images/Badge.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Woodgrovians Learn
+    url: /woodgrovians-learn/instructional-programmes/english
+    sublinks:
+      - title: Instructional Programmes
+        url: /woodgrovians-learn/instructional-programmes/english
+      - title: Signature Programmes
+        url: /woodgrovians-learn/signature-programmes/applied-learning-programme-alp
+      - title: CCE Programmes
+        url: /woodgrovians-learn/CCE-Programmes/cca/
+  - title: Woodgrovians Celebrate
+    collection: woodgrovians-celebrate
+  - title: WOW!
+    url: /wow/permalink/
+    sublinks:
+      - title: What's On @ Woodgrove
+        url: /wow/permalink/
+  - title: Useful Information
+    url: /for-parents/assessment-n-examination-matters/examination-policy
+    sublinks:
+      - title: For Parents
+        url: /for-parents/assessment-n-examination-matters/examination-policy
+      - title: For Students
+        url: /for-students/useful-links-for-students
+  - title: School Information
+    collection: school-information

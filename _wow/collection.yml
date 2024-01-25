@@ -1,0 +1,5 @@
+collections:
+  wow:
+    output: true
+    order:
+      - What's On @ Woodgrove.md

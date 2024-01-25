@@ -1,0 +1,27 @@
+collections:
+  instructional-programmes:
+    output: true
+    order:
+      - English/.keep
+      - English/English.md
+      - English/Useful Information for Parents.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Framework and Overview of Core Programmes.md
+      - Mathematics/Useful Information for Parents.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Overview of Core Programmes.md
+      - Science/Bloom @WGPS.md
+      - Mother Tongue Languages.md
+      - PE.md
+      - Art/.keep
+      - Art/Art.md
+      - Art/Framework.md
+      - Art/Overview of Core Programmes.md
+      - Art/Art Curriculum Overview.md
+      - Art/Learning Journeys, Programmes & School Events.md
+      - Music/.keep
+      - Music/Music.md
+      - Music/Overview of Core Programmes.md
+      - Social Studies.md
