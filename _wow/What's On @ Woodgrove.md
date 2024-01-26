@@ -17,7 +17,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
-    <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MlQ6W9E-1H4?si=wIL1osZKt9YzrVlN"></iframe>
+    <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MlQ6W9E-1H4?si=wIL1osZKt9YzrVlN&amp;rel=0"></iframe>
 </div>
 <p></p>
 <h3><strong>P5 Camp ACE for Bolt the Cheetah!</strong></h3>
