@@ -13,9 +13,6 @@ description: ""
     from Woodgrovians as they began their day in high spirits to a strong start
     of the year!</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <div class="iframe-wrapper">
     <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MlQ6W9E-1H4?si=wIL1osZKt9YzrVlN&amp;rel=0"></iframe>
 </div>
@@ -45,11 +42,6 @@ description: ""
     <div class="iframe-wrapper">
         <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5Yy6mIBIGYM?si=y0WK2dBS4EolgeRx&amp;rel=0"></iframe>
     </div>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
     <h3>Happy Birthday Woodgrove!.</h3>
     <p>We had a blast during our first Monthly Birthday celebration on 3 Jan
         2024. The occasion was more special than usual as we also kickstarted our
