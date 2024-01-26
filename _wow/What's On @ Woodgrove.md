@@ -4,7 +4,7 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h4>Woodgrovians Cheering to a Strong Start in 2024!</h4>
+<h3><strong>Woodgrovians Cheering to a Strong Start in 2024!</strong></h3>
 <p>On Tuesday, 23 January, our students started their day on a positive note
     with their level cheers. After close to a month of learning and growing
     together with their classmates and teachers, they were excited to showcase
