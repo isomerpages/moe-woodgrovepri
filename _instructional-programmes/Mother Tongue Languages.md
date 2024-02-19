@@ -2,12 +2,13 @@
 title: Mother Tongue Languages
 permalink: /woodgrovians-learn/instructional-programmes/mother-tongue-languages/
 description: ""
+variant: markdown
 ---
 # **Mother Tongue languages**
 
 In Woodgrove Primary, we strive to develop our Woodgrovians into confident individuals who are active and proficient in the use of their respective Mother Tongue Languages.
 
-We strongly believe in the importance of reading and seek to build a reading culture in Woodgrove and inculcate in our Woodgrovians good reading habits.   Through the Extensive and Intensive Reading Programmes, our Woodgrovians develop an interest and love in reading Mother Tongue  books and develop strong reading comprehension skills. 
+We strongly believe in the importance of reading and seek to build a reading culture in Woodgrove and inculcate in our Woodgrovians good reading habits.&nbsp; &nbsp;Through the Extensive and Intensive Reading Programmes, our Woodgrovians develop an&nbsp;interest and love in reading Mother Tongue &nbsp;books and develop strong reading comprehension skills.&nbsp;
 
 Rooted in our belief in creating a conducive learning environment that promotes the learning of the languages and respective cultures and values, the team designs programmes such as the MT Fortnight and P4 Cultural Camp to introduce the Chinese, Malay and Tamil Heritage and culture to the respective Woodgrovians, helping them to not only appreciate their culture, ignite their passion in Mother Tongue and inspiring them to excel in their Mother Tongue Languages.
 
@@ -21,7 +22,7 @@ Rooted in our belief in creating a conducive learning environment that promotes 
 
 ### P4 Cultural Camp
 
-We arrange Cultural camps for our Primary 4 Woodgrovians to provide them with an immersive environment to learn and appreciate the Culture of their own Mother Tongue Language.
+We arrange Cultural camps for our Primary 4 Woodgrovians&nbsp;to provide them with an immersive environment to learn and appreciate the Culture of their own Mother Tongue Language.
 
 ![](/images/1%20MT%20Photos.jpg)
 ![](/images/2%20MT%20Photos.jpg)
@@ -36,7 +37,7 @@ The team plans a 2 week long programme comprising varied MTL activities and leve
 
 ### Language Fiesta
 
-Language Fiesta is a programme specially designed for Primary 1 and Primary 2 students, to instil joy of learning in Mother Tongue Language.  Woodgrovians go through a variety of language related activities during the programme, such as text recital, language games and quizzes. Through the Language Fiesta, our Woodgrovians not only find greater joy in the learning of the Mother Tongue Languages but also learn more vocabularies along the way.
+Language Fiesta is a programme specially designed for Primary 1 and Primary 2 students, to instil joy of learning in Mother Tongue Language.&nbsp; Woodgrovians go through a variety of language related activities during the programme, such as text recital, language games and quizzes. Through the Language Fiesta, our Woodgrovians not only find greater joy in the learning of the Mother Tongue Languages but also learn more vocabularies along the way.
 
 ![](/images/6%20MT%20Photos.jpg)
 
@@ -50,4 +51,5 @@ Language Fiesta is a programme specially designed for Primary 1 and Primary 2 st
 
 
 **Parents' Recommended Reading lIst**   
-**[2020_revised.pdf](/files/_2020_revised.pdf)**
+
+**[小学华文课外读物书目（2022-2023）](/files/Book%20List%202024/2022_2023_____________.pdf)**
