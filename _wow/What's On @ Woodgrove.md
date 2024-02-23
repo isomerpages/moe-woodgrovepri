@@ -4,6 +4,12 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Total Defence Day @ WGPS 23 Feb</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kooy5yKktsQ?si=PP8mfdKg0Ok6M7Nw&amp;rel=0"></iframe>
+</div>
+<p></p>
+<p></p>
 <h3><strong>Woodgrovians Cheering to a Strong Start in 2024!</strong></h3>
 <p>On Tuesday, 23 January, our students started their day on a positive note
 with their level cheers. After close to a month of learning and growing
