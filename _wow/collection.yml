@@ -2,4 +2,5 @@ collections:
   wow:
     output: true
     order:
+      - 25th Anniversary Celebrations Well Wishes Message.md
       - What's On @ Woodgrove.md
