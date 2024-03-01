@@ -4,6 +4,27 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h3><strong>National School Games Opening Ceremony 2024</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UCvm2broQjc?si=8wSgmBWYa_9nZTkt&amp;rel=0"></iframe>
+</div>
+<p>Our sporting Woodgrovians took part in the 2024 National Schools Games
+(NSG) Opening ceremony @ OCBC Arena which was graced by Mr Chan Chun Sing,
+Minister of Education. The ceremony emphasized the importance of values
+and character that form the foundation of sporting excellence. Our Woodgrovians
+cheered together with 30 other schools from all over Singapore in the NSG
+Cheer with gusto and pride. They also experienced a unique opportunity
+to view the Secondary school’s NSG competitions at the OCBC Arena. Watching
+their senior counterparts definitely motivated our own sports teams to
+strive even harder for the upcoming Primary Schools NSG.</p>
+<p>Back in school, we prepared for our very own Woodgrove NSG Opening Ceremony
+and what a proud moment it was for the representatives from Badminton,
+Table Tennis, Football, Rope Skipping and Basketball! They stood proudly
+on stage for the Athlete’s Oath as well as recited our own Woodgrovian
+Pledge, reiterating character development through sporting excellence.</p>
+<p>The ceremony marks our Woodgovian’s participation in the NSG and we wish
+them all the best as they strive towards Sporting and Character Excellence.</p>
+<hr>
 <h3><strong>Total Defence Day @ WGPS 23 Feb</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kooy5yKktsQ?si=PP8mfdKg0Ok6M7Nw&amp;rel=0"></iframe>
