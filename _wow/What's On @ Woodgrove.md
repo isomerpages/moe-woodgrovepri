@@ -4,6 +4,11 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Welcome Woodgrovians back to school in term 2</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sKJt2kKhxH8?si=n-Ge1MCxrNcyDsld&amp;rel=0"></iframe>
+</div>
+<p></p>
 <h3><strong>National School Games Opening Ceremony 2024</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UCvm2broQjc?si=8wSgmBWYa_9nZTkt&amp;rel=0"></iframe>
