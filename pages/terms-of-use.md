@@ -8,19 +8,19 @@ variant: markdown
 #### **General Legal Information**
 
 1. Thank you for visiting __________________ (school website). By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site. 
-General 
+**General** 
 2. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
-Proprietary Rights 
-3. This Web Site is maintained by ________________ (school name). It is owned by ________________ (school name).
-4. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by ________________ (school name). 
-Privacy Policy 
+**Proprietary Rights** 
+3. This Web Site is maintained by _________ (school name). It is owned by ________  (school name).
+4. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by __ (school name). 
+**Privacy Policy** 
 5. Click here to review this Web Site Privacy Statement. 
-Restrictions on Use of Materials 
-6. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of ________________ (school name).  To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient. 
-7. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of ________________ (school name)’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of ________________ (school name).
-Right of Access 
-8. ________________ (school name) reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever. 
-Disclaimer of Warranties and Liability 
+**Restrictions on Use of Materials** 
+6. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of _______________  (school name).  To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
+7. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of ________  (school name)’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of _________ (school name).
+**Right of Access **
+8. ___________ (school name) reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever. 
+**Disclaimer of Warranties and Liability**
 9. The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, ________________ (school name) does not warrant and hereby disclaims any warranty: 
 (a) as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site; 
 (b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements. 
