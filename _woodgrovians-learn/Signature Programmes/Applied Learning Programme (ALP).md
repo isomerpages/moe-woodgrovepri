@@ -3,6 +3,7 @@ title: Applied Learning Programme (ALP)
 permalink: /woodgrovians-learn/signature-programmes/applied-learning-programme-alp/
 description: ""
 third_nav_title: Signature Programmes
+variant: markdown
 ---
 # **Applied Learning Programme (ALP)**
 
@@ -33,7 +34,7 @@ During ALP lessons, students are encouraged to be creative by experimenting with
 | 2.    RESPOND<br>  	| <br>• Reflect on drama experiences<br><br>• Express understanding through dramatic conventions &amp; techniques<br><br>• Respond to content, form, character, symbolism or impact with analytical insight<br><br><br>  	|
 | 3.    PERFORM 	| <br>• Explore, prepare and share ideas through enactment<br><br>• Key aspects of performances:-<br>   ◦ performance styles<br>    ◦ coherent interpretation of role<br>    ◦ communicating with audience 	|
 
-![](/images/a%20Slide1%20copy.jpg)
+![](/images/Lower_Primary_Readers.jpg)
 
 ![](/images/a%20Slide2%20(1)%20copy.jpg)
 
