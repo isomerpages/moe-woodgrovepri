@@ -58,10 +58,10 @@ third_nav_title: Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FIRST</strong>
+<p><strong>FIRST</strong> 
 <br>Wang Haoyu Lucas</p>
 <p></p>
-<p><strong>SECOND</strong>
+<p><strong>SECOND</strong> 
 <br>Li Mingze Benjamin
 <br>Waverly Sia Yuexua
 <br>Faith Ang Yi Xin</p>
@@ -88,7 +88,7 @@ third_nav_title: Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>OARS Award 2024</strong>
+<p><strong>OARS Award 2024</strong> 
 <br>Charis Ong Pui Wun&nbsp;</p>
 <p></p>
 <p></p>
@@ -108,7 +108,7 @@ third_nav_title: Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>North Zone Top 4 Outstanding Performance</strong>
+<p><strong>North Zone Top 4 Outstanding Performance</strong> 
 <br>
 <br>Chia Zhe Cheng Lewis
 <br>(Good Speaker)
@@ -138,7 +138,7 @@ third_nav_title: Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u><br></u><strong>Distinction</strong>
+<p><u><br></u><strong>Distinction</strong> 
 <br>Aden Soh Tian Tsao 6C
 <br>Ong Ginny 6C</p>
 <p>Catherine Ma Wenxin 6C</p>
