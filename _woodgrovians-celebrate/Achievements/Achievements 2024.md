@@ -14,71 +14,120 @@ third_nav_title: Achievements
 <p>EVENT/COMPETITION</p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p>ACHIEVEMENT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p>National Chinese Calligraphy
-<br>Competition
+<p>National Chinese Calligraphy Competition
 <br>2024</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>2<sup>nd</sup> (Category A)</strong> 
-<br>Sun Sixu &nbsp;6F</p>
+<br>Sun Sixu</p>
 <p></p>
 <p><strong>2<sup>nd</sup> (Category B)</strong> 
-<br>Sun Siqiao 4C</p>
-<p></p>
+<br>Sun Siqiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>6F
+<br>
+<br>
+<br>4C</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The 15th Goodtalk International Bilingual Speech Conference 2023-2024
-(Prelim)</p>
+<p>The 15th Goodtalk International
+<br>Bilingual Speech
+<br>Conference
+<br>2023-2024
+<br>(Prelim)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>FIRST</strong>
-</p>
-<p>Wang Haoyu Lucas &nbsp;6C</p>
+<br>Wang Haoyu Lucas</p>
 <p></p>
 <p><strong>SECOND</strong>
-</p>
-<p>Li Mingze Benjamin 3E</p>
-<p>Waverly Sia Yuexuan 5C</p>
-<p>Faith Ang Yi Xin 6C</p>
+<br>Li Mingze Benjamin
+<br>Waverly Sia Yuexua
+<br>Faith Ang Yi Xin</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>6C
+<br>
+<br>
+<br>3E
+<br>5C
+<br>6C</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>North West Outstanding All-Rounder Student Award 2024</p>
+<p>North West Outstanding
+<br>All-Rounder Student Award
+<br>2024</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>OARS Award 2024</strong>
-</p>
-<p>Charis Ong Pui Wun&nbsp; 6F</p>
+<br>Charis Ong Pui Wun&nbsp;</p>
 <p></p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>6F</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wits &amp; Words Inter-school Debate Championship 2024</p>
+<p>Wits &amp; Words Inter-school
+<br>Debate Championship
+<br>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>North Zone Top 4 Outstanding Performance</strong>
+<br>
+<br>Chia Zhe Cheng Lewis
+<br>(Good Speaker)
+<br>
 </p>
-<p>Chia Zhe Cheng Lewis&nbsp; 6C (Good Speaker)</p>
-<p>Faith Ang Yi Xin&nbsp; 6C</p>
-<p>Kesshna Nair D/O Vijayan Nair&nbsp; 6C</p>
-<p>Charis Ong Pui Wun&nbsp; 6F</p>
-<p>Xing Wenxin Cherie&nbsp; 6F</p>
+<p>Faith Ang Yi Xin
+<br>Kesshna Nair D/O Vijayan Nair&nbsp; 6C
+<br>Charis Ong Pui Wun&nbsp; 6F
+<br>Xing Wenxin Cherie&nbsp; 6F</p>
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+<br>6C
+<br>
+<br>
+<br>6C</p>
 </td>
 </tr>
 <tr>
@@ -86,12 +135,13 @@ third_nav_title: Achievements
 <p>Raffles Mathematical Olympiad (RMO)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><u><br></u><strong>Distinction</strong>
-</p>
-<p>Aden Soh Tian Tsao &nbsp;&nbsp;&nbsp; 6C</p>
-<p>Ong Ginny&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;6C</p>
-<p>Catherine Ma Wenxin &nbsp;6C</p>
+<br>Aden Soh Tian Tsao 6C
+<br>Ong Ginny 6C</p>
+<p>Catherine Ma Wenxin 6C</p>
 <p></p>
 <p></p>
 <p><strong>Merit</strong>
@@ -103,6 +153,9 @@ third_nav_title: Achievements
 6C</p>
 <p>Huang Yiming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 6C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -120,7 +173,9 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Design A Tote Bag (Safety) Contest 2023</p>
+<p>Design A Tote Bag (Safety)
+<br>Contest
+<br>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>First Place (Junior Category)</strong> 
