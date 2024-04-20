@@ -356,7 +356,8 @@ position)
 <br>- Charlene Seet&nbsp; 4E
 <br>- Charmaine Chee Zixuan&nbsp; 4E
 <br>- Ella Ho&nbsp; 4E
-<br>- Lee Wan Xuan&nbsp;</p>
+<br>- Lee Wan Xuan&nbsp; 4A
+<br>- Lim Qiuling Cleo&nbsp; 4A</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -431,21 +432,6 @@ position)
 <br>5D
 <br>5A
 <br>5E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A
-<br>- Lim Qiuling Cleo&nbsp; 4A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
