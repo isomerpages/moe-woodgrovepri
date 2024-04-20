@@ -146,7 +146,7 @@ third_nav_title: Achievements
 <br>Aden Soh Tian Tsao
 <br>Ong Ginny
 <br>Catherine Ma Wenxin</p>
-<p><strong>Merit</strong>
+<p><strong>Merit</strong> 
 <br>Joseph Ho Kaizhe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Ashwanth Elayaraja&nbsp;&nbsp;&nbsp;
 <br>Lim You Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
