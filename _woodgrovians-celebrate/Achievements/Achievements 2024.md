@@ -342,7 +342,7 @@ third_nav_title: Achievements
 <br>
 </p>
 <p>
-<br><strong>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speed Relay Event</strong>
+<br><strong>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speed Relay Event</strong> 
 <br><strong> (5<sup>th</sup> in position)</strong> 
 <br>
 <br>- Denise Oh En Ling&nbsp;
