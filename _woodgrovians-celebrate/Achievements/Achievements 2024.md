@@ -36,7 +36,10 @@ third_nav_title: Achievements
 <br>Sun Sixu</p>
 <p></p>
 <p><strong>2<sup>nd</sup> (Category B)</strong> 
-<br>Sun Siqiao</p>
+<br>Sun Siqiao
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -63,7 +66,9 @@ third_nav_title: Achievements
 <br>Li Mingze Benjamin
 <br>Waverly Sia Yuexua
 <br>Faith Ang Yi Xin</p>
-<p></p>
+<p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -116,7 +121,9 @@ third_nav_title: Achievements
 <br>Kesshna Nair D/O Vijayan Nair&nbsp;
 <br>Charis Ong Pui Wun&nbsp;
 <br>Xing Wenxin Cherie&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -149,7 +156,9 @@ third_nav_title: Achievements
 <br>Ashwanth Elayaraja&nbsp;&nbsp;&nbsp;
 <br>Lim You Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Tan Teck Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>Huang Yiming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>Huang Yiming&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -194,7 +203,7 @@ third_nav_title: Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Top 10 Overall Prize Winner</strong>
+<p><strong>Top 10 Overall Prize Winner</strong> 
 <br>
 </p>
 <p>Lin Zixuan&nbsp;</p>
@@ -272,16 +281,16 @@ third_nav_title: Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Senior Boys</u><br>1)Divisional <br>(3<sup>rd</sup> in position)</strong>
+<p><strong><u>Senior Boys</u><br>1)Divisional <br>(3<sup>rd</sup> in position)</strong> 
 <br>
 <br>
-<br><strong>2) Individual Speed Event <br>(5<sup>th</sup> in position)</strong>
+<br><strong>2) Individual Speed Event <br>(5<sup>th</sup> in position)</strong> 
 <br>
 <br>- Muhammad Izz Rayqal
 <br>Bin Muhammad Faizal&nbsp;
 <br>
 <br>
-<br><strong>3) Double Dutch Event <br>(1<sup>st</sup> in position)</strong>
+<br><strong>3) Double Dutch Event <br>(1<sup>st</sup> in position)</strong> 
 <br>
 <br>- Muhammad Izz Rayqal
 <br>Bin Muhammad Faizal&nbsp;
@@ -291,36 +300,40 @@ third_nav_title: Achievements
 <p>
 <br>
 </p>
-<p><strong><u>Senior Girls</u><br>4) Pair Freestyle Event <br>(7<sup>th</sup> in position)</strong>
+<p><strong><u>Senior Girls</u><br>4) Pair Freestyle Event <br>(7<sup>th</sup> in position)</strong> 
 <br>
 <br>- Tan Chloe&nbsp;
 <br>- Tang Yu Hyun&nbsp;</p>
 <p>
 <br>
 </p>
-<p><strong><u>Junior Boys</u><br>1) Speed Relay (2<sup>nd</sup> in position)</strong>
+<p><strong><u>Junior Boys</u><br>1) Speed Relay (2<sup>nd</sup> in position)</strong> 
 <br>- Ku Jovy&nbsp;
 <br>- Kwok Zhe Hong&nbsp;
 <br>- Muhammad Afif Bin Mazlan&nbsp;
 <br>- Ting Shawn Ann&nbsp;
 <br>- Yap Hao Xuan&nbsp;</p>
 <p>&nbsp;</p>
-<p>2) Pair Freestyle Event (1st in position)
+<p><strong>2) Pair Freestyle Event </strong>
+<br><strong>(1st in position) </strong>
 <br>- Ku Jovy &nbsp;
 <br>- Ting Shawn Ann &nbsp;
 <br>- Yap Hao Xuan &nbsp;</p>
 <p>&nbsp;</p>
-<p><strong><u>Junior Girls</u></strong>
-<br>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individual Speed Event (7<sup>th</sup> in
-position)
-<br>- Denise Oh En Ling (4c)
+<p><strong><u>Junior Girls</u></strong> 
+<br><strong>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individual Speed Event<br> (7<sup>th</sup> in position)</strong> 
+</p>
+<p>- Denise Oh En Ling
 <br>
-<br>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Double Dutch Event (6<sup>th</sup> in
-position)
-<br>- Nur Anisa Binte Mohammed Nurizhamshah&nbsp; 5D
-<br>- Ong Le Xuan Elise&nbsp; 5D
-<br>- Shereen Koh Jia Xuan&nbsp; 5A
-<br>- Shim Hwee Yee, Chloe&nbsp; 5E
+<br><strong>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Double Dutch Event </strong>
+<br><strong>(6<sup>th</sup> in position)</strong> 
+<br>
+<br>- Nur Anisa Binte
+<br>Mohammed Nurizhamshah&nbsp;
+<br>- Ong Le Xuan Elise&nbsp;
+<br>- Shereen Koh Jia Xuan&nbsp;
+<br>- Shim Hwee Yee, Chloe&nbsp;
+<br>
 <br>
 <br>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speed Relay Event (5<sup>th</sup> in position)
 <br>- Denise Oh En Ling&nbsp; 4C
@@ -388,11 +401,10 @@ position)
 <br>4E
 <br>4E
 <br>
-</p>
-<p>
 <br>
-</p>
-<p>
+<br>
+<br>
+<br>
 <br>4A
 <br>4E
 <br>4E
@@ -402,8 +414,21 @@ position)
 <br>
 <br>
 <br>
+<br>4C
+<br>
 <br>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<br>
+<br>
+<br>5D
+<br>5D
+<br>5A
+<br>5E</p>
 </td>
 </tr>
 </tbody>
