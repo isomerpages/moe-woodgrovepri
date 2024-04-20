@@ -49,10 +49,8 @@ third_nav_title: Achievements
 <tr>
 <td rowspan="1" colspan="1">
 <p>The 15th Goodtalk International
-<br>Bilingual Speech
-<br>Conference
-<br>2023-2024
-<br>(Prelim)</p>
+<br>Bilingual Speech Conference
+<br>2023-2024 (Prelim)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -189,24 +187,30 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SOTA P6 Art
-<br>Competition 2024</p>
+<p>SOTA P6 Art Competition
+<br>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Top 10 Overall Prize Winner</strong>
+<br>
 </p>
-<p>Lin Zixuan&nbsp; 6E</p>
+<p>Lin Zixuan&nbsp;</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br>
+<br>6E</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
+<p>Singapore Youth Festival
+<br>Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -215,6 +219,7 @@ third_nav_title: Achievements
 <p><strong>DISTINCTION</strong>
 </p>
 <p>(Indian Dance)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -222,7 +227,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
+<p>Singapore Youth Festival
+<br>Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -231,6 +237,7 @@ third_nav_title: Achievements
 <p><strong>ACCOMPLISHMENT</strong>
 </p>
 <p>(Chinese Dance)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -246,85 +253,157 @@ third_nav_title: Achievements
 <p>EVENT/COMPETITION</p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p>ACHIEVEMENT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CLASS</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Schools Games Rope Skipping Competition
+<p>National Schools Games
+<br>Rope Skipping Competition
 <br>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Senior Boys</u>
-</p>
-<p>1) Divisional (3<sup>rd</sup> in position)</p>
 <p></p>
-<p>2) Individual Speed Event (5<sup>th</sup> in position)</p>
-<p>- Muhammad Izz Rayqal Bin Muhammad Faizal&nbsp; 5A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Senior Boys</u><br>1)Divisional <br>(3<sup>rd</sup> in position)</strong>
+<br>
+<br>
+<br><strong>2) Individual Speed Event <br>(5<sup>th</sup> in position)</strong>
+<br>
+<br>- Muhammad Izz Rayqal
+<br>Bin Muhammad Faizal&nbsp;
+<br>
+<br>
+<br><strong>3) Double Dutch Event <br>(1<sup>st</sup> in position)</strong>
+<br>
+<br>- Muhammad Izz Rayqal
+<br>Bin Muhammad Faizal&nbsp;
+<br>- Cayden Seet&nbsp;
+<br>- Eaden Soh Rui Xing&nbsp;
+<br>- Tan Yi Heng&nbsp;</p>
+<p>
+<br>
+</p>
+<p><strong><u>Senior Girls</u><br>4) Pair Freestyle Event <br>(7<sup>th</sup> in position)</strong>
+<br>
+<br>- Tan Chloe&nbsp;
+<br>- Tang Yu Hyun&nbsp;</p>
+<p>
+<br>
+</p>
+<p><strong><u>Junior Boys</u><br>1) Speed Relay (2<sup>nd</sup> in position)</strong>
+<br>- Ku Jovy&nbsp;
+<br>- Kwok Zhe Hong&nbsp;
+<br>- Muhammad Afif Bin Mazlan&nbsp;
+<br>- Ting Shawn Ann&nbsp;
+<br>- Yap Hao Xuan&nbsp;</p>
 <p>&nbsp;</p>
-<p>3) Double Dutch Event (1<sup>st</sup> in position)</p>
-<p>- Muhammad Izz Rayqal Bin Muhammad Faizal&nbsp; 5A</p>
-<p>- Cayden Seet&nbsp; 6F</p>
-<p>- Eaden Soh Rui Xing&nbsp; 5D</p>
-<p>- Tan Yi Heng&nbsp; 5D</p>
-<p></p>
-<p><u>Senior Girls</u>
-</p>
-<p>4) Pair Freestyle Event (7<sup>th</sup> in position)</p>
-<p>- Tan Chloe&nbsp; 6B</p>
-<p>- Tang Yu Hyun&nbsp; 6E</p>
-<p></p>
-<p><u>Junior Boys</u>
-</p>
-<p>1) Speed Relay (2<sup>nd</sup> in position)</p>
-<p>- Ku Jovy&nbsp; 4A</p>
-<p>- Kwok Zhe Hong&nbsp; 3E</p>
-<p>- Muhammad Afif Bin Mazlan&nbsp; 5B</p>
-<p>- Ting Shawn Ann&nbsp; 4E</p>
-<p>- Yap Hao Xuan&nbsp; 4E</p>
-<p>&nbsp;</p>
-<p>2) Pair Freestyle Event (1st in position)</p>
-<p>- Ku Jovy &nbsp;4A</p>
-<p>- Ting Shawn Ann &nbsp;4E</p>
-<p>- Yap Hao Xuan &nbsp;4E</p>
+<p>2) Pair Freestyle Event (1st in position)
+<br>- Ku Jovy &nbsp;
+<br>- Ting Shawn Ann &nbsp;
+<br>- Yap Hao Xuan &nbsp;</p>
 <p>&nbsp;</p>
 <p><strong><u>Junior Girls</u></strong>
-</p>
-<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individual Speed Event (7<sup>th</sup> in
-position)</p>
-<p>- Denise Oh En Ling (4c)</p>
-<p>&nbsp;</p>
-<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Double Dutch Event (6<sup>th</sup> in
-position)</p>
-<p>- Nur Anisa Binte Mohammed Nurizhamshah&nbsp; 5D</p>
-<p>- Ong Le Xuan Elise&nbsp; 5D</p>
-<p>- Shereen Koh Jia Xuan&nbsp; 5A</p>
-<p>- Shim Hwee Yee, Chloe&nbsp; 5E</p>
-<p>&nbsp;</p>
-<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speed Relay Event (5<sup>th</sup> in position)</p>
-<p>- Denise Oh En Ling&nbsp; 4C</p>
-<p>- Ella Ho&nbsp; 4E</p>
-<p>- Lee Wan Xuan&nbsp; 4A</p>
-<p>- Lua Xing Le&nbsp; 4E</p>
-<p>- Shim Hwee Yee, Chloe&nbsp; 5E</p>
-<p>&nbsp;</p>
-<p>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individual Freestyle Event (3<sup>rd</sup> in
-position)</p>
-<p>- Lua Xing Le&nbsp; 4E</p>
-<p>&nbsp;</p>
-<p>5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pair Freestyle Event (4<sup>th</sup> in
-position)</p>
-<p>- Denise Oh En Ling&nbsp; 4C</p>
-<p>- Lua Xing Le&nbsp; 4E</p>
-<p>&nbsp;</p>
-<p>6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Team Freestyle Event (5<sup>th</sup> in
-position)</p>
-<p>- Charlene Seet&nbsp; 4E</p>
-<p>- Charmaine Chee Zixuan&nbsp; 4E</p>
-<p>- Ella Ho&nbsp; 4E</p>
-<p>- Lee Wan Xuan&nbsp; 4A</p>
-<p>- Lim Qiuling Cleo&nbsp; 4A</p>
+<br>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individual Speed Event (7<sup>th</sup> in
+position)
+<br>- Denise Oh En Ling (4c)
+<br>
+<br>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Double Dutch Event (6<sup>th</sup> in
+position)
+<br>- Nur Anisa Binte Mohammed Nurizhamshah&nbsp; 5D
+<br>- Ong Le Xuan Elise&nbsp; 5D
+<br>- Shereen Koh Jia Xuan&nbsp; 5A
+<br>- Shim Hwee Yee, Chloe&nbsp; 5E
+<br>
+<br>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speed Relay Event (5<sup>th</sup> in position)
+<br>- Denise Oh En Ling&nbsp; 4C
+<br>- Ella Ho&nbsp; 4E
+<br>- Lee Wan Xuan&nbsp; 4A
+<br>- Lua Xing Le&nbsp; 4E
+<br>- Shim Hwee Yee, Chloe&nbsp; 5E
+<br>
+<br>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IndividualFreestyle Event (3<sup>rd</sup> in
+position)
+<br>- Lua Xing Le&nbsp; 4E
+<br>
+<br>5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pair Freestyle Event (4<sup>th</sup> in
+position)
+<br>- Denise Oh En Ling&nbsp; 4C
+<br>- Lua Xing Le&nbsp; 4E
+<br>
+<br>6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Team Freestyle Event (5<sup>th</sup> in
+position)
+<br>- Charlene Seet&nbsp; 4E
+<br>- Charmaine Chee Zixuan&nbsp; 4E
+<br>- Ella Ho&nbsp; 4E
+<br>- Lee Wan Xuan&nbsp; 4A
+<br>- Lim Qiuling Cleo&nbsp; 4A</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>5A
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>5A
+<br>6F
+<br>5D
+<br>5D
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>6B
+<br>6E
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>4A
+<br>3E
+<br>5B
+<br>4E
+<br>4E
+<br>
+</p>
+<p>
+<br>
+</p>
+<p>
+<br>4A
+<br>4E
+<br>4E
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
