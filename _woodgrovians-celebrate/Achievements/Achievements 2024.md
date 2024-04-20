@@ -321,7 +321,7 @@ third_nav_title: Achievements
 <br>- Yap Hao Xuan &nbsp;</p>
 <p>&nbsp;</p>
 <p><strong><u>Junior Girls</u></strong> 
-<br><strong>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individual Speed Event<br> (7<sup>th</sup> in position)</strong> 
+<br><strong>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individual Speed Event<br>(7<sup>th</sup> in position)</strong>
 </p>
 <p>- Denise Oh En Ling
 <br>
@@ -370,7 +370,9 @@ position)
 <br>
 <br>
 <br>
+<br>
 <br>5A
+<br>
 <br>
 <br>
 <br>
