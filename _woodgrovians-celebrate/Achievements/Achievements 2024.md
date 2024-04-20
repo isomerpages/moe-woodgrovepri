@@ -20,7 +20,7 @@ third_nav_title: Achievements
 <p>ACHIEVEMENT</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Class</p>
+<p>CLASS</p>
 </th>
 </tr>
 <tr>
@@ -115,9 +115,9 @@ third_nav_title: Achievements
 <br>
 </p>
 <p>Faith Ang Yi Xin
-<br>Kesshna Nair D/O Vijayan Nair&nbsp; 6C
-<br>Charis Ong Pui Wun&nbsp; 6F
-<br>Xing Wenxin Cherie&nbsp; 6F</p>
+<br>Kesshna Nair D/O Vijayan Nair&nbsp;
+<br>Charis Ong Pui Wun&nbsp;
+<br>Xing Wenxin Cherie&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,35 +127,45 @@ third_nav_title: Achievements
 <br>6C
 <br>
 <br>
-<br>6C</p>
+<br>6C
+<br>6C
+<br>6F
+<br>6F</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Raffles Mathematical Olympiad (RMO)</p>
+<p>Raffles Mathematical
+<br>Olympiad (RMO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u><br></u><strong>Distinction</strong> 
-<br>Aden Soh Tian Tsao 6C
-<br>Ong Ginny 6C</p>
-<p>Catherine Ma Wenxin 6C</p>
-<p></p>
-<p></p>
+<p><strong>Distinction</strong> 
+<br>Aden Soh Tian Tsao
+<br>Ong Ginny
+<br>Catherine Ma Wenxin</p>
 <p><strong>Merit</strong>
-</p>
-<p>Joseph Ho Kaizhe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6C</p>
-<p>Ashwanth Elayaraja&nbsp;&nbsp;&nbsp; 6F</p>
-<p>Lim You Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6F</p>
-<p>Tan Teck Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-6C</p>
-<p>Huang Yiming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-6C</p>
+<br>Joseph Ho Kaizhe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Ashwanth Elayaraja&nbsp;&nbsp;&nbsp;
+<br>Lim You Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Tan Teck Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Huang Yiming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br>6C
+<br>6C
+<br>6C
+<br>
+<br>
+</p>
+<p>6C
+<br>6F
+<br>6F
+<br>6C
+<br>6C</p>
 </td>
 </tr>
 </tbody>
@@ -168,21 +178,62 @@ third_nav_title: Achievements
 <p>EVENT/COMPETITION</p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p>ACHIEVEMENT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CLASS</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Design A Tote Bag (Safety)
-<br>Contest
-<br>2023</p>
+<p>SOTA P6 Art
+<br>Competition 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>First Place (Junior Category)</strong> 
-<br>Charis Ong Pui Wun 5F
-<br>
-<br><strong>Third Place (Junior Category)</strong> 
-<br>Chong Xin Tong 4E</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Top 10 Overall Prize Winner</strong>
+</p>
+<p>Lin Zixuan&nbsp; 6E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DISTINCTION</strong>
+</p>
+<p>(Indian Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ACCOMPLISHMENT</strong>
+</p>
+<p>(Chinese Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
