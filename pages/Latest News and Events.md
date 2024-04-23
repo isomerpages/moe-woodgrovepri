@@ -14,7 +14,6 @@ register through the <a href="https://forms.moe.edu.sg/forms/ox73QJ" rel="noopen
 to space constraints, registration is limited to the first 200 registrants.
 Click <a href="https://forms.moe.edu.sg/forms/ox73QJ" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register now.</p>
-<h4>Art Competition for WGPS Alumni <a href="/files/Art_Competition_for_WGPS_Alumni.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a></h4>
 <h3>Achievements <a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener noreferrer nofollow" target="_blank">2023</a></h3>
 <h4>2023 P1 Orientation @ Woodgrove Primary School</h4>
 <div class="iframe-wrapper">
