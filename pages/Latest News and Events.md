@@ -7,10 +7,7 @@ variant: tiptap
 <h3>Latest News and Events</h3>
 <p></p>
 <h4>Registration for Woodgrove Shine Carnival</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shine_carnival_poster.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/ox73QJ"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shine_carnival_poster.jpg"></a>
 <p>Dear Alumni, Ex-staffs and current 2024 K2 children, Woodgrove Primary
 School is celebrating 25th Anniversary and we welcome you to join us. Simply
 register through the <a href="https://forms.moe.edu.sg/forms/ox73QJ" rel="noopener noreferrer nofollow" target="_blank">registration form</a>. Due
