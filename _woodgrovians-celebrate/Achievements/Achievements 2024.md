@@ -169,13 +169,7 @@ third_nav_title: Achievements
 <p>EVENT/COMPETITION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p>ACHIEVEMENT</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>CLASS</p>
 </th>
 </tr>
 <tr>
@@ -183,9 +177,6 @@ third_nav_title: Achievements
 <p>National Schools Games
 <br>Rope Skipping Competition
 <br>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Senior Boys</u><br>1)Divisional <br>(3<sup>rd</sup> in position)</strong> 
@@ -241,161 +232,46 @@ third_nav_title: Achievements
 <br><strong>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Double Dutch Event </strong>
 <br><strong>(6<sup>th</sup> in position)</strong> 
 <br>
-<br>- Nur Anisa Binte
-<br>Mohammed Nurizhamshah&nbsp;
-<br>- Ong Le Xuan Elise&nbsp;
-<br>- Shereen Koh Jia Xuan&nbsp;
-<br>- Shim Hwee Yee, Chloe&nbsp;
+<br>- Nur Anisa Binte Mohammed Nurizhamshah, 4C&nbsp;
+<br>- Ong Le Xuan Elise, 5D
+<br>- Shereen Koh Jia Xuan, 5A
+<br>- Shim Hwee Yee, Chloe, 5E&nbsp;
 <br>
 </p>
 <p>
 <br><strong>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speed Relay Event</strong> 
 <br><strong> (5<sup>th</sup> in position)</strong> 
 <br>
-<br>- Denise Oh En Ling&nbsp;
-<br>- Ella Ho&nbsp;
-<br>- Lee Wan Xuan&nbsp;
-<br>- Lua Xing Le&nbsp;
-<br>- Shim Hwee Yee, Chloe&nbsp;</p>
+<br>- Denise Oh En Ling, 4C
+<br>- Ella Ho, 4E
+<br>- Lee Wan Xuan, 4A
+<br>- Lua Xing Le, 4E&nbsp;
+<br>- Shim Hwee Yee, Chloe, 5E&nbsp;</p>
 <p></p>
 <p>
 <br><strong>4)&nbsp;Individual Freestyle Event </strong>
 <br><strong>(3<sup>rd</sup> in position) </strong>
 <br>
-<br>- Lua Xing Le&nbsp;
+<br>- Lua Xing Le, 4E &nbsp;
 <br>
 </p>
 <p></p>
 <p>
 <br><strong>5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pair Freestyle Event <br>(4<sup>th</sup> in position)</strong> 
 <br>
-<br>- Denise Oh En Ling&nbsp;
-<br>- Lua Xing Le&nbsp;
+<br>- Denise Oh En Ling, 4C&nbsp;
+<br>- Lua Xing Le, 4E&nbsp;
 <br>
 </p>
 <p>
 <br><strong>6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Team Freestyle Event <br>(5<sup>th</sup> in position)</strong> 
 <br>
-<br>- Charlene Seet&nbsp;
-<br>- Charmaine Chee Zixuan&nbsp;
-<br>- Ella Ho&nbsp;
-<br>- Lee Wan Xuan&nbsp;
-<br>- Lim Qiuling Cleo&nbsp;</p>
+<br>- Charlene Seet, 4E &nbsp;
+<br>- Charmaine Chee Zixuan, 4E &nbsp;
+<br>- Ella Ho, 4E &nbsp;
+<br>- Lee Wan Xuan, 4A&nbsp;
+<br>- Lim Qiuling Cleo, 4A&nbsp;</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p>
-<br>
-<br>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>5D
-<br>5D
-<br>5A
-<br>5E
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>4C
-<br>4E
-<br>4A
-<br>4E
-<br>5E
-<br>
-<br>
-<br>
-<br>
-<br>4E
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p>4C
-<br>4E
-<br>
-<br>
-<br>
-<br>
-<br>4E
-<br>4E
-<br>4E
-<br>4A
-<br>4A</p>
 </td>
 </tr>
 </tbody>
