@@ -14,13 +14,7 @@ third_nav_title: Achievements
 <p>EVENT/COMPETITION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p>ACHIEVEMENT</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>CLASS</p>
 </th>
 </tr>
 <tr>
@@ -29,24 +23,14 @@ third_nav_title: Achievements
 <br>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2<sup>nd</sup> (Category A)</strong> 
-<br>Sun Sixu</p>
+<br>Sun Sixu, 6F</p>
 <p></p>
 <p><strong>2<sup>nd</sup> (Category B)</strong> 
-<br>Sun Siqiao
+<br>Sun Siqiao, 4C
 <br>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>6F
-<br>
-<br>
-<br>4C</p>
 </td>
 </tr>
 <tr>
@@ -56,28 +40,16 @@ third_nav_title: Achievements
 <br>2023-2024 (Prelim)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>FIRST</strong> 
-<br>Wang Haoyu Lucas</p>
+<br>Wang Haoyu Lucas, 6C</p>
 <p></p>
 <p><strong>SECOND</strong> 
-<br>Li Mingze Benjamin
-<br>Waverly Sia Yuexua
-<br>Faith Ang Yi Xin</p>
+<br>Li Mingze Benjamin, 3E
+<br>Waverly Sia Yuexua, 5C
+<br>Faith Ang Yi Xin, 6C</p>
 <p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>6C
-<br>
-<br>
-<br>3E
-<br>5C
-<br>6C</p>
 </td>
 </tr>
 <tr>
@@ -88,17 +60,10 @@ third_nav_title: Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>OARS Award 2024</strong> 
-<br>Charis Ong Pui Wun&nbsp;</p>
+<br>Charis Ong Pui Wun, 6F</p>
 <p></p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>6F</p>
 </td>
 </tr>
 <tr>
@@ -108,34 +73,19 @@ third_nav_title: Achievements
 <br>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>North Zone Top 4 Outstanding Performance</strong> 
 <br>
-<br>Chia Zhe Cheng Lewis
+<br>Chia Zhe Cheng Lewis, 6C
 <br>(Good Speaker)
 <br>
 </p>
-<p>Faith Ang Yi Xin
-<br>Kesshna Nair D/O Vijayan Nair&nbsp;
-<br>Charis Ong Pui Wun&nbsp;
-<br>Xing Wenxin Cherie&nbsp;</p>
+<p>Faith Ang Yi Xin, 6C
+<br>Kesshna Nair D/O Vijayan Nair, 6C
+<br>Charis Ong Pui Wun, 6F
+<br>Xing Wenxin Cherie, 6F</p>
 <p>&nbsp;
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>6C
-<br>
-<br>
-<br>6C
-<br>6C
-<br>6F
-<br>6F</p>
 </td>
 </tr>
 <tr>
@@ -144,35 +94,18 @@ third_nav_title: Achievements
 <br>Olympiad (RMO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Distinction</strong> 
-<br>Aden Soh Tian Tsao
-<br>Ong Ginny
-<br>Catherine Ma Wenxin</p>
+<br>Aden Soh Tian Tsao, 6C
+<br>Ong Ginny, 6C
+<br>Catherine Ma Wenxin, 6C</p>
 <p><strong>Merit</strong> 
-<br>Joseph Ho Kaizhe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>Ashwanth Elayaraja&nbsp;&nbsp;&nbsp;
-<br>Lim You Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>Tan Teck Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>Huang Yiming&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Joseph Ho Kaizhe, 6C &nbsp;&nbsp;&nbsp;
+<br>Ashwanth Elayaraja, 6F&nbsp;&nbsp;
+<br>Lim You Jun, 6F &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Tan Teck Jun, 6C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Huang Yiming, 6C
 <br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>6C
-<br>6C
-<br>6C
-<br>
-<br>
-</p>
-<p>6C
-<br>6F
-<br>6F
-<br>6C
-<br>6C</p>
 </td>
 </tr>
 </tbody>
@@ -185,13 +118,7 @@ third_nav_title: Achievements
 <p>EVENT/COMPETITION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p>ACHIEVEMENT</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>CLASS</p>
 </th>
 </tr>
 <tr>
@@ -200,29 +127,18 @@ third_nav_title: Achievements
 <br>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Top 10 Overall Prize Winner</strong> 
 <br>
 </p>
-<p>Lin Zixuan&nbsp;</p>
+<p>Lin Zixuan, 6E</p>
 <p></p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>6E</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Singapore Youth Festival
 <br>Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>DISTINCTION</strong>
@@ -230,9 +146,6 @@ third_nav_title: Achievements
 <p>(Indian Dance)</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -240,15 +153,9 @@ third_nav_title: Achievements
 <br>Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>ACCOMPLISHMENT</strong>
 </p>
 <p>(Chinese Dance)</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -287,49 +194,49 @@ third_nav_title: Achievements
 <br><strong>2) Individual Speed Event <br>(5<sup>th</sup> in position)</strong> 
 <br>
 <br>- Muhammad Izz Rayqal
-<br>Bin Muhammad Faizal&nbsp;
+<br>Bin Muhammad Faizal, 5A
 <br>
 <br>
 <br><strong>3) Double Dutch Event <br>(1<sup>st</sup> in position)</strong> 
 <br>
 <br>- Muhammad Izz Rayqal
-<br>Bin Muhammad Faizal&nbsp;
-<br>- Cayden Seet&nbsp;
-<br>- Eaden Soh Rui Xing&nbsp;
-<br>- Tan Yi Heng&nbsp;</p>
+<br>Bin Muhammad Faizal, 5A
+<br>- Cayden Seet, 6F
+<br>- Eaden Soh Rui Xing, 5D
+<br>- Tan Yi Heng, 5D</p>
 <p>
 <br>
 </p>
 <p><strong><u>Senior Girls</u><br>4) Pair Freestyle Event <br>(7<sup>th</sup> in position)</strong> 
 <br>
-<br>- Tan Chloe&nbsp;
-<br>- Tang Yu Hyun&nbsp;</p>
+<br>- Tan Chloe, 6B
+<br>- Tang Yu Hyun, 6E &nbsp;</p>
 <p>
 <br>
 </p>
 <p><strong><u>Junior Boys</u><br>1) Speed Relay </strong>
 <br><strong>(2<sup>nd</sup> in position)</strong> 
 <br>
-<br>- Ku Jovy&nbsp;
-<br>- Kwok Zhe Hong&nbsp;
-<br>- Muhammad Afif Bin Mazlan&nbsp;
-<br>- Ting Shawn Ann&nbsp;
-<br>- Yap Hao Xuan&nbsp;</p>
+<br>- Ku Jovy, 4A
+<br>- Kwok Zhe Hong, 3E
+<br>- Muhammad Afif Bin Mazlan, 5B&nbsp;
+<br>- Ting Shawn Ann, 4E &nbsp;
+<br>- Yap Hao Xuan, 4E &nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
 <p><strong>2) Pair Freestyle Event </strong>
 <br><strong>(1st in position) </strong>
 <br>
-<br>- Ku Jovy &nbsp;
-<br>- Ting Shawn Ann &nbsp;
-<br>- Yap Hao Xuan &nbsp;</p>
+<br>- Ku Jovy, 4A
+<br>- Ting Shawn Ann, 4E
+<br>- Yap Hao Xuan, 4E&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
 <p><strong><u>Junior Girls</u></strong> 
 <br><strong>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individual Speed Event<br>(7<sup>th</sup> in position)</strong>
 </p>
 <p></p>
-<p>- Denise Oh En Ling</p>
+<p>- Denise Oh En Ling, 4C</p>
 <p>
 <br><strong>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Double Dutch Event </strong>
 <br><strong>(6<sup>th</sup> in position)</strong> 
@@ -386,17 +293,17 @@ third_nav_title: Achievements
 <br>
 <br>
 <br>
-<br>5A
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>5A
-<br>6F
-<br>5D
-<br>5D
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -406,31 +313,8 @@ third_nav_title: Achievements
 </p>
 <p></p>
 <p>
-<br>6B
-<br>6E
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p>
-<br>4A
-<br>3E
-<br>5B
-<br>4E
-<br>4E
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p>
-<br>4A
-<br>4E
-<br>4E
 <br>
 <br>
 <br>
@@ -439,7 +323,30 @@ third_nav_title: Achievements
 <br>
 </p>
 <p>
-<br>4C
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+<p>
+<br>
 <br>
 <br>
 </p>
