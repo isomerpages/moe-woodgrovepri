@@ -18,12 +18,7 @@ Please register online via this link - [Wgps pv](https://form.gov.sg/5cbd8a02f1a
 
 Or scan this QR Code - ![](/images/QR_Code_.jpg)
 
+Application will close on 3 June 2024.
+Should you have any queries pertaining to your application, please email your query to 
 
 
-For new parents who seek to register as  Parent Volunteers, to qualify for priority under P1 Registration Exercise Phase 2B.  
-
-2023 Application as Parent Volunteers (for child starting Primary 1 in year 2025) is closed.
-
-The next registration will be in early May 2024 (for new parents whose child is starting Primary 1 in year 2026).
- 
-Please find the link [here](https://go.gov.sg/wgps-pv).
