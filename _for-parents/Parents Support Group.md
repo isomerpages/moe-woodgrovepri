@@ -19,4 +19,4 @@ Please register online via this link - [Wgps pv](https://form.gov.sg/5cbd8a02f1a
 Or scan this QR Code - ![](/images/QR_Code_.jpg)
 
 Application will close on 3 June 2024.
-Should you have any queries pertaining to your application, please email your query to Woodgrove_ps@moe.edu.sg
+Should you have any queries pertaining to your application, please email your query to [Woodgrove_ps@moe.edu.sg](mailto:Woodgrove_ps@moe.edu.sg) 
