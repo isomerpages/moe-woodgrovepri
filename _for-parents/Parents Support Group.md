@@ -16,6 +16,8 @@ For new parents whose child is starting Primary 1 in year 2026 and seek to regis
 
 Please register online via this link - [Wgps pv](https://form.gov.sg/5cbd8a02f1a552001745f7a7)
 
+Or scan this QR Code -
+
 
 
 For new parents who seek to register as  Parent Volunteers, to qualify for priority under P1 Registration Exercise Phase 2B.  
