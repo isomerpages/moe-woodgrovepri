@@ -10,7 +10,7 @@ description: ""
 </div>
 <p></p>
 <p>On Saturday, 25 May 2024, the school celebrated its 25th anniversary with
-a Shine carnival. Check out the video below for the highlights of the joyous
+a Shine carnival. Check out the video for the highlights of the joyous
 moments of our celebration that day!</p>
 <h3><strong>Highlights from SYF 2024</strong></h3>
 <div class="iframe-wrapper">
