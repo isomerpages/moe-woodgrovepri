@@ -4,6 +4,14 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h3><strong>25th Anniversary Shine Carnival</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ex8JQR6jCms?si=6SPTTVLbkS3lVnMV"></iframe>
+</div>
+<p></p>
+<p>On Saturday, 25 May 2024, the school celebrated its 25th anniversary with
+a Shine carnival. Check out the video below for the highlights of the joyous
+moments of our celebration that day!</p>
 <h3><strong>Highlights from SYF 2024</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sIyf0rYnOxY?si=ucpw9T08go1y4pv8&amp;rel=0"></iframe>
