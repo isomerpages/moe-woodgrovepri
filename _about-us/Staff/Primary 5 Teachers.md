@@ -123,6 +123,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Shabrina Binte Mohamed Nazeer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_shabrina_mohamed_nazeer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shabrina_mohamed_nazeer@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5E</p>
 </td>
 <td rowspan="1" colspan="1">
