@@ -194,6 +194,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH English (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_wen_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wen_yen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH (Maths)</p>
 </td>
 <td rowspan="1" colspan="1">
