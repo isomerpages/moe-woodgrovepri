@@ -31,18 +31,6 @@ variant: tiptap
 <p>6A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dheelip Kumar s/o Mohana Dass</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:dheelip_kumar_mohana_dass@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dheelip_kumar_mohana_dass@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Surianingsih Bte Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
