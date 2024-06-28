@@ -3,19 +3,135 @@ title: School Admin Team
 permalink: /about-us/staff/school-admin-team/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
-# **School Admin Team**
-
-
-| Designation 	| Name 	| Email Address 	|
-|---	|---	|---	|
-| Administrative Manager 	| Mdm Peh Hwee Ee 	| [peh_hwee_ee@schools.gov.sg](mailto:peh_hwee_ee@schools.gov.sg) 	|
-| Administrative Manager 	| Mr Azman Bin Sulaimi 	| [azman_sulaimi@schools.gov.sg](mailto:azman_sulaimi@schools.gov.sg) 	|
-| Operations Manager 	| Mr Johnson Poh 	| [poh_hock_huat_johnson@schools.gov.sg](mailto:poh_hock_huat_johnson@schools.gov.sg) 	|
-| ICT Manager 	| Mr Ng Hiang Lin 	| [ng_hiang_lin@schools.gov.sg](mailto:ng_hiang_lin@schools.gov.sg) 	|
-| Administrative Executive 	| Mdm Christina Ong 	| [ong_ah_keng@schools.gov.sg](mailto:ong_ah_keng@schools.gov.sg) 	|
-| Management Support Officer 	| Mrs Ervinna Ngew 	| [pee_guan_hoon@schools.gov.sg](mailto:pee_guan_hoon@schools.gov.sg) 	|
-| Management Support Officer 	| Mdm Nurliza 	| [Nurliza_ABU_HUSSIN@schools.gov.sg](mailto:Nurliza_ABU_HUSSIN@schools.gov.sg) 	|
-| Management Support Officer 	| Mdm Khairin Nadira 	| [Khairin_Nadira_Khamaruldin@schools.gov.sg](mailto:Khairin_Nadira_Khamaruldin@schools.gov.sg) 	|
-| Management Support Officer 	| Mdm Barakkath Nazeera 	| [barakkath_nazeera_mohamed_asana@schools.gov.sg](mailto:barakkath_nazeera_mohamed_asana@schools.gov.sg) 	|
+<h1><strong>School Admin Team</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Peh Hwee Ee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:peh_hwee_ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peh_hwee_ee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Azman Bin Sulaimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:azman_sulaimi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azman_sulaimi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Johnson Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:poh_hock_huat_johnson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_hock_huat_johnson@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Hiang Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_hiang_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hiang_lin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Management Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ervinna Ngew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pee_guan_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pee_guan_hoon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Management Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurliza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nurliza_ABU_HUSSIN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurliza_ABU_HUSSIN@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Management Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khairin Nadira</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Khairin_Nadira_Khamaruldin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Khairin_Nadira_Khamaruldin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Management Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Barakkath Nazeera</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:barakkath_nazeera_mohamed_asana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">barakkath_nazeera_mohamed_asana@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Management Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S Sumitha Priya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:s_sumitha_priya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">s_sumitha_priya@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
