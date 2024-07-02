@@ -4,7 +4,7 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h3><strong>School Dance Music Competition Showcase Final</strong></h3>
+<h3><strong>School Dance Music Competition Showcase</strong></h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5HF433isZNY?si=pbycAAHtpTz0POFw"></iframe>
