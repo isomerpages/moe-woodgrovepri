@@ -4,6 +4,18 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h3><strong>School Dance Music Competition Showcase</strong></h3>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5HF433isZNY?si=pbycAAHtpTz0POFw"></iframe>
+</div>
+<p></p>
+<p>Our Woodgrovians courageously took part in the School Dance competition,
+showcasing their love and pride for our school. Not only did our students
+participate, but their family members joyfully joined in the dancing showcase
+as well. We are proud of our Woodgrovians for their passion and love for
+the school, and we are grateful for the support given by our key partners
+– our parents!&nbsp;</p>
 <h3><strong>25th Anniversary Shine Carnival</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ex8JQR6jCms?si=6SPTTVLbkS3lVnMV"></iframe>
