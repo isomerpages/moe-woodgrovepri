@@ -22,10 +22,13 @@ sections:
   - infopic:
       title: Learning Festival 2024
       id: infopic
-      description: WGPS Learning Festival 2024, SOAR towards Our Dreams
+      description: Woodgrove Primary School enthusiastically welcomed students back
+        from the June Holidays with an exciting Learning Festival on the first 3
+        days of Term 3.
       button: Button Text
       image: /images/Learning_Festival_2024.jpg
       alt: Image alt text
+      url: https://www.youtube.com/watch?v=oczdS_2CyGI&t=33s
   - resources:
       subtitle: Announcement & News
   - infopic:
