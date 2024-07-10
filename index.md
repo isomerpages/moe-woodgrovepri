@@ -19,6 +19,13 @@ sections:
           url: /permalink/achievements
       url: /contact-us/
       background: /images/website homepage gif.gif
+  - infopic:
+      title: Learning Festival 2024
+      id: infopic
+      description: WGPS Learning Festival 2024, SOAR towards Our Dreams
+      button: Button Text
+      image: /images/Learning_Festival_2024.jpg
+      alt: Image alt text
   - resources:
       subtitle: Announcement & News
   - infopic:
