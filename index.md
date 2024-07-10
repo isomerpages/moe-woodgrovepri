@@ -28,7 +28,7 @@ sections:
       button: Button Text
       image: /images/Learning_Festival_2024.jpg
       alt: Image alt text
-      url: https://www.youtube.com/watch?v=oczdS_2CyGI&t=33s
+      url: https://youtu.be/oczdS_2CyGI?si=Fe_iXhMbNN5_nZ0A
   - resources:
       subtitle: Announcement & News
   - infopic:
