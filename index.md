@@ -19,6 +19,16 @@ sections:
           url: /permalink/achievements
       url: /contact-us/
       background: /images/website homepage gif.gif
+  - infopic:
+      title: Learning Festival 2024
+      id: infopic
+      description: Woodgrove Primary School enthusiastically welcomed students back
+        from the June Holidays with an exciting Learning Festival on the first 3
+        days of Term 3.
+      button: Button Text
+      image: /images/Learning_Festival_2024.jpg
+      alt: Image alt text
+      url: https://youtu.be/oczdS_2CyGI?si=Fe_iXhMbNN5_nZ0A
   - resources:
       subtitle: Announcement & News
   - infopic:

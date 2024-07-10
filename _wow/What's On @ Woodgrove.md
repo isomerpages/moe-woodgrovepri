@@ -4,6 +4,23 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Learning Festival 2024</strong></h3>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oczdS_2CyGI?si=hlBbeMdsnj-chVke"></iframe>
+</div>
+<p></p>
+<p>Woodgrove Primary School enthusiastically welcomed students back from
+the June Holidays with an exciting Learning Festival on the first 3 days
+of Term 3. The theme this year is “SOAR towards Our Dreams”, inspiring
+all Woodgrovians to embrace a growth mindset as they pursue their goals
+with resilience. Throughout this exciting event, our students embarked
+on enriching &amp; engaging learning journeys and participated in a variety
+of activities designed to apply their knowledge and skills in enjoyable
+and meaningful ways. At Woodgrove, we believe that learning extends beyond
+the confines of the classroom, and our Woodgrovians have truly <strong>S</strong>eized
+every <strong>O</strong>pportunity to have their <strong>A</strong>spirations <strong>R</strong>ealised.</p>
+<p></p>
 <h3><strong>School Dance Music Competition Showcase</strong></h3>
 <p></p>
 <div class="iframe-wrapper">
