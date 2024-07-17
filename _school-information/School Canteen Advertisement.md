@@ -52,6 +52,7 @@ description: ""
 </tbody>
 </table>
 <p><strong>&nbsp;Application Procedure</strong>
+<br>
 <br>1. Download and complete the <a href="https://drive.google.com/file/d/1HeIRzfATdvCs3dWJF3b4t_WdP-uXrGBX/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>.
 You may also request for a hardcopy from the School’s General Office
 <br>
