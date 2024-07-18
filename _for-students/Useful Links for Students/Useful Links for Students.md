@@ -5,4 +5,188 @@ description: ""
 third_nav_title: Useful Links for Students
 variant: tiptap
 ---
-<h1><strong>Useful Links for Students</strong></h1><table><tbody><tr><th rowspan="1" colspan="1"><p>Student Icon Onboarding Guide</p></th><th rowspan="1" colspan="1"><p>Student Learning Space</p></th><th rowspan="1" colspan="1"><p>Student iCON</p></th><th rowspan="1" colspan="1"><p>MS365 Login</p></th><th rowspan="1" colspan="1"><p>MySkills Future</p></th><th rowspan="1" colspan="1"><p>School Library &amp; School eResource Repository</p></th><th rowspan="1" colspan="1"><p>Our school subscriptions</p></th><th rowspan="1" colspan="1"><p>My Digital Skills Standard</p></th></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:70%" height="auto" width="100%" src="/images/Student%20Zoom.jpg"></div></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS.jpg"></div></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/STudent ICON.jpg"></div></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/M365.jpg"></div></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Myskillsfuture.png"></div></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/school library logo.JPG"></div></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Koobits.jpg"></div></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICDL.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/Student_Zoom_Onboarding_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Student_Zoom_<br>Onboarding_Guide</a></p></td><td rowspan="1" colspan="1"><p><a href="/for-students/useful-links-for-students/student-learning-space-sls" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a></p></td><td rowspan="1" colspan="1"><p><a href="/for-students/useful-links-for-students/student-icon" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a></p></td><td rowspan="1" colspan="1"><p><a href="https://www.office.com/" rel="noopener noreferrer nofollow" target="_blank">M365</a></p></td><td rowspan="1" colspan="1"><p><a href="https://go.gov.sg/exploreschools" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a></p></td><td rowspan="1" colspan="1"><p><a href="https://schoolibrary.moe.edu.sg/woodgrovepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School Library &amp; School eResource Repository</a></p></td><td rowspan="1" colspan="1"><p><a href="https://member.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">Koobits</a></p></td><td rowspan="1" colspan="1"><p><a href="https://learn.icdlasia.org" rel="noopener noreferrer nofollow" target="_blank">ICDL Learn</a></p></td></tr></tbody></table><h3>Our school subscriptions</h3><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Scholistic%20Lg%20Zone.jpg"></div><p>Link to <a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGP2V8W" rel="noopener noreferrer nofollow" target="_blank">Scholastic Learning Zone</a></p><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Koobits.jpg"></div><p>Link to <a href="https://member.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">Koobits</a></p><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/eZhishi.jpg"></div><p>Link to <a href="https://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank">e知识网</a></p><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Zhaobao.jpg"></div><p>Link to <a href="https://www.zbschools.sg/" rel="noopener noreferrer nofollow" target="_blank">ZB Schools</a></p>
+<h1><strong>Useful Links for Students</strong></h1>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Student_Zoom_Onboarding_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Student_Zoom_<br>Onboarding_Guide</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/Student%20Zoom.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Student Icon Onboarding Guide</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student Learning Space</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student iCON</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>MS365 Login</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>MySkills Future</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School Library &amp; School eResource Repository</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Our school subscriptions</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>My Digital Skills Standard</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/Student%20Zoom.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STudent ICON.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M365.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Myskillsfuture.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school library logo.JPG">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Koobits.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICDL.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Student_Zoom_Onboarding_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Student_Zoom_<br>Onboarding_Guide</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/for-students/useful-links-for-students/student-learning-space-sls" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/for-students/useful-links-for-students/student-icon" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.office.com/" rel="noopener noreferrer nofollow" target="_blank">M365</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/exploreschools" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://schoolibrary.moe.edu.sg/woodgrovepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School Library &amp; School eResource Repository</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://member.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">Koobits</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://learn.icdlasia.org" rel="noopener noreferrer nofollow" target="_blank">ICDL Learn</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Our school subscriptions</h3>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Scholistic%20Lg%20Zone.jpg">
+</div>
+<p>Link to <a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGP2V8W" rel="noopener noreferrer nofollow" target="_blank">Scholastic Learning Zone</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Koobits.jpg">
+</div>
+<p>Link to <a href="https://member.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">Koobits</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/eZhishi.jpg">
+</div>
+<p>Link to <a href="https://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank">e知识网</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Zhaobao.jpg">
+</div>
+<p>Link to <a href="https://www.zbschools.sg/" rel="noopener noreferrer nofollow" target="_blank">ZB Schools</a>
+</p>
