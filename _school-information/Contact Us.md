@@ -17,7 +17,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>School Location</p>
+<p>School Location:</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>2 Woodlands Drive 14 Singapore 738079</p>
@@ -26,7 +26,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operating Hours</strong>
+<p><strong>Operating Hours:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
