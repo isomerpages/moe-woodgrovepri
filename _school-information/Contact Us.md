@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_22_121737.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_22_121737.png">
 </div>
 <p></p>
 <table style="minWidth: 50px">
