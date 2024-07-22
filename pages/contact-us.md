@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Woodgrove Primary School
 locations:
   - address:
-      - "2 Woodlands Drive 14 "
+      - 2 Woodlands Drive 14
       - Singapore 738079
       - ""
     operating_hours:
@@ -30,4 +30,5 @@ contacts:
       - email: woodgrove_ps@moe.edu.sg
       - other: ""
     title: Email
+feedback: ""
 ---
