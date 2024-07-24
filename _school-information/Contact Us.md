@@ -26,11 +26,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operating Hours:</strong>
+<p>
+<br><strong>Operating Hours:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon - Fri:&nbsp;8.00am - 5.00pm<br>Closed on Saturdays, Sundays &amp; Public Holidays</strong>
+<p>
+<br><strong>Mon - Fri:&nbsp;8.00am - 5.00pm<br>Closed on Saturdays, Sundays &amp; Public Holidays</strong>
 </p>
 <p></p>
 </td>
@@ -84,6 +86,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Email: <a href="mailto:woodgrove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>woodgrove_ps@moe.edu.sg</u></a>
 </p>
+<p></p>
 </th>
 </tr>
 <tr>
