@@ -53,7 +53,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Hoo Yun Ling (Joanne)</p>
+<p>Ms Hoo Yun Ling (Joanne)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoo_yun_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoo_yun_ling@schools.gov.sg</a>
@@ -66,7 +66,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sheena d/o Mohan Lal</p>
+<p>Mdm Sheena d/o Mohan Lal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sheena_mohan_lal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sheena_mohan_lal@schools.gov.sg</a>
