@@ -77,7 +77,7 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ridz</p>
+<p>Mr Muhammad Ridznain Bin Samsuri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_ridznain_samsuri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ridznain_samsuri@schools.gov.sg</a>
@@ -137,7 +137,7 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S Sumitha Priya</p>
+<p>Miss S Sumitha Priya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:s_sumitha_priya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">s_sumitha_priya@schools.gov.sg</a>
