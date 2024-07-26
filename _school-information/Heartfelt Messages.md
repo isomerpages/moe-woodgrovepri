@@ -10,5 +10,6 @@ description: ""
 </div>
 <p>If you would like to express your gratitude or word of thanks to any member
 / members of our staff or students, please do so by&nbsp;.</p>
-<p>Thank you for your time. Please be informed that your gratitude note may
-be shared by our school leaders at the appropriate occasion.</p>
+<p>Beyond being kind, gratitude brings joy to others and self. Thank you
+for taking time to share with us your appreciation. It means a lot to us
+and galvanise us in our mission to continue to help our Woodgrovians Shine!</p>
