@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Heartfelt Notes.md
       - Contact Us.md
       - School Information and Map.md
       - School Hours & Recess Timing.md
