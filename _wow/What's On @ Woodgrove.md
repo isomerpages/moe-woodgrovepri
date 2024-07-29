@@ -4,6 +4,22 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h3><strong>P5 NE Show 2024</strong></h3>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BGqsHvZ7KB8?si=1XzB8fx6WHdSyAjP"></iframe>
+</div>
+<p></p>
+<p>Our P5 Woodgrovians attended the National Education (NE) Show at the Padang
+on 6 July, joining the celebrations for Singapore's 59th birthday. This
+year’s theme, "Together, as One United People," encouraged all Singaporeans
+to express their love for the nation, celebrate its progress, and show
+care and concern for fellow citizens. Our Woodgrovians had the privilege
+to witness a spectacular display of military defense, the Red Lions' parachute
+team, and various performances that highlighted the vibrant spirit of National
+Day. Happy Birthday, Singapore &amp; Majulah Singapore!</p>
+<p></p>
+<p></p>
 <h3><strong>Learning Festival 2024</strong></h3>
 <p></p>
 <div class="iframe-wrapper">
