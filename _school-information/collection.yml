@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Heartfelt Messages.md
-      - Contact Us.md
       - School Information and Map.md
       - School Hours & Recess Timing.md
       - School Rules and Regulations/.keep
