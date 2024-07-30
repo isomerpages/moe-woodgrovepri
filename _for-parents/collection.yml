@@ -2,13 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - MOE Sexuality Education.md
-      - Homework Policy.md
-      - Parents Support Group.md
       - Approved Textbook List (2024).md
-      - Parents Content/.keep
-      - Assessment & Exam Matters/Examination Policy.md
       - Assessment & Exam Matters/.keep
+      - Assessment & Exam Matters/Examination Policy.md
       - Forms/.keep
       - Forms/DigitalAccess@Home.md
       - Forms/Edusave Standing Order for Enrichment Programmes.md
@@ -17,5 +13,9 @@ collections:
       - Forms/School Admission Application.md
       - Forms/Student Commuter Form.md
       - Forms/Updating of Student's Official Address.md
+      - Homework Policy.md
+      - MOE Sexuality Education.md
+      - Parents Support Group.md
+      - Parents Content/.keep
       - Parents Partnership/.keep
       - Parents Partnership/Resources.md
