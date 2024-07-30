@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Support Group.md
       - Approved Textbook List (2024).md
       - Parents Content/Homework Policy.md
       - Parents Content/MOE Sexuality Education.md
