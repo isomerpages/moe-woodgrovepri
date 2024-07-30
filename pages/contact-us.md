@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.00am - 5.00pm
+        time: 7.30am - 5.00pm
         description: Closed on Saturdays, Sundays & Public Holidays
     maps_link: https://goo.gl/maps/a8qin1Vj66vksEP26
     title: School Location
@@ -30,5 +30,5 @@ contacts:
       - email: woodgrove_ps@moe.edu.sg
       - other: ""
     title: Email
-feedback: ""
+feedback: https://form.gov.sg/6699e13ea84bf4a6af275334
 ---
