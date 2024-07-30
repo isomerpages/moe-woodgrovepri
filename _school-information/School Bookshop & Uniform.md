@@ -4,8 +4,7 @@ permalink: /school-information/school-bookshop-uniform/
 description: ""
 variant: tiptap
 ---
-<h3><strong>School Bookshop/Uniform</strong></h3>
-<h4>Pacific Bookstores</h4>
+<h3><strong>Pacific Bookstores</strong></h3>
 <p>Opening hours :&nbsp;8.45 am - 3.00 pm
 <br>(for students)</p>
 <p>Closed for lunch: 12.30 pm - 1.30 pm
