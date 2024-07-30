@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Example Title.md
       - Assessment & Exam Matters/Examination Policy.md
       - Assessment & Exam Matters/.keep
       - Forms/.keep
