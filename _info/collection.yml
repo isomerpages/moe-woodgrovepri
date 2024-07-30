@@ -2,4 +2,5 @@ collections:
   info:
     output: true
     order:
+      - For Student.md
       - For Parents.md
