@@ -32,7 +32,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><strong>Mon - Fri:&nbsp;8.00am - 5.00pm<br>Closed on Saturdays, Sundays &amp; Public Holidays</strong>
+<br><strong>Mon - Fri:&nbsp;7.30am - 5.00pm<br>Closed on Saturdays, Sundays &amp; Public Holidays</strong>
 </p>
 <p></p>
 </td>
