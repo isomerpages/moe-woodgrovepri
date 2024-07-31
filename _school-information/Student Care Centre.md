@@ -2,16 +2,13 @@
 title: Student Care Centre
 permalink: /school-information/student-care-centre/
 description: ""
+variant: tiptap
 ---
-# **Student Care Centre**
-
-### Service Provider: Commit Learning SchoolHouse
-
-Email: [enquiry@commitlearning.com.sg](mailto:enquiry@commitlearning.com.sg)  
-
-Enquiry Hotline: 85113638
-
-For application, please click [here](https://go.gov.sg/wgps-scc) or scan the QR code below.
-
-<img src="/images/QR%20Code_Application%20form.jpg" 
-     style="width:25%">
+<h3>Service Provider: Commit Learning SchoolHouse</h3>
+<p>Email:&nbsp;<a href="mailto:enquiry@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@commitlearning.com.sg</a>
+<br>Enquiry Hotline: 85113638</p>
+<p>For application, please click&nbsp;<a href="https://go.gov.sg/wgps-scc" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or scan the QR code below.</p>
+<div class="isomer-image-wrapper">
+<img style="width:25%" height="auto" width="100%" src="/images/QR%20Code_Application%20form.jpg">
+</div>
+<p></p>
