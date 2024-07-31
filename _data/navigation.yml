@@ -19,11 +19,11 @@ links:
       - title: What's On @ Woodgrove
         url: /wow/permalink/
   - title: Useful Information
-    url: https://www.woodgrovepri.moe.edu.sg/school-information/school-information-and-map/
+    url: /school-information/school-information-and-map/
     sublinks:
       - title: For Parents
         url: /for-parents/approved-text-book-list-2024/
       - title: For Students
         url: /for-students/useful-links-for-students
       - title: School Information
-        url: https://www.woodgrovepri.moe.edu.sg/school-information/school-information-and-map/
+        url: /school-information-and-map/
