@@ -110,5 +110,4 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_22_121737.png">
 </div>
-<p>If you have a query, feedback or wish to report a problem related to this
-website, please fill in the <a href="https://form.gov.sg/6699e13ea84bf4a6af275334" rel="noreferrer" target="_blank"><u>online form</u></a>.</p>
+<p>If you have a feedback or query, please share with us using this <a href="https://form.gov.sg/6699e13ea84bf4a6af275334" rel="noreferrer" target="_blank"><u>online form</u></a>.</p>
