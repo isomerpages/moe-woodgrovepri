@@ -28,7 +28,7 @@ sections:
       button: Button Text
       image: /images/Screenshot_2024_07_29_110149.png
       alt: Image alt text
-      url: https://youtu.be/BGqsHvZ7KB8
+      url: https://youtu.be/7f4A4bUyIuM?feature=shared
   - resources:
       subtitle: Announcement & News
   - infopic:
