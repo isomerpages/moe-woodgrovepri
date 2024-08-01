@@ -25,13 +25,25 @@ must comply with the school’s security measures.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All visitors must report to the security
-Guard Post at Gate 2. Visitors will have to produce their identification
-cards for security checks by the school’s security measures.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visitors will not be allowed into the
-school premises unless they are there to fetch their children who are unwell.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/guardians are only allowed to
-enter the school for the following reasons:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>All visitors must report to the security Guard Post at Gate 2. Visitors
+will have to produce their identification cards for security checks by
+the school’s security measures.</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Visitors will not be allowed into the school premises unless they are
+there to fetch their children who are unwell.</p>
+</li>
+</ol>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Parents/guardians are only allowed to enter the school for the following
+reasons:</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>They have valid reasons to fetch their children home before dismissal.
@@ -45,17 +57,21 @@ their children home.</p>
 <p>To make enquiries, pleas call 6894 3371 or email the school at <a rel="noopener noreferrer nofollow" target="_blank">woodgrove_ps@moe.edu.sg</a>
 </p>
 </li>
-</ul>
+<li>
 <p></p>
+</li>
+</ul>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Students are allowed to leave the school during school hours only if their
 parents/guardians are in the schools to fetch them home.</p>
 </li>
+</ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>Out</p>
 </li>
-</ol>
+</ul>
 </td>
 </tr>
 <tr>
