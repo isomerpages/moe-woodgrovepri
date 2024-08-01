@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<h3>Student's Well Being<br></h3>
+<h3><strong>Student's Well Being</strong><br></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>As part of the school’s effort to improve students’ welfare, the school
