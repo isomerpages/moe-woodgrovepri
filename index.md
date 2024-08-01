@@ -31,12 +31,4 @@ sections:
       url: https://www.youtube.com/watch?v=7f4A4bUyIuM
   - resources:
       subtitle: Announcement & News
-  - infopic:
-      title: 2023 Term 3
-      subtitle: Experiencing WGPS
-      description: Showcasing our Woodgrovian Stories through their Experiences
-      button: Click Here
-      url: https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/experiencing-wgps/
-      image: /images/Experiencing_WGPS_Term_3.jpg
-      alt: Image alt text
 ---
