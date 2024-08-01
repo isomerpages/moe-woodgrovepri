@@ -14,6 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
+<h3>Student's well Being<br></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>As part of the school’s effort to improve students’ welfare, the school
@@ -91,7 +92,7 @@ reduce comparison amongst students.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h3>Fetching Your Children to/fro School</h3>
+<h3><br>Fetching Your Children to/fro School<br></h3>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
