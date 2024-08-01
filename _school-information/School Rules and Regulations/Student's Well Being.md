@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Rules and Regulations
 variant: tiptap
 ---
-<h1><strong>Student's Well Being</strong></h1>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>As part of the school’s effort to improve students’ welfare, the school
