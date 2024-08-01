@@ -46,10 +46,14 @@ their children home.</p>
 </p>
 </li>
 </ul>
+<p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Students are allowed to leave the school during school hours only if their
-parents/guardians are in the school to fetch them home.</p>
+parents/guardians are in the schools to fetch them home.</p>
+</li>
+<li>
+<p>Out</p>
 </li>
 </ol>
 </td>
