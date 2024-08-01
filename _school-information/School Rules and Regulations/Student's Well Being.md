@@ -21,11 +21,19 @@ etc.&nbsp;To&nbsp;prevent&nbsp;the&nbsp;spread&nbsp;of&nbsp;infection,&nbsp;a&nb
 <li>
 <p>Students&nbsp;will&nbsp;be&nbsp;considered&nbsp;absent&nbsp;without&nbsp;valid&nbsp;reason&nbsp;should&nbsp;they&nbsp;go&nbsp;overseas&nbsp;for&nbsp;holidays&nbsp;during&nbsp;the&nbsp;school&nbsp;term.</p>
 </li>
+<li>
+<p>Should you need to contact your child's/ward's teacher, please email &nbsp;the&nbsp;teacher&nbsp;using&nbsp;the&nbsp;information&nbsp;found&nbsp;on&nbsp;our&nbsp;school&nbsp;website.</p>
+</li>
+<li>
+<p>Our&nbsp;students&nbsp;should&nbsp;learn&nbsp;to&nbsp;be&nbsp;independent&nbsp;and&nbsp;responsible.&nbsp;To&nbsp;inculcate&nbsp;in&nbsp;them&nbsp;the&nbsp;good&nbsp;habit&nbsp;of&nbsp;checking&nbsp;their&nbsp;own&nbsp;bags&nbsp;each&nbsp;night,&nbsp;school&nbsp;will&nbsp;not&nbsp;accept&nbsp;and&nbsp;deliver&nbsp;personal&nbsp;items&nbsp;(e.g.&nbsp;homework,&nbsp;keys,&nbsp;pocket&nbsp;money,&nbsp;books,&nbsp;stationery,&nbsp;water&nbsp;bottle&nbsp;and&nbsp;food)&nbsp;to&nbsp;the&nbsp;students.</p>
+</li>
+<li>
+<p>Students&nbsp;are&nbsp;advised&nbsp;not&nbsp;to&nbsp;bring&nbsp;their&nbsp;handphones&nbsp;to&nbsp;school.&nbsp;Those&nbsp;who&nbsp;need&nbsp;the&nbsp;handphone&nbsp;for&nbsp;communication&nbsp;with&nbsp;home&nbsp;will&nbsp;be&nbsp;issued&nbsp;a&nbsp;handphone&nbsp;pass&nbsp;after&nbsp;they&nbsp;have&nbsp;obtained&nbsp;parental&nbsp;permission&nbsp;and&nbsp;agreed&nbsp;to&nbsp;adhere&nbsp;to&nbsp;school&nbsp;handphone&nbsp;guidelines.</p>
+</li>
+<li>
+<p>Parents&nbsp;are&nbsp;discouraged&nbsp;from&nbsp;organising&nbsp;birthday&nbsp;celebrations&nbsp;for&nbsp;their&nbsp;children&nbsp;in&nbsp;school.&nbsp;This&nbsp;is&nbsp;to&nbsp;minimise&nbsp;the&nbsp;risk&nbsp;of&nbsp;food&nbsp;allegies&nbsp;and&nbsp;reduce&nbsp;comparison&nbsp;amongst&nbsp;students.</p>
+</li>
 </ol>
-<p>7.&nbsp;&nbsp;&nbsp;To&nbsp;consult&nbsp;a&nbsp;child's&nbsp;teacher&nbsp;regarding&nbsp;his/her&nbsp;performance,&nbsp;progress&nbsp;and&nbsp;homework,&nbsp;you&nbsp;may&nbsp;email&nbsp;the&nbsp;teacher&nbsp;using&nbsp;the&nbsp;information&nbsp;found&nbsp;on&nbsp;our&nbsp;school&nbsp;website.</p>
-<p>8.&nbsp;&nbsp;&nbsp;Our&nbsp;students&nbsp;should&nbsp;learn&nbsp;to&nbsp;be&nbsp;independent&nbsp;and&nbsp;responsible.&nbsp;To&nbsp;inculcate&nbsp;in&nbsp;them&nbsp;the&nbsp;good&nbsp;habit&nbsp;of&nbsp;checking&nbsp;their&nbsp;own&nbsp;bags&nbsp;each&nbsp;night,&nbsp;school&nbsp;will&nbsp;not&nbsp;accept&nbsp;and&nbsp;deliver&nbsp;personal&nbsp;items&nbsp;(e.g.&nbsp;homework,&nbsp;keys,&nbsp;pocket&nbsp;money,&nbsp;books,&nbsp;stationery,&nbsp;water&nbsp;bottle&nbsp;and&nbsp;food)&nbsp;to&nbsp;the&nbsp;students.</p>
-<p>9.&nbsp;&nbsp;&nbsp;Students&nbsp;are&nbsp;advised&nbsp;not&nbsp;to&nbsp;bring&nbsp;their&nbsp;handphones&nbsp;to&nbsp;school.&nbsp;Those&nbsp;who&nbsp;need&nbsp;the&nbsp;handphone&nbsp;for&nbsp;communication&nbsp;with&nbsp;home&nbsp;will&nbsp;be&nbsp;issued&nbsp;a&nbsp;handphone&nbsp;pass&nbsp;after&nbsp;they&nbsp;have&nbsp;obtained&nbsp;parental&nbsp;permission&nbsp;and&nbsp;agreed&nbsp;to&nbsp;adhere&nbsp;to&nbsp;school&nbsp;handphone&nbsp;guidelines.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;Parents&nbsp;are&nbsp;discouraged&nbsp;from&nbsp;organising&nbsp;birthday&nbsp;celebrations&nbsp;for&nbsp;their&nbsp;children&nbsp;in&nbsp;school.&nbsp;This&nbsp;is&nbsp;to&nbsp;minimise&nbsp;the&nbsp;risk&nbsp;of&nbsp;food&nbsp;allegies&nbsp;and&nbsp;reduce&nbsp;comparison&nbsp;amongst&nbsp;students.</p>
 <h3>Fetching Your Children to/fro School</h3>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents&nbsp;who&nbsp;walk&nbsp;their&nbsp;children&nbsp;to&nbsp;school&nbsp;are&nbsp;requested&nbsp;to&nbsp;leave&nbsp;their&nbsp;children&nbsp;at&nbsp;the&nbsp;side&nbsp;gates.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For&nbsp;parents&nbsp;who&nbsp;are
