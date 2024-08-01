@@ -56,8 +56,6 @@ their children home.</p>
 <li>
 <p>To make enquiries, pleas call 6894 3371 or email the school at <a rel="noopener noreferrer nofollow" target="_blank">woodgrove_ps@moe.edu.sg</a>
 </p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
