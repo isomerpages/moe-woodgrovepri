@@ -6,28 +6,67 @@ third_nav_title: School Rules and Regulations
 variant: tiptap
 ---
 <h1><strong>Safety and Security</strong></h1>
-<p>We&nbsp;value&nbsp;the&nbsp;safety&nbsp;of&nbsp;our&nbsp;students.&nbsp;No&nbsp;parents&nbsp;or&nbsp;visitors&nbsp;are&nbsp;allowed&nbsp;into&nbsp;student&nbsp;areas&nbsp;such&nbsp;as&nbsp;the&nbsp;classroom&nbsp;blocks.&nbsp;Parents&nbsp;and&nbsp;visitors&nbsp;must&nbsp;comply&nbsp;with&nbsp;the&nbsp;school’s&nbsp;security&nbsp;measures.</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;All&nbsp;visitors&nbsp;must&nbsp;report&nbsp;to&nbsp;the&nbsp;Security&nbsp;Guard&nbsp;Post&nbsp;at&nbsp;Gate&nbsp;2.&nbsp;Visitors&nbsp;will&nbsp;have&nbsp;to&nbsp;produce&nbsp;their&nbsp;identification&nbsp;cards&nbsp;for&nbsp;security&nbsp;checks&nbsp;by&nbsp;the&nbsp;school’s&nbsp;security&nbsp;guards
-and obtain&nbsp;a&nbsp;'Visitor&nbsp;Pass'&nbsp;before proceeding&nbsp;to&nbsp;the&nbsp;General&nbsp;Office.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;Visitors&nbsp;will&nbsp;not&nbsp;be&nbsp;allowed&nbsp;into&nbsp;the&nbsp;school&nbsp;premises&nbsp;unless&nbsp;they&nbsp;are&nbsp;there&nbsp;to&nbsp;fetch&nbsp;their&nbsp;children&nbsp;who&nbsp;are&nbsp;unwell.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;Parents/guardians&nbsp;are&nbsp;only&nbsp;allowed&nbsp;to&nbsp;enter&nbsp;the&nbsp;school&nbsp;for&nbsp;the&nbsp;following&nbsp;reasons:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>We value the safety of our students. No Parents or visitors are allowed
+into students areas such as the classroom blocks. Parents and visitors
+must comply with the school’s security measures.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All visitors must report to the security
+Guard Post at Gate 2. Visitors will have to produce their identification
+cards for security checks by the school’s security measures.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visitors will not be allowed into the
+school premises unless they are there to fetch their children who are unwell.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/guardians are only allowed to
+enter the school for the following reasons:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>They&nbsp;have&nbsp;valid&nbsp;reasons&nbsp;to&nbsp;fetch&nbsp;their&nbsp;children&nbsp;home&nbsp;before&nbsp;dismissal.&nbsp;Parents/guardians&nbsp;must&nbsp;report&nbsp;to&nbsp;the&nbsp;General&nbsp;Office&nbsp;first&nbsp;before&nbsp;fetching&nbsp;their&nbsp;children&nbsp;home</p>
+<p>They have valid reasons to fetch their children home before dismissal.
+Parents/guardians must report to the General Office first before fetching
+their children home.</p>
 </li>
 <li>
-<p>They&nbsp;have&nbsp;an&nbsp;appointment&nbsp;with&nbsp;the&nbsp;Principal,&nbsp;Vice-Principals&nbsp;or&nbsp;teachers</p>
+<p>They have an appointment with the Principal, Vice-Principals or teachers.</p>
 </li>
 <li>
-<p>To&nbsp;make&nbsp;enquiries,&nbsp;please&nbsp;call&nbsp;6894&nbsp;3371&nbsp;or&nbsp;email&nbsp;the&nbsp;school&nbsp;at&nbsp;
-<a href="mailto:woodgrove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woodgrove_ps@moe.edu.sg</a>
+<p>To make enquiries, pleas call 6894 3371 or email the school at <a rel="noopener noreferrer nofollow" target="_blank">woodgrove_ps@moe.edu.sg</a>
 </p>
 </li>
 </ul>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;Students&nbsp;&nbsp;are&nbsp;&nbsp;allowed&nbsp;&nbsp;to&nbsp;&nbsp;leave&nbsp;&nbsp;the&nbsp;&nbsp;school&nbsp;&nbsp;during&nbsp;&nbsp;school&nbsp;&nbsp;hours&nbsp;&nbsp;only&nbsp;&nbsp;if&nbsp;&nbsp;their&nbsp;parents/guardians
-are in&nbsp;the&nbsp;school&nbsp;to&nbsp;fetch&nbsp;them&nbsp;home.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;Our&nbsp;school&nbsp;premises&nbsp;are&nbsp;protected&nbsp;by&nbsp;24&nbsp;hours&nbsp;recording&nbsp;video&nbsp;surveillance&nbsp;for&nbsp;the&nbsp;purposes
-of&nbsp;crime&nbsp;prevention and&nbsp;safety.</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Students are allowed to leave the school during school hours only if their
+parents/guardians are in the school to fetch them home.</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Use of Images and Photographs</h3>
 <p>Photograph(s) or video image(s) of students and parents may be captured
 during school activities and events such as classroom lessons, CCA, school
