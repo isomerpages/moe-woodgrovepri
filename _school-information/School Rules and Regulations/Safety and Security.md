@@ -66,23 +66,11 @@ their children home.</p>
 <p>Students are allowed to leave the school during school hours only if their
 parents/guardians are in the schools to fetch them home.</p>
 </li>
-</ol>
-<ul data-tight="true" class="tight">
 <li>
-<p>Out</p>
+<p>Our school premises are protected by 24 hours recording video surveillance
+for the purpose of crime prevention and safety.</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</ol>
 </td>
 </tr>
 </tbody>
