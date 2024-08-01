@@ -5,6 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Pacific Bookstores</strong></h3>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/9235ed8b6a0c2ee24100a52306b03b35.png">
+</div>
+<p></p>
 <p>Opening hours :&nbsp;8.45 am - 3.00 pm
 <br>(for students)</p>
 <p>Closed for lunch: 12.30 pm - 1.30 pm
