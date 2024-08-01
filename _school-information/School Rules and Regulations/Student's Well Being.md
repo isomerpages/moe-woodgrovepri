@@ -22,6 +22,7 @@ bring their own snacks such as buns or fruits for consumption in class
 during the snack break. This is to cater to students who come to school
 without breakfast or those who may be hungry prior to dismissal.
 <br>
+<br>
 </p>
 </li>
 <li>
@@ -33,6 +34,7 @@ a child who is unwell or is given a medical certificate by the doctor should
 stay at home to rest. Any sick children will not be allowed to stay in
 the school.
 <br>
+<br>
 </p>
 </li>
 <li>
@@ -42,17 +44,20 @@ must be verified by a doctor’s medical certificate or letter from the parents
 when the child returns to school. If a child falls sick while in school,
 his/her parents/guardian will be informed to take him/her home.
 <br>
+<br>
 </p>
 </li>
 <li>
 <p>Students will be considered absent without valid reason should they go
 overseas for holidays during the school term.
 <br>
+<br>
 </p>
 </li>
 <li>
 <p>Should you need to contact your child’s/ward’s teacher, please email the
 teacher using the information found on our school website.
+<br>
 <br>
 </p>
 </li>
@@ -62,6 +67,7 @@ them the good habits of checking their own bags each night, school will
 not accept and deliver personal items (e.g. homework, keys, pocket money,
 books, stationery, water bottles and food) to the students.
 <br>
+<br>
 </p>
 </li>
 <li>
@@ -69,6 +75,7 @@ books, stationery, water bottles and food) to the students.
 need the handphone for communication with home with be issued a handphones
 pass after they have obtained parental permission and agreed to adhere
 to school handphone guidelines.
+<br>
 <br>
 </p>
 </li>
@@ -91,6 +98,7 @@ reduce comparison amongst students.
 <p>Parents who walk their children to school are requested to leave their
 children at the side gate.
 <br>
+<br>
 </p>
 </li>
 <li>
@@ -98,17 +106,20 @@ children at the side gate.
 7.00 am - 7.40am. Drivers need to drive slowly and be mindful of both vehicular
 and pedestrian movement within the school parking areas.
 <br>
+<br>
 </p>
 </li>
 <li>
 <p>For dismissal, parents are not allowed to drive into the school or pick
 their children up in front of the school gate.
 <br>
+<br>
 </p>
 </li>
 <li>
 <p>Where necessary, parents and visitors are requested to park their vehicles
 at the near by HDB carpark. Do not park along the road.
+<br>
 <br>
 </p>
 </li>
