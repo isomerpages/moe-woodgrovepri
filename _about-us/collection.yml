@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Pledge.md
       - Principal's Message.md
       - Our History.md
       - School Vision and Mission.md
@@ -19,4 +18,5 @@ collections:
       - Staff/Allied Educators & School Counsellors.md
       - Staff/School Admin Team.md
       - School Song.md
+      - School Pledge.md
       - Contact Us.md
