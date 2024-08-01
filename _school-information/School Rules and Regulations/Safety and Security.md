@@ -14,11 +14,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<td rowspan="1" colspan="3">
 <p>We value the safety of our students. No Parents or visitors are allowed
 into students areas such as the classroom blocks. Parents and visitors
 must comply with the school’s security measures.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
