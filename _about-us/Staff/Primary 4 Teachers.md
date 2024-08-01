@@ -6,7 +6,7 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h1><strong>Primary 4 Teachers</strong></h1>
-<p><strong> Primary 4 Form Teachers (2024)</strong>
+<p><strong>Primary 4 Form Teachers (2024)</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -119,6 +119,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tauqiq_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">taufiq_abdullah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Nur Maisarah Bte Idris</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Maisarah_Idris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Maisarah_Idris@schools.gov.sg</a>
 </p>
 </td>
 </tr>
