@@ -36,7 +36,7 @@ sections:
       id: infopic
       description: If you would like to express your gratitude or word of thanks to
         any member / members of our staff or students, please do so by posting
-        your E note below
+        your Enote below
       button: Click Here
       url: /heartfelt-messages/
       image: /images/Red_and_Blue_Mail_Theme_Administrative_Professionals_Day_Card.png
