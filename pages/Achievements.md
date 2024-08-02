@@ -17,7 +17,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_69_National_Schools_Games_Swimming_Competition_2024.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_67_NZ_Chinese_Speech_Competition.jpg">
 </div>
