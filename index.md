@@ -39,5 +39,5 @@ sections:
         your Enote below
       button: Click Here
       url: /heartfelt-messages/
-      image: /images/Red_and_Blue_Mail_Theme_Administrative_Professionals_Day_Card.png
+      image: /images/woodgrove_72_SINGAPORE_MATH_KANGAROO_COMPETITION.jpg
 ---
