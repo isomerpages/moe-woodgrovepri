@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>P5 NE Show 2024</strong></h3>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=OmbDvAz2qBU&amp;t=19s"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Gold_Gray_Podcast_Announcement_Player_Instagram_Post__1_.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/OmbDvAz2qBU?si=qjUYgzcSb8E3GHQb"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Gold_Gray_Podcast_Announcement_Player_Instagram_Post__1_.png"></a>
 <p>Our P5 Woodgrovians attended the National Education (NE) Show at the Padang
 on 6 July, joining the celebrations for Singapore's 59th birthday. This
 year’s theme, "Together, as One United People," encouraged all Singaporeans
