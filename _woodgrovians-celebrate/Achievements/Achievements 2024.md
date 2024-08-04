@@ -7,7 +7,11 @@ third_nav_title: Achievements
 ---
 <h1><strong>Achievements 2024</strong></h1>
 <h3>Cognitive</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -16,6 +20,71 @@ third_nav_title: Achievements
 <th rowspan="1" colspan="1">
 <p>ACHIEVEMENT</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SINGAPORE MATH KANGAROO COMPETITION</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Gold</u></strong>
+</p>
+<p>SUN SIQIAO, 4C
+<br>GUO JIAXIANG, 4C
+<br>FEI YUCHENG, 4C</p>
+<p><strong><u>Silver</u></strong>
+<br>TAN AN QI, 4C
+<br>BRANDON PEH, 4E
+<br>ONG RUI CHENG JAYDEN, 4C
+<br>GARRETT TAN YU ZE, 4C
+<br>
+<br><strong><u>Bronze</u></strong>
+<br>TAN JOE SHE, 4E
+<br>JOEL SOH JUN JIE, 4D
+<br>LI CHANGLE, 4E
+<br>LIEW HAO RONG DAVION, 4C
+<br>FOO MING KAI, 4C
+<br>IAN CHUA LIANG YU, 6C
+<br>GUO JIALE, 6F
+<br>WANG PEISHAN NICKIE, 6C
+<br>
+<br><strong><u>Honorable Mention</u></strong>
+<br>SAMUEL PUAH JYE XUAN, 4A
+<br>JAYDEN LIM JUN JIE, 4E
+<br>PHUA YU TONG HAILEY, 4A
+<br>CHARMAINE CHEE ZIXUAN, 4E
+<br>YAP HAO XUAN, 4E
+<br>GUPTA REYANSH, 4C
+<br>TAO HAN, 6C
+<br>PAN JUNZE, 6F
+<br>AXEL ZACHARY CHUA, 6C</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 North Zone Schools
+<br>(Primary/Secondary)
+<br>Chinese Speech Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Primary School Category</strong>
+<br>2nd
+<br>Wang Haoyu Lucas, 6C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The 15th Goodtalk International
+<br>Bilingual Speech Conference
+<br>2023-2024
+<br><strong>(Final)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3rd</strong>
+</p>
+<p>Waverly Sia Yuexuan, 5C</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -111,7 +180,11 @@ third_nav_title: Achievements
 </tbody>
 </table>
 <h3>Aesthetics</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -162,7 +235,11 @@ third_nav_title: Achievements
 </tbody>
 </table>
 <h3>Physical</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -171,6 +248,50 @@ third_nav_title: Achievements
 <th rowspan="1" colspan="1">
 <p>ACHIEVEMENT</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Schools Games
+<br>Taekwondo Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Division Boys Poom 1
+<br><strong>1st</strong>
+<br>Yow Chek Ning Cayden, 6B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Schools Games
+<br>Swimming Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Girls</strong>
+<br>200m Individual Medley 3<sup>rd</sup>
+<br>50m Butterfly / 50m Breaststroke 4<sup>th</sup>
+<br>50m &nbsp;Backstroke / 50m Breaststroke 4th
+<br>Lee Zi Xuan, 6C
+<br>
+</p>
+<p><strong>Junior Boys</strong>
+<br>25m Backstroke 8<sup>th</sup>
+</p>
+<p>Lee Yu An, 3C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games
+<br>Track &amp; Field Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Girls</strong>
+<br>Standing Long Jump &nbsp;5<sup>th</sup>
+<br>30m Run &nbsp;8<sup>th</sup>
+</p>
+<p>
+<br>Tan Jing En, 6C</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

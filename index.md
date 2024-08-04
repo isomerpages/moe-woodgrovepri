@@ -20,23 +20,15 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
-      title: Learning Festival 2024
+      title: P5 NE Show 2024
       id: infopic
-      description: Woodgrove Primary School enthusiastically welcomed students back
-        from the June Holidays with an exciting Learning Festival on the first 3
-        days of Term 3.
+      description: Our P5 Woodgrovians attended the National Education (NE) Show at
+        the Padang on 6 July, joining the celebrations for Singapore's 59th
+        birthday.
       button: Button Text
-      image: /images/Learning_Festival_2024.jpg
+      image: /images/Screenshot_2024_07_29_110149.png
       alt: Image alt text
-      url: https://youtu.be/oczdS_2CyGI?si=Fe_iXhMbNN5_nZ0A
+      url: https://www.youtube.com/watch?v=OmbDvAz2qBU
   - resources:
       subtitle: Announcement & News
-  - infopic:
-      title: 2023 Term 3
-      subtitle: Experiencing WGPS
-      description: Showcasing our Woodgrovian Stories through their Experiences
-      button: Click Here
-      url: https://www.woodgrovepri.moe.edu.sg/woodgrovians-celebrate/experiencing-wgps/
-      image: /images/Experiencing_WGPS_Term_3.jpg
-      alt: Image alt text
 ---

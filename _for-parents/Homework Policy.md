@@ -21,7 +21,7 @@ For the student, regular Homework encourages:
 * self discipline, personal organisation and responsibility
 * home/school partnership
 
-For the teachers, judicious use of homework allows teachers to: 
+For the teachers, judicious use of homework allows teachers to:&nbsp;
 
 * check for students’ understanding and progress, so as to provide timely feedback, intervention and support; and
 * review effectiveness of their lessons.

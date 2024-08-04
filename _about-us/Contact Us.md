@@ -6,8 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_22_121737.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Green_Blue_Illustrative_Forest_Camp_Banner.jpg">
 </div>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -32,7 +33,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><strong>Mon - Fri:&nbsp;8.00am - 5.00pm<br>Closed on Saturdays, Sundays &amp; Public Holidays</strong>
+<br><strong>Mon - Fri:&nbsp;7.30am - 5.00pm<br>Closed on Saturdays, Sundays &amp; Public Holidays</strong>
 </p>
 <p></p>
 </td>
@@ -105,6 +106,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h5>Send us your feedback</h5>
-<p>If you have a query, feedback or wish to report a problem related to this
-website, please fill in the <a href="https://form.gov.sg/6699e13ea84bf4a6af275334" rel="noreferrer" target="_blank"><u>online form</u></a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_22_121737.png">
+</div>
+<p>If you have a feedback or query, please share with us using this <a href="https://form.gov.sg/6699e13ea84bf4a6af275334" rel="noreferrer" target="_blank"><u>online form</u></a>.</p>
