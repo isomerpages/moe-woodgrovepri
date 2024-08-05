@@ -4,10 +4,6 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/61cl7Kjogbw?si=2l8u7LSsN6QvzAFg"></iframe>
-</div>
-<p></p>
 <h3><strong>P5 NE Show 2024</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/OmbDvAz2qBU?si=qjUYgzcSb8E3GHQb"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Gold_Gray_Podcast_Announcement_Player_Instagram_Post__1_.png"></a>
 <p></p>
