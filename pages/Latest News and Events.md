@@ -21,6 +21,6 @@ register now.</p>
 </div>
 <h3>Latest Publication</h3>
 <div class="isomer-image-wrapper">
-<img style="width:210px;height:px;" height="auto" width="100%" alt="Nov 2022" src="/images/Newsletter/nov%202023.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Nov 2022" src="/images/Newsletter/nov%202023.png">
 </div>
 <p></p>
