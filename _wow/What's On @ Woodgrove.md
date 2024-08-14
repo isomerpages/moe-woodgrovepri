@@ -4,6 +4,21 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h3><strong>National Day Celebration @ WGPS</strong></h3>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/LeFrJFaG4UQ?si=xT4n8ZGuQdaD8Q61"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Gold_Gray_Podcast_Announcement_Player_Instagram_Post.jpg"></a>
+<p>On 8 August, our school was abuzz with excitement as we came together
+to celebrate our nation's 59th birthday. The day was marked by a series
+of engaging activities that highlighted our collective pride in our nation
+and school spirit. Woodgrovians started their day in the hall by saying
+their birthday wishes to Singapore accompanied by the Observance Ceremony
+as a mark of respect to the country and a reminder of our shared identity
+and values. Following the ceremony, our Woodgrovians participated in the
+Recollections which brought about a deeper meaning and appreciation for
+the opportunities they have today. One of the highlights of the day was
+the singing of national day songs. The air was filled with joyous melodies
+and the enthusiastic voices of the students who sang with a spirited gusto!
+Here's wishing everyone, Happy National Day!</p>
+<p></p>
 <h3><strong>P5 NE Show 2024</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/OmbDvAz2qBU?si=qjUYgzcSb8E3GHQb"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Gold_Gray_Podcast_Announcement_Player_Instagram_Post__1_.png"></a>
 <p></p>
