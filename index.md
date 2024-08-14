@@ -30,4 +30,13 @@ sections:
       url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
   - resources:
       subtitle: Announcement & News
+  - infopic:
+      title: HEARTFELT MESSAGES
+      id: infopic
+      description: If you would like to express your gratitude or word of thanks to
+        any member / members of our staff or students, please do so by clicking
+        below.
+      button: Click Here
+      url: https://www.woodgrovepri.moe.edu.sg/heartfelt-messages/
+      image: /images/Red_and_Blue_Mail_Theme_Administrative_Professionals_Day_Card.png
 ---
