@@ -38,5 +38,5 @@ sections:
         below.
       button: Click Here
       url: https://www.woodgrovepri.moe.edu.sg/heartfelt-messages/
-      image: /images/Red_and_Blue_Mail_Theme_Administrative_Professionals_Day_Card.png
+      image: /images/wdew.png
 ---
