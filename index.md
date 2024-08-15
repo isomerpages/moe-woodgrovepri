@@ -20,15 +20,14 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
-      title: P5 NE Show 2024
+      title: National Day Celebration @ WGPS
       id: infopic
-      description: Our P5 Woodgrovians attended the National Education (NE) Show at
-        the Padang on 6 July, joining the celebrations for Singapore's 59th
-        birthday.
-      button: Button Text
-      image: /images/Screenshot_2024_07_29_110149.png
+      description: On 8 August, our school was abuzz with excitement as we came
+        together to celebrate our nation's 59th birthday.
+      button: Click Here
+      image: /images/movie.png
       alt: Image alt text
-      url: https://www.youtube.com/watch?v=OmbDvAz2qBU
+      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
   - resources:
       subtitle: Announcement & News
 ---
