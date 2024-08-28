@@ -21,7 +21,6 @@ sections:
       background: /images/website homepage gif.gif
   - infopic:
       title: Happy Teachers' Day!
-      subtitle: Add an image and text
       id: infopic
       description: Send your teacher well wishes on this meaningful day!
       button: Click to post your message
