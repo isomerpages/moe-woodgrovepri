@@ -177,6 +177,18 @@ third_nav_title: Achievements
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asia-Pacific Mathematical Olympiad for Primary Schools</p>
+<p>Math Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+<p>Jayden Sing Zhi Yu 6F</p>
+<p>Yu Xinlan 6F</p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
