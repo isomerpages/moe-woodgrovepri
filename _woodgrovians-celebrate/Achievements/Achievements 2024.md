@@ -179,8 +179,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asia-Pacific Mathematical Olympiad for Primary Schools</p>
-<p>Math Olympiad</p>
+<p>Asia-Pacific Mathematical Olympiad for Primary Schools Math Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>
