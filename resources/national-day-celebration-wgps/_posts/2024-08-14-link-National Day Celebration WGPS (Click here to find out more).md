@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://youtu.be/LeFrJFaG4UQ?si=QJAWkhSpOOqyBSTl
+external: https://youtube.com/watch?v=LeFrJFaG4UQ
 ---
