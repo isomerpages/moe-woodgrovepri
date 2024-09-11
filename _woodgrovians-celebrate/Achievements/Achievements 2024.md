@@ -182,7 +182,8 @@ third_nav_title: Achievements
 <p>Asia-Pacific Mathematical Olympiad for Primary Schools Math Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze</p>
+<p><strong>Bronze</strong>
+</p>
 <p>Jayden Sing Zhi Yu 6F</p>
 <p>Yu Xinlan 6F</p>
 <p></p>
@@ -221,8 +222,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival
-<br>Arts Presentation 2024</p>
+<p>Singapore Youth Festival</p>
+<p>Arts Presentation 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>DISTINCTION</strong>
@@ -233,8 +234,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival
-<br>Arts Presentation 2024</p>
+<p>Singapore Youth Festival</p>
+<p>Arts Presentation 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ACCOMPLISHMENT</strong>
@@ -256,7 +257,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation 2024</p>
+<p>Singapore Youth Festival</p>
+<p>Arts Presentation 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ACCOMPLISHMENT</strong>
@@ -267,7 +269,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation 2024</p>
+<p>Singapore Youth Festival</p>
+<p>Arts Presentation 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>DISTINCTION</strong>
