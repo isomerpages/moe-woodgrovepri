@@ -62,6 +62,18 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Han Xiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:TAN_HAN_XIANG_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_HAN_XIANG_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
