@@ -222,7 +222,7 @@ third_nav_title: Achievements
 <tr>
 <td rowspan="1" colspan="1">
 <p>Singapore Youth Festival
-<br>Arts Presentation</p>
+<br>Arts Presentation 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>DISTINCTION</strong>
@@ -234,12 +234,45 @@ third_nav_title: Achievements
 <tr>
 <td rowspan="1" colspan="1">
 <p>Singapore Youth Festival
-<br>Arts Presentation</p>
+<br>Arts Presentation 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ACCOMPLISHMENT</strong>
 </p>
 <p>(Chinese Dance)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DISTINCTION</strong>
+</p>
+<p>(Modern Dance)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ACCOMPLISHMENT</strong>
+</p>
+<p>(Chinese Orchestra)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DISTINCTION</strong>
+</p>
+<p>(Malay Dance)</p>
 <p></p>
 </td>
 </tr>
