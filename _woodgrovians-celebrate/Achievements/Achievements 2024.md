@@ -246,7 +246,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation 2024</p>
+<p>Singapore Youth Festival</p>
+<p>Arts Presentation 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>DISTINCTION</strong>
