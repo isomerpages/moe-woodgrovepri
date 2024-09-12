@@ -5,6 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Experiencing WGPS</strong></h1>
+<h3>Term 2 (2024)</h3>
+<p><a href="/files/Experiencing WGPS/2024_Term_2_Experiencing_WGPS_P1.pdf" rel="noopener nofollow" target="_blank">P1 Term 2 Experiencing WGPS</a>
+</p>
+<p><a href="/files/Experiencing WGPS/2024_Term_2_Experiencing_WGPS_P2.pdf" rel="noopener nofollow" target="_blank">P2 Term 2 Experiencing WGPS</a>
+</p>
+<p></p>
 <h3>Term 1 (2024)</h3>
 <p><a href="/files/Experiencing%20WGPS/2024_Term_1_Experiencing_WGPS___P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Term 1 Experiencing WGPS</a>
 </p>
