@@ -5,10 +5,31 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Experiencing WGPS</strong></h1>
+<h3>Term 3 (2024)</h3>
+<p><a href="/files/Experiencing WGPS/P1_2024_Term_3_Experiencing_WGPS.pdf" rel="noopener nofollow" target="_blank">P1 Term 3 Experiencing WGPS</a>
+</p>
+<p><a href="/files/Experiencing WGPS/P2_2024_Term_3_Experiencing_WGPS.pdf" rel="noopener nofollow" target="_blank">P2 Term 3 Experiencing WGPS</a>
+</p>
+<p><a href="/files/Experiencing WGPS/P3__2024_Term_3_Experiencing_WGPS.pdf" rel="noopener nofollow" target="_blank">P3 Term 3 Experiencing WGPS</a>
+</p>
+<p><a href="/files/Experiencing WGPS/P4__2024_Term_3_Experiencing_WGPS.pdf" rel="noopener nofollow" target="_blank">P4 Term 3 Experiencing WGPS</a>
+</p>
+<p><a href="/files/Experiencing WGPS/P5_2024_Term_3_Experiencing_WGPS.pdf" rel="noopener nofollow" target="_blank">P5 Term 3 Experiencing WGPS</a>
+</p>
+<p><a href="/files/Experiencing WGPS/P6_2024_Term_3_Experiencing_WGPS.pdf" rel="noopener nofollow" target="_blank">P6 Term 3 Experiencing WGPS</a>
+</p>
 <h3>Term 2 (2024)</h3>
 <p><a href="/files/Experiencing WGPS/2024_Term_2_Experiencing_WGPS_P1.pdf" rel="noopener nofollow" target="_blank">P1 Term 2 Experiencing WGPS</a>
 </p>
 <p><a href="/files/Experiencing WGPS/2024_Term_2_Experiencing_WGPS_P2.pdf" rel="noopener nofollow" target="_blank">P2 Term 2 Experiencing WGPS</a>
+</p>
+<p><a href="/files/Experiencing WGPS/2024_Term_2_Experiencing_WGPS_P3.pdf" rel="noopener nofollow" target="_blank">P3 Term 2 Experiencing WGPS</a>
+</p>
+<p><a href="/files/Experiencing WGPS/2024_Term_2_Experiencing_WGPS_P4.pdf" rel="noopener nofollow" target="_blank">P4 Term 2 Experiencing WGPS</a>
+</p>
+<p><a href="/files/Experiencing WGPS/2024_Term_2_Experiencing_WGPS_P5.pdf" rel="noopener nofollow" target="_blank">P5 Term 2 Experiencing WGPS</a>
+</p>
+<p><a href="/files/Experiencing WGPS/2024_Term_2_Experiencing_WGPS_P6.pdf" rel="noopener nofollow" target="_blank">P6 Term 2 Experiencing WGPS</a>
 </p>
 <p></p>
 <h3>Term 1 (2024)</h3>
@@ -102,4 +123,5 @@ variant: tiptap
 </p>
 <p><a href="/files/Experiencing%20WGPS/P6_ADM3702022_Annex%20A_2022%20Term%203%20Experiencing%20WGPS_15%20Sept_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">P6_Annex A_2022 Term 3 Experiencing WGPS.pdf</a>
 </p>
+<p></p>
 <p></p>
