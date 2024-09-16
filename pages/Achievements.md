@@ -65,4 +65,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BANNER_Chinese_Calligraphy_2024_F.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_73_ICLC.jpg">
+</div>
 <p></p>

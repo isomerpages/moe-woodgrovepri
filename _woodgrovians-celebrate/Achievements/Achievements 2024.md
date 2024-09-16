@@ -189,6 +189,20 @@ third_nav_title: Achievements
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25th International Chinese Language Competition (ICLC) 2024 – Creative
+Writing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National and International</strong>
+</p>
+<p><strong>THIRD</strong>
+</p>
+<p>&nbsp;</p>
+<p>Wang Ziyi, 6E</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
