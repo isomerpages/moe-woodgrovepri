@@ -1,4 +1,5 @@
 collections:
   heartfelt-appreciation:
     output: true
-    order: []
+    order:
+      - Heartfelt Messages.md
