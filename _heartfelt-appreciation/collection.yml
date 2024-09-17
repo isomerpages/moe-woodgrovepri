@@ -1,0 +1,5 @@
+collections:
+  heartfelt-appreciation:
+    output: true
+    order:
+      - Heartfelt Appreciation.md

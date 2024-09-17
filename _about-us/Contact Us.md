@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Green_Blue_Illustrative_Forest_Camp_Banner.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_22_121737.png">
 </div>
 <p></p>
 <p></p>
@@ -106,8 +106,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_22_121737.png">
-</div>
 <p>If you have a feedback or query, please share with us using this <a href="https://form.gov.sg/6699e13ea84bf4a6af275334" rel="noreferrer" target="_blank"><u>online form</u></a>.</p>
