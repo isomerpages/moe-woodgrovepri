@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founding_Principal__Mrs_Tan_Chin_Cheoh_nee_Giam_123.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Founding_Principal__Mrs_Tan_Chin_Cheoh_nee_Giam_123.jpg">
 </div>
 <p>When I was asked to pen my educational beliefs and reflections over my
 journey in Woodgrove, I was very grateful that I had been given an opportunity
@@ -108,7 +108,7 @@ little red dot that any Woodgrovian can be proud of.</p>
 <p>1999 to 2005</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rivers_flow_endlessly_111.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Rivers_flow_endlessly_111.jpg">
 </div>
 <p></p>
 <p></p>
