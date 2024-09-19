@@ -42,4 +42,5 @@ them into -</p>
 <p>Committed and Concerned Citizens</p>
 </li>
 </ul>
-<p></p>
+<p>Find out more from our founding principal’s reflection in setting up the
+school here</p>
