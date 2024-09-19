@@ -95,7 +95,7 @@ during the school’s early developmental years paved the way and laid the
 cornerstone for Woodgrove Primary School to thrive and overcome the challenges
 it faced. Indeed, Woodgrove Primary School has grown from strength to strength
 upholding high standards of imparting holistic education and this has manifested
-itself in being a choice school in the neighbourhood</p>
+itself in being a choice school in the neighbourhood.</p>
 <p>During my recent visit to the school to attend an event in conjunction
 with the 25th Anniversary celebrations, I was truly impressed by how the
 current Principal and staff had successfully integrated the latest technology
