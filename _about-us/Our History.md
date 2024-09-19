@@ -43,4 +43,5 @@ them into -</p>
 </li>
 </ul>
 <p>Find out more from our founding principal’s reflection in setting up the
-school here</p>
+school <a href="/founding-principal-mrs-tan-chin-cheoh-nee-giam/" rel="noopener nofollow" target="_blank">here</a>
+</p>
