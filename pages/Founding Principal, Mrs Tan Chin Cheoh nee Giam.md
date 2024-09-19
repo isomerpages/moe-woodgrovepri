@@ -6,19 +6,8 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Founding Principal, Mrs Tan Chin Cheoh nee Giam" src="/images/Founding_Principal__Mrs_Tan_Chin_Cheoh_nee_Giam.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founding_Principal__Mrs_Tan_Chin_Cheoh_nee_Giam_123.jpg">
 </div>
-<p><strong>Founding Principal, Mrs Tan Chin Cheoh nee Giam</strong>
-</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rivers_flow_endlessly_copy.jpg">
-</div>
-<p><strong>Rivers flow endlessly, Woodgrovians develop and shine perpetually</strong>
-</p>
-<p><strong>A painting by Mrs Tan and gifted to the school in celebration of the school’s 25th Anniversary</strong>
-</p>
 <p>When I was asked to pen my educational beliefs and reflections over my
 journey in Woodgrove, I was very grateful that I had been given an opportunity
 to give due credit to all the amazing men and women who have contributed
@@ -117,6 +106,10 @@ little red dot that any Woodgrovian can be proud of.</p>
 <p>Mrs Tan Chin Cheoh nee Giam</p>
 <p>Principal</p>
 <p>1999 to 2005</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rivers_flow_endlessly_111.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
