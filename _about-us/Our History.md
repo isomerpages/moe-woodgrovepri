@@ -42,6 +42,4 @@ them into -</p>
 <p>Committed and Concerned Citizens</p>
 </li>
 </ul>
-<p>Find out more from our founding principal’s reflection in setting up the
-school <a href="/founding-principal-mrs-tan-chin-cheoh-nee-giam/" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<p></p>
