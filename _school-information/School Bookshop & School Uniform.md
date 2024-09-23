@@ -4,8 +4,7 @@ permalink: /school-information/school-bookshop-uniform/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Pacific Bookstores</strong></h3>
-<p></p>
+<h3><strong>School Bookshop</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/9235ed8b6a0c2ee24100a52306b03b35.png">
