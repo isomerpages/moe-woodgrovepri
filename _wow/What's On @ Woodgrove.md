@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Woodgrove Symphonies @Woodlands Regional Library 2024</strong></h3>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/ywxDDJPcfDg?si=Tfa8zcvfl_neFYnz"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/270924.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/_BIaUzLK3ZI?si=gFG1NN0iKPAsZR1T"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/270924.png"></a>
 <p>Our inaugural Woodgrove Symphonies @ Woodlands Regional Library was a
 HUGE success, with some offbeats, wrong moves, missing notes …BUT filled
 with endless encouragements, awesome opportunities to build confidence,
