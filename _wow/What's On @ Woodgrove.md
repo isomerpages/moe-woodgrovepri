@@ -12,9 +12,9 @@ with endless encouragements, awesome opportunities to build confidence,
 nurture talents and passion. Not perfect but definitely excellent, such
 imperfection makes excellence. We would like to thank all the parents who
 have supported the performance and everyone who have enabled our Woodgrovians
-to SOAR(Seizing Opportunity Aspiration Resilience) so that they can shine
-even brighter. Even bringing the many CCA groups to watch in itself is
-a great learning opportunity. An appreciative member of the public wrote
+to SOAR(Seizing, Opportunities, Aspiration, Realised) so that they can
+shine even brighter. Even bringing the many CCA groups to watch in itself
+is a great learning opportunity. An appreciative member of the public wrote
 in to us to commend the performers for their effort in preparing for this
 concert, showing great resilience despite minor hiccups and were fully
 committed to completing their performances. She was full of praise for
