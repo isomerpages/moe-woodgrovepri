@@ -4,6 +4,28 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Woodgrove Symphonies @Woodlands Regional Library 2024</strong></h3>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/_BIaUzLK3ZI?si=gFG1NN0iKPAsZR1T"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/270924.png"></a>
+<p>Our inaugural Woodgrove Symphonies @ Woodlands Regional Library was a
+HUGE success, with some offbeats, wrong moves, missing notes …BUT filled
+with endless encouragements, awesome opportunities to build confidence,
+nurture talents and passion. Not perfect but definitely excellent, such
+imperfection makes excellence. We would like to thank all the parents who
+have supported the performance and everyone who have enabled our Woodgrovians
+to SOAR(Seizing Opportuntiy Aspiration so that they can shine even brighter.
+Even bringing the many CCA groups to watch in itself is a great learning
+opportunity. An appreciative member of the public wrote in to us to commend
+the performers for their effort in preparing for this concert, showing
+great resilience despite minor hiccups and were fully committed to completing
+their performances. She was full of praise for our student ushers, though
+not the stars of the show, were warm and welcoming. They had given her
+a wonderful first impression of the school.</p>
+<p>The NLB Organising Team said that it was a good &amp; interactive performance.
+Even the rain did not dampen our spirit!</p>
+<p>Much thanks goes to the many who came by to join in the fun &amp; support
+as well.</p>
+<p>Our Woodgrovians have indeed ‘SOARed’ and will continue to ‘Shine’!</p>
+<p></p>
 <h3><strong>National Day Celebration @ WGPS</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/LeFrJFaG4UQ?si=xT4n8ZGuQdaD8Q61"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Gold_Gray_Podcast_Announcement_Player_Instagram_Post.jpg"></a>
 <p>On 8 August, our school was abuzz with excitement as we came together
