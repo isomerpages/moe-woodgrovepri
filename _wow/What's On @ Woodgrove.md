@@ -26,6 +26,20 @@ Even the rain did not dampen our spirit!</p>
 as well.</p>
 <p>Our Woodgrovians have indeed ‘SOARed’ and will continue to ‘Shine’!</p>
 <p></p>
+<h3><strong>Teachers’ Day @ Woodgrove</strong></h3>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/j5_L7EX3dwk?si=2_hGRqK3LHgHyd4X"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/221341q4.png"></a>
+<p>Teachers' Day is a huge affair in Woodgrove not because it is a period
+where we show appreciation to our committed teachers, but also because
+it is such a wonderful platform to nurture Gratitude in our Woodgrovians.
+Throughout Term 3, Woodgrovians participated in numerous activities beyond
+the classroom during recess and even at home to creatively dedicate their
+appreciation to their teachers. Through such an authentic application,
+Woodgrovians experienced the value of gratefulness in action while creating
+beautiful shared memories with their schoolmates and teachers. We are also
+most grateful for the overwhelming support and appreciation efforts by
+parents and our Parent Support Group. Thank you for galvanising us in our
+mission to help everyone of our Woodgrovians shine!</p>
+<p></p>
 <h3><strong>National Day Celebration @ WGPS</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/LeFrJFaG4UQ?si=xT4n8ZGuQdaD8Q61"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Gold_Gray_Podcast_Announcement_Player_Instagram_Post.jpg"></a>
 <p>On 8 August, our school was abuzz with excitement as we came together
