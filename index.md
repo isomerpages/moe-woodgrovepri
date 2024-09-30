@@ -20,22 +20,13 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
-      title: Happy Teachers' Day!
+      title: Teachers’ Day @ Woodgrove
+      subtitle: What's On @ Woodgrove
       id: infopic
-      description: Send your teacher well wishes on this meaningful day!
-      button: Click to post your message
-      url: https://woodgroveps.padlet.org/koh_shini/happytday24
-      image: /images/HTD2024.jpg
-      alt: Image alt text
-  - infopic:
-      title: National Day Celebration @ WGPS
-      id: infopic
-      description: On 8 August, our school was abuzz with excitement as we came
-        together to celebrate our nation's 59th birthday.
       button: Click Here
-      image: /images/movie.png
+      url: https://youtu.be/j5_L7EX3dwk?si=5SmITN1fkA4VPXBY
+      image: /images/Teachers__Day___Woodgrove.png
       alt: Image alt text
-      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
   - resources:
       subtitle: Announcement & News
 ---
