@@ -17,4 +17,3 @@ variant: markdown
 Application for MOE FAS in 2025 is now open. To apply, complete the application form and submit to the General Office with the required supporting documents.    
 
 [MOE FAS Application Form 2025](/files/FAS/MOE_FAS_Application_Form_2025.pdf)
-
