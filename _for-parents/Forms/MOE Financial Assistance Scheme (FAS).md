@@ -10,7 +10,9 @@ variant: markdown
 ### MOE FAS for Singaporean Students
 
 **MOE FAS Pamphlet**    
-[MOE FAS pamphlet 2025](/files/FAS/MOE_FAS_pamphlet_2025.pdf)
+[MOE FAS pamphlet 2025](/files/FAS/MOE_FAS_pamphlet_2025_New.pdf)
+
+
 
 
 **MOE FAS Application Form**  
