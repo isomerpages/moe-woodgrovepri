@@ -20,6 +20,14 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Children’s Day @ Woodgrove (2024)
+      subtitle: What's On @ Woodgrove
+      id: infopic
+      button: Click Here
+      url: https://youtu.be/Obqovhx7HXY?si=f35VJjTUlKP_hpQU
+      image: /images/Colorful_Scrapbook_Photo_Collage_Back_to_School_Video__1_.png
+      alt: Image alt text
+  - infopic:
       title: Woodgrove Symphonies @Woodlands Regional Library 2024
       subtitle: What's On @ Woodgrove
       id: infopic
