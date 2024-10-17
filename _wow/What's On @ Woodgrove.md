@@ -4,6 +4,16 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Children’s Day @ Woodgrove (2024)</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1212.png">
+</div>
+<p>We celebrated Children's Day at Woodgrove Primary School with a fun-filled
+carnival, held in conjunction with our 25th anniversary this year. Our
+students enjoyed a day packed with exciting games, engaging activities,
+and the true Woodgrovian experience, all designed to bring joy and laughter
+to our young Woodgrovians. Watch the highlights of this special event!</p>
 <h3><strong>Woodgrove Symphonies @Woodlands Regional Library 2024</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/_BIaUzLK3ZI?si=gFG1NN0iKPAsZR1T"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/270924.png"></a>
 <p>Our inaugural Woodgrove Symphonies @ Woodlands Regional Library was a
