@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Children’s Day @ Woodgrove (2024)</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1212.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/Obqovhx7HXY?si=rL88GOSPvOKZe3Jj"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1212.png"></a>
 <p>We celebrated Children's Day at Woodgrove Primary School with a fun-filled
 carnival, held in conjunction with our 25th anniversary this year. Our
 students enjoyed a day packed with exciting games, engaging activities,
