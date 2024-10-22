@@ -18,10 +18,11 @@ description: ""
 <br>Singapore 569 880</p>
 <p>Tel : 6280 4917
 <br>WhatsApp : 97695678</p>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
-<br>Website : <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com</a>
-</p>
-<p>Online Order : <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com/product-category/woodgrove-primary-school/</a>
+<p>Email:
+<br>Website :</p>
+<p>Online Order :</p>
+<p></p>
+<p><a href="https://www.woodgrovepri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.woodgrovepri.moe.edu.sg/</a>
 </p>
 <p>Opening Hours:</p>
 <ul data-tight="true" class="tight">
