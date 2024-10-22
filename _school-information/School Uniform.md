@@ -19,7 +19,7 @@ description: ""
 <p>Tel : 6280 4917
 <br>WhatsApp : 97695678</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
-<br>Website : <a href="https://www.shirleyuni.com/" rel="noopener nofollow" target="_blank">https://www.shirleyuni.com/</a>
+<br>Website : <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com</a>
 </p>
 <p>Online Order : <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com/product-category/woodgrove-primary-school/</a>
 </p>
