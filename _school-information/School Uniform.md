@@ -17,9 +17,8 @@ description: ""
 <br>#04-55 (Lift Lobby 1)
 <br>Singapore 569 880</p>
 <p>Tel : 6280 4917
-<br>WhatsApp : 97695678
-<br><a href="getintouch@shirleyuni.com" rel="noopener nofollow" target="_blank">Email</a> :
-<a rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
+<br>WhatsApp : 97695678</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
 <br>Website : <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com</a>
 </p>
 <p>Online Order : <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com/product-category/woodgrove-primary-school/</a>
