@@ -18,7 +18,8 @@ description: ""
 <br>Singapore 569 880</p>
 <p>Tel : 6280 4917
 <br>WhatsApp : 97695678
-<br>Email : <a rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
+<br><a href="getintouch@shirleyuni.com" rel="noopener nofollow" target="_blank">Email</a> :
+<a rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
 <br>Website : <a rel="noopener noreferrer nofollow" target="_blank">https://www.shirleyuni.com</a>
 </p>
 <p>Online Order : <a rel="noopener noreferrer nofollow" target="_blank">https://www.shirleyuni.com/product-category/woodgrove-primary-school/</a>
