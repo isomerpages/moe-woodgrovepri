@@ -24,8 +24,7 @@ description: ""
 <p>Online Order : <a href="http://www.shirleyuni.com/product-category/woodgrove-primary-school/" rel="noopener noreferrer nofollow" target="_blank">http://www.shirleyuni.com/product-category/woodgrove-primary-school/</a>
 </p>
 <p></p>
-<p><a href="https://www.woodgrovepri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.woodgrovepri.moe.edu.sg/</a>
-</p>
+<p></p>
 <p>Opening Hours:</p>
 <ul data-tight="true" class="tight">
 <li>
