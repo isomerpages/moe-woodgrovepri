@@ -5,11 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Shirley Season Wear</strong></h4>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_09_23_115823.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.shirleyuni.com"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_09_23_115823.png"></a>
 <p></p>
 <p>Sale of uniform is available at the School Bookshop during school days
 (not available during year-end sales).
@@ -21,12 +17,14 @@ description: ""
 <br>#04-55 (Lift Lobby 1)
 <br>Singapore 569 880</p>
 <p>Tel : 6280 4917
-<br>WhatsApp : 97695678
-<br>Email : <a rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
-<br>Website : <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com</a>
+<br>WhatsApp : 97695678</p>
+<p>Email: <a href="mailto:getintouch@shirleyuni.com" rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
+<br>Website : <a href="http://www.shirleyuni.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.shirleyuni.com/</a>
 </p>
-<p>Online Order : <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com/product-category/woodgrove-primary-school/</a>
+<p>Online Order : <a href="http://www.shirleyuni.com/product-category/woodgrove-primary-school/" rel="noopener noreferrer nofollow" target="_blank">http://www.shirleyuni.com/product-category/woodgrove-primary-school/</a>
 </p>
+<p></p>
+<p></p>
 <p>Opening Hours:</p>
 <ul data-tight="true" class="tight">
 <li>
