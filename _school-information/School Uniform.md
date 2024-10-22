@@ -5,11 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Shirley Season Wear</strong></h4>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_09_23_115823.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.shirleyuni.com"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_09_23_115823.png"></a>
 <p></p>
 <p>Sale of uniform is available at the School Bookshop during school days
 (not available during year-end sales).
