@@ -20,9 +20,9 @@ description: ""
 <br>WhatsApp : 97695678
 <br><a href="getintouch@shirleyuni.com" rel="noopener nofollow" target="_blank">Email</a> :
 <a rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
-<br>Website : <a rel="noopener noreferrer nofollow" target="_blank">https://www.shirleyuni.com</a>
+<br>Website : <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com</a>
 </p>
-<p>Online Order : <a rel="noopener noreferrer nofollow" target="_blank">https://www.shirleyuni.com/product-category/woodgrove-primary-school/</a>
+<p>Online Order : <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com/product-category/woodgrove-primary-school/</a>
 </p>
 <p>Opening Hours:</p>
 <ul data-tight="true" class="tight">
