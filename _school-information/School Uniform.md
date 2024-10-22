@@ -21,7 +21,8 @@ description: ""
 <p>Email: <a href="mailto:getintouch@shirleyuni.com" rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
 <br>Website : <a href="http://www.shirleyuni.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.shirleyuni.com/</a>
 </p>
-<p>Online Order :</p>
+<p>Online Order : <a href="http://www.shirleyuni.com/product-category/woodgrove-primary-school/" rel="noopener noreferrer nofollow" target="_blank">http://www.shirleyuni.com/product-category/woodgrove-primary-school/</a>
+</p>
 <p></p>
 <p><a href="https://www.woodgrovepri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.woodgrovepri.moe.edu.sg/</a>
 </p>
