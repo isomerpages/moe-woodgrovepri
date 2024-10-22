@@ -19,7 +19,8 @@ description: ""
 <p>Tel : 6280 4917
 <br>WhatsApp : 97695678</p>
 <p>Email: <a href="mailto:getintouch@shirleyuni.com" rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
-<br>Website :</p>
+<br>Website : <a href="http://www.shirleyuni.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.shirleyuni.com/</a>
+</p>
 <p>Online Order :</p>
 <p></p>
 <p><a href="https://www.woodgrovepri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.woodgrovepri.moe.edu.sg/</a>
