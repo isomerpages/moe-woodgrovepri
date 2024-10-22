@@ -18,7 +18,7 @@ description: ""
 <br>Singapore 569 880</p>
 <p>Tel : 6280 4917
 <br>WhatsApp : 97695678</p>
-<p>Email:
+<p>Email: <a href="mailto:getintouch@shirleyuni.com" rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
 <br>Website :</p>
 <p>Online Order :</p>
 <p></p>
