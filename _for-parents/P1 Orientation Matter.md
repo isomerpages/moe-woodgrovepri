@@ -10,7 +10,7 @@ description: ""
 will be a school briefing for parents/guardians and familiarisation activities
 for your child/ward.</p>
 <p>&nbsp;</p>
-<p><u>Programme</u>
+<p><strong><u>Programme</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -150,7 +150,6 @@ your child/ward in his/her education journey.</p>
 <p>The app enables you to receive information from the school and MOE, and
 to perform a range of administrative functions such as giving consent for
 school activities, and declaring travel plans.</p>
-<p></p>
 <p>PG is made available to you before the start of your child’s/ward’s P1
 year. Through PG, we will share resources on how you can support and prepare
 your child/ward for this transition, as well as provide you with important
@@ -160,7 +159,6 @@ App Store and Huawei AppGallery) from this <a href="https://pg.moe.edu.sg/" rel=
 will guide you through a simple one-time onboarding process. You may also
 refer to <strong><a href="#AnnexA" rel="noopener noreferrer nofollow" target="_blank">Annex A</a></strong> for
 the step-by-step guide.</p>
-<p></p>
 <p>If you have successfully onboarded Parents Gateway previously, and are
 receiving notifications via the app, you need not undergo the onboarding
 process or download the app again. Please note that parents, legal guardians
@@ -221,7 +219,8 @@ below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for Financial assistance</p>
+<p><strong>Application for Financial assistance</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
