@@ -264,7 +264,7 @@ FAS.</p>
 <p>&nbsp;</p>
 <p>Online orders will be available from 7 November 2024. For more information,
 please visit the website as follows:</p>
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http://www.pacificbookstores.com</a>
+<p><a href="http://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">http://www.pacificbookstores.com</a>
 </p>
 <p>&nbsp;</p>
 <p>Parents/Guardians are encouraged to make online orders for self-collection
