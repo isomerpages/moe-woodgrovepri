@@ -177,7 +177,8 @@ as long as your child/ward is studying in an MOE school (P1 – JC2).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Details Form (SDF) Portal</p>
+<p><strong>Student Details Form (SDF) Portal</strong>
+</p>
 <p></p>
 <p><strong><em>This is compulsory.</em></strong>
 </p>
@@ -197,7 +198,8 @@ the required particulars. Please complete the submission <strong>by 31 Dec 2024<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Fees and School Charges</p>
+<p><strong>School Fees and School Charges</strong>
+</p>
 <p></p>
 <p></p>
 </td>
