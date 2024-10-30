@@ -136,7 +136,7 @@ Care Centre</p>
 </p>
 <p>At Woodgrove Primary School, we focus on providing a holistic education
 for all Woodgrovians and prioritise student well-being.</p>
-<p>Please scan the QR code below or visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025p1check-in</a> to
+<p>Please scan the QR code below or visit <a href="https://go.gov.sg/2025p1check-in" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025p1check-in</a> to
 complete a check-in survey by <strong>Friday, 8 November</strong>. This
 survey will help us to better understand your child/ward and support his/her
 holistic development and well-being.</p>
@@ -157,7 +157,7 @@ administrative information and announcements on P1 Orientation. Please
 download the PG app on your mobile phone (available on Google Play, Apple
 App Store and Huawei AppGallery) from this <a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a>. Upon successful download, the app
 will guide you through a simple one-time onboarding process. You may also
-refer to <strong><a href="#AnnexA" rel="noopener noreferrer nofollow" target="_blank">Annex A</a></strong> for
+refer to <a href="/files/For Parents/PG_Mobile_App_User_Guide_compressed.pdf" rel="noopener nofollow" target="_blank">PG Mobile App User Guide</a> for
 the step-by-step guide.</p>
 <p>If you have successfully onboarded Parents Gateway previously, and are
 receiving notifications via the app, you need not undergo the onboarding
@@ -188,7 +188,7 @@ would need to collect necessary information about you and your child/ward.</p>
 (SDF) portal from <strong>10 am, 25 November 2024</strong>. The portal can
 be accessed via the URL below or QR code. Either parent can login to submit
 the required particulars. Please complete the submission <strong>by 31 Dec 2024</strong>.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -208,7 +208,7 @@ like to invite you to join the GIRO scheme too!</p>
 <p>Parents/Guardians may submit their GIRO and Edusave Standing Order applications
 for their P1 child for payment of school fees and charges through the link
 below:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro/</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro/" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro/</a>
 </p>
 <p>&nbsp;</p>
 <p>Please refer to the MOE website on School Fees matters as follows:</p>
@@ -292,7 +292,7 @@ booklist for the dates. Booklist will be distributed during P1 Orientation.</p>
 <p>WhatsApp: 97695678</p>
 <p>&nbsp;</p>
 <p>Online orders available at:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.shirleyuni.com/product-category/woodgrove-primary-school</a>
+<p><a href="http://www.shirleyuni.com/product-category/woodgrove-primary-school" rel="noopener nofollow" target="_blank">http://www.shirleyuni.com/product-category/woodgrove-primary-school</a>
 </p>
 <p>&nbsp;</p>
 <p>Parents/Guardians are encouraged to make online orders for self-collection
@@ -329,11 +329,11 @@ information list will be distributed during P1 Orientation.</p>
 <p>&nbsp;</p>
 <p>Softcopy of the School Bus Registration Form is available at the school
 website as follows:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://woodgrovepri.moe.edu.sg/school-information/school-bus</a>
+<p><a href="https://woodgrovepri.moe.edu.sg/school-information/school-bus" rel="noopener nofollow" target="_blank">https://woodgrovepri.moe.edu.sg/school-information/school-bus</a>
 </p>
 <p>&nbsp;</p>
 <p>Parents/Guardians who are interested to apply for the school bus service
-may email the completed form to <a rel="noopener noreferrer nofollow" target="_blank">woodgrove@aikshenbus.com.sg</a>
+may email the completed form to <a href="woodgrove@aikshenbus.com.sg" rel="noopener nofollow" target="_blank">woodgrove@aikshenbus.com.sg</a>
 </p>
 <p>&nbsp;</p>
 <p><strong>NB: The booking of school bus transportation will commence after 9.15 am on P1 Orientation Day.</strong>
@@ -355,7 +355,7 @@ may email the completed form to <a rel="noopener noreferrer nofollow" target="_b
 <p>Parents/Guardians who are interested to apply for the school-based SCC
 for their child/ward may submit their application through the QR code or
 the URL as follows:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/wgps-scc</a>
+<p><a href="https://go.gov.sg/wgps-scc" rel="noopener nofollow" target="_blank">https://go.gov.sg/wgps-scc</a>
 </p>
 <p>&nbsp;</p>
 <p>Application for the school-based SCC will close on <strong>Thursday 7 November 2024</strong>.</p>
