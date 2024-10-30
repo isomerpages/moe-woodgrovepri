@@ -331,7 +331,7 @@ website as follows:</p>
 </p>
 <p>&nbsp;</p>
 <p>Parents/Guardians who are interested to apply for the school bus service
-may email the completed form to <a href="woodgrove@aikshenbus.com.sg" rel="noopener nofollow" target="_blank">woodgrove@aikshenbus.com.sg</a>
+may email the completed form to <a href="mailto:woodgrove@aikshenbus.com.sg" rel="noopener noreferrer nofollow" target="_blank">woodgrove@aikshenbus.com.sg</a>
 </p>
 <p>&nbsp;</p>
 <p><strong>NB: The booking of school bus transportation will commence after 9.15 am on P1 Orientation Day.</strong>
