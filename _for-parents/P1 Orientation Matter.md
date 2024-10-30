@@ -181,8 +181,9 @@ as long as your child/ward is studying in an MOE school (P1 – JC2).</p>
 <p></p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>This is compulsory.</strong>
-</p>
+<blockquote>
+<p>This is compulsory.</p>
+</blockquote>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide educational services for your child/ward in our schools, MOE
