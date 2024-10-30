@@ -212,7 +212,7 @@ below:</p>
 </p>
 <p>&nbsp;</p>
 <p>Please refer to the MOE website on School Fees matters as follows:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -229,7 +229,7 @@ fees and other expenses.</p>
 <p>&nbsp;</p>
 <p>Parents/Guardians who wish to know more about MOE FAS can visit and apply
 via the MOE website at:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
 <p>&nbsp;</p>
 <p>Students who did not meet the criteria for MOE FAS could apply through
