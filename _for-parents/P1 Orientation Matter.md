@@ -306,8 +306,6 @@ information list will be distributed during P1 Orientation.</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -338,6 +336,7 @@ may email the completed form to <a href="woodgrove@aikshenbus.com.sg" rel="noope
 <p>&nbsp;</p>
 <p><strong>NB: The booking of school bus transportation will commence after 9.15 am on P1 Orientation Day.</strong>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
