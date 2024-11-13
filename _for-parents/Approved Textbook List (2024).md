@@ -4,7 +4,7 @@ permalink: /for-parents/approved-text-book-list-2024/
 description: ""
 variant: markdown
 ---
-# **Approved Text Book List (2024)**
+# **Approved Text Book List (2025)**
 
 ### Information from Pacific Bookstores
 
