@@ -38,15 +38,15 @@ variant: tiptap
 <p></p>
 <p></p>
 <h3>P6 Booklist</h3>
-<p><a href="/files/P6.pdf" rel="noopener noreferrer nofollow" target="_blank">WGPS P6 </a>
+<p><a href="/files/P6.pdf" rel="noopener noreferrer nofollow" target="_blank">WGPS P6</a>
 </p>
 <p><a href="/files/P6_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">WGPS P6 FDN</a>
 </p>
-<p><a href="/files/P6_3S_1F_MT.pdf" rel="noopener noreferrer nofollow" target="_blank">WGPS P6  3S, 1F MT</a>
+<p><a href="/files/P6_3S_1F_MT.pdf" rel="noopener noreferrer nofollow" target="_blank">WGPS P6 3S, 1F MT</a>
 </p>
 <p><a href="/files/P6_3S_1F_MA.pdf" rel="noopener noreferrer nofollow" target="_blank">WGPS P6 3S, 1F MA</a>
 </p>
-<p><a href="/files/P6_3F_1S_EL.pdf" rel="noopener noreferrer nofollow" target="_blank">WGPS P6  3S 3F, 1S EL</a>
+<p><a href="/files/P6_3F_1S_EL.pdf" rel="noopener noreferrer nofollow" target="_blank">WGPS P6 3S 3F, 1S EL</a>
 </p>
 <p><a href="/files/P6_2S_FMA_FSC.pdf" rel="noopener noreferrer nofollow" target="_blank">WGPS P6 2S, FMA, FSC</a>
 </p>
