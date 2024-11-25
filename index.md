@@ -47,10 +47,10 @@ sections:
       subtitle: Announcement & News
   - infopic:
       title: P1 Orientation
-      subtitle: Add an image and text
+      subtitle: What's On @ P1 Orientation
       id: infopic
       description: Infopic description
-      button: Button Text
+      button: Click Here
       url: https://www.woodgrovepri.moe.edu.sg/for-parents/p1-orientation-matter/
       alt: Image alt text
 ---
