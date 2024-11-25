@@ -20,6 +20,14 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: P1 Orientation
+      subtitle: What's On @ P1 Orientation
+      id: infopic
+      description: Infopic description
+      button: Click Here
+      url: https://www.woodgrovepri.moe.edu.sg/for-parents/p1-orientation-matter/
+      alt: Image alt text
+  - infopic:
       title: Children’s Day @ Woodgrove (2024)
       subtitle: What's On @ Woodgrove
       id: infopic
@@ -45,12 +53,4 @@ sections:
       alt: Image alt text
   - resources:
       subtitle: Announcement & News
-  - infopic:
-      title: P1 Orientation
-      subtitle: What's On @ P1 Orientation
-      id: infopic
-      description: Infopic description
-      button: Click Here
-      url: https://www.woodgrovepri.moe.edu.sg/for-parents/p1-orientation-matter/
-      alt: Image alt text
 ---
