@@ -34,7 +34,7 @@ variant: tiptap
 <p>Miss Ho Ting En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ho_ting_en@schools.gov.sg</a>
+<p><a href="mailto:ho_ting_en@schools.gov.sg" rel="noopener nofollow" target="_blank">ho_ting_en@schools.gov.sg</a>
 </p>
 </td>
 </tr>
