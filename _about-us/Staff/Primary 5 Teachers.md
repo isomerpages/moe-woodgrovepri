@@ -34,7 +34,7 @@ variant: tiptap
 <p>Miss Low Shiang Ee Renee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">low_shiang_ee_renee@schools.gov.sg</a>
+<p><a href="mailto:low_shiang_ee_renee@schools.gov.sg" rel="noopener nofollow" target="_blank">low_shiang_ee_renee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -46,7 +46,7 @@ variant: tiptap
 <p>Mr Taufiq Bin Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">taufiq_abdullah@schools.gov.sg</a>
+<p><a href="mailto:taufiq_abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">taufiq_abdullah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ variant: tiptap
 <p>Mr Kee Keng Lun Joel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kee_keng_lun_joel@schools.gov.sg</a>
+<p><a href="mailto:kee_keng_lun_joel@schools.gov.sg" rel="noopener nofollow" target="_blank">kee_keng_lun_joel@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>Mr Tan Teck Liam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_teck_liam@schools.gov.sg</a>
+<p><a href="mailto:tan_teck_liam@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_teck_liam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ variant: tiptap
 <p>Miss Hannah Tjoa Xin Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hannah_tjoa_xin_ying@schools.gov.sg</a>
+<p><a href="mailto:hannah_tjoa_xin_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">hannah_tjoa_xin_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ variant: tiptap
 <p>Mdm Nurul Hakimah Bte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurul_hakimah@schools.gov.sg</a>
+<p><a href="mailto:nurul_hakimah@schools.gov.sg" rel="noopener nofollow" target="_blank">nurul_hakimah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -106,7 +106,7 @@ variant: tiptap
 <p>Mdm Koh Shini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_shini@schools.gov.sg</a>
+<p><a href="mailto:koh_shini@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_shini@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -118,7 +118,7 @@ variant: tiptap
 <p>Mdm Surianingsih Bte Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">surianingsih_sulaiman@schools.gov.sg</a>
+<p><a href="mailto:surianingsih_sulaiman@schools.gov.sg" rel="noopener nofollow" target="_blank">surianingsih_sulaiman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -130,7 +130,7 @@ variant: tiptap
 <p>Mr Kavin Chong Shi Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kavin_chong_shi_jie@schools.gov.sg</a>
+<p><a href="mailto:kavin_chong_shi_jie@schools.gov.sg" rel="noopener nofollow" target="_blank">kavin_chong_shi_jie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -142,7 +142,7 @@ variant: tiptap
 <p>Mr Mohamed Zubir Bin Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohamed_zubir_osman@schools.gov.sg</a>
+<p><a href="mailto:mohamed_zubir_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">mohamed_zubir_osman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -154,7 +154,7 @@ variant: tiptap
 <p>Miss Chng Que Joo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chng_que_joo@schools.gov.sg</a>
+<p><a href="mailto:chng_que_joo@schools.gov.sg" rel="noopener nofollow" target="_blank">chng_que_joo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
