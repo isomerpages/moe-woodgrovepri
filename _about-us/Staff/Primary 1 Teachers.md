@@ -46,7 +46,7 @@ variant: tiptap
 <p>Priya d/o Karunanethi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">priya_karunanethi@schools.gov.sg</a>
+<p><a href="mailto:priya_karunanethi@schools.gov.sg" rel="noopener nofollow" target="_blank">priya_karunanethi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ variant: tiptap
 <p>Miss Lee Ying Hui Daphanie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_ying_hui_daphanie@schools.gov.sg</a>
+<p><a href="mailto:lee_ying_hui_daphanie@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_ying_hui_daphanie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>Miss Nur Syafizah Binte Rohayat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nursyafizah_rohayat@schools.gov.sg</a>
+<p><a href="mailto:nursyafizah_rohayat@schools.gov.sg" rel="noopener nofollow" target="_blank">nursyafizah_rohayat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ variant: tiptap
 <p>Miss Nur Maisarah Bte Idris</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Nur_Maisarah_Idris@schools.gov.sg</a>
+<p><a href="mailto:nursyafizah_rohayat@schools.gov.sg" rel="noopener nofollow" target="_blank">nursyafizah_rohayat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ variant: tiptap
 <p>Mdm Phang Sze Mein</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Phang_Sze_Mein@schools.gov.sg</a>
+<p><a href="mailto:Phang_Sze_Mein@schools.gov.sg" rel="noopener nofollow" target="_blank">Phang_Sze_Mein@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -106,7 +106,7 @@ variant: tiptap
 <p>Mrs Chen - Lin Caili (Caris)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lin_caili@schools.gov.sg</a>
+<p><a href="mailto:lin_caili@schools.gov.sg" rel="noopener nofollow" target="_blank">lin_caili@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -118,7 +118,7 @@ variant: tiptap
 <p>Mdm Kamaliza Bte Abu Kassim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kamaliza_abu_kassim@schools.gov.sg</a>
+<p><a href="mailto:kamaliza_abu_kassim@schools.gov.sg" rel="noopener nofollow" target="_blank">kamaliza_abu_kassim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -130,7 +130,7 @@ variant: tiptap
 <p>Miss Siti Zubaidah Bte M Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_m_ibrahim@schools.gov.sg</a>
+<p><a href="mailto:siti_zubaidah_m_ibrahim@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_zubaidah_m_ibrahim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -142,7 +142,7 @@ variant: tiptap
 <p>Mdm Wong Lilian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_lilian@schools.gov.sg</a>
+<p><a href="mailto:wong_lilian@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_lilian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -154,7 +154,7 @@ variant: tiptap
 <p>Mdm Ang Soh Kim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_soh_kim@schools.gov.sg</a>
+<p><a href="mailto:ang_soh_kim@schools.gov.sg" rel="noopener nofollow" target="_blank">ang_soh_kim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -166,7 +166,7 @@ variant: tiptap
 <p>Ms Siti Ngaesah Binte Kasmawi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Siti_Ngaesah_Kasmawi@schools.gov.sg</a>
+<p><a href="mailto:Siti_Ngaesah_Kasmawi@schools.gov.sg" rel="noopener nofollow" target="_blank">Siti_Ngaesah_Kasmawi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -178,7 +178,7 @@ variant: tiptap
 <p>Miss Nurul Hudah Binte Saharudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurul_hudah_saharudin@schools.gov.sg</a>
+<p><a href="mailto:nurul_hudah_saharudin@schools.gov.sg" rel="noopener nofollow" target="_blank">nurul_hudah_saharudin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
