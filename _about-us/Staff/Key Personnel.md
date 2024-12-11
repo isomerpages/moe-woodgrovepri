@@ -77,10 +77,10 @@ variant: tiptap
 <p>HOD (Maths)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Brandon Tay</p>
+<p>Mr Chew Chee Wai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_lian_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lian_hoon@schools.gov.sg</a>
+<p><a href="mailto:chew_chee_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_chee_wai@schools.gov.sg</a>
 </p>
 </td>
 </tr>
