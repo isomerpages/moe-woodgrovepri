@@ -302,18 +302,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (TL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jegajothy Sivapatham</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ravindran_jegajothy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ravindran_jegajothy@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST (Educational Support)</p>
 </td>
 <td rowspan="1" colspan="1">
