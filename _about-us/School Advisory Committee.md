@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>School Advisory Committee</h3>
 <p>Chairman: Mr Loh Liat Chung Jacky</p>
-<p>Vice-Chairperson: Mr Chng We Ming Ben</p>
+<p>Vice-Chairperson: Mr Chng Wei Ming Ben</p>
 <p>Honorary Secretary: Mrs Adeline Ng</p>
 <p>Member: Ms Mindy Ong</p>
 <p>Member: Mr Simon Ling You Shing</p>
