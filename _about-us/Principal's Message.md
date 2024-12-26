@@ -35,18 +35,12 @@ sharpen their skills, and build their character—preparing them to embrace
 the future with confidence.</p>
 <p>&nbsp;</p>
 <p><em>Joyful laughter from lively discussions;</em>
-</p>
-<p><em>Eager raised hands excited to share;</em>
-</p>
-<p><em>Encouraging cheers spurring friends on;</em>
-</p>
-<p><em>Polite greetings along the corridors;</em>
-</p>
-<p><em>Interesting interactions during recesses;</em>
-</p>
-<p><em>Blossoming friendships with kindness aplenty</em>
-</p>
-<p><em>--- Such are the common sights and sounds at Woodgrove Primary</em>
+<br><em>Eager raised hands excited to share;</em>
+<br><em>Encouraging cheers spurring friends on;</em>
+<br><em>Polite greetings along the corridors;</em>
+<br><em>Interesting interactions during recesses;</em>
+<br><em>Blossoming friendships with kindness aplenty</em>
+<br><em>--- Such are the common sights and sounds at Woodgrove Primary</em>
 </p>
 <p>&nbsp;</p>
 <p>As the adage goes, <em>“It takes a village to raise a child.”</em> At Woodgrove
