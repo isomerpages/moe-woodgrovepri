@@ -82,7 +82,7 @@ variant: tiptap
 <p>Miss Nur Maisarah Bte Idris</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nursyafizah_rohayat@schools.gov.sg" rel="noopener nofollow" target="_blank">nursyafizah_rohayat@schools.gov.sg</a>
+<p><a href="Nur_Maisarah_Idris@schools.gov.sg" rel="noopener nofollow" target="_blank">Nur_Maisarah_Idris@schools.gov.sg</a>
 </p>
 </td>
 </tr>
