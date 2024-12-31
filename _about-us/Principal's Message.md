@@ -4,4 +4,47 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Principal's Message</strong></h1><p></p><p>Warmest Greetings from Woodgrove Primary.</p><p>It is with immense joy that I extend my warmest greetings to each and every member of the Woodgrove family as we celebrate our school’s 25th Anniversary this year.</p><p>Over the last 25 years, Woodgrove Primary has evolved beyond a place of education; it has become a thriving community where Every Woodgrovian Shines – a Learner, a Contributor, a Leader with Character.</p><p>Our students embody this vision through our unique Woodgrovian Experience supported by our signature programmes. The iGROW Curriculum, crafted to guide our Woodgrovians in their growth and character development, is an integral part of the Woodgrovian Experience. Effective Communication is cultivated through innovative drama pedagogy under our Applied Learning Programme (ALP) which not only engages minds but also fosters invaluable skills and inculcates values in our Woodgrovians.</p><p>Under our Learn for Life Programme (LLP), Shine through Dance, we witness the transformative power of movement and expression. The LLP allows our Woodgrovians to discover their passions and talents, enriching their lives as they pick up new skills and build positive relationships with their peers.</p><p>Our commitment to holistic education extends beyond the confines of the classroom. Learning takes place everywhere - around the school compound, forming our Learnerscape, and beyond the school during the various learning journeys and field trips. Our Woodgrovian Experience ensures that learning is not limited to textbooks but extends into the real world, preparing our Woodgrovians for the challenges and opportunities that lie ahead.</p><p>As we reflect on this remarkable milestone, we find ourselves resonating deeper with our school’s mission, “Engaging Minds, Enriching Lives, Empowering Learners“. This remains the heart of our educational philosophy and an apt theme for our celebrations. It is also a testament to our Resilient and Courageous Students, Passionate and Committed Staff, Supportive Parents, and Partners who have contributed to the vibrant tapestry of our school community.</p><p>As we celebrate this significant milestone, let us cherish the memories, applaud our Woodgrovians’ development and achievements and look forward to a future filled with continued learning, growth and contribution to the community. Our journey has been shaped by the collective efforts of every Woodgrovian, staff, parent, School Advisory Committee (SAC) and partners past and present. We are grateful to everyone who has been part of our journey.</p><p>Even as we celebrate our 25 years of Engaging Minds, Enriching Lives and Empowering Learners, we stride forward to the next chapter of Woodgrove’s story and in helping <strong>Every Woodgrovian Shines – a Learner, a Contributor, a Leader with Character</strong>.</p><p>Mrs Adeline Ng</p>
+<h1><strong>Principal's Message</strong></h1>
+<p></p>
+<p>Warmest Greetings from Woodgrove Primary.</p>
+<p>At Woodgrove Primary, we treasure the uniqueness of every child. Each
+one is special, brimming with untapped potential, and capable of making
+a difference. Our mission — <strong>Engaging Minds, Enriching Lives, Empowering Learners </strong>—
+reflects our deep commitment to nurturing every child holistically so that <strong>Every Woodgrovian Shines</strong>:
+as a learner, a contributor, and a leader with character.</p>
+<p>Our Woodgrovians bring this vision to life through the unique Woodgrovian
+Experience — a holistic, joyful, and inclusive curriculum that builds a
+strong foundation for lifelong learning and prepares them for the future.
+At the heart of this is our signature iGROW Curriculum, designed to nurture
+the growth and character development of our Woodgrovians while complementing
+our signature programmes. Through our Applied Learning Programme (ALP),
+our Woodgrovians develop effective communication skills through innovative
+drama pedagogies. This not only engages their minds but also fosters invaluable
+skills and inculcate values in them.</p>
+<p>Through our Learn for Life Programme (LLP), <em>Shine through Dance</em>,
+we witness the joy of discovery as Woodgrovians explore movement, creativity,
+and teamwork. These experiences allow our students to discover their passions
+and talents, enriching their lives as they pick up new skills and form
+lasting friendships.</p>
+<p>Learning at Woodgrove extends beyond the classroom. Through our Learnerscapes
+within the school and enriching learning journeys into the local community
+and beyond, Woodgrovians gain real-world experiences that make learning
+relevant, meaningful, and joyful. These opportunities deepen their knowledge,
+sharpen their skills, and build their character—preparing them to embrace
+the future with confidence.</p>
+<p>&nbsp;<em>Joyful laughter from lively discussions;</em>
+<br><em>Eager raised hands excited to share;</em>
+<br><em>Encouraging cheers spurring friends on;</em>
+<br><em>Polite greetings along the corridors;</em>
+<br><em>Interesting interactions during recesses;</em>
+<br><em>Blossoming friendships with kindness aplenty</em>
+<br><em>--- Such are the common sights and sounds at Woodgrove Primary</em>
+</p>
+<p>&nbsp;As the adage goes, <em>“It takes a village to raise a child.”</em> At
+Woodgrove Primary, we are grateful to have a dedicated team of staff and
+teachers, supportive parents, and invaluable partnerships with our School
+Advisory Committee (SAC), Parent Support Group (PSG), and community partners.
+Together, we work hand in hand to uncover the unique potential in every
+child and fulfil our vision of <strong><em>Every Woodgrovian Shines – a Learner, a Contributor, a Leader with Character</em></strong><em>.</em>
+</p>
+<p>&nbsp;</p>

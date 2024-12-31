@@ -134,18 +134,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD ICT (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Shini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_shini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shini@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,6 +285,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kavin_chong_shi_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kavin_chong_shi_jie@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH(ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Shini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_shini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shini@schools.gov.sg</a>
 </p>
 </td>
 </tr>
