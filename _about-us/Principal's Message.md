@@ -7,15 +7,16 @@ variant: tiptap
 <h1><strong>Principal's Message</strong></h1>
 <p></p>
 <p>Warmest Greetings from Woodgrove Primary.</p>
-<p>At Woodgrove Primary, we believe that every child is unique and has the
-potential to shine. Guided by our mission of <em>“Engaging Minds, Enriching Lives, Empowering Learners,”</em> we
-are committed to creating a positive and nurturing environment where <em>Every Woodgrovian Shines – a Learner, a Contributor, a Leader with Character.</em>
-</p>
+<p>At Woodgrove Primary, we treasure the uniqueness of every child. Each
+one is special, brimming with untapped potential, and capable of making
+a difference. Our mission — <strong>Engaging Minds, Enriching Lives, Empowering Learners </strong>—
+reflects our deep commitment to nurturing every child holistically so that <strong>Every Woodgrovian Shines</strong>:
+as a learner, a contributor, and a leader with character.</p>
 <p>Our Woodgrovians bring this vision to life through the unique Woodgrovian
-Experience—a holistic, joyful, and inclusive curriculum that builds a strong
-foundation for lifelong learning and prepares them for the future. At the
-heart of this is our signature iGROW Curriculum, designed to nurture the
-growth and character development of our Woodgrovians while complementing
+Experience — a holistic, joyful, and inclusive curriculum that builds a
+strong foundation for lifelong learning and prepares them for the future.
+At the heart of this is our signature iGROW Curriculum, designed to nurture
+the growth and character development of our Woodgrovians while complementing
 our signature programmes. Through our Applied Learning Programme (ALP),
 our Woodgrovians develop effective communication skills through innovative
 drama pedagogies. This not only engages their minds but also fosters invaluable
