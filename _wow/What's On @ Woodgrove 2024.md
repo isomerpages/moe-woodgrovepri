@@ -1,5 +1,5 @@
 ---
-title: What's On @ Woodgrove
+title: What's On @ Woodgrove 2024
 permalink: /wow/permalink/
 variant: tiptap
 description: ""
