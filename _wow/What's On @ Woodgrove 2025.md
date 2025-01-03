@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h2>Welcoming P1 to Our Woodgrove family</h2>
-<p></p>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=SFPoX-0IFaaLBSie"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/123.png"></a>
 <p></p>
 <p>The first day of school for our Primary One students at Woodgrove Primary
