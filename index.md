@@ -21,7 +21,7 @@ sections:
       background: /images/website homepage gif.gif
   - infopic:
       title: Welcoming P1 to Our Woodgrove family
-      subtitle: "2025"
+      subtitle: Wow
       id: infopic
       description: The first day of school for our Primary One students at Woodgrove
         Primary School
