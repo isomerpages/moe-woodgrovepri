@@ -206,18 +206,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Fatin Suhaila</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fatin_suhaila_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatin_suhaila_omar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -345,6 +333,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_yee_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_yee_yan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Fatin Suhaila</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fatin_suhaila_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatin_suhaila_omar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
