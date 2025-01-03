@@ -64,31 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Teck Liam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_teck_liam@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_teck_liam@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Hannah Tjoa Xin Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hannah_tjoa_xin_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">hannah_tjoa_xin_ying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurul Hakimah Bte Abdul Rahim</p>
@@ -107,6 +83,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_shini@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_shini@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Hannah Tjoa Xin Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hannah_tjoa_xin_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">hannah_tjoa_xin_ying@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Teck Liam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_teck_liam@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_teck_liam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
