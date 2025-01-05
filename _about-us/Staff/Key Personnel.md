@@ -338,7 +338,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH (Science)</p>
+<p>ST (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Fatin Suhaila</p>
