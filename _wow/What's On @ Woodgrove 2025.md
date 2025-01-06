@@ -21,4 +21,4 @@ in interactive orientation activities, the children embraced their new
 school environment with excitement and smiles. The day was filled with
 laughter and a sense of belonging as Woodgrovians and parents alike became
 part of the Woodgrove family, setting the tone for a year of joyful learning
-ahead.ove family</p>
+ahead.</p>
