@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (English) &amp; (Student Management &amp; Leadership)(Covering)</p>
+<p>HOD (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nur Haqam</p>
@@ -254,7 +254,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH (Student Management)</p>
+<p>SH (Student Management &amp; Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Zubir Bin Osman</p>
