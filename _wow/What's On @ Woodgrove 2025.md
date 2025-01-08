@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Primary 6 Air Dry Clay Legacy Project</h2>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1234.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/DidwFxHf3T0?si=36kZMN_SnMpSePsq"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1234.png"></a>
 <p>Our 2024 P6 Woodgrovians undertook project of giving and sharing as they
 put their creativity in crafting air-dry clay figurines to warmly welcome
 the 2024 P1 students into the Woodgrove family. Through this initiative,
