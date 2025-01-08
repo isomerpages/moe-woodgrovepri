@@ -8,7 +8,7 @@ description: ""
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/DidwFxHf3T0?si=36kZMN_SnMpSePsq"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1234.png"></a>
 <p>Our 2024 P6 Woodgrovians undertook project of giving and sharing as they
 put their creativity in crafting air-dry clay figurines to warmly welcome
-the 2024 P1 students into the Woodgrove family. Through this initiative,
+the 2025 P1 students into the Woodgrove family. Through this initiative,
 we hope to create a caring and enabling school environment to strengthen
 the sense of belonging and ensure that our youngest members feel embraced
 as they begin their first steps into primary school. Welcome to the school,
