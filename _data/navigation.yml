@@ -14,10 +14,7 @@ links:
   - title: Woodgrovians Celebrate
     collection: woodgrovians-celebrate
   - title: WOW!
-    url: /wow/permalink/
-    sublinks:
-      - title: What's On @ Woodgrove
-        url: /wow/permalink/
+    collection: wow
   - title: Useful Information
     url: /school-information/school-information-and-map
     sublinks:

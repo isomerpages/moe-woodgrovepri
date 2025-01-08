@@ -1,11 +1,20 @@
 ---
 title: What's On @ Woodgrove 2025
-permalink: /what-s-on-woodgrove-2025/
+permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>Primary 6 Air Dry Clay Legacy Project</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/DidwFxHf3T0?si=36kZMN_SnMpSePsq"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1234.png"></a>
+<p>Our 2024 P6 Woodgrovians undertook project of giving and sharing as they
+put their creativity in crafting air-dry clay figurines to warmly welcome
+the 2024 P1 students into the Woodgrove family. Through this initiative,
+we hope to create a caring and enabling school environment to strengthen
+the sense of belonging and ensure that our youngest members feel embraced
+as they begin their first steps into primary school. Welcome to the school,
+our P1 Woodgrovians!</p>
 <h2>Welcoming P1 to Our Woodgrove family</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=SFPoX-0IFaaLBSie"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/123.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=SFPoX-0IFaaLBSie"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/123.png"></a>
 <p></p>
 <p>The first day of school for our Primary One students at Woodgrove Primary
 School was a heartwarming and fun-filled experience, filled with moments

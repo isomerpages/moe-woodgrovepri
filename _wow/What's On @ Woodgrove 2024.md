@@ -1,6 +1,6 @@
 ---
 title: What's On @ Woodgrove 2024
-permalink: /wow/permalink/
+permalink: /wow/
 variant: tiptap
 description: ""
 ---
