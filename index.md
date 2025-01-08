@@ -33,7 +33,8 @@ sections:
       title: P6 Air Dry Clay Legacy Project
       subtitle: WOW!
       id: infopic
-      description: Crafting air-dry clay figurines to warmly welcome the 2024 P1 students
+      description: Crafting air-dry clay figurines to warmly welcome the 2024 P1
+        students into the Woodgrove family.
       button: Click Here
       alt: Image alt text
       url: https://www.youtube.com/watch?v=DidwFxHf3T0
