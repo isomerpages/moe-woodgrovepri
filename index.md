@@ -30,12 +30,14 @@ sections:
       image: /images/Screenshot_2025_01_03_120643.png
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: P6 Air Dry Clay Legacy Project
+      subtitle: WOW!
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Crafting air-dry clay figurines to warmly welcome the 2024 P1 students
+      button: Click Here
       alt: Image alt text
+      url: https://www.youtube.com/watch?v=DidwFxHf3T0
+      image: /images/Screenshot_2025_01_07_164513.png
   - resources:
       subtitle: Announcement & News
 ---
