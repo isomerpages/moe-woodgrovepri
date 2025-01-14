@@ -26,13 +26,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AED (T&amp;L)</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Vijaya Chokkalingam</p>
+<p>Miss Chong Pei Shan (Zhong Peishan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chokkalingam_vijayanayaki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chokkalingam_vijayanayaki@schools.gov.sg</a>
+<p><a href="mailto:chong_pei_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_pei_shan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -71,6 +71,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:TAN_HAN_XIANG_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_HAN_XIANG_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AED (T&amp;L)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Vijaya Chokkalingam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chokkalingam_vijayanayaki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chokkalingam_vijayanayaki@schools.gov.sg</a>
 </p>
 </td>
 </tr>
