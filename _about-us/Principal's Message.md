@@ -32,19 +32,39 @@ and beyond, Woodgrovians gain real-world experiences that make learning
 relevant, meaningful, and joyful. These opportunities deepen their knowledge,
 sharpen their skills, and build their character—preparing them to embrace
 the future with confidence.</p>
-<p>&nbsp;<em>Joyful laughter from lively discussions;</em>
-<br><em>Eager raised hands excited to share;</em>
-<br><em>Encouraging cheers spurring friends on;</em>
-<br><em>Polite greetings along the corridors;</em>
-<br><em>Interesting interactions during recesses;</em>
-<br><em>Blossoming friendships with kindness aplenty</em>
-<br><em>--- Such are the common sights and sounds at Woodgrove Primary</em>
-</p>
-<p>&nbsp;As the adage goes, <em>“It takes a village to raise a child.”</em> At
-Woodgrove Primary, we are grateful to have a dedicated team of staff and
-teachers, supportive parents, and invaluable partnerships with our School
-Advisory Committee (SAC), Parent Support Group (PSG), and community partners.
-Together, we work hand in hand to uncover the unique potential in every
-child and fulfil our vision of <strong><em>Every Woodgrovian Shines – a Learner, a Contributor, a Leader with Character</em></strong><em>.</em>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Joyful laughter from lively discussions;
+<br>Eager raised hands excited to share;
+<br>Encouraging cheers spurring friends on;
+<br>Polite greetings along the corridors;
+<br>Interesting interactions during recesses;
+<br>Blossoming friendships with kindness aplenty
+<br>--- Such are the common sights and sounds at Woodgrove Primary</p>
+<p>Mrs Adeline Ng;
+<br>Principal</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p>As the adage goes, <em>“It takes a village to raise a child.”</em> At Woodgrove
+Primary, we are grateful to have a dedicated team of staff and teachers,
+supportive parents, and invaluable partnerships with our School Advisory
+Committee (SAC), Parent Support Group (PSG), and community partners. Together,
+we work hand in hand to uncover the unique potential in every child and
+fulfil our vision of <strong><em>Every Woodgrovian Shines – a Learner, a Contributor, a Leader with Character</em></strong><em>.</em>
 </p>
 <p>&nbsp;</p>
