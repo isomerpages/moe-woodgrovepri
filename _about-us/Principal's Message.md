@@ -44,14 +44,15 @@ the future with confidence.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p><em>Joyful laughter from lively discussions;</em>
-<br><em>Eager raised hands excited to share;</em>
-<br><em>Encouraging cheers spurring friends on;</em>
-<br><em>Polite greetings along the corridors;</em>
-<br><em>Interesting interactions during recesses;</em>
-<br><em>Blossoming friendships with kindness aplenty</em>
-<br><em>--- Such are the common sights and sounds at Woodgrove Primary</em>
-</p>
+<p>Joyful laughter from lively discussions;
+<br>Eager raised hands excited to share;
+<br>Encouraging cheers spurring friends on;
+<br>Polite greetings along the corridors;
+<br>Interesting interactions during recesses;
+<br>Blossoming friendships with kindness aplenty
+<br>--- Such are the common sights and sounds at Woodgrove Primary</p>
+<p>Mrs Adeline Ng;
+<br>Principle</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -59,12 +60,11 @@ the future with confidence.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>&nbsp;As the adage goes, <em>“It takes a village to raise a child.”</em> At
-Woodgrove Primary, we are grateful to have a dedicated team of staff and
-teachers, supportive parents, and invaluable partnerships with our School
-Advisory Committee (SAC), Parent Support Group (PSG), and community partners.
-Together, we work hand in hand to uncover the unique potential in every
-child and fulfil our vision of <strong><em>Every Woodgrovian Shines – a Learner, a Contributor, a Leader with Character</em></strong><em>.</em>
+<p>As the adage goes, <em>“It takes a village to raise a child.”</em> At Woodgrove
+Primary, we are grateful to have a dedicated team of staff and teachers,
+supportive parents, and invaluable partnerships with our School Advisory
+Committee (SAC), Parent Support Group (PSG), and community partners. Together,
+we work hand in hand to uncover the unique potential in every child and
+fulfil our vision of <strong><em>Every Woodgrovian Shines – a Learner, a Contributor, a Leader with Character</em></strong><em>.</em>
 </p>
 <p>&nbsp;</p>
