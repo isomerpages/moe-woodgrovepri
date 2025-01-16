@@ -254,7 +254,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH(ICT)</p>
+<p>SH (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kavin Chong</p>
@@ -266,7 +266,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH(ICT)</p>
+<p>LH (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Shini</p>
