@@ -170,7 +170,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH English (Internal)</p>
+<p>LH (English Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Wen Yen Wendy</p>
