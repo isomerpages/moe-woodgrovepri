@@ -4,6 +4,27 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>2025 Orientation Programme (Day 1 - 3)</h2>
+<h3></h3>
+<p>School Start Orientation Programme</p>
+<p>We kicked off the new school year with our exciting Orientation Programme,
+filled with fun and vibrant activities. On the first day, our Woodgrovians
+were thrilled to be greeted by our beloved mascots, Sparkle and Shine!</p>
+<p>Helping our Woodgrovians to discover more about themselves, Woodgrovians
+engaged in meaningful iGrow lessons where they learn more about our iGR3ACE
+values and also their role in making Woodgrove Primary School a welcoming
+community for all.</p>
+<p>Our P6 Woodgrovians also embarked on an enriching learning journey to
+the Asian Civilisations Museum (ACM) during this Orientation. And to top
+off the great start, our Primary 3 Woodgrovians were crowned the Level
+Champion 2024. The ecstatic atmosphere of the occasion was further hyped
+through the level cheer competitions, with every level turning up in high
+spirits. Closing the entire programme on a sweet note, we celebrated the
+birthdays of our Woodgrovians and staff, marking a fun and memorable start
+to the year.</p>
+<p>We are eager and ready to for more new adventures this year!</p>
+<p></p>
+<p></p>
 <h2>Primary 6 Air Dry Clay Legacy Project</h2>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/DidwFxHf3T0?si=36kZMN_SnMpSePsq"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1234.png"></a>
 <p>Our 2024 P6 Woodgrovians undertook project of giving and sharing as they
