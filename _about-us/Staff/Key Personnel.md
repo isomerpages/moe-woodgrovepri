@@ -110,18 +110,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (PE/CCA/Aesthetics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Yeow Hwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_yeow_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yeow_hwee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD (CCE)(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
