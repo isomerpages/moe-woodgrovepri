@@ -52,7 +52,7 @@ the future with confidence.</p>
 <br>Blossoming friendships with kindness aplenty
 <br>--- Such are the common sights and sounds at Woodgrove Primary</p>
 <p>Mrs Adeline Ng;
-<br>Principle</p>
+<br>Principal</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
