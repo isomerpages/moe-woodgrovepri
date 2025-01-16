@@ -4,8 +4,7 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>2025 Orientation Programme (Day 1 - 3)</h2>
-<h3></h3>
+<h2>2025 Orientation Programme (Day 1 - 3)</h2><a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/rdtfyyjhdftgj.png"></a>
 <p>School Start Orientation Programme</p>
 <p>We kicked off the new school year with our exciting Orientation Programme,
 filled with fun and vibrant activities. On the first day, our Woodgrovians
