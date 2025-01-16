@@ -32,7 +32,19 @@ and beyond, Woodgrovians gain real-world experiences that make learning
 relevant, meaningful, and joyful. These opportunities deepen their knowledge,
 sharpen their skills, and build their character—preparing them to embrace
 the future with confidence.</p>
-<p>&nbsp;<em>Joyful laughter from lively discussions;</em>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><em>Joyful laughter from lively discussions;</em>
 <br><em>Eager raised hands excited to share;</em>
 <br><em>Encouraging cheers spurring friends on;</em>
 <br><em>Polite greetings along the corridors;</em>
@@ -40,6 +52,14 @@ the future with confidence.</p>
 <br><em>Blossoming friendships with kindness aplenty</em>
 <br><em>--- Such are the common sights and sounds at Woodgrove Primary</em>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>&nbsp;As the adage goes, <em>“It takes a village to raise a child.”</em> At
 Woodgrove Primary, we are grateful to have a dedicated team of staff and
 teachers, supportive parents, and invaluable partnerships with our School
