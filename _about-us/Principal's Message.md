@@ -47,13 +47,8 @@ the future with confidence.</p>
 <p></p>
 </td>
 <th rowspan="1" colspan="1">
-<p>Joyful laughter from lively discussions;
-<br>Eager raised hands excited to share;
-<br>Encouraging cheers spurring friends on;
-<br>Polite greetings along the corridors;
-<br>Interesting interactions during recesses;
-<br>Blossoming friendships with kindness aplenty
-<br>--- Such are the common sights and sounds at Woodgrove Primary.</p>
+<p><em>Joyful laughter from lively discussions; <br>Eager raised hands excited to share; <br>Encouraging cheers spurring friends on; <br>Polite greetings along the corridors; <br>Interesting interactions during recesses; <br>Blossoming friendships with kindness aplenty <br>--- Such are the common sights and sounds at Woodgrove Primary.</em>
+</p>
 </th>
 </tr>
 </tbody>
