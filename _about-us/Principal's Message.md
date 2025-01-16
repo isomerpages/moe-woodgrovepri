@@ -51,8 +51,6 @@ the future with confidence.</p>
 <br>Interesting interactions during recesses;
 <br>Blossoming friendships with kindness aplenty
 <br>--- Such are the common sights and sounds at Woodgrove Primary</p>
-<p>Mrs Adeline Ng;
-<br>Principal</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -67,4 +65,6 @@ Committee (SAC), Parent Support Group (PSG), and community partners. Together,
 we work hand in hand to uncover the unique potential in every child and
 fulfil our vision of <strong><em>Every Woodgrovian Shines – a Learner, a Contributor, a Leader with Character</em></strong><em>.</em>
 </p>
+<p>Mrs Adeline Ng;
+<br>Principal</p>
 <p>&nbsp;</p>
