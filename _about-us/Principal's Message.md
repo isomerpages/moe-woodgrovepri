@@ -40,22 +40,15 @@ the future with confidence.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Joyful laughter from lively discussions;
-<br>Eager raised hands excited to share;
-<br>Encouraging cheers spurring friends on;
-<br>Polite greetings along the corridors;
-<br>Interesting interactions during recesses;
-<br>Blossoming friendships with kindness aplenty
-<br>--- Such are the common sights and sounds at Woodgrove Primary</p>
-<p>Mrs Adeline Ng;
-<br>Principal</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<th rowspan="1" colspan="1">
+<p><em>Joyful laughter from lively discussions; <br>Eager raised hands excited to share; <br>Encouraging cheers spurring friends on; <br>Polite greetings along the corridors; <br>Interesting interactions during recesses; <br>Blossoming friendships with kindness aplenty <br>--- Such are the common sights and sounds at Woodgrove Primary.</em>
+</p>
 </th>
 </tr>
 </tbody>
@@ -67,4 +60,7 @@ Committee (SAC), Parent Support Group (PSG), and community partners. Together,
 we work hand in hand to uncover the unique potential in every child and
 fulfil our vision of <strong><em>Every Woodgrovian Shines – a Learner, a Contributor, a Leader with Character</em></strong><em>.</em>
 </p>
+<p></p>
+<p>Mrs Adeline Ng
+<br>Principal</p>
 <p>&nbsp;</p>
