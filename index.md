@@ -20,6 +20,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: 2025 Orientation Programme
+      subtitle: WOW!
+      id: infopic
+      description: We kicked off the new school year with our exciting Orientation
+        Programme, filled with fun and vibrant activities.
+      button: Click Here
+      url: https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A
+      image: /images/Screenshot_2025_01_16_165113.png
+      alt: Image alt text
+  - infopic:
       title: P6 Air Dry Clay Legacy Project
       subtitle: WOW!
       id: infopic
