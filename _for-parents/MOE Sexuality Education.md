@@ -249,5 +249,5 @@ at <a href="mailto:woodgrove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" t
 call +65 68943371 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
 <p></p>
-<p>Updated in January 2024</p>
+<p>Updated in January 2025</p>
 <p></p>
