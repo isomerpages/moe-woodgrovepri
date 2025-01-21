@@ -73,12 +73,12 @@ healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<h4><strong>At Woodgrove Primary School, the following Sexuality Education lessons will be taught in&nbsp;2024:</strong></h4>
+<h4><strong>At Woodgrove Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_picture.jpg">
 </div>
-<h4><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong></h4>
+<h4><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong></h4>
 <h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -143,7 +143,7 @@ so that the students will feel more comfortable during the discussions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term2 Week 5 &amp; 7</p>
+<p>Term2 Week 5 &amp; 6</p>
 </td>
 </tr>
 <tr>
