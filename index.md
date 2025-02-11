@@ -20,12 +20,15 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: 2025 CNY Celebration
+      subtitle: WOW!
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: We welcomed the Year of the Snake with a vibrant Chinese New Year
+        (CNY) celebration.
+      button: Click Here
       alt: Image alt text
+      url: https://youtu.be/EZlcLQ1P4rQ?si=n9Aua6T9u2Mlm7Nj
+      image: /images/Screenshot_2025_02_11_125604.png
   - infopic:
       title: 2025 Orientation Programme
       subtitle: WOW!
