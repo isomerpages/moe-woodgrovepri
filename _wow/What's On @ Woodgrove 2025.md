@@ -4,6 +4,21 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>Chinese New Year Celebration)</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/EZlcLQ1P4rQ?si=EhCqg21kT_8tq54h"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Pic_CNY.png"></a>
+<p>We welcomed the Year of the Snake with a vibrant Chinese New Year (CNY)
+celebration. On CNY eve, Woodgrovians revelled in an electrifying atmosphere
+that began with an energetic Lion dance, followed by a diverse array of
+performances by our own performing arts groups.</p>
+<p>Our teachers also joined in the fun, putting up a charming skit and sharing
+their cheerful festive greetings. The excitement escalated with lively
+level games which saw our teachers and Woodgrovians competing alongside
+each other, sparking enthusiastic cheers for the respective levels.</p>
+<p>Not forgetting to spread the festive cheers, our Chinese Orchestra captivated
+residents with their renditions of CNY songs during the Fam K@North West
+Chinese New Year Celebration on 8 Feb. Then at night, our Chinese Dancers
+charmed the Woodgrove residents with their elegant performances bringing
+much joy for all at the Woodgrove Chinese New Year Dinner.</p>
 <h2>2025 Orientation Programme (Day 1 - 3)</h2><a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/rdtfyyjhdftgj.png"></a>
 <p>School Start Orientation Programme</p>
 <p>We kicked off the new school year with our exciting Orientation Programme,
