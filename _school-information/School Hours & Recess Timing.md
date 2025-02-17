@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>School Hours &amp; Recess Timing</strong></h1>
-<h3>School Hours (2024)</h3>
+<h3>School Hours (2025)</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Recess Timing (2024)</h3>
+<h3>Recess Timing (2025)</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
