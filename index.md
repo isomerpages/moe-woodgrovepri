@@ -20,6 +20,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: 2025 NSG Opening Ceremony
+      subtitle: WOW!
+      id: infopic
+      description: WGPS celebrated the NSG Opening Ceremony 2025 by highlighting the
+        connection between character and sporting excellence.
+      button: Click Here
+      url: https://youtu.be/pOuvR0Eksk0?si=dBXrCnYFokIitNJ8
+      image: /images/Screenshot_2025_02_18_094254.png
+      alt: Image alt text
+  - infopic:
       title: 2025 CNY Celebration
       subtitle: WOW!
       id: infopic
