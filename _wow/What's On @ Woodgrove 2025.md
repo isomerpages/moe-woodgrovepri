@@ -4,6 +4,18 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>NSG Opening Ceremony 2025</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/pOuvR0Eksk0?si=J_0F4N_p9rhIpA9V"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NSG.png"></a>
+<p></p>
+<p>Woodgrove Primary celebrated the NSG Opening Ceremony 2025 by highlighting
+the connection between character and sporting excellence. Student-athletes
+presented key messages on teamwork, resilience, and discipline, reinforcing
+that sports shape values beyond competition. Through the Woodgrovian Pledge,
+all Woodgrovians committed to embodying iGR³ACE values and uplifting one
+another. In Singapore’s 60th year of independence, Woodgrove continues
+to champion sportsmanship and perseverance, ensuring every athlete contributes
+to the NSG legacy.</p>
+<p></p>
 <h2>Chinese New Year Celebration</h2>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/EZlcLQ1P4rQ?si=EhCqg21kT_8tq54h"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Pic_CNY.png"></a>
 <p>We welcomed the Year of the Snake with a vibrant Chinese New Year (CNY)
