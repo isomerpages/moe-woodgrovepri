@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Tour Video.md
       - P1 Orientation Matter.md
       - Approved Textbook List (2025).md
       - Assessment & Exam Matters/.keep
