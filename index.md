@@ -20,6 +20,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: 2025 Total Defence Day
+      subtitle: WOW!
+      id: infopic
+      description: Woodgrove Primary commemorated Total Defence Day with a myriad of
+        interactive and engaging activities.
+      button: Click here
+      url: https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg
+      image: /images/Screenshot_2025_02_25_160346.png
+      alt: Image alt text
+  - infopic:
       title: 2025 NSG Opening Ceremony
       subtitle: WOW!
       id: infopic
