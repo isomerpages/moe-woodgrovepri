@@ -4,6 +4,16 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>Total Defence Day 2025</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/13.png"></a>
+<p>Woodgrove Primary commemorated Total Defence Day with a myriad of interactive
+and engaging activities such as assembly talk, police roadshow and recess
+activities to educate Woodgrovians about the six pillars of Total Defence.</p>
+<p>A key highlight was the water disruption exercise to strengthen Woodgrovians’
+readiness during a crisis. Through these experiences, we developed Woodgrovians
+to be contributors to the society so that they can play their roles in
+keeping Singapore united and strong.</p>
+<p></p>
 <h2>NSG Opening Ceremony 2025</h2>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/pOuvR0Eksk0?si=J_0F4N_p9rhIpA9V"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NSG.png"></a>
 <p></p>
