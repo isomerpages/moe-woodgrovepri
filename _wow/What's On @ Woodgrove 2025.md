@@ -7,8 +7,8 @@ description: ""
 <h2>Total Defence Day 2025</h2>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/13.png"></a>
 <p>Woodgrove Primary commemorated Total Defence Day with a myriad of interactive
-and engaging activities such as assembly talk, police roadshow and recess
-activities to educate Woodgrovians about the six pillars of Total Defence.</p>
+and engaging activities to educate Woodgrovians about the six pillars of
+Total Defence.</p>
 <p>A key highlight was the water disruption exercise to strengthen Woodgrovians’
 readiness during a crisis. Through these experiences, we developed Woodgrovians
 to be contributors to the society so that they can play their roles in
