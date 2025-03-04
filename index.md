@@ -16,7 +16,7 @@ sections:
           url: /for-students/useful-links-for-students/
         - title: Achievements
           description: ""
-          url: /permalink/achievements/Achievements-Banner-2025
+          url: /permalink/achievements/achievements-banner-2025
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
