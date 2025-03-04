@@ -47,5 +47,5 @@ third_nav_title: Achievements
 <p>Cognitive: Academic, Critical and Creative Thinking, Innovation
 <br>Aestheics: Performance and visual arts
 <br>Moral:
-<br>Physical: sports
+<br>Physical: Sports
 <br>Social: Environment and Community</p>
