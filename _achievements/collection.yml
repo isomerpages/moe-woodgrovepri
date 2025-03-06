@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Achievements Banner 2025.md
+      - Achievements Banner 2023.md
       - Achievements Banner 2024.md
+      - Achievements Banner 2025.md
