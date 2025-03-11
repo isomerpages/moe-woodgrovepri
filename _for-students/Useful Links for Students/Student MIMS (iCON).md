@@ -5,23 +5,59 @@ description: ""
 third_nav_title: Useful Links for Students
 variant: tiptap
 ---
-# **Student iCON**
-
-### Student iCON Dashboard
-
-[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)  
-Domain: @students.edu.sg  
-Password = School Windows Login Password  
-Password Reset: Inform your teachers  
-
-### Introducing Student iCON
-
-![](/images/Student%20iCON%20-%20Student%20EDM%20Onboarding%20%20Introducing%20Student%20iCON.jpg)
-
-### Student iCON IAMS Password Requirement
-
-![](/images/Student%20iCON%20-%20Student%20EDM%20IAMS%20Password%20Requirements.jpg)
-
-### Student iCON Onboarding Guide
-
-[Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf)
+<h1><strong>Student MIMS (iCON)</strong></h1>
+<p></p>
+<h3>Student MIMS </h3>
+<p>Student MIMS (Ministry of Education Identity Management System) is an
+identity and access management system for students in Singapore's schools.
+It provides secure access to various MOE digital resources and services.</p>
+<p></p>
+<h3>Student iCON</h3>
+<p>Student iCON is a suite of Google Workspace for Education tools provided
+to students in Singapore's primary and secondary schools, junior colleges,
+and Millennia Institute. It was launched by the Ministry of Education (MOE)
+in 2020 as part of Singapore's National Digital Literacy Programme.</p>
+<p>Key features include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A student email account (ending with @<a href="http://students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a>) that students can use
+for educational communications and accessing online learning resources</p>
+</li>
+<li>
+<p>Access to Google Workspace tools like Google Classroom, Google Meet, Google
+Drive, Google Docs, and other collaboration tools specifically configured
+for education use</p>
+</li>
+<li>
+<p>Enhanced security features and privacy protections appropriate for student
+use, with MOE-managed controls and restrictions</p>
+</li>
+</ul>
+<p>The system helps facilitate:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Home-based learning and blended learning approaches</p>
+</li>
+<li>
+<p>Digital collaboration between students and teachers</p>
+</li>
+<li>
+<p>Development of digital literacy skills</p>
+</li>
+<li>
+<p>Safe and secure online learning environments for students</p>
+</li>
+</ul>
+<h3>Student iCON Dashboard</h3>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+<br>Domain: @students.edu.sg
+<br>Password = School Windows Login Password
+<br>Password Reset: Inform your teachers</p>
+<h3>Introducing Student iCON</h3>
+<h3>Student iCON IAMS Password Requirement</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20iCON%20-%20Student%20EDM%20IAMS%20Password%20Requirements.jpg">
+</div>
+<h3>Student iCON Onboarding Guide</h3>
+<p><a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON Onboarding Guide.pdf</a>
+</p>
