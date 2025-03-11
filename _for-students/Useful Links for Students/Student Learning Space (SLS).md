@@ -13,9 +13,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS%20Login%20Info.jpg">
 </div>
-<h3>SLS New Interface from 18 Mar 2021</h3>
-<p><a href="/files/SLS%20A%20Brand%20New%20Experience%20from%2018%20March.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS A Brand New Experience from 18 March.pdf</a>
-</p>
-<h3>WGPS SLS Account Management - Guide for STudents</h3>
+<h3>WGPS SLS Account Management - Guide for Students</h3>
 <p><a href="/files/Guide%20to%20SLS%20Account%20Management%20Instructions%20for%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">WGPS SLS Account Management - Guide for Students.pdf</a>
 </p>
+<p></p>
+<h1>Explore SLS Functions</h1>
+<p>Learn more about what the Singapore Student Learning Space (SLS) can do
+with the overview of SLS functions&nbsp;below.</p>
+<p><a href="https://www.learning.moe.edu.sg/student-user-guide/index/#how-to-navigate-the-user-guide-pages" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> for
+more information on how to navigate the userguide.</p>
