@@ -1,6 +1,6 @@
 ---
 title: Achievements Banner 2024
-permalink: /permalink/achievements/
+permalink: /permalink/achievements/achievements-banner-2024/
 description: ""
 variant: tiptap
 ---
