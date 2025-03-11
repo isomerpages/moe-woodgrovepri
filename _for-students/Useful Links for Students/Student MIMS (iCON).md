@@ -14,7 +14,7 @@ It provides secure access to various MOE digital resources and services.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_Parent_s_Guide_to_Your_Child_s_School_Accounts__1_.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/P1_Parent_s_Guide_to_Your_Child_s_School_Accounts__1_.png">
 </div>
 <h3>Student iCON</h3>
 <p>Student iCON is a suite of Google Workspace for Education tools provided
