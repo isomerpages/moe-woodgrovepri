@@ -6,9 +6,7 @@ third_nav_title: Useful Links for Students
 variant: tiptap
 ---
 <h3><strong>Useful Links for Students</strong></h3>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
