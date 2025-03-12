@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Students/.keep
-      - For Students/Useful Links for Students.md
+      - For Students/Students LearnerLane.md
       - For Students/Student MIMS (iCON).md
       - For Students/Student Learning Space (SLS).md
       - For Students/Reset Password Request.md
