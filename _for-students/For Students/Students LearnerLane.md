@@ -5,6 +5,15 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
+<h2><strong>Students LearnerLane</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_Illustrative_Back_To_School_Banner_Landscape.png">
+</div>
+<p>Students LearnerLane is a one-stop hub providing useful links for students,
+serving as a centralised digital platform that streamlines access to essential
+university resources and services. This comprehensive portal connects students
+to vital academic tools, administrative services, and campus resources,
+eliminating the need to navigate multiple websites or platforms</p>
 <h3><strong>Useful Links for Students</strong></h3>
 <p></p>
 <table style="minWidth: 50px">
