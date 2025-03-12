@@ -2,8 +2,8 @@ collections:
   for-students:
     output: true
     order:
-      - Students LearnerLane/.keep
-      - Students LearnerLane/Useful Links for Students.md
-      - Students LearnerLane/Student MIMS (iCON).md
-      - Students LearnerLane/Student Learning Space (SLS).md
-      - Students LearnerLane/Reset Password Request.md
+      - For Students/.keep
+      - For Students/Useful Links for Students.md
+      - For Students/Student MIMS (iCON).md
+      - For Students/Student Learning Space (SLS).md
+      - For Students/Reset Password Request.md
