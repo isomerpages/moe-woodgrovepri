@@ -24,7 +24,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>ROBOROARZ SINGAPORE</u></strong>
+<p><strong>ROBOROARZ SINGAPORE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +42,34 @@ third_nav_title: Achievements
 </tr>
 </tbody>
 </table>
+<h3>Physical</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EVENT/COMPETITION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ACHIEVEMENT</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scouts Frank Cooper Sands Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>LEGEND</strong></h3>
 <p>Cognitive: Academic, Critical and Creative Thinking, Innovation
 <br>Aestheics: Performance and visual arts
