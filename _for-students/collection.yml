@@ -2,7 +2,8 @@ collections:
   for-students:
     output: true
     order:
-      - Useful Links for Students/.keep
-      - Useful Links for Students/Useful Links for Students.md
-      - Useful Links for Students/Student Learning Space (SLS).md
-      - Useful Links for Students/Student iCON.md
+      - For Students/.keep
+      - For Students/Student Links.md
+      - For Students/Student MIMS (iCON).md
+      - For Students/Student Learning Space (SLS).md
+      - For Students/Reset Password Request.md
