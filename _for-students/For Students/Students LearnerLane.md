@@ -5,16 +5,11 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<h2><strong>Students LearnerLane</strong></h2>
+<h2><strong>Student Links</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_Illustrative_Back_To_School_Banner_Landscape.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dfhba.png">
 </div>
-<p>Students LearnerLane is a one-stop hub providing useful links for students,
-serving as a centralised digital platform that streamlines access to essential
-resources and services. This comprehensive portal connects students to
-vital academic tools, administrative services, and campus resources, eliminating
-the need to navigate multiple websites or platforms</p>
-<h3><strong>Useful Links for Students</strong></h3>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -99,17 +94,9 @@ the need to navigate multiple websites or platforms</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<h3><strong>Our school subscriptions</strong><br><br></h3>
+<h3><strong>Our school subscriptions</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
