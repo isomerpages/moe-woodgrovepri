@@ -4,6 +4,9 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYqyK85YJFLuyyx15X1idlx8Y0PW3cq9QjB-Fc5V4uWBKHRm83oyV44Iuhkai2j8A1XiLCZXEyRFAb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h2>Total Defence Day 2025</h2>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/13.png"></a>
 <p>Woodgrove Primary commemorated Total Defence Day with a myriad of interactive
