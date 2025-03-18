@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Woodgrove Primary School
-description: Brief site description here
+description: Every Woodgrovian Shines - A Learner. A Contributor. A Leader with Character.
 image: /images/Badge.jpg
 permalink: /
 notification: ""
