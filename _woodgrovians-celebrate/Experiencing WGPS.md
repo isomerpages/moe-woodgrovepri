@@ -6,6 +6,8 @@ variant: tiptap
 ---
 <h1><strong>Experiencing WGPS</strong></h1>
 <p></p>
+<h3>Term 1 (2025)</h3>
+<p></p>
 <h3>Term 4 (2024)</h3>
 <p><a href="/files/P1_Experiencing_WGPS_Term_4.pdf" rel="noopener nofollow" target="_blank">P1 Term 4 Experiencing WGPS</a>
 </p>
