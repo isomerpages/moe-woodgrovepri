@@ -40,6 +40,60 @@ third_nav_title: Achievements
 <br>CHIA XUN YI AVERY, 6E</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The 16th Goodtalk International Bilingual Speech Conference 2024-2025
+(Final)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>FIRST</strong>
+</p>
+<p></p>
+<p>Li Mingze Benjamin, 4E</p>
+<p></p>
+<p>&nbsp;<strong>THIRD</strong>
+</p>
+<p></p>
+<p>Zhang Wei En, 2F&nbsp;</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The 16th Goodtalk International Bilingual Speech Conference</p>
+<p></p>
+<p>&nbsp;(<strong>Preliminary</strong>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>FIRST</strong>
+</p>
+<p></p>
+<p>Li Mingze Benjami, 4E</p>
+<p></p>
+<p>Zhang Wei En, 2F</p>
+<p></p>
+<p>&nbsp;<strong>SECOND</strong>
+</p>
+<p></p>
+<p>&nbsp;Li Junze Brian, 2F</p>
+<p></p>
+<p>&nbsp;<strong>THIRD</strong>
+</p>
+<p></p>
+<p><strong>&nbsp;</strong>Tang Zimu, 3C</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Chinese Calligraphy Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>THIRD</strong>
+</p>
+<p><strong><br></strong>Sun Siqiao 5C</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Physical</h3>
