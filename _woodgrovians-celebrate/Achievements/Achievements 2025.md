@@ -30,14 +30,15 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <p>Smorphi Imaginary Challenge
 <br>
-<br>&nbsp;2nd place
+<br>2nd place
 <br>Primary Category</p>
 <p></p>
-<p>CHERYL TIONG KAI XIN, 6C
-<br>HEE TZE XI, 6C
-<br>MARVIN CHAN, 6B
-<br>MAWADDAH BINTE FEROZ KHAN, 6D
-<br>CHIA XUN YI AVERY, 6E</p>
+<p>Cheryl Tiong Kai Xin, 6C
+<br>Hee Tze Xi, 6C
+<br>Marvin Chan, 6B
+<br>Mawaddah Binte Feroz Khan, 6D
+<br>Chia Xun Yi Avery, 6E</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -47,14 +48,10 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>FIRST</strong>
-</p>
-<p></p>
-<p>Li Mingze Benjamin, 4E</p>
+<br>Li Mingze Benjamin, 4E</p>
 <p></p>
 <p>&nbsp;<strong>THIRD</strong>
-</p>
-<p></p>
-<p>Zhang Wei En, 2F&nbsp;</p>
+<br>Zhang Wei En, 2F&nbsp;</p>
 <p></p>
 </td>
 </tr>
@@ -67,9 +64,8 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <p><strong>FIRST</strong>
 </p>
-<p></p>
-<p>Li Mingze Benjami, 4E</p>
-<p></p>
+<p>
+<br>Li Mingze Benjami, 4E</p>
 <p>Zhang Wei En, 2F</p>
 <p></p>
 <p>&nbsp;<strong>SECOND</strong>
@@ -90,8 +86,9 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>THIRD</strong>
+<br>
 </p>
-<p><strong><br></strong>Sun Siqiao 5C</p>
+<p>Sun Siqiao, 5C</p>
 </td>
 </tr>
 </tbody>
