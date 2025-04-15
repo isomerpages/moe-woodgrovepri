@@ -4,6 +4,14 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>Hari Raya Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/CAtCUJLU_XY?si=pxWsgydZKe00lQXa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/dyum.png"></a>
+<p>Woodgrove Primary celebrated Hari Raya with much joy, featuring exciting
+activities for all levels. During CCE lesson, Woodgrovians participated
+in colouring activities, postcard writing and poetry translation to their
+respective Mother Tongue languages. The festive spirit filled the school,
+fostering unity and appreciation of the Malay culture. The celebration
+culminated in a lively concert, showcasing music, dance, and storytelling
+performances.</p>
 <h2>Total Defence Day 2025</h2>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/13.png"></a>
 <p>Woodgrove Primary commemorated Total Defence Day with a myriad of interactive
