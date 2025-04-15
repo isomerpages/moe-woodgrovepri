@@ -20,6 +20,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: 2025 Hari Raya Celebration
+      subtitle: WOW!
+      id: infopic
+      description: Woodgrove Primary celebrated Hari Raya with much joy, featuring
+        exciting activities for all levels.
+      button: Click Here
+      url: https://youtu.be/CAtCUJLU_XY?si=pxWsgydZKe00lQXa
+      image: /images/Screenshot_2025_04_15_091451.png
+      alt: Image alt text
+  - infopic:
       title: 2025 Total Defence Day
       subtitle: WOW!
       id: infopic
