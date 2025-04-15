@@ -173,7 +173,7 @@ third_nav_title: Achievements
 </tbody>
 </table>
 <p></p>
-<h3><strong> LEGEND</strong></h3>
+<h3><strong>LEGEND</strong></h3>
 <p>Cognitive: Academic, Critical and Creative Thinking, Innovation
 <br>Aestheics: Performance and visual arts
 <br>Moral:
