@@ -4,6 +4,17 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>International Friendship Day</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/_Vrd496Uw6U?si=X5Pqf3pPvOgPp2wa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/15.png"></a>
+<p>Our school celebrated International Friendship Day with vibrant activities,
+including cultural sharing by international students, a heartwarming multi-language
+rendition of Home, and engaging fringe activities such as ketupat making,
+kolam design and a photo booth showcasing beautiful ethnic costumes during
+recess.</p>
+<p>The highlight of the day was warmly hosting teachers and exchange students
+from Hong Kong, fostering friendship and cross-cultural understanding among
+Woodgrovians and the visitors to the school.</p>
+<p></p>
 <h2>Hari Raya Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/CAtCUJLU_XY?si=pxWsgydZKe00lQXa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/dyum.png"></a>
 <p>Woodgrove Primary celebrated Hari Raya with much joy, featuring exciting
 activities for all levels. During CCE lesson, Woodgrovians participated
