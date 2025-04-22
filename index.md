@@ -20,6 +20,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: 2025 International Friendship Day
+      subtitle: WOW!
+      id: infopic
+      description: Our school celebrated International Friendship Day with vibrant
+        activities
+      button: CLICK Here
+      url: https://youtu.be/_Vrd496Uw6U?si=X5Pqf3pPvOgPp2wa
+      alt: Image alt text
+      image: /images/Screenshot_2025_04_22_153919.png
+  - infopic:
       title: 2025 Hari Raya Celebration
       subtitle: WOW!
       id: infopic
@@ -70,7 +80,7 @@ sections:
       image: /images/Screenshot_2025_01_16_165113.png
       alt: Image alt text
   - infopic:
-      title: P6 Air Dry Clay Legacy Project
+      title: 2025 P6 Air Dry Clay Legacy Project
       subtitle: WOW!
       id: infopic
       description: Crafting air-dry clay figurines to warmly welcome the 2024 P1
@@ -80,7 +90,7 @@ sections:
       url: https://www.youtube.com/watch?v=DidwFxHf3T0
       image: /images/Screenshot_2025_01_07_164513.png
   - infopic:
-      title: Welcoming P1 to Our Woodgrove family
+      title: 2025 Welcoming P1 to Our Woodgrove family
       subtitle: WOW!
       id: infopic
       description: The first day of school for our Primary One students at Woodgrove
