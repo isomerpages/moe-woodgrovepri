@@ -15,13 +15,14 @@ you can&nbsp;write to the person in-charge, Mrs Lim-Seow Joo Hwang at&nbsp;
 <a href="mailto:lim-seow_joo_hwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim-seow_joo_hwang@schools.gov.sg</a>
 </p>
 <h3><strong>Registration as Parent Volunteers (P1 Registration Exercise)</strong></h3>
-<p>For new parents who seek to register as&nbsp;Parent Volunteers,&nbsp;to
-qualify for priority under P1 Registration Exercise Phase 2B.</p>
+<p>For new parents whose child is starting Primary 1 in year 2027 and seek
+to register as Parent Volunteers to qualify for priority under P1 Registration
+Exercise Phase 2B, application for 2025 has commenced.</p>
 <p></p>
-<p>2024 application as Parent Volunteers (for child starting Primary 1 in
-year 2026) is closed.</p>
+<p>Please register online via this link <a href="https://go.gov.sg/wgps-pv" rel="noopener nofollow" target="_blank">Wgps pv</a>
+</p>
+<p>Or scan this QR Code -
+<br>
+</p>
 <p></p>
-<p>The next registration will be in early May 2025 (for new parents whose
-child is starting Primary 1 in year 2027).</p>
 <p></p>
-<p>Please find the link&nbsp;<a href="https://go.gov.sg/wgps-pv" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
