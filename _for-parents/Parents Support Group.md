@@ -24,5 +24,10 @@ Exercise Phase 2B, application for 2025 has commenced.</p>
 <p>Or scan this QR Code -
 <br>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/QR_Code_11.jpg">
+</div>
+<p>Application will close on <strong><em>3 June 2025</em></strong>.</p>
+<p>Should you have any queries pertaining to your application, please email
+your query to <a rel="noopener noreferrer nofollow" target="_blank">Woodgrove_ps@moe.edu.sg</a>.</p>
 <p></p>
