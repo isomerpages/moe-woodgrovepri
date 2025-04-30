@@ -32,7 +32,7 @@ description: ""
 <p>Cooked Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 August 2024</p>
+<p>31 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal (Rice)</p>
@@ -43,7 +43,7 @@ description: ""
 <p>Cooked Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 August 2024</p>
+<p>31 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Non-Halal (Rice/ Noodle)</p>
