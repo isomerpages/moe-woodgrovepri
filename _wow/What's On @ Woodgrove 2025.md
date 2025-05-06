@@ -4,6 +4,18 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>Library Week @ WGPS</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/KZS_qz-73Ck?si=III0_pA8cOPqrHD5"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/23.png"></a>
+<p>Woodgrove Primary celebrated Library Week with the heartwarming theme
+'Stories Connect Us', highlighting how stories bridge cultures, experiences
+and perspectives. Engaging activities included Book Borrowing Bingo and
+bookmark design contest held during library periods. During recess, Woodgrovians
+also had fun solving brain teasers and word search.</p>
+<p></p>
+<p>A standout feature was the multi-language storytelling sessions at Woodgrovian
+Experience Wall, where Woodgrovians shared fascinating stories from their
+favourite storybooks and captivated their audiences through their storytelling
+skills.</p>
 <h2>International Friendship Day</h2>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/_Vrd496Uw6U?si=X5Pqf3pPvOgPp2wa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/15.png"></a>
 <p>Our school celebrated International Friendship Day with vibrant activities,
