@@ -20,6 +20,17 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Library Week @ WGPS
+      subtitle: WOW!
+      id: infopic
+      description: We celebrated Library Week with the heartwarming theme 'Stories
+        Connect Us', highlighting how stories bridge cultures, experiences and
+        perspectives.
+      button: CLICK HERE
+      url: https://youtu.be/KZS_qz-73Ck?si=mWMouLEKGvK1C9Cq
+      image: /images/Screenshot_2025_05_06_130823.png
+      alt: Image alt text
+  - infopic:
       title: 2025 International Friendship Day
       subtitle: WOW!
       id: infopic
