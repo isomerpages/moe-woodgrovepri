@@ -67,22 +67,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lovelle Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lovelle_tan@schools.gov.sg" rel="noopener nofollow" target="_blank">lovelle_tan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Cheng Mei Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_mei_xian@schools.gov.sg" rel="noopener nofollow" target="_blank">cheng_mei_xian@schools.gov.sg</a>
+<p><a href="mail to: cheng_mei_xian@schools.gov.sg" rel="noopener nofollow" target="_blank">cheng_mei_xian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
