@@ -43,8 +43,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The 16th Goodtalk International Bilingual Speech Conference 2024-2025
-(Final)</p>
+<p><strong>The 16th Goodtalk International Bilingual Speech Conference 2024-2025 (Final)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>FIRST</strong>
@@ -57,7 +57,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The 16th Goodtalk International Bilingual Speech Conference</p>
+<p><strong>The 16th Goodtalk International Bilingual Speech Conference</strong>
+</p>
 <p></p>
 <p>&nbsp;(<strong>Preliminary</strong>)</p>
 </td>
@@ -76,7 +77,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Chinese Calligraphy Competition 2025</p>
+<p><strong>National Chinese Calligraphy Competition 2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>THIRD</strong>
@@ -105,7 +107,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SOTA Primary 6 On-The-Spot Art Competition 2025</p>
+<p><strong>SOTA Primary 6 On-The-Spot Art Competition 2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 10</p>
@@ -142,6 +145,21 @@ third_nav_title: Achievements
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Schools Games Swimming Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Junior 1 Category</strong>
+<br>25m Backstroke 1<sup>st</sup>
+<br>Lee Yu An, 4C</p>
+<p>&nbsp;</p>
+<p><strong>Junior 2 Category</strong>
+<br>50m Butterfly 7<sup>th</sup>
+<br>Gan Chen En, 5B</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -164,7 +182,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Puan Noor Aishah Award</p>
+<p><strong>Puan Noor Aishah Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
