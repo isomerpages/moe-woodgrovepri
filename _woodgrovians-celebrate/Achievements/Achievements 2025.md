@@ -107,7 +107,8 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SOTA Primary 6 On-The-Spot Art Competition 2025</p>
+<p><strong>SOTA Primary 6 On-The-Spot Art Competition 2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 10</p>
