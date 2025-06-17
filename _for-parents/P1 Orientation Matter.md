@@ -4,7 +4,7 @@ permalink: /for-parents/p1-orientation-matter/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>P1 Orientation Day</u></strong>
+<p><strong><u>P1 Orientation for 2025 P1 Cohort</u></strong>
 </p>
 <p>We invite you and your child/ward to attend the P1 Orientation <strong>Administrative Briefing Session</strong> on<strong> Friday 15 November 2024, 8am</strong>.<strong> </strong>There
 will be a school briefing for parents/guardians and familiarisation activities
