@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (CCE)(Internal)</p>
+<p>HOD (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Idayu Binte Yusi</p>
@@ -170,7 +170,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH (English Internal)</p>
+<p>LH (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Wen Yen Wendy</p>
