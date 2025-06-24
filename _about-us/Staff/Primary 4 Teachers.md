@@ -134,18 +134,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Saritha Balasubramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Saritha_Balasubramaniam@schools.gov.sg" rel="noopener nofollow" target="_blank">Saritha_Balasubramaniam@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
