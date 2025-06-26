@@ -91,11 +91,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Shabrina Binte Mohamed Nazeer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_shabrina_mohamed_nazeer@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_shabrina_mohamed_nazeer@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
