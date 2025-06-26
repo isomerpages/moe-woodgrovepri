@@ -86,6 +86,17 @@ third_nav_title: Achievements
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAVARASA MEDAI TAMIL LITERARY COM``PETITION</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FIRST IN PRIMARY 1 CATEGORY</p>
+<p></p>
+<p>&nbsp;INIAN MELANI BLOSSOM -1A</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
