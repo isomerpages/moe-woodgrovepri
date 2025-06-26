@@ -79,10 +79,10 @@ variant: tiptap
 <p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Siew Choo Jane (Mrs Chang)</p>
+<p>Miss Nurul Hudah Binte Saharudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_choo_jane@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_siew_choo_jane@schools.gov.sg</a>
+<p><a href="mailto:nurul_hudah_saharudin@schools.gov.sg" rel="noopener nofollow" target="_blank">nurul_hudah_saharudin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -95,18 +95,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yan_ling_jennifer@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_yan_ling_jennifer@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Nurul Hudah Binte Saharudin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_hudah_saharudin@schools.gov.sg" rel="noopener nofollow" target="_blank">nurul_hudah_saharudin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
