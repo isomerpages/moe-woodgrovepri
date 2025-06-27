@@ -88,13 +88,30 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NAVARASA MEDAI TAMIL LITERARY COM``PETITION</p>
-<p>&nbsp;</p>
+<p><strong>NAVARASA MEDAI TAMIL LITERARY COMPETITION</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FIRST IN PRIMARY 1 CATEGORY</p>
+<p><strong>FIRST IN PRIMARY 1 CATEGORY</strong>
+</p>
 <p></p>
 <p>&nbsp;INIAN MELANI BLOSSOM -1A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tamil Mozhi Vizha</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fancy Dress Competition</strong>
+</p>
+<p><strong>Second</strong>
+</p>
+<p></p>
+<p>&nbsp;ADITHRI ANANTHU BARATHAN, 2A</p>
 </td>
 </tr>
 </tbody>
@@ -126,6 +143,21 @@ third_nav_title: Achievements
 <p>Overall Prize Winner</p>
 <p>Chong Xin Tong, 6C</p>
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sahibba Cendekia Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>THIRD</strong>
+</p>
+<p></p>
+<p>QISYA BINTE JURAIMI, 6B</p>
+<p>MUHAMMAD NUFAIEL ZHARFAN BIN MUHAMAD ZAKI, 6C</p>
+<p>MAWADDAH BINTE FEROZ KHAN, 6D</p>
+<p>RINA ZIA AHMED, 6D</p>
 </td>
 </tr>
 </tbody>
