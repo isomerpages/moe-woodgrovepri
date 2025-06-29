@@ -151,6 +151,18 @@ variant: tiptap
 <p>&nbsp;1F</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Ang Soh Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_soh_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_soh_kim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Siti Ngaesah Binte Kasmawi</p>
 </td>
 <td rowspan="1" colspan="1">
