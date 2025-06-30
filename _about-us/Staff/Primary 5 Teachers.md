@@ -64,25 +64,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurul Hakimah Bte Abdul Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_hakimah@schools.gov.sg" rel="noopener nofollow" target="_blank">nurul_hakimah@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Shini</p>
+<p>Miss Lim Shu Xuan, Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_shini@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_shini@schools.gov.sg</a>
+<p><a href="mailto:lim_shu_xuan_sharon_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shu_xuan_sharon_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -115,10 +103,10 @@ variant: tiptap
 <p>5D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Surianingsih Bte Sulaiman</p>
+<p>Mdm Lee Siew Choo Jane (Mrs Chang)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:surianingsih_sulaiman@schools.gov.sg" rel="noopener nofollow" target="_blank">surianingsih_sulaiman@schools.gov.sg</a>
+<p><a href="mailto:lee_siew_choo_jane@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_choo_jane@schools.gov.sg</a>
 </p>
 </td>
 </tr>

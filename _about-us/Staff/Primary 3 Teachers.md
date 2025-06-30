@@ -82,7 +82,19 @@ variant: tiptap
 <p>Mr Chong Chieh Min Jacky</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_chieh_min@schools.gov.sg" rel="noopener nofollow" target="_blank">chong_chieh_min@schools.gov.sg</a>
+<p><a href="mailto:chong_chieh_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chieh_min@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Shini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_shini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shini@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -91,10 +103,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Shabrina Binte Mohamed Nazeer</p>
+<p>Miss Nur Shabrina Binte Mohamed Nazeer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_shabrina_mohamed_nazeer@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_shabrina_mohamed_nazeer@schools.gov.sg</a>
+<p><a href="mailto:nur_shabrina_mohamed_nazeer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shabrina_mohamed_nazeer@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -112,13 +124,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Siok Buay Susan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_siok_buay@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_siok_buay@schools.gov.sg</a>
+<p><a href="mailto:tan_siok_buay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siok_buay@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -156,6 +168,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_ashari_saifee@schools.gov.sg" rel="noopener nofollow" target="_blank">muhammad_ashari_saifee@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Saripah Bte Mohamad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:saripah_bte_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">saripah_bte_mohamad@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
