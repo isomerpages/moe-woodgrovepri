@@ -79,6 +79,18 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Chong Chieh Min Jacky</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_chieh_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chieh_min@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Koh Shini</p>
 </td>
 <td rowspan="1" colspan="1">
