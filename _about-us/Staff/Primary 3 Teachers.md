@@ -94,7 +94,8 @@ variant: tiptap
 <p>Miss Nur Shabrina Binte Mohamed Nazeer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_shabrina_mohamed_nazeer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shabrina_mohamed_nazeer@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
