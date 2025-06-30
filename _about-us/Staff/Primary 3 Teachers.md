@@ -79,10 +79,10 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Chieh Min Jacky</p>
+<p>Mdm Koh Shini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_chieh_min@schools.gov.sg" rel="noopener nofollow" target="_blank">chong_chieh_min@schools.gov.sg</a>
+<p><a href="mailto:koh_shini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shini@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Nur Shabrina Binte Mohamed Nazeer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
