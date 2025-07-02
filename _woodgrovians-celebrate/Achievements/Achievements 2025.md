@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Achievements
 ---
-<h3><strong>Achievements 2025</strong><br><br>Cognitive </h3>
+<h3><strong>Achievements 2025</strong><br><br>Cognitive</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -221,10 +221,10 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>JUNIOR BOYS </strong>
+<p><strong>JUNIOR BOYS</strong>
 </p>
 <p></p>
-<p><strong>Speed Double Dutuch, 2nd Position </strong>
+<p><strong>Speed Double Dutuch, 2nd Position</strong>
 </p>
 <p><strong>Speed Double Under, 6th and 7th Position</strong>
 </p>
@@ -246,7 +246,7 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <p><strong>Senior Girls</strong>
 </p>
-<p><strong>Speed Relay, 6th Position </strong>
+<p><strong>Speed Relay, 6th Position</strong>
 </p>
 <p></p>
 <p>Elua xing Le, 5C</p>
