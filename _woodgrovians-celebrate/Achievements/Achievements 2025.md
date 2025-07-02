@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Achievements
 ---
-<h3><strong>Achievements 2025</strong><br><br>Cognitive</h3>
+<h3><strong>Achievements 2025</strong><br><br>Cognitive </h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -114,6 +114,18 @@ third_nav_title: Achievements
 <p>&nbsp;ADITHRI ANANTHU BARATHAN, 2A</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Asia_Pacific Mathematical Olympiad For Primary Schools (APMOPS)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>BRONZE</strong>
+</p>
+<p></p>
+<p>Ng Zhen Jie Jayden, 6C</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
@@ -201,6 +213,47 @@ third_nav_title: Achievements
 <p><strong>Junior 2 Category</strong>
 <br>50m Butterfly 7<sup>th</sup>
 <br>Gan Chen En, 5B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games Rope Skipping Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>JUNIOR BOYS </strong>
+</p>
+<p></p>
+<p><strong>Speed Double Dutuch, 2nd Position </strong>
+</p>
+<p><strong>Speed Double Under, 6th and 7th Position</strong>
+</p>
+<p><strong>Speed Individual, 5th Position</strong>
+</p>
+<p></p>
+<p>Wang Zuochen, 3A</p>
+<p>Li Mingkai, 4C</p>
+<p>Wong Z Bin, 4E</p>
+<p>Kwok Zhe Hong, 4E</p>
+<p>Oh Sui Diat, 4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games Rope Skipping Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Girls</strong>
+</p>
+<p><strong>Speed Relay, 6th Position </strong>
+</p>
+<p></p>
+<p>Elua xing Le, 5C</p>
+<p>Denise Oh, 5B</p>
+<p>Charlene Seet, 5C</p>
+<p>Ella Ho, 5A</p>
+<p>Lee Wan Xuan, 5A</p>
 </td>
 </tr>
 </tbody>
