@@ -166,10 +166,10 @@ third_nav_title: Achievements
 <p><strong>THIRD</strong>
 </p>
 <p></p>
-<p>QISYA BINTE JURAIMI, 6B</p>
-<p>MUHAMMAD NUFAIEL ZHARFAN BIN MUHAMAD ZAKI, 6C</p>
-<p>MAWADDAH BINTE FEROZ KHAN, 6D</p>
-<p>RINA ZIA AHMED, 6D</p>
+<p>QISYA BINTE JURAIMI, 6B
+<br>MUHAMMAD NUFAIEL ZHARFAN BIN MUHAMAD ZAKI, 6C
+<br>MAWADDAH BINTE FEROZ KHAN, 6D
+<br>RINA ZIA AHMED, 6D</p>
 </td>
 </tr>
 </tbody>
@@ -225,17 +225,15 @@ third_nav_title: Achievements
 </p>
 <p></p>
 <p><strong>Speed Double Dutuch, 2nd Position</strong>
-</p>
-<p><strong>Speed Double Under, 6th and 7th Position</strong>
-</p>
-<p><strong>Speed Individual, 5th Position</strong>
+<br><strong>Speed Double Under, 6th and 7th Position</strong>
+<br><strong>Speed Individual, 5th Position</strong>
 </p>
 <p></p>
-<p>Wang Zuochen, 3A</p>
-<p>Li Mingkai, 4C</p>
-<p>Wong Z Bin, 4E</p>
-<p>Kwok Zhe Hong, 4E</p>
-<p>Oh Sui Diat, 4C</p>
+<p>Wang Zuochen, 3A
+<br>Li Mingkai, 4C
+<br>Wong Z Bin, 4E
+<br>Kwok Zhe Hong, 4E
+<br>Oh Sui Diat, 4C</p>
 </td>
 </tr>
 <tr>
@@ -244,16 +242,14 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Girls</strong>
-</p>
-<p><strong>Speed Relay, 6th Position</strong>
+<p><strong>Senior Girls Speed Relay, 6th Position</strong>
 </p>
 <p></p>
-<p>Elua xing Le, 5C</p>
-<p>Denise Oh, 5B</p>
-<p>Charlene Seet, 5C</p>
-<p>Ella Ho, 5A</p>
-<p>Lee Wan Xuan, 5A</p>
+<p>Elua xing Le, 5C
+<br>Denise Oh, 5B
+<br>Charlene Seet, 5C
+<br>Ella Ho, 5A
+<br>Lee Wan Xuan, 5A</p>
 </td>
 </tr>
 </tbody>
