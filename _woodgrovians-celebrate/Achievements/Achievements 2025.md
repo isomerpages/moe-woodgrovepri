@@ -252,6 +252,44 @@ third_nav_title: Achievements
 <br>Lee Wan Xuan, 5A</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games Rope Skipping Competition  </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Boys </strong>
+<br><strong>Speed Double Dutch, 2nd Position </strong>
+<br><strong>Speed Relay, 4th Position </strong>
+<br><strong>Speed Double Under, 7th Position</strong>
+</p>
+<p></p>
+<p>Muhd Izz Rayqal, 6A
+<br>Eaden Soh, 6D
+<br>Tan Yi Heng, 6D
+<br>G Gautham Arya, 6E
+<br>Yap Hao Xuan, 5C
+<br>Ting Shawn Ann, 5C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games Rope Skipping Competition  </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Boys </strong>
+<br><strong>DIVISION CHAMPIONSHIP, 4TH POSITION</strong>
+</p>
+<p></p>
+<p>Muhd Izz Rayqal, 6A
+<br>Eaden Soh, 6D
+<br>Tan Yi Heng, 6D
+<br>G Gautham Arya, 6E
+<br>Yap Hao Xuan, 5C
+<br>Ting Shawn Ann, 5C</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

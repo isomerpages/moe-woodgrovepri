@@ -20,6 +20,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: WGPS Rhino Exercise 2025
+      subtitle: WOW!
+      id: infopic
+      description: During our recent Exercise RHINO (Run, Hide, Notify Others), our
+        Woodgrovians sprang into action with energy, enthusiasm and tenacity!
+      button: CLICK HERE
+      url: https://youtu.be/eEYdf25mo2E?si=k-NWKQ9vu3igApbI
+      image: /images/WGPS.png
+      alt: Image alt text
+  - infopic:
       title: Library Week @ WGPS
       subtitle: WOW!
       id: infopic
