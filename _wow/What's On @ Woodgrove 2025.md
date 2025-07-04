@@ -4,6 +4,19 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>Our Exercise RHINO</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/eEYdf25mo2E?si=WdEfZWbdOnIGrNME"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Exercise_Rhino.png"></a>
+<p></p>
+<p>During our recent Exercise RHINO (Run, Hide, Notify Others), our Woodgrovians
+sprang into action with energy, enthusiasm and tenacity!</p>
+<p>&nbsp;</p>
+<p>From practising safe hiding techniques to alerting others when needed,
+our Woodgrovians and staff demonstrated safety and emergency readiness.
+Beyond this, it also showed the teamwork, care and readiness to help and
+support one another!</p>
+<p>&nbsp;</p>
+<p>We are proud of how everyone in our Woodgrove family came together to
+stay ready, alert and safe! Great job, Team Woodgrove!</p>
 <h2>Library Week @ WGPS</h2>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/KZS_qz-73Ck?si=III0_pA8cOPqrHD5"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/23.png"></a>
 <p>Woodgrove Primary celebrated Library Week with the heartwarming theme
