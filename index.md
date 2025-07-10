@@ -68,7 +68,7 @@ sections:
         exciting activities for all levels.
       button: Click Here
       url: https://youtu.be/CAtCUJLU_XY?si=pxWsgydZKe00lQXa
-      image: /images/Screenshot_2025_04_15_091451.png
+      image: /images/Hari_Raya_Celebration_2025.gif
       alt: Image alt text
   - infopic:
       title: 2025 Total Defence Day
