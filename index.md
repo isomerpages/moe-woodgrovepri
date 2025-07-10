@@ -99,7 +99,7 @@ sections:
       button: Click Here
       alt: Image alt text
       url: https://youtu.be/EZlcLQ1P4rQ?si=n9Aua6T9u2Mlm7Nj
-      image: /images/Screenshot_2025_02_11_125604.png
+      image: /images/2025_LNY_Celebration__3_.gif
   - infopic:
       title: 2025 Orientation Programme
       subtitle: WOW!
