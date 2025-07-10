@@ -20,6 +20,15 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Woodgrove World Environment Day
+      subtitle: WOW!
+      id: infopic
+      description: Our Green Club Woodgrovians shone at this year’s World Environment
+        Day with their creatively designed upcycling games.
+      button: Click Here
+      url: https://youtu.be/7Afc4g6z2R4?si=l85QQiJypIaO10Ce
+      image: /images/Woodgrove_World_Environment_Day_2025.gif
+  - infopic:
       title: WGPS Rhino Exercise 2025
       subtitle: WOW!
       id: infopic
