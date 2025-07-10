@@ -127,7 +127,7 @@ sections:
         Primary School.
       button: Click Here
       url: https://youtu.be/GJZtD-etpow?si=q0BsQkYJ7LswAyQz
-      image: /images/Screenshot_2025_01_03_120643.png
+      image: /images/videoplayback.gif
       alt: Image alt text
   - resources:
       subtitle: Announcement & News
