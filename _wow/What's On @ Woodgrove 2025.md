@@ -82,9 +82,10 @@ readiness during a crisis. Through these experiences, we developed Woodgrovians
 to be contributors to the society so that they can play their roles in
 keeping Singapore united and strong.</p>
 <p></p>
-<h2>NSG Opening Ceremony 2025</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/pOuvR0Eksk0?si=J_0F4N_p9rhIpA9V"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NSG.png"></a>
-<p></p>
+<h2>NSG Opening Ceremony 2025</h2><a class="isomer-image-wrapper" href="https://youtu.be/pOuvR0Eksk0?si=J_0F4N_p9rhIpA9V"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Untitled_design__5_.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/pOuvR0Eksk0?si=J_0F4N_p9rhIpA9V">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>Woodgrove Primary celebrated the NSG Opening Ceremony 2025 by highlighting
 the connection between character and sporting excellence. Student-athletes
 presented key messages on teamwork, resilience, and discipline, reinforcing
@@ -95,7 +96,9 @@ to champion sportsmanship and perseverance, ensuring every athlete contributes
 to the NSG legacy.</p>
 <p></p>
 <h2>Chinese New Year Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/EZlcLQ1P4rQ?si=-9cGt0f_0hAfSuPT"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025_LNY_Celebration__3_.gif"></a>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/EZlcLQ1P4rQ?si=-9cGt0f_0hAfSuPT"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/EZlcLQ1P4rQ?si=-9cGt0f_0hAfSuPT">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>We welcomed the Year of the Snake with a vibrant Chinese New Year (CNY)
 celebration. On CNY eve, Woodgrovians revelled in an electrifying atmosphere
 that began with an energetic Lion dance, followed by a diverse array of
@@ -110,7 +113,9 @@ Chinese New Year Celebration on 8 Feb. Then at night, our Chinese Dancers
 charmed the Woodgrove residents with their elegant performances bringing
 much joy for all at the Woodgrove Chinese New Year Dinner.</p>
 <h2>2025 Orientation Programme (Day 1 - 3)</h2><a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025_Orientation.gif"></a>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>School Start Orientation Programme</p>
 <p>We kicked off the new school year with our exciting Orientation Programme,
 filled with fun and vibrant activities. On the first day, our Woodgrovians
@@ -130,8 +135,8 @@ to the year.</p>
 <p>We are eager and ready to for more new adventures this year!</p>
 <p></p>
 <p></p>
-<h2>Primary 6 Air Dry Clay Legacy Project</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/DidwFxHf3T0?si=36kZMN_SnMpSePsq"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1234.png"></a>
+<h2>Primary 6 Air Dry Clay Legacy Project</h2><a class="isomer-image-wrapper" href="https://youtu.be/DidwFxHf3T0?si=36kZMN_SnMpSePsq"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.gif"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/DidwFxHf3T0?si=36kZMN_SnMpSePsq"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
 <p>Our 2024 P6 Woodgrovians undertook project of giving and sharing as they
 put their creativity in crafting air-dry clay figurines to warmly welcome
 the 2025 P1 students into the Woodgrove family. Through this initiative,
@@ -140,7 +145,9 @@ the sense of belonging and ensure that our youngest members feel embraced
 as they begin their first steps into primary school. Welcome to the school,
 our P1 Woodgrovians!</p>
 <h2>Welcoming P1 to Our Woodgrove family</h2><a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=yA0JvSEfjd1pEHQL"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_Primary_school.gif"></a>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=yA0JvSEfjd1pEHQL"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=yA0JvSEfjd1pEHQL">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>The first day of school for our Primary One students at Woodgrove Primary
 School was a heartwarming and fun-filled experience, filled with moments
 of joy, curiosity, and connection. The P1 Woodgrovians were warmly welcomed
