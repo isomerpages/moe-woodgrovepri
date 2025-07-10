@@ -107,7 +107,7 @@ sections:
         Programme, filled with fun and vibrant activities.
       button: Click Here
       url: https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A
-      image: /images/Screenshot_2025_01_16_165113.png
+      image: /images/2025_Orientation.gif
       alt: Image alt text
   - infopic:
       title: 2025 P6 Air Dry Clay Legacy Project
@@ -127,7 +127,7 @@ sections:
         Primary School.
       button: Click Here
       url: https://youtu.be/GJZtD-etpow?si=q0BsQkYJ7LswAyQz
-      image: /images/videoplayback.gif
+      image: /images/Woodgrove_Primary_school.gif
       alt: Image alt text
   - resources:
       subtitle: Announcement & News
