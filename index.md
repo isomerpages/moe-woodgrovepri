@@ -28,6 +28,7 @@ sections:
       button: Click Here
       url: https://youtu.be/7Afc4g6z2R4?si=l85QQiJypIaO10Ce
       image: /images/Woodgrove_World_Environment_Day_2025.gif
+      alt: Image alt text
   - infopic:
       title: WGPS Rhino Exercise 2025
       subtitle: WOW!
