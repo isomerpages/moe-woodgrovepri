@@ -48,7 +48,7 @@ sections:
         perspectives.
       button: CLICK HERE
       url: https://youtu.be/KZS_qz-73Ck?si=mWMouLEKGvK1C9Cq
-      image: /images/Screenshot_2025_05_06_130823.png
+      image: /images/WOW_Library_Week_2025__1_.gif
       alt: Image alt text
   - infopic:
       title: 2025 International Friendship Day
