@@ -4,11 +4,22 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>Our Exercise RHINO</h2>
+<h2>Woodgrove World Environment Day</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/7Afc4g6z2R4?si=jSr3XOK_FBO2IkI-"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_World_Environment_Day_2025.gif"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS.gif">
-</div>
+<p><strong>Green Club Members Leading the Way during Woodgrove World Environment Day</strong>
+<br>
+<br>Our Green Club Woodgrovians shone at this year’s World Environment Day
+with their creatively designed upcycling games. Through games such as a
+Snap-style matching game, our Green Club members promoted recycling and
+inspired residents to embrace eco-sustainability.
+<br>
+<br>Beyond outreach, our Woodgrove eco-stewards stepped up with leadership
+and initiative inspiring greener habits and driving meaningful change toward
+a sustainable future. They have indeed lived up to our vision of being
+Contributors and Leaders with Character.</p>
+<h2>Our Exercise RHINO</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/eEYdf25mo2E?si=BPwj43FUSEIUgy7j"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS.gif"></a>
 <p>During our recent Exercise RHINO (Run, Hide, Notify Others), our Woodgrovians
 sprang into action with energy, enthusiasm and tenacity!
 <br>
