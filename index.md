@@ -20,6 +20,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Woodgrove World Environment Day
+      subtitle: WOW!
+      id: infopic
+      description: Our Green Club Woodgrovians shone at this year’s World Environment
+        Day with their creatively designed upcycling games.
+      button: Click Here
+      url: https://youtu.be/7Afc4g6z2R4?si=l85QQiJypIaO10Ce
+      image: /images/Woodgrove_World_Environment_Day_2025.gif
+      alt: Image alt text
+  - infopic:
       title: WGPS Rhino Exercise 2025
       subtitle: WOW!
       id: infopic
@@ -27,7 +37,7 @@ sections:
         Woodgrovians sprang into action with energy, enthusiasm and tenacity!
       button: CLICK HERE
       url: https://youtu.be/eEYdf25mo2E?si=k-NWKQ9vu3igApbI
-      image: /images/WGPS.png
+      image: /images/WGPS.gif
       alt: Image alt text
   - infopic:
       title: Library Week @ WGPS
@@ -38,7 +48,7 @@ sections:
         perspectives.
       button: CLICK HERE
       url: https://youtu.be/KZS_qz-73Ck?si=mWMouLEKGvK1C9Cq
-      image: /images/Screenshot_2025_05_06_130823.png
+      image: /images/WOW_Library_Week_2025__1_.gif
       alt: Image alt text
   - infopic:
       title: 2025 International Friendship Day
@@ -49,7 +59,7 @@ sections:
       button: CLICK Here
       url: https://youtu.be/_Vrd496Uw6U?si=X5Pqf3pPvOgPp2wa
       alt: Image alt text
-      image: /images/Screenshot_2025_04_22_153919.png
+      image: /images/WOW_IFD_2025.gif
   - infopic:
       title: 2025 Hari Raya Celebration
       subtitle: WOW!
@@ -58,7 +68,7 @@ sections:
         exciting activities for all levels.
       button: Click Here
       url: https://youtu.be/CAtCUJLU_XY?si=pxWsgydZKe00lQXa
-      image: /images/Screenshot_2025_04_15_091451.png
+      image: /images/Hari_Raya_Celebration_2025.gif
       alt: Image alt text
   - infopic:
       title: 2025 Total Defence Day
@@ -68,7 +78,7 @@ sections:
         interactive and engaging activities.
       button: Click here
       url: https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg
-      image: /images/Screenshot_2025_02_25_160346.png
+      image: /images/TDD_WOW_Video_2025.gif
       alt: Image alt text
   - infopic:
       title: 2025 NSG Opening Ceremony
@@ -89,7 +99,7 @@ sections:
       button: Click Here
       alt: Image alt text
       url: https://youtu.be/EZlcLQ1P4rQ?si=n9Aua6T9u2Mlm7Nj
-      image: /images/Screenshot_2025_02_11_125604.png
+      image: /images/2025_LNY_Celebration__3_.gif
   - infopic:
       title: 2025 Orientation Programme
       subtitle: WOW!
@@ -98,7 +108,7 @@ sections:
         Programme, filled with fun and vibrant activities.
       button: Click Here
       url: https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A
-      image: /images/Screenshot_2025_01_16_165113.png
+      image: /images/2025_Orientation.gif
       alt: Image alt text
   - infopic:
       title: 2025 P6 Air Dry Clay Legacy Project
@@ -109,7 +119,7 @@ sections:
       button: Click Here
       alt: Image alt text
       url: https://www.youtube.com/watch?v=DidwFxHf3T0
-      image: /images/Screenshot_2025_01_07_164513.png
+      image: /images/Untitled_design__2_.gif
   - infopic:
       title: 2025 Welcoming P1 to Our Woodgrove family
       subtitle: WOW!
@@ -118,7 +128,7 @@ sections:
         Primary School.
       button: Click Here
       url: https://youtu.be/GJZtD-etpow?si=q0BsQkYJ7LswAyQz
-      image: /images/Screenshot_2025_01_03_120643.png
+      image: /images/Woodgrove_Primary_school.gif
       alt: Image alt text
   - resources:
       subtitle: Announcement & News

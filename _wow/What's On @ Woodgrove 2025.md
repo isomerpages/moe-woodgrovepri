@@ -4,9 +4,25 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>Our Exercise RHINO</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/eEYdf25mo2E?si=WdEfZWbdOnIGrNME"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Exercise_Rhino.png"></a>
-<p></p>
+<h2>Woodgrove World Environment Day</h2><a class="isomer-image-wrapper" href="https://youtu.be/7Afc4g6z2R4?si=jSr3XOK_FBO2IkI-"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_World_Environment_Day_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/7Afc4g6z2R4?si=jSr3XOK_FBO2IkI-">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p><strong>Green Club Members Leading the Way during Woodgrove World Environment Day</strong>
+<br>
+<br>Our Green Club Woodgrovians shone at this year’s World Environment Day
+with their creatively designed upcycling games. Through games such as a
+Snap-style matching game, our Green Club members promoted recycling and
+inspired residents to embrace eco-sustainability.
+<br>
+<br>Beyond outreach, our Woodgrove eco-stewards stepped up with leadership
+and initiative inspiring greener habits and driving meaningful change toward
+a sustainable future. They have indeed lived up to our vision of being
+Contributors and Leaders with Character.</p>
+<h2>Our Exercise RHINO</h2><a class="isomer-image-wrapper" href="https://youtu.be/eEYdf25mo2E?si=BPwj43FUSEIUgy7j"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/eEYdf25mo2E?si=BPwj43FUSEIUgy7j">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>During our recent Exercise RHINO (Run, Hide, Notify Others), our Woodgrovians
 sprang into action with energy, enthusiasm and tenacity!
 <br>
@@ -16,11 +32,12 @@ our Woodgrovians and staff demonstrated safety and emergency readiness.
 Beyond this, it also showed the teamwork, care and readiness to help and
 support one another!
 <br>
-</p>
-<p>We are proud of how everyone in our Woodgrove family came together to
+<br>We are proud of how everyone in our Woodgrove family came together to
 stay ready, alert and safe! Great job, Team Woodgrove!</p>
-<h2>Library Week @ WGPS</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/KZS_qz-73Ck?si=III0_pA8cOPqrHD5"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/23.png"></a>
+<h2>Library Week @ WGPS</h2><a class="isomer-image-wrapper" href="https://youtu.be/KZS_qz-73Ck?si=III0_pA8cOPqrHD5"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WOW_Library_Week_2025__1_.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/KZS_qz-73Ck?si=III0_pA8cOPqrHD5">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>Woodgrove Primary celebrated Library Week with the heartwarming theme
 'Stories Connect Us', highlighting how stories bridge cultures, experiences
 and perspectives. Engaging activities included Book Borrowing Bingo and
@@ -31,8 +48,10 @@ also had fun solving brain teasers and word search.</p>
 Experience Wall, where Woodgrovians shared fascinating stories from their
 favourite storybooks and captivated their audiences through their storytelling
 skills.</p>
-<h2>International Friendship Day</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/_Vrd496Uw6U?si=X5Pqf3pPvOgPp2wa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/15.png"></a>
+<h2>International Friendship Day</h2><a class="isomer-image-wrapper" href="https://youtu.be/_Vrd496Uw6U?si=X5Pqf3pPvOgPp2wa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WOW_IFD_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/_Vrd496Uw6U?si=X5Pqf3pPvOgPp2wa">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>Our school celebrated International Friendship Day with vibrant activities,
 including cultural sharing by international students, a heartwarming multi-language
 rendition of Home, and engaging fringe activities such as ketupat making,
@@ -42,7 +61,10 @@ recess.</p>
 from Hong Kong, fostering friendship and cross-cultural understanding among
 Woodgrovians and the visitors to the school.</p>
 <p></p>
-<h2>Hari Raya Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/CAtCUJLU_XY?si=pxWsgydZKe00lQXa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/dyum.png"></a>
+<h2>Hari Raya Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/CAtCUJLU_XY?si=pxWsgydZKe00lQXa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_Celebration_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/CAtCUJLU_XY?si=pxWsgydZKe00lQXa">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>Woodgrove Primary celebrated Hari Raya with much joy, featuring exciting
 activities for all levels. During CCE lesson, Woodgrovians participated
 in colouring activities, postcard writing and poetry translation to their
@@ -50,8 +72,8 @@ respective Mother Tongue languages. The festive spirit filled the school,
 fostering unity and appreciation of the Malay culture. The celebration
 culminated in a lively concert, showcasing music, dance, and storytelling
 performances.</p>
-<h2>Total Defence Day 2025</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/13.png"></a>
+<h2>Total Defence Day 2025</h2><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/TDD_WOW_Video_2025.gif"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
 <p>Woodgrove Primary commemorated Total Defence Day with a myriad of interactive
 and engaging activities to educate Woodgrovians about the six pillars of
 Total Defence.</p>
@@ -60,9 +82,10 @@ readiness during a crisis. Through these experiences, we developed Woodgrovians
 to be contributors to the society so that they can play their roles in
 keeping Singapore united and strong.</p>
 <p></p>
-<h2>NSG Opening Ceremony 2025</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/pOuvR0Eksk0?si=J_0F4N_p9rhIpA9V"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NSG.png"></a>
-<p></p>
+<h2>NSG Opening Ceremony 2025</h2><a class="isomer-image-wrapper" href="https://youtu.be/pOuvR0Eksk0?si=J_0F4N_p9rhIpA9V"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Untitled_design__5_.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/pOuvR0Eksk0?si=J_0F4N_p9rhIpA9V">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>Woodgrove Primary celebrated the NSG Opening Ceremony 2025 by highlighting
 the connection between character and sporting excellence. Student-athletes
 presented key messages on teamwork, resilience, and discipline, reinforcing
@@ -72,8 +95,10 @@ another. In Singapore’s 60th year of independence, Woodgrove continues
 to champion sportsmanship and perseverance, ensuring every athlete contributes
 to the NSG legacy.</p>
 <p></p>
-<h2>Chinese New Year Celebration</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/EZlcLQ1P4rQ?si=EhCqg21kT_8tq54h"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Pic_CNY.png"></a>
+<h2>Chinese New Year Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/EZlcLQ1P4rQ?si=-9cGt0f_0hAfSuPT"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025_LNY_Celebration__3_.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/EZlcLQ1P4rQ?si=-9cGt0f_0hAfSuPT">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>We welcomed the Year of the Snake with a vibrant Chinese New Year (CNY)
 celebration. On CNY eve, Woodgrovians revelled in an electrifying atmosphere
 that began with an energetic Lion dance, followed by a diverse array of
@@ -87,7 +112,10 @@ residents with their renditions of CNY songs during the Fam K@North West
 Chinese New Year Celebration on 8 Feb. Then at night, our Chinese Dancers
 charmed the Woodgrove residents with their elegant performances bringing
 much joy for all at the Woodgrove Chinese New Year Dinner.</p>
-<h2>2025 Orientation Programme (Day 1 - 3)</h2><a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/rdtfyyjhdftgj.png"></a>
+<h2>2025 Orientation Programme (Day 1 - 3)</h2><a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025_Orientation.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>School Start Orientation Programme</p>
 <p>We kicked off the new school year with our exciting Orientation Programme,
 filled with fun and vibrant activities. On the first day, our Woodgrovians
@@ -107,8 +135,8 @@ to the year.</p>
 <p>We are eager and ready to for more new adventures this year!</p>
 <p></p>
 <p></p>
-<h2>Primary 6 Air Dry Clay Legacy Project</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/DidwFxHf3T0?si=36kZMN_SnMpSePsq"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1234.png"></a>
+<h2>Primary 6 Air Dry Clay Legacy Project</h2><a class="isomer-image-wrapper" href="https://youtu.be/DidwFxHf3T0?si=36kZMN_SnMpSePsq"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.gif"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/DidwFxHf3T0?si=36kZMN_SnMpSePsq"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
 <p>Our 2024 P6 Woodgrovians undertook project of giving and sharing as they
 put their creativity in crafting air-dry clay figurines to warmly welcome
 the 2025 P1 students into the Woodgrove family. Through this initiative,
@@ -116,9 +144,10 @@ we hope to create a caring and enabling school environment to strengthen
 the sense of belonging and ensure that our youngest members feel embraced
 as they begin their first steps into primary school. Welcome to the school,
 our P1 Woodgrovians!</p>
-<h2>Welcoming P1 to Our Woodgrove family</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=SFPoX-0IFaaLBSie"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/123.png"></a>
-<p></p>
+<h2>Welcoming P1 to Our Woodgrove family</h2><a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=yA0JvSEfjd1pEHQL"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_Primary_school.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=yA0JvSEfjd1pEHQL">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>The first day of school for our Primary One students at Woodgrove Primary
 School was a heartwarming and fun-filled experience, filled with moments
 of joy, curiosity, and connection. The P1 Woodgrovians were warmly welcomed
