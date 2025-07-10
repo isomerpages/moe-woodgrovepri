@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>Woodgrove World Environment Day</h2><a class="isomer-image-wrapper" href="https://youtu.be/7Afc4g6z2R4?si=jSr3XOK_FBO2IkI-"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_World_Environment_Day_2025.gif"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="https://youtu.be/7Afc4g6z2R4?si=jSr3XOK_FBO2IkI-">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p><strong>Green Club Members Leading the Way during Woodgrove World Environment Day</strong>
 <br>
 <br>Our Green Club Woodgrovians shone at this year’s World Environment Day
@@ -18,6 +20,9 @@ and initiative inspiring greener habits and driving meaningful change toward
 a sustainable future. They have indeed lived up to our vision of being
 Contributors and Leaders with Character.</p>
 <h2>Our Exercise RHINO</h2><a class="isomer-image-wrapper" href="https://youtu.be/eEYdf25mo2E?si=BPwj43FUSEIUgy7j"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/eEYdf25mo2E?si=BPwj43FUSEIUgy7j">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>During our recent Exercise RHINO (Run, Hide, Notify Others), our Woodgrovians
 sprang into action with energy, enthusiasm and tenacity!
 <br>
@@ -30,6 +35,9 @@ support one another!
 <br>We are proud of how everyone in our Woodgrove family came together to
 stay ready, alert and safe! Great job, Team Woodgrove!</p>
 <h2>Library Week @ WGPS</h2><a class="isomer-image-wrapper" href="https://youtu.be/KZS_qz-73Ck?si=III0_pA8cOPqrHD5"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WOW_Library_Week_2025__1_.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/KZS_qz-73Ck?si=III0_pA8cOPqrHD5">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>Woodgrove Primary celebrated Library Week with the heartwarming theme
 'Stories Connect Us', highlighting how stories bridge cultures, experiences
 and perspectives. Engaging activities included Book Borrowing Bingo and
@@ -40,8 +48,10 @@ also had fun solving brain teasers and word search.</p>
 Experience Wall, where Woodgrovians shared fascinating stories from their
 favourite storybooks and captivated their audiences through their storytelling
 skills.</p>
-<h2>International Friendship Day</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/_Vrd496Uw6U?si=X5Pqf3pPvOgPp2wa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/15.png"></a>
+<h2>International Friendship Day</h2><a class="isomer-image-wrapper" href="https://youtu.be/_Vrd496Uw6U?si=X5Pqf3pPvOgPp2wa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WOW_IFD_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/_Vrd496Uw6U?si=X5Pqf3pPvOgPp2wa">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>Our school celebrated International Friendship Day with vibrant activities,
 including cultural sharing by international students, a heartwarming multi-language
 rendition of Home, and engaging fringe activities such as ketupat making,
@@ -51,7 +61,10 @@ recess.</p>
 from Hong Kong, fostering friendship and cross-cultural understanding among
 Woodgrovians and the visitors to the school.</p>
 <p></p>
-<h2>Hari Raya Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/CAtCUJLU_XY?si=pxWsgydZKe00lQXa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/dyum.png"></a>
+<h2>Hari Raya Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/CAtCUJLU_XY?si=pxWsgydZKe00lQXa"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_Celebration_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/CAtCUJLU_XY?si=pxWsgydZKe00lQXa">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>Woodgrove Primary celebrated Hari Raya with much joy, featuring exciting
 activities for all levels. During CCE lesson, Woodgrovians participated
 in colouring activities, postcard writing and poetry translation to their
