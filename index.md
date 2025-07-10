@@ -119,7 +119,7 @@ sections:
       button: Click Here
       alt: Image alt text
       url: https://www.youtube.com/watch?v=DidwFxHf3T0
-      image: /images/Screenshot_2025_01_07_164513.png
+      image: /images/Untitled_design__2_.gif
   - infopic:
       title: 2025 Welcoming P1 to Our Woodgrove family
       subtitle: WOW!
