@@ -4,8 +4,7 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>Woodgrove World Environment Day</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/7Afc4g6z2R4?si=jSr3XOK_FBO2IkI-"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_World_Environment_Day_2025.gif"></a>
+<h2>Woodgrove World Environment Day</h2><a class="isomer-image-wrapper" href="https://youtu.be/7Afc4g6z2R4?si=jSr3XOK_FBO2IkI-"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_World_Environment_Day_2025.gif"></a>
 <p></p>
 <p><strong>Green Club Members Leading the Way during Woodgrove World Environment Day</strong>
 <br>
@@ -18,8 +17,7 @@ inspired residents to embrace eco-sustainability.
 and initiative inspiring greener habits and driving meaningful change toward
 a sustainable future. They have indeed lived up to our vision of being
 Contributors and Leaders with Character.</p>
-<h2>Our Exercise RHINO</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/eEYdf25mo2E?si=BPwj43FUSEIUgy7j"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS.gif"></a>
+<h2>Our Exercise RHINO</h2><a class="isomer-image-wrapper" href="https://youtu.be/eEYdf25mo2E?si=BPwj43FUSEIUgy7j"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS.gif"></a>
 <p>During our recent Exercise RHINO (Run, Hide, Notify Others), our Woodgrovians
 sprang into action with energy, enthusiasm and tenacity!
 <br>
@@ -62,8 +60,7 @@ respective Mother Tongue languages. The festive spirit filled the school,
 fostering unity and appreciation of the Malay culture. The celebration
 culminated in a lively concert, showcasing music, dance, and storytelling
 performances.</p>
-<h2>Total Defence Day 2025</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/TDD_WOW_Video_2025.gif"></a>
+<h2>Total Defence Day 2025</h2><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/TDD_WOW_Video_2025.gif"></a>
 <p>Woodgrove Primary commemorated Total Defence Day with a myriad of interactive
 and engaging activities to educate Woodgrovians about the six pillars of
 Total Defence.</p>
@@ -99,7 +96,8 @@ residents with their renditions of CNY songs during the Fam K@North West
 Chinese New Year Celebration on 8 Feb. Then at night, our Chinese Dancers
 charmed the Woodgrove residents with their elegant performances bringing
 much joy for all at the Woodgrove Chinese New Year Dinner.</p>
-<h2>2025 Orientation Programme (Day 1 - 3)</h2><a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/rdtfyyjhdftgj.png"></a>
+<h2>2025 Orientation Programme (Day 1 - 3)</h2><a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025_Orientation.gif"></a>
+<p></p>
 <p>School Start Orientation Programme</p>
 <p>We kicked off the new school year with our exciting Orientation Programme,
 filled with fun and vibrant activities. On the first day, our Woodgrovians
@@ -129,8 +127,9 @@ the sense of belonging and ensure that our youngest members feel embraced
 as they begin their first steps into primary school. Welcome to the school,
 our P1 Woodgrovians!</p>
 <h2>Welcoming P1 to Our Woodgrove family</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=SFPoX-0IFaaLBSie"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/123.png"></a>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_Primary_school.gif">
+</div>
 <p>The first day of school for our Primary One students at Woodgrove Primary
 School was a heartwarming and fun-filled experience, filled with moments
 of joy, curiosity, and connection. The P1 Woodgrovians were warmly welcomed
