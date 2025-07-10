@@ -63,7 +63,7 @@ fostering unity and appreciation of the Malay culture. The celebration
 culminated in a lively concert, showcasing music, dance, and storytelling
 performances.</p>
 <h2>Total Defence Day 2025</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/13.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/TDD_WOW_Video_2025.gif"></a>
 <p>Woodgrove Primary commemorated Total Defence Day with a myriad of interactive
 and engaging activities to educate Woodgrovians about the six pillars of
 Total Defence.</p>
