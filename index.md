@@ -36,7 +36,7 @@ sections:
         Woodgrovians sprang into action with energy, enthusiasm and tenacity!
       button: CLICK HERE
       url: https://youtu.be/eEYdf25mo2E?si=k-NWKQ9vu3igApbI
-      image: /images/WGPS.png
+      image: /images/WGPS.gif
       alt: Image alt text
   - infopic:
       title: Library Week @ WGPS
