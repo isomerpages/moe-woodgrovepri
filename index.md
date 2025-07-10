@@ -59,7 +59,7 @@ sections:
       button: CLICK Here
       url: https://youtu.be/_Vrd496Uw6U?si=X5Pqf3pPvOgPp2wa
       alt: Image alt text
-      image: /images/Screenshot_2025_04_22_153919.png
+      image: /images/WOW_IFD_2025.gif
   - infopic:
       title: 2025 Hari Raya Celebration
       subtitle: WOW!
