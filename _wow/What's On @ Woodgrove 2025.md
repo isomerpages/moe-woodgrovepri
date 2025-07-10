@@ -60,6 +60,7 @@ fostering unity and appreciation of the Malay culture. The celebration
 culminated in a lively concert, showcasing music, dance, and storytelling
 performances.</p>
 <h2>Total Defence Day 2025</h2><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/TDD_WOW_Video_2025.gif"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
 <p>Woodgrove Primary commemorated Total Defence Day with a myriad of interactive
 and engaging activities to educate Woodgrovians about the six pillars of
 Total Defence.</p>
@@ -81,6 +82,7 @@ to champion sportsmanship and perseverance, ensuring every athlete contributes
 to the NSG legacy.</p>
 <p></p>
 <h2>Chinese New Year Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/EZlcLQ1P4rQ?si=-9cGt0f_0hAfSuPT"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025_LNY_Celebration__3_.gif"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/EZlcLQ1P4rQ?si=-9cGt0f_0hAfSuPT"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
 <p>We welcomed the Year of the Snake with a vibrant Chinese New Year (CNY)
 celebration. On CNY eve, Woodgrovians revelled in an electrifying atmosphere
 that began with an energetic Lion dance, followed by a diverse array of
@@ -95,7 +97,7 @@ Chinese New Year Celebration on 8 Feb. Then at night, our Chinese Dancers
 charmed the Woodgrove residents with their elegant performances bringing
 much joy for all at the Woodgrove Chinese New Year Dinner.</p>
 <h2>2025 Orientation Programme (Day 1 - 3)</h2><a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025_Orientation.gif"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/Y6mAdzIz9wo?si=pSREgEVRuBHqzC2A"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
 <p>School Start Orientation Programme</p>
 <p>We kicked off the new school year with our exciting Orientation Programme,
 filled with fun and vibrant activities. On the first day, our Woodgrovians
@@ -124,11 +126,8 @@ we hope to create a caring and enabling school environment to strengthen
 the sense of belonging and ensure that our youngest members feel embraced
 as they begin their first steps into primary school. Welcome to the school,
 our P1 Woodgrovians!</p>
-<h2>Welcoming P1 to Our Woodgrove family</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_Primary_school.gif">
-</div>
-<p></p>
+<h2>Welcoming P1 to Our Woodgrove family</h2><a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=yA0JvSEfjd1pEHQL"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_Primary_school.gif"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/GJZtD-etpow?si=yA0JvSEfjd1pEHQL"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
 <p>The first day of school for our Primary One students at Woodgrove Primary
 School was a heartwarming and fun-filled experience, filled with moments
 of joy, curiosity, and connection. The P1 Woodgrovians were warmly welcomed
