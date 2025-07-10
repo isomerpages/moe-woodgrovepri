@@ -81,10 +81,7 @@ another. In Singapore’s 60th year of independence, Woodgrove continues
 to champion sportsmanship and perseverance, ensuring every athlete contributes
 to the NSG legacy.</p>
 <p></p>
-<h2>Chinese New Year Celebration</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025_LNY_Celebration__3_.gif">
-</div>
+<h2>Chinese New Year Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/EZlcLQ1P4rQ?si=-9cGt0f_0hAfSuPT"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025_LNY_Celebration__3_.gif"></a>
 <p>We welcomed the Year of the Snake with a vibrant Chinese New Year (CNY)
 celebration. On CNY eve, Woodgrovians revelled in an electrifying atmosphere
 that began with an energetic Lion dance, followed by a diverse array of
