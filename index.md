@@ -77,7 +77,7 @@ sections:
         interactive and engaging activities.
       button: Click here
       url: https://youtu.be/Bp1pKITqhEQ?si=vgiV5s9alWgwLLAg
-      image: /images/Screenshot_2025_02_25_160346.png
+      image: /images/TDD_WOW_Video_2025.gif
       alt: Image alt text
   - infopic:
       title: 2025 NSG Opening Ceremony
