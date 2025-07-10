@@ -29,8 +29,7 @@ support one another!
 <br>
 <br>We are proud of how everyone in our Woodgrove family came together to
 stay ready, alert and safe! Great job, Team Woodgrove!</p>
-<h2>Library Week @ WGPS</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/KZS_qz-73Ck?si=III0_pA8cOPqrHD5"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/23.png"></a>
+<h2>Library Week @ WGPS</h2><a class="isomer-image-wrapper" href="https://youtu.be/KZS_qz-73Ck?si=III0_pA8cOPqrHD5"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WOW_Library_Week_2025__1_.gif"></a>
 <p>Woodgrove Primary celebrated Library Week with the heartwarming theme
 'Stories Connect Us', highlighting how stories bridge cultures, experiences
 and perspectives. Engaging activities included Book Borrowing Bingo and
@@ -129,6 +128,7 @@ our P1 Woodgrovians!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_Primary_school.gif">
 </div>
+<p></p>
 <p>The first day of school for our Primary One students at Woodgrove Primary
 School was a heartwarming and fun-filled experience, filled with moments
 of joy, curiosity, and connection. The P1 Woodgrovians were warmly welcomed
