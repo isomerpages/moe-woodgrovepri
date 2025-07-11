@@ -4,6 +4,16 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>SOAR Higher, Together!</h2><a class="isomer-image-wrapper" href="https://youtu.be/7-eTqFJcbuw?si=5hp-Z54fAMte4hXg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Learning_Festival_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/7-eTqFJcbuw?si=5hp-Z54fAMte4hXg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>Woodgrove Primary School welcomed students back from June break with an
+exciting three-day Learning Festival to start Term 3. Our Woodgrovians
+immersed themselves in diverse learning experiences that sparked creativity
+and built resilience. Through hands-on activities and interactive challenges,
+our Woodgrovians demonstrated what it means to S.O.A.R - Seizing Opportunities
+and Aspirations Realised.</p>
 <h2>Woodgrove World Environment Day</h2><a class="isomer-image-wrapper" href="https://youtu.be/7Afc4g6z2R4?si=jSr3XOK_FBO2IkI-"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_World_Environment_Day_2025.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/7Afc4g6z2R4?si=jSr3XOK_FBO2IkI-">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">

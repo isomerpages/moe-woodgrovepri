@@ -20,6 +20,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: SOAR Higher, Together!
+      subtitle: WOW!
+      id: infopic
+      description: Woodgrove Primary School welcomed students back from June break
+        with an exciting three-day Learning Festival to start Term 3.
+      button: Click Here
+      url: https://youtu.be/7-eTqFJcbuw?si=5hp-Z54fAMte4hXg
+      image: /images/Learning_Festival_2025.gif
+      alt: Image alt text
+  - infopic:
       title: Woodgrove World Environment Day
       subtitle: WOW!
       id: infopic
