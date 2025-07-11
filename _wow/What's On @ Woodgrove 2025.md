@@ -4,13 +4,10 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>SOAR Higher, Together!</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Learning_Festival_2025.gif">
-</div>
-<div class="isomer-image-wrapper">
+<h2>SOAR Higher, Together!</h2><a class="isomer-image-wrapper" href="https://youtu.be/7-eTqFJcbuw?si=5hp-Z54fAMte4hXg"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Learning_Festival_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/7-eTqFJcbuw?si=5hp-Z54fAMte4hXg">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
-</div>
+</a>
 <p>Woodgrove Primary School welcomed students back from June break with an
 exciting three-day Learning Festival to start Term 3. Our Woodgrovians
 immersed themselves in diverse learning experiences that sparked creativity
