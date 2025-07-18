@@ -26,7 +26,7 @@ sections:
       description: Introducing a special WOW! produced and made by our P6 Student
         Councillors, Ashley Chng (6D) and Queck Jing En (6C)!
       button: CLICK HERE
-      url: https://youtu.be/x2xz5na72V8
+      url: https://youtu.be/x2xz5na72V8?si=nfvw3UmpG9OM7TDy
       image: /images/Untitled_design.gif
       alt: Image alt text
   - infopic:
