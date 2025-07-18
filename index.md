@@ -20,7 +20,7 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
-      title: Student Leadership 2025
+      title: A P6 Student Councillors' Production
       subtitle: WOW!
       id: infopic
       description: Introducing a special WOW! produced and made by our P6 Student
