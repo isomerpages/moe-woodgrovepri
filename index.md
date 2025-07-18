@@ -20,6 +20,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Student Leadership
+      subtitle: WOW!
+      id: infopic
+      description: Introducing a special WOW! produced and made by our P6 Student
+        Councillors, Ashley Chng (6D) and Queck Jing En (6C)!
+      button: CLICK HERE
+      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      image: /images/Untitled_design.gif
+      alt: Image alt text
+  - infopic:
       title: SOAR Higher, Together!
       subtitle: WOW!
       id: infopic
