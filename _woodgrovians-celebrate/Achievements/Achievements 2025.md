@@ -206,10 +206,6 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Junior 1 Category</strong>
-<br>25m Backstroke 1<sup>st</sup>
-<br>Lee Yu An, 4C</p>
-<p>&nbsp;</p>
 <p><strong>Junior 2 Category</strong>
 <br>50m Butterfly 7<sup>th</sup>
 <br>Gan Chen En, 5B</p>
@@ -254,7 +250,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>National School Games Rope Skipping Competition  </strong>
+<p><strong>National School Games Rope Skipping Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -274,7 +270,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>National School Games Rope Skipping Competition  </strong>
+<p><strong>National School Games Rope Skipping Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
