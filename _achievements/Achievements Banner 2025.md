@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_108_rope_senior_boy_f_v1.jpg">
 </div>
@@ -38,7 +39,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_101_NSG_Swimming_Competition_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_101_NSG_Swimming_Competition_2025_v2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
