@@ -4,7 +4,7 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h1>Student Leadership</h1><a class="isomer-image-wrapper" href="https://youtu.be/x2xz5na72V8?si=nfvw3UmpG9OM7TDy"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Untitled_design.gif"></a>
+<h1>A P6 Student Councillors' Production</h1><a class="isomer-image-wrapper" href="https://youtu.be/x2xz5na72V8?si=nfvw3UmpG9OM7TDy"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Untitled_design.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/x2xz5na72V8?si=nfvw3UmpG9OM7TDy">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
 </a>
