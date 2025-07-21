@@ -4,6 +4,15 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h1>P5 Woodgrovians Celebrate the Singapore Spirit at NE Show 2025</h1><a class="isomer-image-wrapper" href="https://youtu.be/UTkyj7UbybQ?si=ltwdnNuz9lGKPCT-"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NE_Show_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/UTkyj7UbybQ?si=ltwdnNuz9lGKPCT-">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>Our P5 Woodgrovians had a memorable time celebrating the Singapore spirit
+at the NE Show on 12 July. Amidst the sea of red, our Woodgrovians stood
+united as they joined thousands in cheering for our nation. The high-energy
+performances and impressive parade segment wowed everyone, giving them
+a truly exciting preview of our National Day celebrations.</p>
 <h1>A P6 Student Councillors' Production</h1><a class="isomer-image-wrapper" href="https://youtu.be/x2xz5na72V8?si=nfvw3UmpG9OM7TDy"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Untitled_design.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/x2xz5na72V8?si=nfvw3UmpG9OM7TDy">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">

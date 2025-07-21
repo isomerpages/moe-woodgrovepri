@@ -20,6 +20,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: P5 WGPS Celebrate the Singapore Spirit at NE Show 2025
+      subtitle: WOW!
+      id: infopic
+      description: Our P5 Woodgrovians had a memorable time celebrating the Singapore
+        spirit at the NE Show on 12 July.
+      button: CLICK HERE
+      url: https://youtu.be/UTkyj7UbybQ?si=cVfTtQkXvNyDicTN
+      image: /images/NE_Show_2025.gif
+      alt: Image alt text
+  - infopic:
       title: A P6 Student Councillors' Production
       subtitle: WOW!
       id: infopic
