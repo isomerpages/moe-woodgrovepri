@@ -170,19 +170,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Saripah Bte Mohamad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:saripah_bte_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">saripah_bte_mohamad@schools.gov.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
