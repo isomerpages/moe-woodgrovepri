@@ -30,6 +30,17 @@ description: ""
 <h2>Discover our Woodgrovian’s Experience for our P1s</h2>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Curious to find out more about our Woodgrovian’s Experience?
+<br>Click here for our What’s On @ Woodgrove for more videos: Link to WOW</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h1><br></h1>
