@@ -50,7 +50,11 @@ their exciting first steps in primary school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h2>Discover our Woodgrovian’s Experience for our P1s</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_Beige_Modern_Sunshine_Instagram_Post.png">
+</div>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
