@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: (NEW!) For Potential P1 Parents
           description: ""
-          url: ""
+          url: /for-potential-p1-parents/
         - title: What's On @ Woodgrove!
           description: (WOW!)
           url: /wow/permalink/
