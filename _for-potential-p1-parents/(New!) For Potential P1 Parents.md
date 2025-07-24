@@ -5,13 +5,33 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>For Potential P1 Parents</strong></h1>
-<p></p>
+<p><strong>Welcome to Our Woodgrove Family</strong>
+</p>
+<p>&nbsp;Dear Potential P1 Parents / Guardians,
+<br>As you consider the next step in your child’s / ward’s learning journey,
+we invite you to join us on this virtual experience as you catch a glimpse
+of how we help <strong>Every Woodgrovian Shines</strong> through our Woodgrovian
+Experience.
+<br>
+<br>At Woodgrove, we create a caring and vibrant environment where your child
+can grow in confidence, develop character, and shine in his or her own
+unique way.</p>
+<p>We look forward to partnering with you to nurture your little ones through
+their exciting first steps in primary school.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -22,7 +42,10 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<h3>Begin your journey with our virtual school tour.</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/See_what_your_tech_doesn_t_show_2.png">
+</div>
 </th>
 </tr>
 <tr>
