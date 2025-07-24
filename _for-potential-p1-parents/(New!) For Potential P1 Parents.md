@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>For Potential P1 Parents</strong></h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Woodgrove_Primary_Welcomes_You_3.gif">
+</div>
 <p><strong>Welcome to Our Woodgrove Family</strong>
 </p>
 <p>&nbsp;Dear Potential P1 Parents / Guardians,
@@ -24,14 +28,6 @@ their exciting first steps in primary school.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -55,17 +51,27 @@ their exciting first steps in primary school.</p>
 </div>
 <p></p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Curious to find out more about our Woodgrovian’s Experience?
 <br>Click here for our What’s On @ Woodgrove for more videos: Link to WOW</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Curious to find out about what do we celebrate? Take a look at our achievement:<strong> </strong>Link
+to Achievement with Banners Shown</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>We warmly welcome you to join the Woodgrove Family! Let’s partner together
+in making your child’s learning journey a joyful and meaningful one. In
+Woodgrove Primary, <em>Every Woodgrovian Shines. “Every Woodgrovian Shines in different font style”</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Have any question, connect with us! </strong>Link to Form SG</p>
 </td>
 </tr>
 </tbody>
