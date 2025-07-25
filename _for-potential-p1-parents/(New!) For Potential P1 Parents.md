@@ -21,10 +21,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__1_.gif">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/tZD4ccaeP8w?si=jMU3IZPRyTYnCXrD"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__1_.gif"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
 </div>
@@ -44,13 +41,14 @@ description: ""
 <p></p>
 <p></p>
 <p>Curious to find out more about our Woodgrovian’s Experience?
-<br>Click here for our What’s On @ Woodgrove for more videos: Link to WOW</p>
+<br>Click here for our What’s On @ Woodgrove for more videos: Link to <a href="https://youtu.be/tZD4ccaeP8w?si=jMU3IZPRyTYnCXrD" rel="noopener nofollow" target="_blank">WOW!</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Curious to find out about what do we celebrate? Take a look at our achievement:<strong> </strong>Link
-to Achievement with Banners Shown</p>
+to <a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener nofollow" target="_blank">Achievement with Banners</a> Shown</p>
 </td>
 </tr>
 <tr>
