@@ -89,7 +89,7 @@ Woodgrove Primary, <strong><em>Every Woodgrovian Shines</em></strong><em>.</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Have any question, connect with us! </strong>Link to Form SG</p>
+<p>Have any question, connect with us! (Link to Form SG)</p>
 </td>
 </tr>
 </tbody>
