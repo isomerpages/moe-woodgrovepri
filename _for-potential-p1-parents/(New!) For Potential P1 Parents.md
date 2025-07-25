@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>For Potential P1 Parents</strong></h1>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Woodgrove_Primary_Welcomes_You_3.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Woodgrove_Primary_Welcomes_You_4.gif">
 </div>
 <p><strong>Welcome to Our Woodgrove Family</strong>
 </p>
