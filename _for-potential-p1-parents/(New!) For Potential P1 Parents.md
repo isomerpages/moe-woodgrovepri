@@ -41,14 +41,15 @@ description: ""
 <p></p>
 <p></p>
 <p>Curious to find out more about our Woodgrovian’s Experience?
-<br>Click here for our What’s On @ Woodgrove for more videos: Link to <a href="https://youtu.be/tZD4ccaeP8w?si=jMU3IZPRyTYnCXrD" rel="noopener nofollow" target="_blank">WOW!</a>
+<br>Click here for our What’s On @ Woodgrove for more videos: <a href="https://youtu.be/tZD4ccaeP8w?si=jMU3IZPRyTYnCXrD" rel="noopener nofollow" target="_blank">WOW!</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Curious to find out about what do we celebrate? Take a look at our achievement:<strong> </strong>Link
-to <a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener nofollow" target="_blank">Achievement with Banners</a> Shown</p>
+<p>Curious to find out about how do we celebrate? Take a look at our achievement:
+<a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener nofollow" target="_blank">Celebrate Our Success</a>
+</p>
 </td>
 </tr>
 <tr>
