@@ -22,9 +22,9 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/tZD4ccaeP8w?si=jMU3IZPRyTYnCXrD"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__1_.gif"></a>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="https://youtu.be/tZD4ccaeP8w?si=jMU3IZPRyTYnCXrD">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
-</div>
+</a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
