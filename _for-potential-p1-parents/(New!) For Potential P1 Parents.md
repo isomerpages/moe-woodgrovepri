@@ -11,6 +11,7 @@ description: ""
 <p><strong>Welcome to Our Woodgrove Family</strong>
 </p>
 <p>&nbsp;Dear Potential P1 Parents / Guardians,
+<br>
 <br>As you consider the next step in your child’s / ward’s learning journey,
 we invite you to join us on this virtual experience as you catch a glimpse
 of how we help <strong>Every Woodgrovian Shines</strong> through our Woodgrovian
