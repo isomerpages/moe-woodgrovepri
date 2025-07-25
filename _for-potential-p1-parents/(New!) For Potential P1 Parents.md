@@ -54,9 +54,36 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p><strong>Useful Links:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener nofollow" target="_blank">Learn about P1 Registration and how to get started</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">Explore SchoolFinder for detailed information about each primary school</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.schoolbag.edu.sg/story/open-house-for-primary-schools/" rel="noopener nofollow" target="_blank">Find out how to choose a suitable school for your child</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.healthhub.sg/programmes/parent-hub/parentingforwellness" rel="noopener nofollow" target="_blank">Discover tools to support and empower your parenting</a>
+</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>We warmly welcome you to join the Woodgrove Family! Let’s partner together
 in making your child’s learning journey a joyful and meaningful one. In
 Woodgrove Primary, <strong><em>Every Woodgrovian Shines</em></strong><em>.</em>
+</p>
+<p></p>
+<p><em>(video)</em>
 </p>
 </td>
 </tr>
