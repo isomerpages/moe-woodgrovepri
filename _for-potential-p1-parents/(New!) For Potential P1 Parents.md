@@ -106,7 +106,7 @@ Woodgrove Primary, <strong><em>Every Woodgrovian Shines</em></strong><em>.</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Have any question, connect with us! Link to <a href="https://form.gov.sg/68834799c43a22515fe2306c" rel="noopener nofollow" target="_blank">Form SG</a>
+<p>Have any question, connect with us! <a href="https://go.gov.sg/forpotentialp1parents" rel="noopener nofollow" target="_blank">Enquiry Form for Potential P1 parents</a>
 </p>
 </td>
 </tr>
