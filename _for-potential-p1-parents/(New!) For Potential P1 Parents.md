@@ -35,11 +35,25 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_Beige_Modern_Sunshine_Instagram_Post.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/See_what_your_tech_doesn_t_show_.jpg">
 </div>
-<p></p>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Video</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Curious to find out more about our Woodgrovian Experiences?
 <br>Click here for our What’s On @ Woodgrove for more videos: <a href="https://youtu.be/tZD4ccaeP8w?si=jMU3IZPRyTYnCXrD" rel="noopener nofollow" target="_blank">WOW!</a>
 </p>
@@ -89,7 +103,8 @@ Woodgrove Primary, <strong><em>Every Woodgrovian Shines</em></strong><em>.</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Have any question, connect with us! (Link to Form SG)</p>
+<p>Have any question, connect with us! Link to <a href="https://form.gov.sg/68834799c43a22515fe2306c" rel="noopener nofollow" target="_blank">Form SG</a>
+</p>
 </td>
 </tr>
 </tbody>
