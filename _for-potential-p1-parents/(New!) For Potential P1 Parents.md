@@ -40,7 +40,7 @@ description: ""
 </div>
 <p></p>
 <p></p>
-<p>Curious to find out more about our Woodgrovian’s Experience?
+<p>Curious to find out more about our Woodgrovian Experiences?
 <br>Click here for our What’s On @ Woodgrove for more videos: <a href="https://youtu.be/tZD4ccaeP8w?si=jMU3IZPRyTYnCXrD" rel="noopener nofollow" target="_blank">WOW!</a>
 </p>
 </td>
