@@ -10,7 +10,7 @@ description: ""
 </div>
 <p><strong>Welcome to Our Woodgrove Family</strong>
 </p>
-<p><em>Dear Potential P1 Parents / Guardians, <br><br>As you consider the next step in your child’s / ward’s learning journey, we invite you to join us on this virtual experience as you catch a glimpse of how we help </em><strong><em>Every Woodgrovian Shines</em></strong><em> through our Woodgrovian Experience. <br><br>At Woodgrove, we create a caring and vibrant environment where your child can grow in confidence, develop character, and shine in his or her own unique way.</em>
+<p><em>Dear Potential P1 Parents / Guardians, <br><br>As you consider the next step in your child’s / ward’s learning journey, we invite you to join us on this virtual experience as you catch a glimpse of how we help </em><strong><em>Every Woodgrovian Shines</em></strong><em> through our Woodgrovian Experiences. <br><br>At Woodgrove, we create a caring and vibrant environment where your child can grow in confidence, develop character, and shine in his or her own unique way.</em>
 </p>
 <p><em>We look forward to partnering with you to nurture your little ones through their exciting first steps in primary school.</em>
 </p>
