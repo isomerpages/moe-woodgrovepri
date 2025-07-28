@@ -43,10 +43,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Priya d/o Karunanethi</p>
+<p>Mdm Hairani Binti Ahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:priya_karunanethi@schools.gov.sg" rel="noopener nofollow" target="_blank">priya_karunanethi@schools.gov.sg</a>
+<p><a href="mailto:Hairani_Ahmat_ A@schools.gov.sg" rel="noopener nofollow" target="_blank">Hairani_Ahmad_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -163,10 +163,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hairani Binti Ahmat</p>
+<p>Mdm Priya d/o Karunanethi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Hairani_Ahmat_ A@schools.gov.sg" rel="noopener nofollow" target="_blank">Hairani_Ahmat_ A@schools.gov.sg</a>
+<p><a href="mailto:priya_karunanethi@schools.gov.sg" rel="noopener nofollow" target="_blank">priya_karunanethi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
