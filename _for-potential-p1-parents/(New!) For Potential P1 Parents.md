@@ -64,8 +64,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Curious to find out about how do we celebrate? Take a look at our achievement:
-<a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener nofollow" target="_blank">Celebrate Our Success</a>
+<p>Curious to find out about how do we celebrate our Woodgrovian's success?
+Take a look at our achievement: <a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener nofollow" target="_blank">Celebrate Our Success</a>
 </p>
 </td>
 </tr>
