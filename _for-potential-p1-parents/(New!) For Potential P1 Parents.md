@@ -45,11 +45,14 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/See_what_your_tech_doesn_t_show__2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/See_what_your_tech_doesn_t_show__2.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_Woodgrovian_Experiences_2024.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 </th>
 </tr>
 </tbody>
@@ -96,18 +99,12 @@ description: ""
 in making your child’s learning journey a joyful and meaningful one. In
 Woodgrove Primary, <strong><em>Every Woodgrovian Shines</em></strong><em>.</em>
 </p>
-<p></p>
-<p><em>(video)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Have any question, connect with us! <a href="https://go.gov.sg/forpotentialp1parents" rel="noopener nofollow" target="_blank">Enquiry Form for Potential P1 parents</a>
-</p>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/QHWsvyry2CI?si=_0qSvtq8aEnkD6hX"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sehgwre.gif"></a>
 </td>
 </tr>
 </tbody>
-</table>
-<h1><br></h1>
+</table><a class="isomer-image-wrapper" href="https://youtu.be/QHWsvyry2CI?si=_0qSvtq8aEnkD6hX"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<p>Have any question, connect with us! <a href="https://go.gov.sg/forpotentialp1parents" rel="noopener nofollow" target="_blank">Enquiry Form for Potential P1 parents</a>
+<br>
+</p>
 <p></p>
