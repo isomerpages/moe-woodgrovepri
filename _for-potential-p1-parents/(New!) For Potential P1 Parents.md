@@ -35,6 +35,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>Let us hear form our P1 Woodgrovians about their signature programmes!</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -43,13 +45,11 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/See_what_your_tech_doesn_t_show__2.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_Woodgrovian_Experiences_2024.gif"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_Woodgrovian_Experiences_2024.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
 </a>
@@ -67,6 +67,18 @@ description: ""
 <p>Curious to find out about how do we celebrate our Woodgrovian's success?
 Take a look at our achievement: <a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener nofollow" target="_blank">Celebrate Our Success</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement banner 2025/woodgrove_108_rope_senior_boy_f_v1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement banner 2025/woodgrove_97_Goodtalk_International.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement banner 2025/woodgrove_100_SOTA.jpg">
+</div>
 </td>
 </tr>
 <tr>
