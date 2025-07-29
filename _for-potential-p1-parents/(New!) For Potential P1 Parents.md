@@ -111,11 +111,11 @@ Take a look at our achievement: <a href="https://www.woodgrovepri.moe.edu.sg/per
 in making your child’s learning journey a joyful and meaningful one. In
 Woodgrove Primary, <strong><em>Every Woodgrovian Shines</em></strong><em>.</em>
 </p>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/QHWsvyry2CI?si=_0qSvtq8aEnkD6hX"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sehgwre.gif"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/4rJIL5V3RT8?si=-oXMLmZfs6YQq-5v"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sehgwre.gif"></a>
 </td>
 </tr>
 </tbody>
-</table><a class="isomer-image-wrapper" href="https://youtu.be/QHWsvyry2CI?si=_0qSvtq8aEnkD6hX"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+</table><a class="isomer-image-wrapper" href="https://youtu.be/4rJIL5V3RT8?si=-oXMLmZfs6YQq-5v"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
 <p>Have any question, connect with us! <a href="https://go.gov.sg/forpotentialp1parents" rel="noopener nofollow" target="_blank">Enquiry Form for Potential P1 Parents</a>
 <br>
 </p>
