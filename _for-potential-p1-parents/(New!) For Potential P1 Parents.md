@@ -67,6 +67,18 @@ description: ""
 <p>Curious to find out about how do we celebrate our Woodgrovian's success?
 Take a look at our achievement: <a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener nofollow" target="_blank">Celebrate Our Success</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement banner 2025/woodgrove_108_rope_senior_boy_f_v1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement banner 2025/woodgrove_97_Goodtalk_International.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement banner 2025/woodgrove_100_SOTA.jpg">
+</div>
 </td>
 </tr>
 <tr>
