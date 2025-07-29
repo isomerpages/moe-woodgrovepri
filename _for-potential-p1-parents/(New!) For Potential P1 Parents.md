@@ -64,8 +64,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Curious to find out about how do we celebrate? Take a look at our achievement:
-<a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener nofollow" target="_blank">Celebrate Our Success</a>
+<p>Curious to find out about how do we celebrate our Woodgrovian's success?
+Take a look at our achievement: <a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener nofollow" target="_blank">Celebrate Our Success</a>
 </p>
 </td>
 </tr>
@@ -104,7 +104,7 @@ Woodgrove Primary, <strong><em>Every Woodgrovian Shines</em></strong><em>.</em>
 </tr>
 </tbody>
 </table><a class="isomer-image-wrapper" href="https://youtu.be/QHWsvyry2CI?si=_0qSvtq8aEnkD6hX"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
-<p>Have any question, connect with us! <a href="https://go.gov.sg/forpotentialp1parents" rel="noopener nofollow" target="_blank">Enquiry Form for Potential P1 parents</a>
+<p>Have any question, connect with us! <a href="https://go.gov.sg/forpotentialp1parents" rel="noopener nofollow" target="_blank">Enquiry Form for Potential P1 Parents</a>
 <br>
 </p>
 <p></p>
