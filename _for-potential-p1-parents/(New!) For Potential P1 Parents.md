@@ -35,6 +35,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -43,9 +44,8 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/resize_2.png">
 </div>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P1_Woodgrovian_Experiences_2024.gif"></a>
