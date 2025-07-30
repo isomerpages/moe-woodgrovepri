@@ -35,8 +35,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Let us hear form our P1 Woodgrovians about their signature programmes!</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -59,6 +57,17 @@ description: ""
 </table>
 <p>Curious to find out more about our Woodgrovian Experiences?
 <br>Click here for our What’s On @ Woodgrove for more videos: <a href="https://youtu.be/tZD4ccaeP8w?si=jMU3IZPRyTYnCXrD" rel="noopener nofollow" target="_blank">WOW!</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Let us hear from our P1 Woodgrovians about their signature programmes!</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Curious to find out more about our Signature Programmes?</p>
+<p>Click here: <a href="https://www.woodgrovepri.moe.edu.sg/woodgrovians-learn/signature-programmes/applied-learning-programme-alp/" rel="noopener nofollow" target="_blank">Signature Programmes in Woodgrove Primary</a>
 </p>
 </td>
 </tr>
