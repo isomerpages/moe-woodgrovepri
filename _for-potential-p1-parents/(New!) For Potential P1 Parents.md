@@ -50,7 +50,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P1_Woodgrovian_Experiences_2024.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
 </a>
 </th>
 </tr>
@@ -64,10 +64,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>Let us hear from our P1 Woodgrovians about their signature programmes!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P1_Signature_Programmes.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/W5X7j5Ir9cI"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P1_Signature_Programmes.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/W5X7j5Ir9cI"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
 <p></p>
 <p>Curious to find out more about our Signature Programmes?</p>
@@ -128,10 +125,10 @@ Woodgrove Primary, <strong><em>Every Woodgrovian Shines</em></strong><em>.</em>
 </td>
 </tr>
 </tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hi_everyone__Woodgrove_Primary_welcomes_you_.png">
-</div><a class="isomer-image-wrapper" href="https://youtu.be/rCsD4Tcxp-8"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+</table><a class="isomer-image-wrapper" href="https://youtu.be/rCsD4Tcxp-8"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hi_everyone__Woodgrove_Primary_welcomes_you_.png"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/rCsD4Tcxp-8">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>Have any question, connect with us! <a href="https://go.gov.sg/forpotentialp1parents" rel="noopener nofollow" target="_blank">Enquiry Form for Potential P1 Parents</a>
 <br>
 </p>
