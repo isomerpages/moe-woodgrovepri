@@ -46,7 +46,7 @@ variant: tiptap
 <p>Mdm Hairani Binti Ahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Hairani_Ahmat_ A@schools.gov.sg" rel="noopener nofollow" target="_blank">Hairani_Ahmad_A@schools.gov.sg</a>
+<p><a href="mailto:Hairani_Ahmat_ A@schools.gov.sg" rel="noopener nofollow" target="_blank">Hairani_Ahmat_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
