@@ -45,12 +45,12 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_Woodgrovian_Experiences_2024.gif"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P1_Woodgrovian_Experiences_2024.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
 </a>
 </th>
 </tr>
@@ -65,7 +65,10 @@ description: ""
 <td rowspan="1" colspan="2">
 <p>Let us hear from our P1 Woodgrovians about their signature programmes!</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P1_Signature_Programmes.png">
+</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/W5X7j5Ir9cI"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
 <p></p>
 <p>Curious to find out more about our Signature Programmes?</p>
 <p>Click here: <a href="https://www.woodgrovepri.moe.edu.sg/woodgrovians-learn/signature-programmes/applied-learning-programme-alp/" rel="noopener nofollow" target="_blank">Signature Programmes in Woodgrove Primary</a>
