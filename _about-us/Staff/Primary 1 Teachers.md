@@ -43,10 +43,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hairani Binti Ahmat</p>
+<p>Mdm Hairani Binte Ahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Hairani_Ahmat_ A@schools.gov.sg" rel="noopener nofollow" target="_blank">Hairani_Ahmat_A@schools.gov.sg</a>
+<p><a href="Hairani_Ahmat_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Hairani_Ahmat_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
