@@ -45,12 +45,12 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/resize_2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/resize_2.png">
 </div>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P1_Woodgrovian_Experiences_2024.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/9x8r2smyz64?si=ijcD4WReGQ5aSvu2">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
 </a>
 </th>
 </tr>
