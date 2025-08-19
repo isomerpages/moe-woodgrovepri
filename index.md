@@ -23,6 +23,17 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Racial Harmony Day @ Woodgrove
+      subtitle: WOW!
+      id: infopic
+      description: Woodgrovians came together in a joyful celebration of Singapore’s
+        rich cultural tapestry during our Racial Harmony and Arts Fiesta Week
+        2025!
+      button: Click Here
+      url: https://youtu.be/w8zbVtOz49M
+      image: /images/Racial_Harmony_Day_2025.gif
+      alt: Image alt text
+  - infopic:
       title: P5 WGPS Celebrate the Singapore Spirit at NE Show 2025
       subtitle: WOW!
       id: infopic
