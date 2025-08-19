@@ -4,6 +4,20 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>Racial Harmony Day @ Woodgrove</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/w8zbVtOz49M"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Racial_Harmony_Day_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/w8zbVtOz49M">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>Woodgrovians came together in a joyful celebration of Singapore’s rich
+cultural tapestry during our Racial Harmony and Arts Fiesta Week 2025!
+The school was buzzing with excitement as Woodgrovians were captivated
+by enchanting Chinese, Malay, and Indian dance performances, along with
+spectacular showcases by our Show Choir and Chinese Orchestra. Heartwarming
+music busking sessions and hands-on cultural art activities added to the
+festive spirit, as our Woodgrovians embraced the spirit of "One People,
+One Tapestry" with pride and joy!</p>
+<p></p>
 <h1>P5 Woodgrovians Celebrate the Singapore Spirit at NE Show 2025</h1><a class="isomer-image-wrapper" href="https://youtu.be/UTkyj7UbybQ?si=ltwdnNuz9lGKPCT-"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NE_Show_2025.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/UTkyj7UbybQ?si=ltwdnNuz9lGKPCT-">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
