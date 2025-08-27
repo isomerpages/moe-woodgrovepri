@@ -126,6 +126,39 @@ third_nav_title: Achievements
 <p>Ng Zhen Jie Jayden, 6C</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Math Kangaroo Contest (SMKC)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SILVER</strong>
+</p>
+<p></p>
+<p>CHEN SHUFAN, 4C</p>
+<p>GENG XINYANG, 4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Math Kangaroo Contest (SMKC)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>BRONZE</strong>
+</p>
+<p></p>
+<p>LIM CHENG YAO KYLER, 4C</p>
+<p>LIM SHAROSE SANTOSO, 4C</p>
+<p>CHARLOTTE CHEE ZINTONG, 4E</p>
+<p>CHOUDHARY VIVAAN, 4E</p>
+<p>DARREN SIA KAI AN, 4E</p>
+<p>LIM YI QIN, CHARLOTTE, 4E</p>
+<p>LOO JUNYANG, 4E</p>
+<p>LOW JIN KAI SKYLER, 4E</p>
+<p>TING SHAWN ANN, 5C</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
