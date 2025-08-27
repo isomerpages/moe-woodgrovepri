@@ -23,6 +23,14 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Teachers Day For Woodgrovian Alumni
+      subtitle: NEWS
+      id: infopic
+      description: Dear Woodgrovian Alumni,  Teachers’ Day is around the corner, and
+        we welcome you to visit your teachers on Teachers' Day!
+      image: /images/Teachers__Day_2025.gif
+      alt: Image alt text
+  - infopic:
       title: Woodgrove Celebrates National Day!
       subtitle: WOW!
       id: infopic
