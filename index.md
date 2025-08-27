@@ -30,7 +30,7 @@ sections:
         commemorate Singapore’s 60th birthday at the recent WGPS National Day
         celebration.
       button: Click Here
-      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      url: https://youtu.be/aDxQm7eRHIw?si=mBetSij4NqlLGz8g
       image: /images/WOW_National_Day_2025.gif
       alt: Image alt text
   - infopic:
