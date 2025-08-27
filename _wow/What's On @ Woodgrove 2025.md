@@ -4,6 +4,19 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>Woodgrove Celebrates National Day!</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/aDxQm7eRHIw?si=pvdCNsFv7nvxxzSz"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WOW_National_Day_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/aDxQm7eRHIw?si=pvdCNsFv7nvxxzSz">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>Full of cheer and excitement, Woodgrovians came together in a dazzling
+display of red and white to commemorate Singapore’s 60th birthday at the
+recent Woodgrove Primary School’s National Day celebration. The day began
+with a dignified march past by our Scouts, followed by a captivating showcase
+of Singapore’s history by Woodgrove Playhouse. Lively sing-alongs and interactive
+games then brought everyone together in the spirit of unity and pride.
+The celebration was a heartwarming and unforgettable tribute to the nation,
+reminding us of the call to build our Singapore together. Majulah Singapura!</p>
 <h2>Racial Harmony Day @ Woodgrove</h2>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/w8zbVtOz49M"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Racial_Harmony_Day_2025.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/w8zbVtOz49M">
