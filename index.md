@@ -23,6 +23,17 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Woodgrove Celebrates National Day!
+      subtitle: WOW!
+      id: infopic
+      description: We came together in a dazzling display of red and white to
+        commemorate Singapore’s 60th birthday at the recent WGPS National Day
+        celebration.
+      button: Click Here
+      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      image: /images/WOW_National_Day_2025.gif
+      alt: Image alt text
+  - infopic:
       title: Racial Harmony Day @ Woodgrove
       subtitle: WOW!
       id: infopic
