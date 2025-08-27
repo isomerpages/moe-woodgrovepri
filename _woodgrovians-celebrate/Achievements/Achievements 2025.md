@@ -205,6 +205,18 @@ third_nav_title: Achievements
 <br>RINA ZIA AHMED, 6D</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SHOW CHOIR EXCELLENCE:</strong>
+</p>
+<p></p>
+<p><strong>PERFORMING WITH BJORN AGAIN - THE WORLD'S NUMBER ONE ABBA SHOW</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Physical</h3>
