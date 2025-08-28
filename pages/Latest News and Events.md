@@ -4,16 +4,17 @@ permalink: /permalink/
 description: ""
 variant: tiptap
 ---
-<h3>Latest News and Events</h3>
-<p></p>
-<h3>Click <a href="https://www.woodgrovepri.moe.edu.sg/for-parents/p1-orientation-matter/" rel="noopener nofollow" target="_blank">here</a> for P1 Orientation Matters.</h3>
-<h3>Achievements <a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener noreferrer nofollow" target="_blank">2023</a></h3>
-<h4>2023 P1 Orientation @ Woodgrove Primary School</h4>
-<div class="iframe-wrapper">
-<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iY176eVvBWk"></iframe>
-</div>
-<h3>Latest Publication</h3>
+<h2>Teachers' Day 2025</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Nov 2022" src="/images/Newsletter/nov%202023.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Teachers__Day_2025.gif">
 </div>
 <p></p>
+<p>Dear Woodgrovian Alumni,
+<br>Teachers’ Day is around the corner, and we welcome you to visit your teachers
+on Teachers' Day!</p>
+<p>Register here
+<br><a href="https://go.gov.sg/teachersdayalumnivisit" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/teachersdayalumnivisit</a>
+</p>
+<p>Teachers' Day Well wishes
+<br><a href="https://go.gov.sg/wgpshappyteachersday" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/wgpshappyteachersday</a>
+</p>
