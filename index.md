@@ -30,7 +30,7 @@ sections:
         we welcome you to visit your teachers on Teachers' Day!
       image: /images/See_what_your_tech_doesn_t_show_1_.png
       alt: Image alt text
-      url: https://go.gov.sg/teachersdayalumnivisit
+      url: https://www.woodgrovepri.moe.edu.sg/permalink/
       button: CLICK HERE
   - infopic:
       title: Woodgrove Celebrates National Day!
