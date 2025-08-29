@@ -23,12 +23,22 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: P5 Outdoors Camp A.C.E.
+      subtitle: WOW!
+      id: infopic
+      description: Our Primary 5 Woodgrovians had an exciting 3-day, 2-night camp at
+        Changi Coast Outdoor Adventure Learning Centre from 18–20 August 2025.
+      button: Click Here
+      url: https://youtu.be/rCwX35dTYA8?si=1-tGokj6JbVBYMTx
+      image: /images/P5_Outdoors__Camp_A_C_E__2025.gif
+      alt: Image alt text
+  - infopic:
       title: Teachers' Day 2025
       subtitle: NEWS
       id: infopic
       description: Dear Woodgrovian Alumni,  Teachers’ Day is around the corner, and
         we welcome you to visit your teachers on Teachers' Day!
-      image: /images/See_what_your_tech_doesn_t_show_1_.png
+      image: /images/See_what_your_tech_doesn_t_show_2_.png
       alt: Image alt text
       url: https://www.woodgrovepri.moe.edu.sg/permalink/
       button: CLICK HERE

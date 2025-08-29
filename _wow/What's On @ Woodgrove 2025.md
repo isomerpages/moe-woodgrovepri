@@ -4,6 +4,15 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>P5 Outdoors Camp A.C.E. - Memories Made To Last, Resilience Strengthened!</h2><a class="isomer-image-wrapper" href="https://youtu.be/rCwX35dTYA8?si=1-tGokj6JbVBYMTx"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P5_Outdoors__Camp_A_C_E__2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/rCwX35dTYA8?si=1-tGokj6JbVBYMTx">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>Our Primary 5 Woodgrovians had an exciting 3-day, 2-night camp at Changi
+Coast Outdoor Adventure Learning Centre from 18–20 August 2025. They enjoyed
+kayaking, outdoor challenges, and team-building games. This adventure taught
+them the importance of teamwork, perseverance, respect, and gratitude,
+making it a truly memorable &amp; character-building experience.</p>
 <h2>Woodgrove Celebrates National Day!</h2>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/aDxQm7eRHIw?si=pvdCNsFv7nvxxzSz"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WOW_National_Day_2025.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/aDxQm7eRHIw?si=pvdCNsFv7nvxxzSz">
