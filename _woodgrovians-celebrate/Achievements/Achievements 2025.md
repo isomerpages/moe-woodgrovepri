@@ -159,6 +159,23 @@ third_nav_title: Achievements
 <p>TING SHAWN ANN, 5C</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Math Kangaroo Contest (SMKC)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>HONORABLE MENTION</strong>
+</p>
+<p>
+<br>CHEN XUANLU, 4E</p>
+<p>SOFIA AQILA BINTE SHAIKH MUZAFFAR FARIJ, 4E</p>
+<p>TAN KHOON KHAI CLOVER, 4E</p>
+<p>CHARLENE SEET, 5C</p>
+<p>LIM YI EN IAN, 5C</p>
+<p>MARATKAR ATHARVAR SUDHIR, 5C</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
@@ -215,6 +232,27 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SINGAPORE YOUTH FESTIVAL ART EXHIBITION (CATEGORY C)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CERTIFICATE OF RECOGNITION</strong>
+</p>
+<p></p>
+<p>HANNAH MARISSA BINTE MOHAMMAD RIDUAN, 5A</p>
+<p>AIDEN BINOY, 5B</p>
+<p>JIANG XINYI, 5C</p>
+<p>JOEANNE HO XIN EN, 5C</p>
+<p>SARA SOFEA BINTE RUDDIEMAN, 5E</p>
+<p>JOLENE YIP ZI YAN, 6B</p>
+<p>CHONG XIN TONG, 6C</p>
+<p>NG YI EN, 6C</p>
+<p>AKSHARA D/O SANKAR, 6D</p>
+<p>RINA ZIA AHMED, 6D</p>
 </td>
 </tr>
 </tbody>
