@@ -178,10 +178,11 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Digital Explorer(NDE) Competition</p>
+<p><strong>National Digital Explorer(NDE) Competition</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NATIONAL ROUND </strong>
+<p><strong>NATIONAL ROUND</strong>
 </p>
 <p></p>
 <p><strong>GOLD</strong>
@@ -196,6 +197,33 @@ third_nav_title: Achievements
 </p>
 <p>MANHAR MANOJ MENON, 6C</p>
 <p>QUECK JING EN, 6C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Raffles Mathematical Olympiad (RMO)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DISTINCTION</strong>
+</p>
+<p></p>
+<p>MYRA TEO ZEE YAN, 6C</p>
+<p>WANG DINGXUAN JANICE, 6E</p>
+<p>NG ZHEN JIE JAYDEN, 6C</p>
+<p></p>
+<p><strong>MERIT</strong>
+</p>
+<p>KHOO WEI SENG, 6C</p>
+<p>BOEY QIAN YUE, 6C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -389,6 +417,19 @@ third_nav_title: Achievements
 <br>G Gautham Arya, 6E
 <br>Yap Hao Xuan, 5C
 <br>Ting Shawn Ann, 5C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chief Scout Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAYQAL ASHRIQ BIN MOHD ARABI, 6B</p>
+<p>MUHAMMAD NUFAIEL ZHARFAN BIN ZAKI, 6C</p>
+<p>PERH RUI DE, DARIUS, 6C</p>
+<p>TONG JUN HEE, 6D</p>
+<p>LIM HON YU, 6E</p>
 </td>
 </tr>
 </tbody>
