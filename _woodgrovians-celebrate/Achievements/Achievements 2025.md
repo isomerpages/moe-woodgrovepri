@@ -176,6 +176,28 @@ third_nav_title: Achievements
 <p>MARATKAR ATHARVAR SUDHIR, 5C</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Digital Explorer(NDE) Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NATIONAL ROUND </strong>
+</p>
+<p></p>
+<p><strong>GOLD</strong>
+</p>
+<p>PERH RUI DE DARIUS, 6C</p>
+<p></p>
+<p><strong>SILVER</strong>
+</p>
+<p>CHNG ZHI YU ASHLEY, 6D</p>
+<p></p>
+<p><strong>BRONZE</strong>
+</p>
+<p>MANHAR MANOJ MENON, 6C</p>
+<p>QUECK JING EN, 6C</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
