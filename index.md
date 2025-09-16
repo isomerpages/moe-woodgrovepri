@@ -23,14 +23,14 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
-      title: Teachers' Day 2025
-      subtitle: NEWS
+      title: Woodgrove Symphonies — A Celebration of our Young Talents
+      subtitle: WOW!
       id: infopic
-      description: Dear Woodgrovian Alumni,  Teachers’ Day is around the corner, and
-        we welcome you to visit your teachers on Teachers' Day!
-      image: /images/See_what_your_tech_doesn_t_show_2_.png
+      description: The stage came alive with much zest and energy during our Woodgrove
+        Symphonies on 28 August 2025.
+      image: /images/Woodgrove_Symphonies_2025.gif
       alt: Image alt text
-      url: https://www.woodgrovepri.moe.edu.sg/permalink/
+      url: https://youtu.be/KhYqBgyrEJ8?si=mSw2FnC6AFJwKh6e
       button: CLICK HERE
   - infopic:
       title: P5 Outdoors Camp A.C.E.
