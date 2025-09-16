@@ -30,7 +30,7 @@ sections:
         Symphonies on 28 August 2025.
       image: /images/Woodgrove_Symphonies_2025.gif
       alt: Image alt text
-      url: https://www.woodgrovepri.moe.edu.sg/permalink/
+      url: https://youtu.be/KhYqBgyrEJ8?si=mSw2FnC6AFJwKh6e
       button: CLICK HERE
   - infopic:
       title: P5 Outdoors Camp A.C.E.
