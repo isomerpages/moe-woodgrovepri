@@ -4,10 +4,10 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>Woodgrove Symphonies — A Celebration of our Young Talents</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_Symphonies_2025.gif">
-</div><a class="isomer-image-wrapper" href="https://youtu.be/rCwX35dTYA8?si=1-tGokj6JbVBYMTx"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<h2>Woodgrove Symphonies — A Celebration of our Young Talents</h2><a class="isomer-image-wrapper" href="https://youtu.be/KhYqBgyrEJ8?si=mSw2FnC6AFJwKh6e"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_Symphonies_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/KhYqBgyrEJ8?si=mSw2FnC6AFJwKh6e">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>The stage came alive with much zest and energy during our Woodgrove Symphonies
 on 28 August 2025. Our Primary 2 Woodgrovians impressed with their energetic
 drumming while our Primary 5 Guitar Ensemble strummed harmoniously to 'How
