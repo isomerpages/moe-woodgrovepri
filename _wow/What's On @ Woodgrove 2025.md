@@ -10,9 +10,9 @@ description: ""
 </a>
 <p>The stage came alive with much zest and energy during our Woodgrove Symphonies
 on 28 August 2025. Our Primary 2 Woodgrovians impressed with their energetic
-drumming while our Primary 5 Guitar Ensemble strummed harmoniously to 'How
-Far I'll Go'. Audience was enthralled by the mesmerising vocals of our
-Show choir, and of course the showcase also featured beautiful traditional
+drumming and dancing, while our Primary 5 Guitar Ensemble strummed harmoniously
+to 'How Far I'll Go'. Audience was enthralled by the mesmerising vocals
+of our Show choir, and of course the showcase also featured beautiful traditional
 melodies by our Chinese Orchestra. Indeed, an occasion in celebration of
 our Woodgrovian young talents!</p>
 <h2>P5 Outdoors Camp A.C.E. - Memories Made To Last, Resilience Strengthened!</h2><a class="isomer-image-wrapper" href="https://youtu.be/rCwX35dTYA8?si=1-tGokj6JbVBYMTx"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P5_Outdoors__Camp_A_C_E__2025.gif"></a>
