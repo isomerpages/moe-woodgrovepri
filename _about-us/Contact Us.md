@@ -111,5 +111,13 @@ description: ""
 </tbody>
 </table>
 <p>If you have a feedback or query, please share with us using this <a href="https://form.gov.sg/6699e13ea84bf4a6af275334" rel="noreferrer" target="_blank"><u>online form</u></a>.</p>
+<p>Kindly note that our communication lines and inbox are manned only during
+operating hours as stated above. Your feedback and query is valuable to
+us and we will get back to you as soon as possible.</p>
+<div class="iframe-wrapper">
+<iframe style="width: 100%; height: 500px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/6699e13ea84bf4a6af275334"></iframe>
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
