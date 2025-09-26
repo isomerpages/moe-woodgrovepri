@@ -23,6 +23,17 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: WGPS Teachers’ Day 2025
+      subtitle: WOW!
+      id: infopic
+      description: This year, we honoured our Woodgrove teachers with a
+        Superhero-themed celebration - a theme our Super teachers thoroughly
+        deserved!
+      button: CLICK HERE
+      url: https://youtu.be/j5UhKv1xhLQ?si=h5da7WUXdiYfBrqT
+      image: /images/WGPS_Teachers__Day_2025.gif
+      alt: Image alt text
+  - infopic:
       title: Woodgrove Symphonies — A Celebration of our Young Talents
       subtitle: WOW!
       id: infopic

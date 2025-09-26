@@ -4,6 +4,19 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>Teachers' Day Celebration @ Woodgrove</h2>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/j5UhKv1xhLQ?si=rhV51ZZHkc4ZXS4P"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS_Teachers__Day_2025.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/j5UhKv1xhLQ?si=rhV51ZZHkc4ZXS4P">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>This year, we honoured our Woodgrove teachers with a Superhero-themed
+celebration - a theme our Super teachers thoroughly deserved! From origami
+made with tenderness to heartfelt words of gratitude by our Woodgrovians
+and their parents, the weeks-long celebrations were filled with much love
+and appreciation. During the concert, energy soared with exciting stage
+games and dazzling performances – including a special tribute by our amazing
+Parent Support Group! Even our ex-Woodgrovians came back to make the entire
+celebration one to remember!</p>
 <h2>Woodgrove Symphonies — A Celebration of our Young Talents</h2><a class="isomer-image-wrapper" href="https://youtu.be/KhYqBgyrEJ8?si=mSw2FnC6AFJwKh6e"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Woodgrove_Symphonies_2025.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/KhYqBgyrEJ8?si=mSw2FnC6AFJwKh6e">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
