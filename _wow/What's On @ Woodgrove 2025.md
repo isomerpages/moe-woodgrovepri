@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Teachers' Day Celebration @ Woodgrove</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/j5UhKv1xhLQ?si=rhV51ZZHkc4ZXS4P"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WGPS_Teachers__Day_2025.gif"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/j5UhKv1xhLQ?si=rhV51ZZHkc4ZXS4P"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS_Teachers__Day_2025.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/j5UhKv1xhLQ?si=rhV51ZZHkc4ZXS4P">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
 </a>
