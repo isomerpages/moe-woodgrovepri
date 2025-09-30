@@ -220,9 +220,57 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>NATIONAL MATHEMATICAL OLYMPIAD OF SINGAPORE (INMOS)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>SILVER </strong>
+</p>
+<p>FEI YUCHENG, 5C</p>
+<p></p>
+<p><strong>BRONZE</strong>
+</p>
+<p>JOEL SOH JUN JIE, 5B</p>
+<p>LI CHANGLE, 5C</p>
+<p>ONG RUI CHENG JAYDEN, 5C</p>
+<p>SUN SIQIAO, 5C</p>
+<p></p>
+<p><strong>HONOURABLE MENTION </strong>
+</p>
+<p>LIEW HAO RONG DAVION, 5C</p>
+<p>GARRETT TAN YU ZE, 5C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>17TH INTER PRIMARY SCHOOL TAMIL TALENT QUEST COMPETITION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TAMIL SARITHIRAM COMPETITION 2ND RUNNER-UP</strong>
+</p>
+<p></p>
+<p>PALANIVELU KURALINI, 6C</p>
+<p>SHIMAZ AASHIRA BINTE ANEES AHAMED, 6C</p>
+<p>AKSHARA D/O SANKAR, 6D</p>
+<p>G GAUTHAM ARYA, 6E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>17TH INTER PRIMARY SCHOOL TAMIL TALENT QUEST COMPETITION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CHAMPION FANCY DRESS COMPETITON </strong>
+</p>
+<p></p>
+<p>ARAVINDAN KARTHIKA NARUMUKAI, 1E</p>
+<p></p>
+<p><strong>CHAMPION SHOW &amp; TELL COMPETITION </strong>
+</p>
+<p></p>
+<p>ADITHRI ANANTHU BARATHAN, 2A</p>
 <p></p>
 </td>
 </tr>
@@ -430,6 +478,21 @@ third_nav_title: Achievements
 <p>PERH RUI DE, DARIUS, 6C</p>
 <p>TONG JUN HEE, 6D</p>
 <p>LIM HON YU, 6E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SPSSC Badminton National (Junior Division)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CHAMPION</strong>
+</p>
+<p><strong>BOYS DOUBLES TIER 3</strong>
+</p>
+<p></p>
+<p>RYAN TAN HONG YEH, 5B</p>
+<p>LIM YI EN IAN, 5C</p>
 </td>
 </tr>
 </tbody>
