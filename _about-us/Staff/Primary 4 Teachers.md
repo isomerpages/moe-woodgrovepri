@@ -139,12 +139,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marsita Bte Omar</p>
+<p>Miss Tan Siok Buay Susan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marsita_omar_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marsita_omar_b@schools.gov.sg</a>
+<p><a href="mailto:tan_siok_buay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siok_buay@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 </tbody>
