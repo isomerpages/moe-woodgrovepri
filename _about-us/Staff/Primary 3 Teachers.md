@@ -124,18 +124,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Tan Siok Buay Susan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_siok_buay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siok_buay@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
