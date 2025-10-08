@@ -224,7 +224,7 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SILVER </strong>
+<p><strong>SILVER</strong>
 </p>
 <p>FEI YUCHENG, 5C</p>
 <p></p>
@@ -235,7 +235,7 @@ third_nav_title: Achievements
 <p>ONG RUI CHENG JAYDEN, 5C</p>
 <p>SUN SIQIAO, 5C</p>
 <p></p>
-<p><strong>HONOURABLE MENTION </strong>
+<p><strong>HONOURABLE MENTION</strong>
 </p>
 <p>LIEW HAO RONG DAVION, 5C</p>
 <p>GARRETT TAN YU ZE, 5C</p>
@@ -262,16 +262,27 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CHAMPION FANCY DRESS COMPETITON </strong>
+<p><strong>CHAMPION FANCY DRESS COMPETITON</strong>
 </p>
 <p></p>
 <p>ARAVINDAN KARTHIKA NARUMUKAI, 1E</p>
 <p></p>
-<p><strong>CHAMPION SHOW &amp; TELL COMPETITION </strong>
+<p><strong>CHAMPION SHOW &amp; TELL COMPETITION</strong>
 </p>
 <p></p>
 <p>ADITHRI ANANTHU BARATHAN, 2A</p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>26TH INTERNATIONAL CHINESE LANGUAGE COMPETITION 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>International -Silver<br>National – Gold</strong>
+</p>
+<p><strong><br></strong>WAVERLY SIA YUEXUAN, 6C</p>
 </td>
 </tr>
 </tbody>
