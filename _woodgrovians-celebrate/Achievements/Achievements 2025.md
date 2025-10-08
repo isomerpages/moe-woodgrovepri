@@ -280,7 +280,7 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>International -Silver<br>National – Gold</strong>
+<p><strong>INTERNATIONAL - SILVER NATIONAL - GOLD</strong>
 </p>
 <p><strong><br></strong>WAVERLY SIA YUEXUAN, 6C</p>
 </td>
