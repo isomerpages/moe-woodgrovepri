@@ -1,5 +1,5 @@
 ---
-title: Libraray Week @ WGPS
+title: Library Week @ WGPS
 date: 2025-05-06
 layout: link
 description: ""
