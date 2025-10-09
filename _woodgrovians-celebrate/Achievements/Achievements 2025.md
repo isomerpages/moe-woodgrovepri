@@ -366,7 +366,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YELLOWREN INTER-SCHOOL CANVAS ART COMPETITON </strong>
+<p><strong>YELLOWREN INTER-SCHOOL CANVAS ART COMPETITON</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
