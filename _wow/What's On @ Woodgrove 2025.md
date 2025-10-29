@@ -4,6 +4,18 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>WGPS Children's Day Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/RvJQ8j-F2xU?si=AHNotsA688HtE9mt"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS_Children_Day_Celebration.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/RvJQ8j-F2xU?si=AHNotsA688HtE9mt">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p></p>
+<p>Our fun-filled celebration kicked off with Our Flower, Our Story segment,
+celebrating Woodgrovians who have shown remarkable resilience. Following
+that, Woodgrovians were enthralled by a “Golden” surprise by our beloved
+teachers. The fun didn’t stop there with classrooms alive with parties
+and lots of laughter! And, to top it off, Woodgrovians explored exciting
+carnival games, with many clamouring over the Photo Booth to capture beautiful
+memories with their friends! What an unforgettable Children’s Day!</p>
 <h2>Teachers' Day Celebration @ Woodgrove</h2>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/j5UhKv1xhLQ?si=rhV51ZZHkc4ZXS4P"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS_Teachers__Day_2025.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/j5UhKv1xhLQ?si=rhV51ZZHkc4ZXS4P">
