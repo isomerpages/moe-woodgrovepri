@@ -23,6 +23,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: WGPS Children's Day Celebration
+      subtitle: WOW!
+      id: infopic
+      description: Our fun-filled celebration kicked off with Our Flower, Our Story
+        segment, celebrating Woodgrovians who have shown remarkable resilience.
+      button: Click Here
+      url: https://youtu.be/RvJQ8j-F2xU?si=AHNotsA688HtE9mt
+      image: /images/WGPS_Children_Day_Celebration.gif
+      alt: Image alt text
+  - infopic:
       title: WGPS Teachers’ Day 2025
       subtitle: WOW!
       id: infopic
