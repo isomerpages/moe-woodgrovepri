@@ -285,6 +285,39 @@ third_nav_title: Achievements
 <p><strong><br></strong>WAVERLY SIA YUEXUAN, 6C</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>8TH TEXT RECITAL COMPETITION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>UPPER PRIMARY INDIVIDUAL </strong>
+</p>
+<p></p>
+<p><strong>SILVER</strong>
+</p>
+<p>LI MINGZE BENJAMIN, 4E</p>
+<p></p>
+<p><strong>BRONZE</strong>
+</p>
+<p>QIU WENNI, 6C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NATIONAL DIGITAL EXPLORER (NDE) COMPETITION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SILVER</strong>
+</p>
+<p><strong>INTERNATIONAL ROUND</strong>
+</p>
+<p></p>
+<p>PERH RUI DE DARIUS, 6C</p>
+<p>CHNG ZHI YU ASHLEY, 6D</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
