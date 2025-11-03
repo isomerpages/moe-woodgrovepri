@@ -1,5 +1,5 @@
 ---
-title: P1 Orientation Matter
+title: P1 Orientation Matters
 permalink: /p1-orientation/
 variant: tiptap
 description: ""
