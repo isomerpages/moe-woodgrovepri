@@ -112,6 +112,10 @@ Take a look at our achievement: <a href="https://www.woodgrovepri.moe.edu.sg/per
 <p><a href="https://www.healthhub.sg/programmes/parent-hub/parentingforwellness" rel="noopener nofollow" target="_blank">Discover tools to support and empower your parenting</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.woodgrovepri.moe.edu.sg/p1-orientation/" rel="noopener nofollow" target="_blank">P1 Orientation Matters</a>
+</p>
+</li>
 </ol>
 </td>
 </tr>
