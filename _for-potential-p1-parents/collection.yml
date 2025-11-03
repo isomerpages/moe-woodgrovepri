@@ -2,5 +2,4 @@ collections:
   for-potential-p1-parents:
     output: true
     order:
-      - Example Title.md
       - (New!) For Potential P1 Parents.md
