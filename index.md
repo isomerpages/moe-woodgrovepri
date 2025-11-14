@@ -23,6 +23,15 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Deepavali Celebration in Woodgrove
+      subtitle: WOW!
+      id: infopic
+      description: Woodgrove Primary lit up in true festive spirit as Woodgrovians
+        came together to celebrate the Festival of Lights, Deepavali!
+      button: Click Here
+      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      alt: Image alt text
+  - infopic:
       title: WGPS Children's Day Celebration
       subtitle: WOW!
       id: infopic
