@@ -31,6 +31,7 @@ sections:
       button: Click Here
       url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
       alt: Image alt text
+      image: /images/Wow_Deeps_Latest__1_.gif
   - infopic:
       title: WGPS Children's Day Celebration
       subtitle: WOW!
