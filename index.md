@@ -29,7 +29,7 @@ sections:
       description: Woodgrove Primary lit up in true festive spirit as Woodgrovians
         came together to celebrate the Festival of Lights, Deepavali!
       button: Click Here
-      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      url: https://youtu.be/QCTzp0ynm4M?si=fR5QYqC2q18GxU4Z
       alt: Image alt text
       image: /images/Wow_Deeps_Latest__1_.gif
   - infopic:
