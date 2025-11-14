@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>Deepavali Celebration in Woodgrove</h2>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/RvJQ8j-F2xU?si=AHNotsA688HtE9mt"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS_Children_Day_Celebration.gif"></a>
-<a class="isomer-image-wrapper" href="https://youtu.be/RvJQ8j-F2xU?si=AHNotsA688HtE9mt">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
-</a>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Wow_Deeps_Latest__1_.gif">
+</div><a class="isomer-image-wrapper" href="https://youtu.be/RvJQ8j-F2xU?si=AHNotsA688HtE9mt"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
 <p>Woodgrove Primary lit up in true festive spirit as Woodgrovians came together
 to celebrate the Festival of Lights, Deepavali! Our dazzling Wall of Lights
 sparkled with colourful lamp cards filled with warm wishes and messages.
