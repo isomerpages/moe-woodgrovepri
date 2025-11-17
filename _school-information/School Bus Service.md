@@ -13,7 +13,7 @@ directly with the school bus operator.</p>
 </p>
 <p>Contact Person: Mrs Irene Yeo, Hp: 96409551
 <br>Contact Person: Mr Yeo Kah Hua, Hp: 96327095</p>
-<p><a href="/files/School_Bus_Registration_Form_2026_fillable.pdf" rel="noopener nofollow" target="_blank">School_Bus_Registration_Form_2026file</a>
+<p><a href="/files/School_Bus_Registration_Form_2026_fillable.pdf" rel="noopener nofollow" target="_blank">School_Bus_Registration_Form_2026</a>
 </p>
 <p></p>
 <h3><strong>Bus Fare</strong></h3>
