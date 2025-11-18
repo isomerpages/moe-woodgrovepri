@@ -291,7 +291,7 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>UPPER PRIMARY INDIVIDUAL </strong>
+<p><strong>UPPER PRIMARY INDIVIDUAL</strong>
 </p>
 <p></p>
 <p><strong>SILVER</strong>
@@ -418,6 +418,17 @@ third_nav_title: Achievements
 <p>ALISHA KOK CAI XUAN, 4E</p>
 <p>TYRA THYU EAIN SI, 5B</p>
 <p>SARA SOFEA BINTE RUDDIEMAN, 5E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SUPER 24 DANCE COMPETITION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SIXTH</strong>
+</p>
+<p>MODERN DANCE</p>
 </td>
 </tr>
 </tbody>
