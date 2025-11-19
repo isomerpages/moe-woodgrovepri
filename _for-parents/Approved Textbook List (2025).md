@@ -4,9 +4,9 @@ permalink: /for-parents/approved-text-book-list-2024/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Approved Text Book List (2025)</strong></h1>
+<h1><strong>Approved Text Book List (2026)</strong></h1>
 <h3>Information from Pacific Bookstores</h3>
-<p><a href="/files/Book%20List%202024/PACIFIC_BOOKSTORES_PURCHASE_GUIDE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Pacific BookStores Purchase Guide 2025</a>
+<p><a href="/files/Book%20List%202024/PACIFIC_BOOKSTORES_PURCHASE_GUIDE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Pacific BookStores Purchase Guide 2026</a>
 </p>
 <h3>P1 Booklist</h3>
 <p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">WGPS P1</a>
