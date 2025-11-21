@@ -4,10 +4,10 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>Our World, Our Classroom: Shanghai Immersion Trip</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS_China_Immersion_Trip__1_.gif">
-</div><a class="isomer-image-wrapper" href="https://youtu.be/QCTzp0ynm4M?si=fR5QYqC2q18GxU4Z"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<h2>Our World, Our Classroom: Shanghai Immersion Trip</h2><a class="isomer-image-wrapper" href="https://youtu.be/hYXjEztKnxg?si=gSAdmJF6GhuZt8AW"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WGPS_China_Immersion_Trip__1_.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/hYXjEztKnxg?si=gSAdmJF6GhuZt8AW">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>Our Primary 5 Woodgrovians had an unforgettable time in Shanghai! From
 fun and engaging lessons to hands-on Chinese art and calligraphy with our
 partner school, every moment was a memorable one for them! Our Woodgrovians
