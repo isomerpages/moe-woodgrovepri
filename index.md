@@ -23,6 +23,14 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: "Our World, Our Classroom: Shanghai Immersion Trip"
+      subtitle: WOW!
+      id: infopic
+      description: Our Primary 5 Woodgrovians had an unforgettable time in Shanghai!
+      button: Click Here
+      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      alt: Image alt text
+  - infopic:
       title: Deepavali Celebration in Woodgrove
       subtitle: WOW!
       id: infopic
