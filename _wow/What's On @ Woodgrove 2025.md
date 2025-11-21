@@ -4,6 +4,19 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>Our World, Our Classroom: Shanghai Immersion Trip</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WGPS_China_Immersion_Trip.gif">
+</div><a class="isomer-image-wrapper" href="https://youtu.be/QCTzp0ynm4M?si=fR5QYqC2q18GxU4Z"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<p>Our Primary 5 Woodgrovians had an unforgettable time in Shanghai! From
+fun and engaging lessons to hands-on Chinese art and calligraphy with our
+partner school, every moment was a memorable one for them! Our Woodgrovians
+and their buddies bonded over exciting sports and games, and even had a
+taste of their school meals. With educational visits to museums, a breath-taking
+acrobatic show and an exciting day at Disneyland, the trip was packed with
+learning, laughter and memories to last a lifetime! Daily leadership experiences
+and authentic reflections at the end of each day truly bring out the best
+of this beyond border Woodgrovian Experience!</p>
 <h2>Deepavali Celebration in Woodgrove</h2><a class="isomer-image-wrapper" href="https://youtu.be/QCTzp0ynm4M?si=fR5QYqC2q18GxU4Z"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Wow_Deeps_Latest__1_.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/QCTzp0ynm4M?si=fR5QYqC2q18GxU4Z">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
