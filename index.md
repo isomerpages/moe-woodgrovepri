@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: Our Primary 5 Woodgrovians had an unforgettable time in Shanghai!
       button: Click Here
-      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      url: https://youtu.be/hYXjEztKnxg?si=gSAdmJF6GhuZt8AW
       alt: Image alt text
       image: /images/WGPS_China_Immersion_Trip__1_.gif
   - infopic:
