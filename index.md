@@ -245,6 +245,4 @@ sections:
       url: https://youtu.be/GJZtD-etpow?si=q0BsQkYJ7LswAyQz
       image: /images/Woodgrove_Primary_school.gif
       alt: Image alt text
-  - resources:
-      subtitle: Announcement & News
 ---
