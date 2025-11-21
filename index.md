@@ -30,6 +30,7 @@ sections:
       button: Click Here
       url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
       alt: Image alt text
+      image: /images/WGPS_China_Immersion_Trip__1_.gif
   - infopic:
       title: Deepavali Celebration in Woodgrove
       subtitle: WOW!
