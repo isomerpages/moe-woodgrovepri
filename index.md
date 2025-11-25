@@ -23,12 +23,15 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Celebration & Recognition Day and P6 Graduation
+      subtitle: WOW!
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Woodgrove Primary proudly celebrated our Woodgrovians’ amazing
+        achievements in our annual Celebration & Recognition Day.
+      button: Click Here
       alt: Image alt text
+      image: /images/Celebrating_Our_Successes.gif
+      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
   - infopic:
       title: "Our World, Our Classroom: Shanghai Immersion Trip"
       subtitle: WOW!
