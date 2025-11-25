@@ -640,13 +640,34 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>JUNIOR DIVISION BOYS POOMSAE INDIVIDUAL POOM 1 </strong>
+<p><strong>JUNIOR DIVISION BOYS POOMSAE INDIVIDUAL POOM 1</strong>
 </p>
 <p></p>
 <p><strong>SEVENTH</strong>
 </p>
 <p></p>
 <p>EZRA TEO YI RONG, 3B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NORTH AREA CUB SCOUT MODEL PIONEERING COMPETITION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TEAM 1 - GOLD </strong>
+<br>
+<br>GAN CHEN EN, 5B TAN AN QI, 5C TING SHAWN ANN, 5C PARVINEESH JAYA SHANKER,
+5E
+<br>
+<br><strong>TEAM 2 - SILVER </strong>
+<br>
+<br>KU JOVY, 5A JAIABINAV MADHAVAN, 5B JAYDEN LIM JUN JIE, 5C MOHAMAD RIZQ
+IRFAN BIN MOHAMAD RAHAN, 5D
+<br>
+<br><strong>TEAM 3 - SILVER </strong>
+<br>
+<br>GABRIEL KOH MING EN, 5C MARATKAR ATHARVA SUDHIR, 5C LI CHANGLE, 5C</p>
 </td>
 </tr>
 </tbody>
