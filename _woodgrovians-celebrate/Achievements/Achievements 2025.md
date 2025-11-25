@@ -359,6 +359,26 @@ third_nav_title: Achievements
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NATIONAL ESSAY WRITING COMPETITION (KARYA MINDA KREATIF)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SILVER</strong>
+</p>
+<p></p>
+<p>MUHAMMAD IZZ RAYQAL BIN</p>
+<p>MUHAMMAD FAIZAL, 6A
+<br>ELVAN AYDYN BIN NURUL FAIRIZ, 6B
+<br>NUHA NAIRAH BINTE MOHAMED FAZLY, 6B
+<br>QISYA BINTE JURAIMI, 6B
+<br>AHMAD ZAYD BIN MAZRI, 6C MUHAMMAD NUFAIEL ZHARFAN BIN MUHAMAD ZAKI, 6C
+<br>OMAR ABDUL RASHID, 6C
+<br>RINA ZIA AHMED, 6D
+<br>NUR KAMALUDDIN BIN ANWAR, 6E</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
