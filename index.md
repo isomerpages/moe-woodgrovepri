@@ -23,6 +23,13 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: "Our World, Our Classroom: Shanghai Immersion Trip"
       subtitle: WOW!
       id: infopic
