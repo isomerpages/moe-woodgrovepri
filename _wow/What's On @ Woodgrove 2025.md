@@ -4,10 +4,10 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>Celebration &amp; Recognition Day and P6 Graduation</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Celebrating_Our_Successes.gif">
-</div><a class="isomer-image-wrapper" href="https://youtu.be/hYXjEztKnxg?si=gSAdmJF6GhuZt8AW"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<h2>Celebration &amp; Recognition Day and P6 Graduation</h2><a class="isomer-image-wrapper" href="https://youtu.be/y42MuNLi_iI?si=MFdhjhnXo5dsQbdt"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Celebrating_Our_Successes.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/y42MuNLi_iI?si=MFdhjhnXo5dsQbdt">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>Woodgrove Primary proudly celebrated our Woodgrovians’ amazing achievements
 in our annual Celebration &amp; Recognition Day. We also honoured our P6
 Woodgrovians through their memorable P6 Graduation Day. These joyful moments
