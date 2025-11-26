@@ -31,7 +31,7 @@ sections:
       button: Click Here
       alt: Image alt text
       image: /images/Celebrating_Our_Successes.gif
-      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      url: https://youtu.be/y42MuNLi_iI?si=ubWAo0JIsTFLiQ2p
   - infopic:
       title: "Our World, Our Classroom: Shanghai Immersion Trip"
       subtitle: WOW!
