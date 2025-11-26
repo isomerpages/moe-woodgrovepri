@@ -318,6 +318,67 @@ third_nav_title: Achievements
 <p>CHNG ZHI YU ASHLEY, 6D</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NATIONAL ESSAY WRITING COMPETITION (KARYA MINDA KREATIF)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SILVER</strong> 
+<br>
+<br>ZAKARIYA SANY BIN FAROUQ SANY, 4B
+<br>MUHAMMAD JA'FAR BIN MAZRI, 4D WARDATUN NUHA BINTE MOHAMD ARJUNAIDI, 4D
+<br>MUHAMMAD NADIR BIN NASEER, 4E
+<br>NUR RAIQAH BINTE MOHAMED FAIRUZ, 4E
+<br>RAYYAN REUX BIN BASTIEN REUX, 4E
+<br>SOFIA AQILA BINTE SHAIKH MUZAFFAR FRAIJ, 4E
+<br>DANIAL BIN MOHAMMAD HARITZ, 5A
+<br>NUR AMYLEA BINTE MUHAMMAD AZMI, 5C
+<br>SHAIKH AZFAR BIN SHAIKH MUZAFFAR FRAIJ, 5E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NATIONAL ESSAY WRITING COMPETITION (KARYA MINDA KREATIF)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>GOLD</strong>
+</p>
+<p></p>
+<p>MUNAWWARAH BINTI FEROZ KHAN, 4C
+<br>NYLA HAZIQAH BINTI MUHAMMAD LUTHFI, 4E
+<br>FILZAH NUR IESHA BINTI MUHAMMAD FIRDAUS, 5A
+<br>HANNAH MARISSA BINTE MOHAMAD RIDUAN, 5A
+<br>ADAM SYAZANI BIN YUSHERMAN, 5C
+<br>SERI AMIRA NADRA BINTE ZULKARNAEN, 5C
+<br>NUR IRSALINAH BINTI MUHAMAD TAUFIK, 5D
+<br>NUR SUMAYYAH SYAURAH BTE ZAIFUL NIZAM, 5D
+<br>SAYF SULAIMAN SIANTURI BIN SALIM, 5E
+<br>NAJAH LIYANA BINTI ZAIRI, 6A MAWADDAH BINTE FEROZ KHAN, 6D</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NATIONAL ESSAY WRITING COMPETITION (KARYA MINDA KREATIF)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SILVER</strong>
+</p>
+<p></p>
+<p>MUHAMMAD IZZ RAYQAL BIN</p>
+<p>MUHAMMAD FAIZAL, 6A
+<br>ELVAN AYDYN BIN NURUL FAIRIZ, 6B
+<br>NUHA NAIRAH BINTE MOHAMED FAZLY, 6B
+<br>QISYA BINTE JURAIMI, 6B
+<br>AHMAD ZAYD BIN MAZRI, 6C MUHAMMAD NUFAIEL ZHARFAN BIN MUHAMAD ZAKI, 6C
+<br>OMAR ABDUL RASHID, 6C
+<br>RINA ZIA AHMED, 6D
+<br>NUR KAMALUDDIN BIN ANWAR, 6E</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
@@ -571,6 +632,42 @@ third_nav_title: Achievements
 <p></p>
 <p>RYAN TAN HONG YEH, 5B</p>
 <p>LIM YI EN IAN, 5C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NATIONAL SCHOOL GAMES TAEKWONDO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>JUNIOR DIVISION BOYS POOMSAE INDIVIDUAL POOM 1</strong>
+</p>
+<p></p>
+<p><strong>SEVENTH</strong>
+</p>
+<p></p>
+<p>EZRA TEO YI RONG, 3B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NORTH AREA CUB SCOUT MODEL PIONEERING COMPETITION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TEAM 1 - GOLD </strong>
+<br>
+<br>GAN CHEN EN, 5B TAN AN QI, 5C TING SHAWN ANN, 5C PARVINEESH JAYA SHANKER,
+5E
+<br>
+<br><strong>TEAM 2 - SILVER </strong>
+<br>
+<br>KU JOVY, 5A JAIABINAV MADHAVAN, 5B JAYDEN LIM JUN JIE, 5C MOHAMAD RIZQ
+IRFAN BIN MOHAMAD RAHAN, 5D
+<br>
+<br><strong>TEAM 3 - SILVER </strong>
+<br>
+<br>GABRIEL KOH MING EN, 5C MARATKAR ATHARVA SUDHIR, 5C LI CHANGLE, 5C</p>
 </td>
 </tr>
 </tbody>
