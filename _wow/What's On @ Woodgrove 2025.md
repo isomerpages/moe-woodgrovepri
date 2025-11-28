@@ -4,10 +4,10 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>WGPS P1 Orientation</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/P1_Orientation.gif">
-</div><a class="isomer-image-wrapper" href="https://youtu.be/y42MuNLi_iI?si=MFdhjhnXo5dsQbdt"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<h2>WGPS P1 Orientation</h2><a class="isomer-image-wrapper" href="https://youtu.be/WFV4FCX3Fxw?si=A2Zl8Yxdh_WvlVf1"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/P1_Orientation.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/WFV4FCX3Fxw?si=A2Zl8Yxdh_WvlVf1">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>We welcome our newest Woodgrovians to the family with big smiles, cheerful
 hellos and the magical appearance of our beloved mascots, Sparkle &amp;
 Shine!
