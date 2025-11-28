@@ -30,7 +30,7 @@ sections:
         cheerful hellos and the magical appearance of our beloved mascots,
         Sparkle & Shine!
       button: CLICK HERE
-      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      url: https://youtu.be/WFV4FCX3Fxw?si=A2Zl8Yxdh_WvlVf1
       image: /images/P1_Orientation.gif
       alt: Image alt text
   - infopic:
