@@ -23,6 +23,17 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: WGPS P1 Orientation
+      subtitle: WOW!
+      id: infopic
+      description: We welcome our newest Woodgrovians to the family with big smiles,
+        cheerful hellos and the magical appearance of our beloved mascots,
+        Sparkle & Shine!
+      button: CLICK HERE
+      url: https://youtu.be/WFV4FCX3Fxw?si=A2Zl8Yxdh_WvlVf1
+      image: /images/P1_Orientation.gif
+      alt: Image alt text
+  - infopic:
       title: Celebration & Recognition Day and P6 Graduation
       subtitle: WOW!
       id: infopic
