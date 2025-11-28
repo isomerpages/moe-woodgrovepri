@@ -4,6 +4,20 @@ permalink: /wow/permalink/
 variant: tiptap
 description: ""
 ---
+<h2>WGPS P1 Orientation</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/P1_Orientation.gif">
+</div><a class="isomer-image-wrapper" href="https://youtu.be/y42MuNLi_iI?si=MFdhjhnXo5dsQbdt"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<p>We welcome our newest Woodgrovians to the family with big smiles, cheerful
+hellos and the magical appearance of our beloved mascots, Sparkle &amp;
+Shine!
+<br>
+<br>Our 2026 P1 Woodgrovians kicked off their day with engaging hands-on class
+activities in the classrooms, cheered along to the 2025 P1 Level Cheer
+and enjoyed lively dance performances that filled the hall with pure energy
+and excitement. To top it off, our little ones even voted for their 2026
+P1 Mascot! What a joyful start to their journey at Woodgrove Primary School
+- filled with learning, laughter, and wonderful memories ahead.</p>
 <h2>Celebration &amp; Recognition Day and P6 Graduation</h2><a class="isomer-image-wrapper" href="https://youtu.be/y42MuNLi_iI?si=MFdhjhnXo5dsQbdt"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Celebrating_Our_Successes.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/y42MuNLi_iI?si=MFdhjhnXo5dsQbdt">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
