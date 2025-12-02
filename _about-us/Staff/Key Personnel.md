@@ -149,11 +149,10 @@ variant: tiptap
 <p>Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lovelle Tan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lovelle_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lovelle_tan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
