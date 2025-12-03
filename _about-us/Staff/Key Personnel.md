@@ -98,18 +98,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Mother Tongue)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chew Chee Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chew_chee_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_chee_hong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,6 +105,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_idayu_yusi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_idayu_yusi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management &amp; Student Leadership (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Zubir Bin Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_zubir_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mohamed_Zubir_Osman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -149,10 +149,11 @@ variant: tiptap
 <p>Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Kavin Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="kavin_chong_shi_jie@schools.gov.sg" rel="noopener nofollow" target="_blank">kavin_chong_shi_jie@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -241,37 +242,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH (Student Management &amp; Leadership)</p>
+<p>SH (Student Management &amp; Leadership) (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Zubir Bin Osman</p>
+<p>Miss Lee Ying Hui Daphanie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_zubir_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mohamed_Zubir_Osman@schools.gov.sg</a>
+<p><a href="lee_ying_hui_daphanie@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_ying_hui_daphanie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH (ICT)</p>
+<p>SH (Student Well-Being)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kavin Chong</p>
+<p>Miss Hannah Tjoa Xin Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kavin_chong_shi_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kavin_chong_shi_jie@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH (ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Shini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_shini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shini@schools.gov.sg</a>
+<p><a href="hannah_tjoa_xin_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">hannah_tjoa_xin_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -344,6 +333,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_lilian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lilian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST (CCE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Chee Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_chee_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_chee_hong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
