@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AED (T&amp;L)</p>
+<p>EAS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Vijaya Chokkalingam</p>
