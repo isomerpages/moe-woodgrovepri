@@ -379,6 +379,40 @@ third_nav_title: Achievements
 <br>NUR KAMALUDDIN BIN ANWAR, 6E</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SINGAPORE PRIMARY SCIENCE OLYMPIAD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MERIT</strong>
+<br>
+<br>VENESSA TAN YI XIN, 5A
+<br>LIU HUIXI, 5A
+<br>TAN ZI YU, 5A
+<br>ZHANG YUZHI, 5A
+<br>MOHAMED ALEEM BIN MOHAMED FAIRUZ, 5B
+<br>RYAN TAN HONG YEH, 5B
+<br>BRANDON PEH, 5C
+<br>CHARLENE SEET, 5C
+<br>MARATKAR ATHARVA SUDHIR, 5C
+<br>SUN SIQIAO, 5C
+<br>TAN JOE SHE, 5C YAP HAO XUAN, 5C
+<br>KOAY HONG HAO, 5E
+<br>CHEW WEI ZHENG, 5C
+<br>FEI YUCHENG, 5C
+<br>FOO MING KAI, 5C
+<br>GUO JIAXIANG, 5C
+<br>GUPTA REYANSH, 5C
+<br>JAYDEN HUANG WENTAO, 5C
+<br>JIANG XINYI, 5C
+<br>JOANNE HO XIN EN, 5C
+<br>LIANG CHENHAN, 5C
+<br>LIANG YIRAN, 5C
+<br>LIEW HAO RONG DAVION, 5C
+<br>ONG RUI CHENG JAYDEN, 5C</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
