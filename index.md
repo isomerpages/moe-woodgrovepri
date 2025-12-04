@@ -266,4 +266,8 @@ sections:
       url: https://youtu.be/GJZtD-etpow?si=q0BsQkYJ7LswAyQz
       image: /images/Woodgrove_Primary_school.gif
       alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
