@@ -18,5 +18,4 @@ directly with the school bus operator.</p>
 <h3><strong>Bus Fare</strong></h3>
 <p><a href="/files/school_bus_operator_awarded_and_bus_fare_2024_2025_N.pdf" rel="noopener nofollow" target="_blank">School Bus Operator and Bus Fare 2024 - 2027</a>
 </p>
-<p><a href="/files/School%20Bus/school%20bus%20operator%20awarded%20and%20bus%20fare%202024-2025.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Operator and Bus Fare 2024 - 2027</a>
-</p>
+<p></p>
