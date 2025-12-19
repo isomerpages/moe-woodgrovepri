@@ -15,8 +15,8 @@ directly with the school bus operator.</p>
 <br>Contact Person: Mr Yeo Kah Hua, Hp: 96327095</p>
 <p><a href="/files/School_Bus_Registration_Form_2026_fillable_N.pdf" rel="noopener nofollow" target="_blank">School_Bus_Registration_Form_2026</a>
 </p>
-<p></p>
-<p></p>
 <h3><strong>Bus Fare</strong></h3>
+<p><a href="/files/school_bus_operator_awarded_and_bus_fare_2024_2025_N.pdf" rel="noopener nofollow" target="_blank">School Bus Operator and Bus Fare 2024 - 2027</a>
+</p>
 <p><a href="/files/School%20Bus/school%20bus%20operator%20awarded%20and%20bus%20fare%202024-2025.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Operator and Bus Fare 2024 - 2027</a>
 </p>
