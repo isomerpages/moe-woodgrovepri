@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Middle Primary)</p>
+<p>Year Head (Middle Primary)(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kavin Chong</p>
@@ -254,7 +254,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH (Student Well-Being)</p>
+<p>SH (Student Well-Being)(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Hannah Tjoa Xin Ying</p>
