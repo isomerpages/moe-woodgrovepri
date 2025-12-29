@@ -74,18 +74,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EAS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Vijaya Chokkalingam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chokkalingam_vijayanayaki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chokkalingam_vijayanayaki@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
