@@ -29,7 +29,7 @@ sections:
       description: Our P1 Woodgrovians’ first day was filled with smiles,
         encouragement and many firsts!
       button: Click Here
-      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      url: https://youtu.be/WKpT7h4B0bA?si=pX4_a4zxlXfE_W2w
       image: /images/P1_First_Day_at_School_2026__1_.gif
       alt: Image alt text
   - infopic:
