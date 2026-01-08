@@ -2,6 +2,7 @@ collections:
   woodgrovians-celebrate:
     output: true
     order:
+      - Achievements/Achievements 2026.md
       - Achievements/Achievements 2025.md
       - Achievements/The Lee Kuan Yew Award for All Round Excellence.md
       - Achievements/Achievements 2024.md
