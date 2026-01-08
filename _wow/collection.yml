@@ -2,5 +2,6 @@ collections:
   wow:
     output: true
     order:
+      - What's On @ Woodgrove 2026.md
       - What's On @ Woodgrove 2025.md
       - What's On @ Woodgrove 2024.md
