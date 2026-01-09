@@ -23,6 +23,17 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Primary 6 Art Legacy Project
+      subtitle: WOW!
+      id: infopic
+      description: Knots of Kindness is a Primary 6 Art Legacy Project by our 2025
+        graduating students, created to give a warm welcome to our Primary 1
+        Woodgrovians.
+      button: CLICK HERE
+      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      image: /images/2025_Legacy_Macrame_Keychain_Video__1_.gif
+      alt: Image alt text
+  - infopic:
       title: "Growing Together: Our P1s’ First Day"
       subtitle: WOW!
       id: infopic
