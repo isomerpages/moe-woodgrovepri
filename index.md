@@ -30,7 +30,7 @@ sections:
         graduating students, created to give a warm welcome to our Primary 1
         Woodgrovians.
       button: CLICK HERE
-      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      url: https://youtu.be/Nr2MXQ1R81o?si=5d0X4sOdpr_pWuMM
       image: /images/2025_Legacy_Macrame_Keychain_Video__1_.gif
       alt: Image alt text
   - infopic:
