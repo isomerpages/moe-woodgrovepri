@@ -39,7 +39,7 @@ ones.</p>
 <p></p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.&nbsp;</p>
-<p><strong>Overview of Woodgrove&nbsp;Primary&nbsp;School’s&nbsp;Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Woodgrove&nbsp;Primary&nbsp;School’s&nbsp;Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum.&nbsp;The
@@ -73,12 +73,12 @@ healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<h4><strong>At Woodgrove Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong></h4>
+<h4><strong>At Woodgrove Primary School, the following Sexuality Education lessons will be taught in&nbsp;2026:</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_picture.jpg">
 </div>
-<h4><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong></h4>
+<h4><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong></h4>
 <h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -122,7 +122,7 @@ so that the students will feel more comfortable during the discussions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2 &amp; 3</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -136,14 +136,14 @@ so that the students will feel more comfortable during the discussions.</p>
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-‘Stop-Think-Do’.</p>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
+</p>
 <p>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term2 Week 5 &amp; 6</p>
+<p>Term2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ so that the students will feel more comfortable during the discussions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8 &amp; 9</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -242,12 +242,12 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="https://form.gov.sg/678dfbbab79ee8f86b510178" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by 14/02/2025.</p>
+of the year and is also downloadable <a href="https://form.gov.sg/69685df2bc0cc9e1dc62c101" rel="noopener nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 13/02/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at <a href="mailto:woodgrove_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woodgrove_ps@moe.edu.sg</a> or
 call +65 68943371 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
 <p></p>
-<p>Updated in January 2025</p>
+<p>Updated in January 2026</p>
 <p></p>
