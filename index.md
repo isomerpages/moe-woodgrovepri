@@ -19,7 +19,7 @@ sections:
           url: /permalink/achievements/
         - title: PARENT TEACHER ENGAGEMENT
           description: ""
-          url: https://sites.google.com/moe.edu.sg/pte-woodgrove-pri-school/home/primary-three
+          url: https://sites.google.com/moe.edu.sg/pte-woodgrove-pri-school/home?authuser=0
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
