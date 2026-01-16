@@ -13,7 +13,7 @@ sections:
           url: /for-potential-p1-parents/
         - title: What's On @ Woodgrove!
           description: (WOW!)
-          url: /wow/permalink/
+          url: /what-s-on-woodgrove-2026/
         - title: Our Achievements
           description: ""
           url: /permalink/achievements/
