@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Example Title.md
       - P1 Orientation Matters.md
       - School Tour Video.md
       - Approved Textbook List (2026).md
