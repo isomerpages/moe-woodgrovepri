@@ -40,6 +40,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhu Lirong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhu_lirong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_lirong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5B</p>
 </td>
 <td rowspan="1" colspan="1">
