@@ -23,6 +23,17 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Woodgrovians Start Right 2026
+      subtitle: WOW!
+      id: infopic
+      description: Join our Woodgrovians as they Start Right for the new academic
+        year! Our beloved Shine and Sparkle were so excited to welcome back
+        everyone at the school gates.
+      button: CLICK HERE
+      url: https://youtu.be/zcKOhyvoLsY?si=WNhG9IdVrWpbX1B0
+      image: /images/Woodgrovians_Start_Right_2026__1_.gif
+      alt: Image alt text
+  - infopic:
       title: Primary 6 Art Legacy Project
       subtitle: WOW!
       id: infopic
@@ -64,13 +75,4 @@ sections:
       alt: Image alt text
       image: /images/Celebrating_Our_Successes.gif
       url: https://youtu.be/y42MuNLi_iI?si=ubWAo0JIsTFLiQ2p
-  - infopic:
-      title: "Our World, Our Classroom: Shanghai Immersion Trip"
-      subtitle: WOW!
-      id: infopic
-      description: Our Primary 5 Woodgrovians had an unforgettable time in Shanghai!
-      button: Click Here
-      url: https://youtu.be/hYXjEztKnxg?si=gSAdmJF6GhuZt8AW
-      alt: Image alt text
-      image: /images/WGPS_China_Immersion_Trip__1_.gif
 ---
