@@ -4,6 +4,17 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<h2>Woodgrovians Start Right 2026</h2><a class="isomer-image-wrapper" href="https://youtu.be/zcKOhyvoLsY?si=2kGVHx3EGUxGrTDl"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Woodgrovians_Start_Right_2026__1_.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/zcKOhyvoLsY?si=2kGVHx3EGUxGrTDl">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>Join our Woodgrovians as they Start Right for the new academic year! Our
+beloved Shine and Sparkle were so excited to welcome back everyone at the
+school gates. See also the heartfelt classroom moments and highlights from
+the Start Right programme. What's more - the school community comes together
+to celebrate our January Birthday babies! Adding to the joy is the unveiling
+of last year's level champions! Join us in our joyful atmosphere through
+the rousing school cheer - what a way to start the year ahead!</p>
 <h2>Primary 6 Art Legacy Project</h2><a class="isomer-image-wrapper" href="https://youtu.be/Nr2MXQ1R81o?si=5d0X4sOdpr_pWuMM"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025_Legacy_Macrame_Keychain_Video__1_.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/Nr2MXQ1R81o?si=5d0X4sOdpr_pWuMM">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
