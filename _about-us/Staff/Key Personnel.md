@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management &amp; Student Leadership (Internal)</p>
+<p>HOD (Student Management &amp; Student Leadership)(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Zubir Bin Osman</p>
@@ -242,7 +242,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH (Student Management &amp; Leadership) (Internal)</p>
+<p>SH (Student Leadership) (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Lee Ying Hui Daphanie</p>
