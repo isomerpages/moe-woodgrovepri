@@ -23,6 +23,17 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: National Sports Games 2026 – Woodgrovians in Action
+      subtitle: WOW!
+      id: infopic
+      description: On 27 January 2026, our Woodgrove Primary School students proudly
+        represented the school at the National School Games Opening Ceremony
+        held at the OCBC Arena.
+      button: Click Here
+      url: https://youtu.be/f_qxWHO_jL4?si=EaJj5D6zSgydyH1v
+      alt: Image alt text
+      image: /images/National_Sports_Games_2026___Woodgrovians_in_Action__1_.gif
+  - infopic:
       title: Woodgrovians Start Right 2026
       subtitle: WOW!
       id: infopic
@@ -30,7 +41,7 @@ sections:
         year! Our beloved Shine and Sparkle were so excited to welcome back
         everyone at the school gates.
       button: CLICK HERE
-      url: https://youtu.be/zcKOhyvoLsY?si=WNhG9IdVrWpbX1B0
+      url: https://www.youtube.com/watch?v=zcKOhyvoLsY
       image: /images/Woodgrovians_Start_Right_2026__1_.gif
       alt: Image alt text
   - infopic:
