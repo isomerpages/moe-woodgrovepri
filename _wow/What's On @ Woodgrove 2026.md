@@ -4,6 +4,21 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<h2>National Sports Games 2026 – Woodgrovians in Action</h2><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=f_qxWHO_jL4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Sports_Games_2026___Woodgrovians_in_Action__1_.gif"></a>
+<a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=f_qxWHO_jL4">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>On 27 January 2026, our Woodgrove Primary School students proudly represented
+the school at the National School Games Opening Ceremony held at the OCBC
+Arena. As they took the Athletes’ Oath, they pledged to compete fairly
+and safely, upholding integrity and responsibility, and to face every challenge
+with resilience — reflecting the belief that character is strengthened
+through sporting excellence.
+<br>
+<br>Our Boys’ and Girls’ Basketball teams, Badminton team, and Football team
+have also kicked off their NSG journey with a bang, making us proud as
+they demonstrate true heart, grit, and sportsmanship in every game. Keep
+striving, Woodgrovians — shine for yourselves and others!</p>
 <h2>Woodgrovians Start Right 2026</h2><a class="isomer-image-wrapper" href="https://youtu.be/zcKOhyvoLsY?si=2kGVHx3EGUxGrTDl"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Woodgrovians_Start_Right_2026__1_.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/zcKOhyvoLsY?si=2kGVHx3EGUxGrTDl">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
