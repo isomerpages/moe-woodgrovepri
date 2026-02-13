@@ -32,6 +32,7 @@ sections:
       button: Click Here
       url: https://youtu.be/f_qxWHO_jL4?si=EaJj5D6zSgydyH1v
       alt: Image alt text
+      image: /images/National_Sports_Games_2026___Woodgrovians_in_Action__1_.gif
   - infopic:
       title: Woodgrovians Start Right 2026
       subtitle: WOW!
