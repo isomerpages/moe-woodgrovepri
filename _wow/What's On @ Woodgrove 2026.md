@@ -4,7 +4,7 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
-<h2>National Sports Games 2026 – Woodgrovians in Action</h2><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=f_qxWHO_jL4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Sports_Games_2026___Woodgrovians_in_Action__1_.gif"></a>
+<h2>National Sports Games 2026 – Woodgrovians in Action</h2><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=f_qxWHO_jL4"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/National_Sports_Games_2026___Woodgrovians_in_Action__1_.gif"></a>
 <a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=f_qxWHO_jL4">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
 </a>
