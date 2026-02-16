@@ -29,7 +29,7 @@ sections:
       description: Today, Woodgrove welcomed the Year of the Horse with a lively and
         joyous Chinese New Year celebration.
       button: Click Here
-      url: youtube.com/watch?v=YDclvDfvfrU&feature=youtu.be
+      url: https://youtu.be/YDclvDfvfrU?si=mJ_t_aUbCTy1EpSE
       image: /images/2026_CNY.gif
       alt: Image alt text
   - infopic:
