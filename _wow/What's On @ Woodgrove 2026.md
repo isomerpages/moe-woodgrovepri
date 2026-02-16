@@ -4,6 +4,22 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<h2>Woodgrove Chinese New Year Celebration 2026</h2><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=YDclvDfvfrU"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2026_CNY.gif"></a>
+<a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=YDclvDfvfrU">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>Today, Woodgrove welcomed the Year of the Horse with a lively and joyous
+Chinese New Year celebration.</p>
+<p>Prior to the celebrations, students enjoyed Chinese calligraphy fringe
+activities during recess, where they tried their hand at writing auspicious
+words of prosperity and good fortune.</p>
+<p>On Chinese New Year Eve, Woodgrovians gathered to soak in the festive
+spirit through a vibrant concert programme that featured a cheerful sing-along,
+an exhilarating Lion Dance, captivating performances by the Chinese Orchestra
+and Chinese Dance groups, as well as an entertaining skit by Woodgrove
+Playhouse that humorously showcased Chinese New Year traditions and customs.
+The celebrations continued with an interactive quiz and concluded on a
+high note with a mass dance that brought everyone together in celebration.</p>
 <h2>National Sports Games 2026 – Woodgrovians in Action</h2><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=f_qxWHO_jL4"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/National_Sports_Games_2026___Woodgrovians_in_Action__1_.gif"></a>
 <a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=f_qxWHO_jL4">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
