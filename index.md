@@ -23,6 +23,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Woodgrove Chinese New Year Celebration 2026
+      subtitle: WOW!
+      id: infopic
+      description: Today, Woodgrove welcomed the Year of the Horse with a lively and
+        joyous Chinese New Year celebration.
+      button: Click Here
+      url: youtube.com/watch?v=YDclvDfvfrU&feature=youtu.be
+      image: /images/2026_CNY.gif
+      alt: Image alt text
+  - infopic:
       title: National Sports Games 2026 – Woodgrovians in Action
       subtitle: WOW!
       id: infopic
