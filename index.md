@@ -23,6 +23,17 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Total Defence Day 2026
+      subtitle: WOW!
+      id: infopic
+      description: Commemorated Total Defence Day on 13 February with interactive
+        activities and a live exercise to deepen students’ understanding of the
+        six pillars of defence.
+      button: Click Here
+      url: https://www.youtube.com/watch?v=yfTlpoOvyTM
+      image: /images/Total_Defence_Day_2026.gif
+      alt: Image alt text
+  - infopic:
       title: Woodgrove Chinese New Year Celebration 2026
       subtitle: WOW!
       id: infopic
