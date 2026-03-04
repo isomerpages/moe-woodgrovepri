@@ -4,6 +4,20 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<h2>Total Defence Day 2026</h2><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=yfTlpoOvyTM"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Total_Defence_Day_2026.gif"></a>
+<a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=yfTlpoOvyTM">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>Woodgrove Primary School commemorated Total Defence Day on 13 February
+with interactive activities and a live exercise to deepen students’ understanding
+of the six pillars of defence.</p>
+<p>&nbsp;</p>
+<p>A key highlight was the Digital Connectivity Disruption Exercise, where
+Woodgrovians experienced first-hand the impact of a digital connectivity
+disruption. Despite the challenges, they demonstrated resilience and adaptability
+in ensuring that learning continued. Through these lived experiences, Woodgrovians
+learned to be active contributors in keeping Singapore united and strong.</p>
+<p></p>
 <h2>Woodgrove Chinese New Year Celebration 2026</h2><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=YDclvDfvfrU"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2026_CNY.gif"></a>
 <a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=YDclvDfvfrU">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
