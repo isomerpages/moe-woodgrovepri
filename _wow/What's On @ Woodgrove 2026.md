@@ -11,7 +11,6 @@ description: ""
 <p>Woodgrove Primary School commemorated Total Defence Day on 13 February
 with interactive activities and a live exercise to deepen students’ understanding
 of the six pillars of defence.</p>
-<p>&nbsp;</p>
 <p>A key highlight was the Digital Connectivity Disruption Exercise, where
 Woodgrovians experienced first-hand the impact of a digital connectivity
 disruption. Despite the challenges, they demonstrated resilience and adaptability
