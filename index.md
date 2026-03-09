@@ -23,7 +23,7 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
-      title: WGPS NSG Opening Ceremony 2025
+      title: WGPS NSG Opening Ceremony 2026
       subtitle: WOW!
       id: infopic
       description: On 6 March, our Woodgrovian athletes commemorated the start of the
