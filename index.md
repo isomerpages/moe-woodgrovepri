@@ -23,6 +23,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: WGPS NSG Opening Ceremony 2025
+      subtitle: WOW!
+      id: infopic
+      description: On 6 March, our Woodgrovian athletes commemorated the start of the
+        National School Games
+      button: Click Here
+      url: https://www.youtube.com/watch?v=hExeF5NT8PA
+      image: /images/WGPS_NSG_Opening_Ceremony_2026.gif
+      alt: Image alt text
+  - infopic:
       title: Total Defence Day 2026
       subtitle: WOW!
       id: infopic
@@ -97,14 +107,4 @@ sections:
       url: https://youtu.be/WFV4FCX3Fxw?si=A2Zl8Yxdh_WvlVf1
       image: /images/P1_Orientation.gif
       alt: Image alt text
-  - infopic:
-      title: Celebration & Recognition Day and P6 Graduation
-      subtitle: WOW!
-      id: infopic
-      description: Woodgrove Primary proudly celebrated our Woodgrovians’ amazing
-        achievements in our annual Celebration & Recognition Day.
-      button: Click Here
-      alt: Image alt text
-      image: /images/Celebrating_Our_Successes.gif
-      url: https://youtu.be/y42MuNLi_iI?si=ubWAo0JIsTFLiQ2p
 ---
