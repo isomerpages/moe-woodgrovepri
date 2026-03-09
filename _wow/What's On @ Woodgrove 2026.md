@@ -4,6 +4,17 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<h2>WGPS NSG Opening Ceremony 2025</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WGPS_NSG_Opening_Ceremony_2026.gif">
+</div><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=yfTlpoOvyTM"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<p>On 6 March, our Woodgrovian athletes commemorated the start of the National
+School Games. CCA representatives marched in proudly with the school flag,
+while our athletes from Badminton, Football, Basketball and Rope Skipping
+recited the Athletes’ Oath. Miss Sharon also took the Coaches’ Oath on
+behalf of all WGPS teachers and coaches. The celebration ended with Woodgrovians
+cheering enthusiastically to support our athletes. We wish them all the
+best in their upcoming games!</p>
 <h2>Total Defence Day 2026</h2><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=yfTlpoOvyTM"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Total_Defence_Day_2026.gif"></a>
 <a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=yfTlpoOvyTM">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
