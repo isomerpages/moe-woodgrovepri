@@ -29,7 +29,7 @@ sections:
       description: On 6 March, our Woodgrovian athletes commemorated the start of the
         National School Games
       button: Click Here
-      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      url: https://www.youtube.com/watch?v=hExeF5NT8PA
       image: /images/WGPS_NSG_Opening_Ceremony_2026.gif
       alt: Image alt text
   - infopic:
