@@ -75,6 +75,14 @@ description: ""
 <p>Mr Teo Soo Hwee Brent</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Clara Lin</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
