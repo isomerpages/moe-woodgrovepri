@@ -16,7 +16,7 @@ sections:
           url: /what-s-on-woodgrove-2026/
         - title: Our Achievements
           description: ""
-          url: /permalink/achievements/
+          url: /achievements-banner-2026/
         - title: PARENT TEACHER ENGAGEMENT
           description: ""
           url: https://sites.google.com/moe.edu.sg/pte-woodgrove-pri-school/home?authuser=0
@@ -107,4 +107,16 @@ sections:
       url: https://youtu.be/WFV4FCX3Fxw?si=A2Zl8Yxdh_WvlVf1
       image: /images/P1_Orientation.gif
       alt: Image alt text
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
