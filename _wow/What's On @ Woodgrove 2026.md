@@ -4,6 +4,15 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<h2>Welcome Back to Term 2</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/download.gif">
+</div><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=hExeF5NT8PA"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<p>Term 2 got off to a bright start as Shine and Sparkle welcomed Woodgrovians
+back to school with warmth and cheer. From heartfelt reunions to fun at
+the photo booth, it was the perfect way to create lasting memories and
+kick off a brand-new term!</p>
 <h2>WGPS NSG Opening Ceremony 2026</h2><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=hExeF5NT8PA"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WGPS_NSG_Opening_Ceremony_2026.gif"></a>
 <a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=hExeF5NT8PA">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
