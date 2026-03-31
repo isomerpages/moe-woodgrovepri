@@ -29,7 +29,7 @@ sections:
       description: Term 2 got off to a bright start as Shine and Sparkle welcomed
         Woodgrovians back to school with warmth and cheer.
       button: Click Here
-      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      url: https://youtu.be/NCIp17KfgnU?si=GwrSob0wuaNgaSb9
       image: /images/download.gif
       alt: Image alt text
   - infopic:
