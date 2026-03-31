@@ -4,6 +4,7 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <h2>Welcome Back to Term 2</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/download.gif">
