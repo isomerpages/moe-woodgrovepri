@@ -61,22 +61,19 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>FIRST</strong>
-</p>
-<p>TAN AN QI, 6C</p>
+<br>TAN AN QI, 6C</p>
 <p></p>
 <p><strong>SECOND</strong>
-</p>
-<p>CHARLTON YU XU-AUSTIN, 4A</p>
-<p>LI MINGZE BENJIMIN, 5E</p>
+<br>CHARLTON YU XU-AUSTIN, 4A
+<br>LI MINGZE BENJIMIN, 5E</p>
 <p></p>
-<p><strong>THIRD </strong>
-</p>
-<p>SHERMIN ONG YU XIN, 2D</p>
-<p>AIMEE ZHAO YIQIAO, 3A</p>
-<p>LI JUNZE BRIAN, 3E</p>
-<p>ZHANG WEI'EN, 3E</p>
-<p>TAN AN YA, 4C</p>
-<p>ZHANG ENQI, 5A</p>
+<p><strong>THIRD</strong>
+<br>SHERMIN ONG YU XIN, 2D
+<br>AIMEE ZHAO YIQIAO, 3A
+<br>LI JUNZE BRIAN, 3E
+<br>ZHANG WEI'EN, 3E
+<br>TAN AN YA, 4C
+<br>ZHANG ENQI, 5A</p>
 </td>
 </tr>
 <tr>
@@ -85,9 +82,8 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>THIRD </strong>
-</p>
-<p>TAN AN QI, 6C</p>
+<p><strong>THIRD</strong>
+<br>TAN AN QI, 6C</p>
 </td>
 </tr>
 </tbody>
