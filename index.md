@@ -23,6 +23,17 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Hari Raya Celebration
+      subtitle: WOW!
+      id: infopic
+      description: Woodgrovians celebrated Hari Raya with vibrant decorations,
+        classroom activities, and a story-based concert featuring mascots
+        Sparkle and Shine.
+      button: Click Here
+      url: https://youtu.be/QnU4iQtKXSE?si=J4oLAEaOU_86h82L
+      image: /images/ytrjhed.gif
+      alt: Image alt text
+  - infopic:
       title: Welcome Back to Term 2
       subtitle: WOW!
       id: infopic
