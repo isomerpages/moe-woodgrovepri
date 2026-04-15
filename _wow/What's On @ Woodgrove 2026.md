@@ -4,6 +4,17 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<h2>Hari Raya Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/QnU4iQtKXSE?si=J4oLAEaOU_86h82L"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ertyerwyt.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/QnU4iQtKXSE?si=J4oLAEaOU_86h82L">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>In line with our theme "Celebrating Cultures and Traditions, Connecting
+Hearts", Woodgrovians celebrated Hari Raya with vibrant decorations, classroom
+activities, and a story-based concert featuring mascots Sparkle and Shine.
+Students explored Hari Raya traditions through Dikir Barat performances,
+a Malay dance, and a P1 &amp; P2 fashion parade while simultaneously learning
+about respect, empathy and forgiveness. Our teachers also came together
+to make a video bringing much surprise and joy to our Woodgrovians!</p>
 <h2>Welcome Back to Term 2</h2><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=NCIp17KfgnU"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/download.gif"></a>
 <a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=NCIp17KfgnU">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
