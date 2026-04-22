@@ -23,6 +23,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Pre-SYF Show
+      subtitle: WOW!
+      id: infopic
+      description: Witness the incredible talent of our Woodgrovians on display as
+        they showcased months of dedication and hard work.
+      button: Click Here
+      url: https://www.youtube.com/watch?v=LeFrJFaG4UQ&t=22s
+      image: /images/Witness_the_incredible_talent_of_our_Woodgrovians_on_display_as_they_showcased_months_of_dedication_and_hard_work__Through_five_vibrant_performing_arts___Chinese_Orchestra__Indian_Dance__Chinese_Dance__Malay_Da.gif
+      alt: Image alt text
+  - infopic:
       title: Hari Raya Celebration
       subtitle: WOW!
       id: infopic
