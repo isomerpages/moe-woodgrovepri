@@ -4,6 +4,17 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<h2>Pre-SYF Show</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Witness_the_incredible_talent_of_our_Woodgrovians_on_display_as_they_showcased_months_of_dedication_and_hard_work__Through_five_vibrant_performing_arts___Chinese_Orchestra__Indian_Dance__Chinese_Dance__Malay_Da.gif">
+</div><a class="isomer-image-wrapper" href="https://youtu.be/QnU4iQtKXSE?si=J4oLAEaOU_86h82L"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<p>Witness the incredible talent of our Woodgrovians on display as they showcased
+months of dedication and hard work. Through five vibrant performing arts
+- Chinese Orchestra, Indian Dance, Chinese Dance, Malay Dance, and Modern
+Dance, they showed us the Woodgrove Spirit, displaying not just their skills,
+but the confidence, teamwork, and joy they experienced. We are also grateful
+for the support of&nbsp; parents, coming together to celebrate our Woodgrovians'
+achievements and growth.</p>
 <h2>Hari Raya Celebration</h2><a class="isomer-image-wrapper" href="https://youtu.be/QnU4iQtKXSE?si=J4oLAEaOU_86h82L"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ertyerwyt.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/QnU4iQtKXSE?si=J4oLAEaOU_86h82L">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
