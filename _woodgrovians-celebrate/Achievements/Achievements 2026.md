@@ -107,10 +107,14 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>DISTINCTION</strong> 
+</p>
 <p></p>
+<p>MALAY DANCE</p>
 </td>
 </tr>
 </tbody>
