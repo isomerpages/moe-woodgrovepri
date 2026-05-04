@@ -75,19 +75,27 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>Curious to find out about how do we celebrate our Woodgrovian's success?
-Take a look at our achievement: <a href="https://www.woodgrovepri.moe.edu.sg/permalink/achievements/" rel="noopener nofollow" target="_blank">Celebrate Our Success</a>
+Take a look at our achievement: <a href="https://www.woodgrovepri.moe.edu.sg/achievements-banner-2026/" rel="noopener nofollow" target="_blank">Celebrate Our Success</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement banner 2025/woodgrove_108_rope_senior_boy_f_v1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_140_Malay_Dance.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement banner 2025/woodgrove_97_Goodtalk_International.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_138_Goodtalk.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement banner 2025/woodgrove_100_SOTA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_139_Bilingual_Speech.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_135_physical_challenge.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_134.jpg">
 </div>
 </td>
 </tr>
