@@ -4,6 +4,17 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<h2>Library Week 2026</h2><a class="isomer-image-wrapper" href="https://youtu.be/NxJWw5wadlY?si=6irHSmkRwoFt33rQ"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/123.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/NxJWw5wadlY?si=6irHSmkRwoFt33rQ">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>Themed “A World of Stories, A World of Possibilities”, the Library Week
+2026 was an absolute hit! Woodgrovians dove enthusiastically into the Library
+Quest and amazed us with their creativity in the Bookmark Design Competition.
+Recess storytelling sessions also kept our Woodgrovians spellbound. The
+highlight of the week has to be our Woodgrove teachers transforming into
+beloved characters sparking much excitement amongst our Woodgrovians throughout
+the week.</p>
 <h2>Pre-SYF Show</h2><a class="isomer-image-wrapper" href="https://youtu.be/OzWZM1LkkLI?si=_fZIVDvhJdcy8nfC"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Witness_the_incredible_talent_of_our_Woodgrovians_on_display_as_they_showcased_months_of_dedication_and_hard_work__Through_five_vibrant_performing_arts___Chinese_Orchestra__Indian_Dance__Chinese_Dance__Malay_Da.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/OzWZM1LkkLI?si=_fZIVDvhJdcy8nfC">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
