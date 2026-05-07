@@ -23,6 +23,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Library Week 2026
+      subtitle: WOW!
+      id: infopic
+      description: Themed “A World of Stories, A World of Possibilities”, the Library
+        Week 2026 was an absolute hit!
+      button: CLICK HERE
+      url: https://youtu.be/NxJWw5wadlY?si=6irHSmkRwoFt33rQ
+      image: /images/123.gif
+      alt: Image alt text
+  - infopic:
       title: Pre-SYF Show
       subtitle: WOW!
       id: infopic
