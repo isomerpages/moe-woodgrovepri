@@ -111,7 +111,7 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DISTINCTION</strong> 
+<p><strong>DISTINCTION</strong>
 </p>
 <p></p>
 <p>MALAY DANCE</p>
@@ -138,7 +138,7 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SCOUTS FRANK COOPER SANDS AWARD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
