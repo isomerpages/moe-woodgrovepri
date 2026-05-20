@@ -23,6 +23,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: International Friendship Day
+      subtitle: WOW!
+      id: infopic
+      description: Woodgrove Primary School celebrates International Friendship Day
+        with great excitement in April!
+      button: Click Here
+      url: https://youtu.be/HHiWG2qjQ_4?si=pNCrFP8oUwVAcwZJ
+      image: /images/download123.gif
+      alt: Image alt text
+  - infopic:
       title: Library Week 2026
       subtitle: WOW!
       id: infopic
