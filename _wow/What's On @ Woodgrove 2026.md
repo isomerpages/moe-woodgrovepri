@@ -4,6 +4,17 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<h2>International Friendship Day</h2><a class="isomer-image-wrapper" href="https://youtu.be/HHiWG2qjQ_4?si=pNCrFP8oUwVAcwZJ"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/download123.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/HHiWG2qjQ_4?si=pNCrFP8oUwVAcwZJ">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>Woodgrove Primary School celebrates International Friendship Day with
+great excitement in April! Through engaging storytelling, lively interactive
+activities, and thoughtful student reflections, our students explore the
+values of inclusion, kindness, and cultural understanding in meaningful
+and memorable ways. From energetic races to heartwarming acts of friendship,
+the celebration showcases the joy of building strong, respectful connections
+and embracing the diverse world around us.</p>
 <h2>Library Week 2026</h2><a class="isomer-image-wrapper" href="https://youtu.be/NxJWw5wadlY?si=6irHSmkRwoFt33rQ"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/123.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/NxJWw5wadlY?si=6irHSmkRwoFt33rQ">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
