@@ -29,18 +29,6 @@ variant: tiptap
 <p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Peh Hwee Ee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:peh_hwee_ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peh_hwee_ee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Azman Bin Sulaimi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,18 +89,6 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ervinna Ngew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pee_guan_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pee_guan_hoon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Nurliza</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,7 +125,7 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss S Sumitha Priya</p>
+<p>Ms S Sumitha Priya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:s_sumitha_priya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">s_sumitha_priya@schools.gov.sg</a>
