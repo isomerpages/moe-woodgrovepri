@@ -134,6 +134,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Management Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Dcotta Judy Christina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Dcotta_Judy_Christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dcotta_Judy_Christina@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>EAS</p>
 </td>
 <td rowspan="1" colspan="1">
