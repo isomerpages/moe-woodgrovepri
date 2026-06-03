@@ -8,12 +8,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_26_100826.png">
 </div>
-<p>If you have a a word of thanks, compliment or would like to express your
+<p>If you have a word of thanks, compliment or would like to express your
 gratitude to any of our staff members, you can do so via <a href="https://form.gov.sg/66a2eb4cca8dd2f6dae29f2b" rel="noopener nofollow" target="_blank">Clicking Here</a>
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="width: 100%; height: 500px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/66a2eb4cca8dd2f6dae29f2b"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="width: 100%; height: 500px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/66a2eb4cca8dd2f6dae29f2b"></iframe>
 </div>
 <p></p>
 <p>Beyond being kind, gratitude brings joy to others and self. Thank you
