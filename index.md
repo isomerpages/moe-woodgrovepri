@@ -30,7 +30,7 @@ sections:
         of vibrant celebration of learning, growth and achievement for our
         Woodgrovians!
       button: Click Here
-      url: https://www.youtube.com/watch?v=kfsN39CE70A
+      url: https://youtu.be/kyFCChO01ts?si=QHuF1w5zy9D2ZIIP
       alt: Image alt text
       image: /images/WGPS_Shine_Dayy.gif
   - infopic:
