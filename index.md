@@ -32,6 +32,7 @@ sections:
       button: Click Here
       url: https://www.youtube.com/watch?v=kfsN39CE70A
       alt: Image alt text
+      image: /images/WGPS_Shine_Dayy.gif
   - infopic:
       title: International Friendship Day
       subtitle: WOW!
