@@ -23,6 +23,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: SHINE Day
+      subtitle: WOW!
+      id: infopic
+      description: In our last week of school, we celebrated SHINE Day. It was a day
+        of vibrant celebration of learning, growth and achievement for our
+        Woodgrovians!
+      button: Click Here
+      url: https://www.youtube.com/watch?v=kfsN39CE70A
+      alt: Image alt text
+  - infopic:
       title: International Friendship Day
       subtitle: WOW!
       id: infopic
