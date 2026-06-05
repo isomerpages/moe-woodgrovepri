@@ -41,10 +41,10 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hoo Yun Ling (Joanne)</p>
+<p>Yvonne Chai Yu Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hoo_yun_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoo_yun_ling@schools.gov.sg</a>
+<p><a href="mailto:yvonne_chai_yu_ning@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yvonne_chai_yu_ning@schools.gov.sg</a>
 </p>
 </td>
 </tr>
