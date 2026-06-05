@@ -4,6 +4,18 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<h2>SHINE Day</h2><a class="isomer-image-wrapper" href="https://youtu.be/HHiWG2qjQ_4?si=pNCrFP8oUwVAcwZJ"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/download123.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/HHiWG2qjQ_4?si=pNCrFP8oUwVAcwZJ">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
+<p>In our last week of school, we celebrated SHINE Day. It was a day of vibrant
+celebration of learning, growth and achievement for our Woodgrovians! Our
+P1 and P2 Woodgrovians dazzled parents with their dance, singing and readers’
+theatre performances. P3 Woodgrovians enjoyed meaningful family bonding
+through carnival booths and Learnerscape activities, while P4 Woodgrovians
+developed leadership, teamwork and problem-solving skills through exciting
+Camp Sparkle and escape room challenges. It was truly a day filled with
+joy, discovery and shining moments for all!</p>
 <h2>International Friendship Day</h2><a class="isomer-image-wrapper" href="https://youtu.be/HHiWG2qjQ_4?si=pNCrFP8oUwVAcwZJ"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/download123.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/HHiWG2qjQ_4?si=pNCrFP8oUwVAcwZJ">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
