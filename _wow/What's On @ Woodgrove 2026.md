@@ -4,10 +4,10 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
-<h2>SHINE Day</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WGPS_Shine_Dayy.gif">
-</div><a class="isomer-image-wrapper" href="https://youtu.be/HHiWG2qjQ_4?si=pNCrFP8oUwVAcwZJ"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<h2>SHINE Day</h2><a class="isomer-image-wrapper" href="https://youtu.be/kyFCChO01ts?si=QHuF1w5zy9D2ZIIP"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WGPS_Shine_Dayy.gif"></a>
+<a class="isomer-image-wrapper" href="https://youtu.be/kyFCChO01ts?si=QHuF1w5zy9D2ZIIP">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
+</a>
 <p>In our last week of school, we celebrated SHINE Day. It was a day of vibrant
 celebration of learning, growth and achievement for our Woodgrovians! Our
 P1 and P2 Woodgrovians dazzled parents with their dance, singing and readers’
