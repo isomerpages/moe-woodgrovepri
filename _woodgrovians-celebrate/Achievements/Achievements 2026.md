@@ -93,8 +93,7 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>CHAMPION</strong>
-</p>
-<p>LI JUNZE BRIAN, 3E</p>
+<br>LI JUNZE BRIAN, 3E</p>
 <p></p>
 </td>
 </tr>
@@ -105,8 +104,7 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>FIRST</strong>
-</p>
-<p>SUN SIQIAO, 6C</p>
+<br>SUN SIQIAO, 6C</p>
 </td>
 </tr>
 </tbody>
@@ -136,7 +134,6 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <p><strong>DISTINCTION</strong>
 </p>
-<p></p>
 <p>MALAY DANCE</p>
 </td>
 </tr>
@@ -148,7 +145,6 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <p><strong>ACCOMPLISHMENT</strong>
 </p>
-<p></p>
 <p>CHINESE ORCHESTRA</p>
 </td>
 </tr>
@@ -160,7 +156,6 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <p><strong>ACCOMPLISHMENT</strong>
 </p>
-<p></p>
 <p>CHINESE DANCE</p>
 </td>
 </tr>
