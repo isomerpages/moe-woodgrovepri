@@ -38,18 +38,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Yvonne Chai Yu Ning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yvonne_chai_yu_ning@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yvonne_chai_yu_ning@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior SEN Officer</p>
 <p></p>
 </td>
@@ -71,6 +59,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:TAN_HAN_XIANG_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_HAN_XIANG_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Yvonne Chai Yu Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yvonne_chai_yu_ning@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yvonne_chai_yu_ning@schools.gov.sg</a>
 </p>
 </td>
 </tr>
