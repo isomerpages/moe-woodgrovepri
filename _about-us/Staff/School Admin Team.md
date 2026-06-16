@@ -38,6 +38,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administrative Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Wee Kwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_wee_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wee_kwang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">

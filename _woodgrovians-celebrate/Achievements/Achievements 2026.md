@@ -86,6 +86,27 @@ third_nav_title: Achievements
 <br>TAN AN QI, 6C</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NORTH ZONE SCHOOLS (PRIMARY) CHINESE SPEECH COMPETITION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CHAMPION</strong>
+<br>LI JUNZE BRIAN, 3E</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NATIONAL CHINESE CAALLIGRAPHY COMPETITION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>FIRST</strong>
+<br>SUN SIQIAO, 6C</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Aesthetics</h3>
@@ -113,8 +134,29 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <p><strong>DISTINCTION</strong>
 </p>
-<p></p>
 <p>MALAY DANCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ACCOMPLISHMENT</strong>
+</p>
+<p>CHINESE ORCHESTRA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ACCOMPLISHMENT</strong>
+</p>
+<p>CHINESE DANCE</p>
 </td>
 </tr>
 </tbody>
@@ -177,7 +219,7 @@ third_nav_title: Achievements
 <p></p>
 <h3><strong>LEGEND</strong></h3>
 <p>Cognitive: Academic, Critical and Creative Thinking, Innovation
-<br>Aestheics: Performance and visual arts
+<br>Aesthetics: Performance and visual arts
 <br>Moral:
 <br>Physical: Sports
 <br>Social: Environment and Community</p>
