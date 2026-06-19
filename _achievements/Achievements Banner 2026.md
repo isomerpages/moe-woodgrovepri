@@ -6,6 +6,10 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_148_Indian_Dance_v3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/woodgrove_149_chinese_Calligraphy_Competition.jpg">
 </div>
 <p></p>
