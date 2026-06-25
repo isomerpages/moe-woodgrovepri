@@ -158,6 +158,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistant Year Head (Middle Primary)(Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sia Gim Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sia_gim_keong@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>sia_gim_keong@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
