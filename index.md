@@ -29,7 +29,7 @@ sections:
       description: Woodgrove Primary School welcomed students back from the June break
         with a three-day Learning Festival to start Term 3.
       button: Click Here
-      url: https://www.youtube.com/watch?v=kfsN39CE70A
+      url: https://www.youtube.com/watch?v=pCbEjw52DYk&feature=youtu.be
       image: /images/Learning_Festival_2026.gif
       alt: Image alt text
   - infopic:
