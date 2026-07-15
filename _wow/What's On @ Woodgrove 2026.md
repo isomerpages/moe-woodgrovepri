@@ -4,6 +4,15 @@ permalink: /what-s-on-woodgrove-2026/
 variant: tiptap
 description: ""
 ---
+<h2>Woodgrove Learning Festival 2026</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Festival_2026.gif">
+</div><a class="isomer-image-wrapper" href="https://youtu.be/kyFCChO01ts?si=QHuF1w5zy9D2ZIIP"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif"></a>
+<p>Woodgrove Primary School welcomed students back from the June break with
+a three-day Learning Festival to start Term 3. Under this year's theme,
+"SOAR as One, Shine for All", our Woodgrovians immersed themselves in diverse
+and exciting experiences that inspired them to dream big and pursue their
+goals together. When we rise as one, every Woodgrovian shines!</p>
 <h2>SHINE Day</h2><a class="isomer-image-wrapper" href="https://youtu.be/kyFCChO01ts?si=QHuF1w5zy9D2ZIIP"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WGPS_Shine_Dayy.gif"></a>
 <a class="isomer-image-wrapper" href="https://youtu.be/kyFCChO01ts?si=QHuF1w5zy9D2ZIIP">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Untitled__1000_x_300_mm_.gif">
