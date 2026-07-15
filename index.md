@@ -23,6 +23,16 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Woodgrove Learning Festival 2026
+      subtitle: WOW!
+      id: infopic
+      description: Woodgrove Primary School welcomed students back from the June break
+        with a three-day Learning Festival to start Term 3.
+      button: Click Here
+      url: https://www.youtube.com/watch?v=kfsN39CE70A
+      image: /images/Learning_Festival_2026.gif
+      alt: Image alt text
+  - infopic:
       title: SHINE Day
       subtitle: WOW!
       id: infopic
