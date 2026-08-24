@@ -170,6 +170,17 @@ third_nav_title: Achievements
 <p>INDIAN DANCE</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ACCOMPLISHMENT</strong>
+</p>
+<p>MODERN DANCE</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Physical</h3>
