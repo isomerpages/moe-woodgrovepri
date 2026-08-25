@@ -23,6 +23,23 @@ sections:
       url: /contact-us/
       background: /images/website homepage gif.gif
   - infopic:
+      title: Primary 5 National Education Show 2026
+      subtitle: WOW!
+      id: infopic
+      description: On 18 July, our P5 Woodgrovians had the wonderful opportunity to
+        attend the National Education (NE) Show at the National Stadium.
+      button: Click Here
+      url: https://www.youtube.com/watch?v=kfsN39CE70A
+      image: /images/Woodgrove_NE_Show_2026.gif
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: WOW!
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Woodgrove Learning Festival 2026
       subtitle: WOW!
       id: infopic
