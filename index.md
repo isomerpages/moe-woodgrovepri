@@ -33,12 +33,15 @@ sections:
       image: /images/Woodgrove_NE_Show_2026.gif
       alt: Image alt text
   - infopic:
-      title: Infopic
+      title: Racial Harmony Day at Woodgrove 2026
       subtitle: WOW!
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Woodgrove Primary celebrates Racial Harmony Day with the theme “Our
+        People, Our Tapestry through Arts Fiesta.”
+      button: Click Here
       alt: Image alt text
+      url: y
+      image: /images/Racial_Harmony_WOW__1_.gif
   - infopic:
       title: Woodgrove Learning Festival 2026
       subtitle: WOW!
